@@ -1,0 +1,175 @@
+Yes, that’s what it’s for. There will be plenty of other people taking the class with very little or even no coding experience at all even if it doesn’t always seem like it. Don’t worry.
+yes!!! I came into college thinking I hated CS and would never ever major in it and took 183 my very first semester just because I figured coding's a good thing to know the basics of. I knew how to print in python and kind of understood what a function was (I'd say I had a relatively decent idea of the first two weeks of content but definitely nothing more) and that was about it. Fast forward to now EECS 183 converted me into a CS major :) A lot of people come into the class with experience but many many come in without any, and the class is built to teach you from scratch. Also, there's tons of resources and the IAs and professors are super friendly and helpful! Don't worry and I highly recommend taking it even if you don't want to major in CS.
+yes! I took it fall and I liked it so much I'm debating double-majoring in CE or robotics now, even though I had very little coding experience before
+It’s meant exactly for that! I highly encourage you to take it, and if you find yourself struggling with one concept or another, feel free to DM me and I’ll walk you through it! The staff is also really great, and in the beginning it’s a good plan just to study and work on projects at office hours so when questions do come up, you can just put yourself on the queue right away for help.
+I took EECS 183 with zero coding experience and it is extremely doable. Course average on Atlas is an A I think
+80% of my class never saw a line of code before the class started. Not sure what the percentage is now, that was 7 years ago, but I'm sure it's similar.
+nope!
+that’s what it’s for
+Absolutely. It's meant to introduce new people to coding. I actually only decided to major in cs after taking it.
+Are you in engineering but non-EECS? Then passing is a C- for almost all degrees. If you’re LSA, then idk but it probably depends on the requirement being satisfied. Email an advisor
+To "pass" the class and use it as a prereq for other courses or in some cases even for distribution you need a C-/C or higher to pass (depending on the major). If you don't care about using the class for anything and just want credits anything higher than an E still gives you credits for the 120/128 credit total needed to graduate. I'm positive because I'm receiving credit for my calc class freshman year where I got a D-. The only situation where you wouldn't get credit is if your department has a specific rule OR you take it pass/fail. Normally a D- or higher would give you credits but for pass/fail anything lower than C- is considered fully failing, no credits whatsoever. So if I had taken my calc class P/F my GPA would be better but I would have 4 less credits. Needless to say, if you want more of a definitive answer for your specific situation, talk to an advisor.
+There's no judgement involved from the staff, even if there is you shouldn't let that affect you. Go to the office hours and ask questions even if you think the questions are bad, you have to start somewhere.
+
+Lastly If you really hate it and there's no purpose of you taking it you can take the withdrawl, no one will hold a first semester W against you (i don't know where the semester is in withdraw policy, graduated some years ago)
+I’m also in eecs 183 Rn and the best advice I can give you is to start on the projects right when they’re released and join the office hours queue right when it opens (even if it means missing a class). I know it’s less than ideal but it’s been working okay for me. Good luck though, this class is definitely a lot of work and it’s kicking my ass too.
+I am quite literally in the EXACT same boat as you. Especially with not wanting the professor to judge. I was going to get help for project 3 but the queue was 4 hours long and I waited last minute so I just took a big fat F on the project. I wish I could give you some advice but like I said, I’m struggling with the exact same thing and I just wanted to comment to let you know you are definitely not alone hahah.
+OP, I am struggling too, albeit I haven't missed any projects. I will say this, professor office hours have been helpful, and honestly YouTube for materials that I'm not sure of. I had an issue with arrays and honestly, the lectures only made me more confused, but watching Youtube and playing around in my IDE helped me understand it a little bit more. Trial and error for me- I've learned this class is more problem solving than anything- also knowing which tools to use, unfortunately. We will make it through!
+I should sign up to tutor/IA 183. I think someone who has been in y’all’s shoes before can help a lot in these scenarios.
+
+Hit me up in the dm’s if you have any questions as well. I’m a senior in CS so I’m dying too but I will try my best.
+I'll say the profs will not judge you, esp if you go to OH early on in a project timeline. You can still absolutely pass as long as you ask for help ASAP. Also , switch advisors jeeezz. But if you don't have a aptitude for programming, struggling like this is normal, esp if you don't like it.
+Go be an IA lmao you get paid the same and you can help more people.
+It’s fine to have on your resume until you gain more experience. 
+
+Just don’t spin it to look like it was something other than a class project. That’s where it’s gotten weird, at least from my view as a member of the student hiring team at work.  Reading Northwestern resumes, I once realized that a bunch of kids were spinning the equivalent of ENGR 100 projects to sound like internships. (Turns out that was recommended by their instructor.) Including your class project experience as a way to highlight possibly transferable skills that you’d like to apply outside the classroom isn’t a bad thing.
+You can IA for any class you’ve taken/feel comfortable teaching. You’ll make a video , around 5 min explaining a  concept. You’ll get an email prob this month or next month about how to apply and you’d hear Back in summer/ before fall semester.  It’s pretty competitive so good luck!
+That's the biggest L? Either you're gonna do great things or you're in for some painful realizations.
+The biggest L *so far*
+Ahah just you wait bucko. Enjoy your 88%, not a bad grade at all
+congratulations. i got a b+ because i got fucked by the final project in that class
+Eecs183 I recommend bill arthur wholeheartedly if he has a section. He’s both entertaining and teaches really well on top of it.
+I’ve heard Serin Hong is a good 215 instructor, for me he’s been helpful in office hours at least
+If you are taking linear algebra for a CS major, I would highly recommend looking into Rob 101 instead of math 214. Rob 101 can replace a lot of the pre reqs for math 214 for eecs classes, and it seems to be an easier course on Atlas. 
+
+For eecs 183, I highly recommend Kloosterman. He has an amazing teaching style and keeps his students engaged throughout the class.
+I know other people have said serin hong already for 215, but I also really recommend him. gives good examples, explains pretty well, and his notes are always good. he also opened the class with “no questions are dumb”, and he answers everything seriously, which I really like and appreciate. also his atlas ratings are really high if that helps to solidify anything. a friend of mine who’s in dunworth’s class told me that he never does examples, and when he did he was really passive aggressive about it because someone sent him an email asking about it. (she comes to my class now.) not my own experience, so you could definitely take it with a grain of salt if you wanted to.
+What ever you do. Do not take 215 with Martin Strauss
+If you can make his lecture times (and OH potentially) Serin Hong is one of the absolute best 215 instructors. I’m in one of his lecture sections taking 215 rn and his explanations are very straightforward with clear work through examples and all the relevant problems. 
+
+Also his lecture notes on canvas are of very high quality and he often posts worked out solutions for past exams when it comes time for midterm review.
+I took 215 with Iian Smythe and he was really good. Explained everything clearly with lots of examples and made sure everyone understood everything.
+My roommate and I both really like Jeff Dunworth if he is teaching it next semester. I was in a couple of his classes for 285 and my roommate is in his 215 section, and he really focuses on getting you to understand what you’re working with rather than doing formulas. He’s also really funny.
+Yeah attendance in lab isn’t required, you just have to get the assignment done my a certain time, so go to whatever one works for you. Same thing with lecture really.
+Yes
+Yes
+Yep. 
+
+Your advisor isn’t just randomly lying to you. They might not know every detail on every niche elective, but they’re knowledgeable about large intro courses like EECS 183.
+This is true for the vast majority of EECS classes
+All sections cover same material and have same exams. So it’s okay to go to whichever section you want.
+I have never heard of someone being honor coded in 183 without some kind of shenanigan going on (whether or not it was the fault of the person who got honor coded, is a different story - for example someone copying code from someone else without their knowledge, and both of them getting investigated).
+It’s been a while since I’ve been in undergrad, but I’m sure it’s still similar. Probably around 10% of people get honor-coded for obvious cheating, ~98% of the time the whole group/member of a group (even if not all members are aware)/or individual is guilty, and the other ~2% is due to unique bizarre circumstances such as your code was literally stollen, but I don’t think there has been any reported honor-code case where the person just came up with the same solution as someone else in their own noggin, because similar solutions are expected! Once a case is flagged by cheat-checking software it gets sent to your human professors to make a judgment, to send to the honor-council or not.
+
+Professors are wise, and know the different between cheating and not cheating for these projects.
+
+The cheat-checking software is probably a version of MOSS, there are Google scholar articles on how it works, it checks for similarity of code and ignores petty things like white space and names of variables.
+
+There’s no need to worry about coming up with a similar solution on your own, in your own noggin! 
+
+Don’t share pseudo-code or source-code solutions with others, and don’t search for prior implementations of the project or function you need to write. You should not look at a friend’s implementation of a function and base yours off of it, and they shouldn’t walk you through their solution. This helps make sure your solution is from your own noggin!
+
+Searching for/asking a friend how to use a for loop, how to traverse an array, how to use print(), are fine! Be sure to ask your professors if you need further clarification on what is allowed or not!
+unfortunately we don’t have the spec for Creative AI publicly available right now (since it wasn’t part of this year’s final projects due to covid). I would look on the website for contact info and reach out to the professors to see if the spec is still available somewhere!
+I never took 183 -  but I'd start with getting on the website and seeing if u can access the spec from there
+You're experiencing, possibly for the first time, something called imposter syndrome. You're here for a reason, you don't have to compete with anyone or compare yourself, just do your best and it'll be good enough. A lot of people won't admit it, but being constantly surrounded with extremely intelligent people makes many or most of us self conscious and it doesn't matter. No, just because it's a freshman level course, doesn't mean that a computer science class at a top university is "supposed to be easy". They want you to learn and push yourself and struggle to figure out the right answers on your own and it works, by the time you're in 281 and then your upper level CS classes and then working at an awesome job as a software engineer, you'll still run across problems that will make you feel the same way, but you'll continue to grow and overcome them. The only way you can lose is if you give up.
+More responsible students than I can surely give you good advice as it is what you seek, but I want to remind you that if you genuinely like CS and truly enjoy it, you should 100% stick with it OP. Everyone’s at a different stage in these things, and a good amount of students come in with lord of experience, similarly many with none at all. 
+
+Remind yourself that while it is a challenge, it’s something that you at the very least find cool, which should be enough for you to know that you belong whether or not you’re as advanced as your peers.
+You can always get better. I felt much the same way in 281 and struggled a lot. I even felt like that on the 280 exams, so much effort required and I felt like I was really slow compared to everyone else. It’s been a bumpy road and I’m no 4.0 student, but I’m in my MDE now and doing just fine :) it’ll work out as long as you keep at it. Engineering school is more about being stubborn than smart.
+The bad news for you is that coding is as much a skill as it is a way of thinking; it is much like math in that manner. The good news for you is that you can improve both those aspects by practicing and developing familiarity. Sure it doesn't come naturally for many people, that in no way means you cannot get good at it. 
+
+I started learning coding with a few high school friends around the same time. Of course, the guy who learnt the fastest is still the furthest down the path. However, the guys who were slow at start are now just a little bit behind him. All that to say, don't get discouraged. You have more motivation than a lot of people in the CS program simply by liking it. 
+
+Also something I wrote a while back for freshman re: imposter syndrome. 
+
+>You probably will have to change your study habits; stick to doing your own thing  
+  
+1, If you sailed through HS, don't just think you will be free of struggle at UMich.  
+  
+If you managed well by yourself in HS, know that asking for help is a great idea.  
+  
+If you did alright on tests by studying a day or two ahead in HS, that probably shouldn't be the play anymore.  
+  
+\+many more seemingly cliche stuff along those lines  
+  
+These things don't happen because you are dumber somehow, it's because UMich is genuinely hard (some first-year classes especially so).  
+  
+My HS teachers said many things along the line of "Uni is where you learn to learn" and those are true words. Figuring out how you study well is 10x more useful than any single class.
+My first CS course was engineering 101. My next was 280, and now I am a junior majoring in CS. You will be fine. 183 will be great preparation for 280, and the fact that you are showing concern for the subject means you will do well in future classes. Just work hard and you will be fine. Good luck and enjoy it!
+Going out on a whim and saying if you’re having problems with conditionals and looping you probably didn’t study programming much in HS? If so, then you’re gonna be behind for just this class and maybe part of 280 before being caught right up. Most students have some kind of exposure to the intro material. Once you write your 1000th loop you’ll be fine, but the beginning is always weird. Even just going from Java to C++ can be weird for a while. You’ll be fine.
+SAME BRO I feel the same way, except my exam score is also gonna be ass after the practice tests (my score isn’t increasing with more practice that’s why :( )
+That would be a normal EECS workload for an underclassman. If you're pretty sure you want to pursue CS then I would say go for it. If you're on the fence and just trying CS out then maybe just take EECS 183 and if you enjoy it then continue on full steam ahead.
+Definitely possible. I took 203 before 183, and I was fine in both.
+There’s no additional work. You don’t actually need to get 100% because I ended up with an A+ and didn’t have that and did nothing other than the required work. I’d say don’t worry about the A+ since the difference between that and an A are literally nothing, and it’s only 183, so your grade really doesn’t matter for the future.
+Wow. Are you on the verge of an A+ in 183? You must be very smart.
+It'll be a lot easier to find study buddies in GSI/IA office hours
+Heads up, I believe EECS 183 and ECON 401 both have evening exams on 11/10 at the same time (8-10 PM). Make sure you can get an alternate exam.
+Hey I'm a freshman and in EECS 183. Which class are you in?
+I'm also in EECS 183 \^\^;
+Hello there,
+
+  
+Would love to have you join a study group within my organization for the EECS 183. Would you like to join a study group? It's through a campus organization called Chapter of the Scientista Foundation at University of Michigan. Once you complete an Interest Form, the Chapter will send you details to join the EECS 183 study group available.
+Hey, I’m a freshman in EECS 183 and I’d love to study with you + be friends. You can dm me and we can follow up from there. <3
+Problem roulette has practice problems from past semesters’ exams
+Please join our *study* group. [https://forms.gle/ALzfMyL7WVhrdvH19](https://forms.gle/ALzfMyL7WVhrdvH19). Sharing knowledge and having a goal amongst people in EECS 183.
+there will always be a spread of how fast a student picks up material, and there's nothing wrong about being on the slower end, especially since you have no coding experience, and some of your classmates likely do. Coding is going to be difficult starting out, so good on you to spend time studying and going to office hours.
+I took 183 in Winter 2021 and I had no coding experience before I enrolled. It was definitely difficult when everyone around you seems like they’re chugging along with no difficulty, but it gets better! I can remember feeling like I was so behind because of the sheer amount of assignments that 183 has and everyone else seemed so on top of things. I will say that it’s so satisfying when you can finally see it all coming together and you’re staying on top of the assignments. It takes a minute to get into the groove, but you’re still only on Lab 4/5 and Project 2. The class has all of those assignments so you can learn and put the code into practice before doing the projects. As hard as it is right now, try to not pay attention to others and run your own race. You aren’t going to look at this class next year and think, “Wow. I wasn’t one of the people who finished first with every assignment. Guess this class was for nothing!” I promise it doesn’t matter in the grand scheme of things. Trying is all you can do. 
+
+TL;DR: Just go at your own pace and stop paying attention to those around you! Everyone’s path is different and that’s a good thing.
+I took 183 two years ago and I felt exactly the same. Most of my time was going to doing assignments and reviewing. Zybooks can be time consuming if you are actually trying to work though problems and understand. But it is very helpful and very worth it imo. As someone who had absolutely 0 clue about coming into coding classes, the best thing to do is do exactly what they ask you to do. Write pseudocodes before projects? Do it. Eventually it will start to click and in future CS classes you will thank yourself for building a good foundation for coding
+chill. U are fine
+Imposter syndrome 101. Common among CS students.
+I would recommend going straight into EECS 280, most students want to take EECS 203 and EECS 280 as soon as possible so they can take EECS 281.
+You should take 280. If you are a little unsure, watch one of those 4 hour C++ videos on YouTube and you will be just fine. The projects are very self directed but as long as you start early and go to office hours you will be just fine!
+I did 183 before. Pretty worth it imo
+If you got a 5, then eecs 280 should be no big deal (besides learning some time management). Something I learned as a freshman, as a rule of thumb it's better to be aggressive in class selection and take the harder one because it'll be easy to switch 280->183 1/2 way into the semester, but the opposite is not true. Might as well shoot your shot.
+EECS 183 is a prereq for EECS 280
+
+The EECS bulletin has all the information you need regarding class prerequisites for the COE. 
+[EECS Bulletin](https://bulletin.engin.umich.edu/courses/eecs/)
+I’m also open to making friends with those in this course and HONORS GRT BKS 191, and PSYCH 111.
+I haven’t taken EECS 183 so I can’t help with notes, but you should be able to access the canvas page from when you took it if you go to “all courses” on canvas. Idk if they posted the lectures or anything, but that could be helpful!
+They post lectures to their [Google Drive](https://drive.google.com/drive/u/1/folders/17kjj5tQP57ux4gHXqS_VF1f7zHMO7ydv)
+https://youtu.be/RBSGKlAvoiM
+
+This took me a few weeks to watch last summer (between 280 and 281 for me) but it covers the data structures half of 183 thru 281 and made 281 a lot easier.
+Thanks guys
+Lol eecs 183 wasn't this welcoming a couple years ago
+Kloosterman is straight up one of the top professors at UMich, I had him for EECS 485 last semester and he made it so enjoyable.
+I love this. Wish any course of mine did this. Would mean a lot.
+Dang where’s my completion certificate😔
+A lot of low level and simple functions will look pretty much identical between students.  That’s not what they’re looking for with honor code violations.  They’re more interested in large scale structural and organizational similarities which are much less likely to occur by coincidence.  These are detected automatically by the autograder and manually reviewed by the staff.
+broski if you didnt copy, why u stressing? Sounds like you might've copied.
+bro calm down, if you didn't cheat you'll be 100% fine.  
+
+For intro classes like EECS 183 and sometimes 280 if the project/function is basic enough that there's only so many ways to do it, they know that there's going to be a lot overlap in the implementation. As long as you didn't do something dumb like submit the exact same file or copy and paste a comment with someone else's name, you should be ok. Even if they think you cheated, you could probably explain yourself to the honor council if you really didn't cheat and unless they have decisive evidence on the contrary, you will be fine.
+Before I say anything let me make it clear that you're screwing yourself if you cheat in EECS. If you get away with it, congrats ig, but you're fucked for the exams.
+
+If you're interested in how the autograder plagiarism detector actually works, its a combination of MOSS flagging and manual checking. 
+
+you can read more about moss here:
+https://yangdanny97.github.io/blog/2019/05/03/MOSS
+https://github.com/genchang1234/How-to-cheat-in-computer-science-101
+
+But yeh, lots of code looks similar, especially in 183, 280, and 281, a lot of projects will end up looking similar because there's really only a couple of efficient ways to do them (especially if the project has a very detailed spec that literally tells you what to do). However, moss will split your code into unique hashes and compare it with a database of stored hashes from previous semester's code and online databases (i.e code you can copy from google). Every time you submit to autograder it will be run with MOSS. 
+
+Splitting code into hashes essentially negates a lot of low level cheating obfuscation like variable renaming, structure reordering, spaghetti-fing and ect. If enough similarity is detected, your code gets flagged for a grader to check over and compare. I'm guessing that for super simple functions that only have 1 way to code (i.e a majority of 183), MOSS won't even look at similar function hashes and instead take your overall program style and compare it with others. An actual human being will look over your code if you get flagged. Since they're usually Profs or experienced graders, they will know if you cheated or not, and pass it on to the honor council if you did. 
+
+If you did cheat, good luck with that. If you didn't, you have literally nothing to worry about.
+If you didn't cheat, you're fine.
+
+For simple functions like the ones you're talking about, the professors will be reasonable. They won't flag you for cheating if there's only one or two ways to do something. The cheating detection system might flag you, but no one gets reported to the Honor Council without a staff member manually looking over the assignment to use their personal judgement. 
+
+
+More people are flagged in 280 and 281 because there's more freedom, so cheating is much more obvious.
+Council let's you know pretty much right after the prof submits the report. But the prof might not submit the report until the end of the semester.
+It's pretty common, not 280 level but they still happen. Code will obviously look similar so they don't usually code unless it's obvious that you copied from someone (usually a moss score > 30)
+[https://eecs280staff.github.io/diagnostic/](https://eecs280staff.github.io/diagnostic/)
+Would SI 106 be a better fit since it’s all in Python?
+You can learn Python for free on the Umich Coursera, I'm pretty sure.  Also, the  academic economists I know tend to use R. You'd probably learn that in a stats class. For me, Python is more intuitive and comfortable to use, which I think is important for making you stick with a language. Which then allows you to create programs that are useful to you.
+I’m also an Econ sophomore taking eecs 183 right now for the same reason, so all I can say is hmu if you decide to stick with it lol
+EECS 183 does cover some python at the end, but more importantly after learning basic C++ python can be learned pretty much instantly. I'd definitely recommend sticking with 153 (and maybe even taking 280)if you'd like to have some basic coding skills on your resume.
+EECS 183 remains my favorite EECS class of all time. Part of that is that it is much easier than later EECS courses, of course, but the projects are generally fun and the lectures (I had Bill Arthur) were incredibly engaging. I recommend sticking it out, maybe dm that other guy that is also an econ major in 183? I did it with a partner, was a good time. 
+
+Python is covered towards the end, and after taking 183, you should have no problem self-teaching python via the University's free online courses.
+183 provides a good foundation for any programming language, and it really doesn't get into the weeds of C++ like 280 does. If you can muster through 183 you can definitely learn python fairly easily later in your life, since a lot of the concepts (functions, classes, variables, loops, if else etc.) remain the same.
+You should stick it out. EECS 183 is one of the most valuable courses at Michigan. You should take full advantage of it.
+buddy there's only so many times you can press q to kill all the wraiths :) AKA you should be fine 100%
+After perusing the syllabus it would seem that you should be okay as long as your code is not exactly the same.  It's been a while, but I can't imagine labs in 183 having a wide variety of solutions.
+In 183, there’s only like 2 maybe 3 max solutions for each lab you’ll be fine lol
+Not an IA for 183, but I am an IA for another eecs course, who has attended the interviews of others to provide my thoughts to the profs, just be chill, if you know the material and content you'll be okay, if you make a mistake that's fine just make sure you acknowledge it.
+One of the 183 professors here: in the past, we've always been able to accept everyone into the class who wanted to take it! For now, get on the waitlist, and watch for more seats to open.
+
+If there still aren't seats in two weeks, send me an e-mail at jklooste <at our university>.
