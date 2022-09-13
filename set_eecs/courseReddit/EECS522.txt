@@ -1,0 +1,11 @@
+really good program, but the workload of EECS course is infamously atrocious. So it would be really tough if you wanna finish 30 credits within 1 year. 
+
+GSI and GSRA will cover your tuition for that semester but in my opinion its almost impossible to do that with 15 credits EECS at the same time.
+Why get a Master’s at all? You will just start your career a year later and be sharing an office with the guy who just graduated with his Bachelor’s, making the same pay. Not to mention the lost year of pay and experience. Unless you have a very specific interest that requires specific schooling, I don’t know anyone in Silicon Valley who would recommend a graduate degree at all. School is your $200k ticket to your first job and then it’s all basically irrelevant. Industry experience is far more valuable in my opinion
+"It is strongly recommended that you take a maximum of only 2-3 courses. (9 credit hours is considered full time, and 6 credit hours is considered full time for GSIs and GSRAs.) "
+
+I'm a grad student in EECS, and during our orientation they really stressed the taking of 2-3 courses as kind of an upper limit. Some classes have a pretty insane workload. I did read on the CSE graduate program requirements that only 24 hours have to be technical and you can use up to 6 hours for individual study. I'd look into that more. If it said that 30 credit hours is possible then I'm sure it can be done, it just won't be easy.
+
+I got a GSRA position as an incoming student, but I've had classes where the professors reach out to the class saying that they are looking for motivated students to help with research. A GSRA position should in theory take up 20 hours of time a week, but when things get busy it can easily be more. I had one friend in the EECS masters who joined a research group but ended up leaving it due to how busy he was with classes, and not enjoying the stuff the group worked on. I'd definitely suggest the GSRA route if you are willing to spend 2 years though. 
+
+I've learned a ton in a very short time in my EECS course, and I imagine the CSE courses are also excellent. Plus if we return to campus, CSE has the best building out of the engineering disciplines. Hope this helps.

@@ -1,0 +1,49 @@
+Want to ask this too, cuz I simply cannot wake up that early for a 9 am lecture
+https://www.reddit.com/r/uofm/comments/qfnocp/thoughts_on_the_classes_eecs_486_information/
+At least this semester so far yes. Only thing is we had to get on a zoom call while taking the exam at 9am so if you’re in a different time zone it might be kind of a hassle
+I think most eecs classes can be done fully remotely. This semester I took 482,485,490,498-cv, and only 482 has in-person exam. I would assume 482 next fall will have online exams with bnoble, but no guarantee
+Personally loved 486! The workload is light enough that you can afford to have a life outside of EECS but the material is still really fun and interesting. It felt like I was getting to use all the basic principles and concepts I had been learning in my previous EECS courses to start writing software that did some really fascinating stuff. Highly recommend.
+Is attendance at lectures and discussion sections for EECS 486 mandatory? If so, how is this monitored?
+EECS 487 was apparently something entirely different (compute r graphics) before. Very excited for an undergrad level NLP course tho
+I liked 486 a lot. Light workload. Don’t want to underestimate the exams though. Very cool material imo, mostly project based but the projects really aren’t too bad. Most can be done in a night or two max. The lectures are really not great, so you have to self study a bit, though.
+487 was nice but I learned very little
+The new 487 was a section of EECS 498 special topics in the past few semesters. 
+
+497 was originally a computer graphic course which had not been offered for years. Guess CG at Umich is pretty much dead?
+I wouldn't be too hard on yourself-- EECS 485 is [widely regarded as a moderately high-workload course](https://docs.google.com/spreadsheets/d/1OjPj0SsK_5Yg99mOrZhF64LmDf50gfiWcW7ceQHdxDk/edit#gid=0) (2.54 / 4).
+
+&#x200B;
+
+* EECS 486 is regarded as being a bit lighter weight (1.24 / 4)
+* Likewise with EECS 497 (1.17 / 4)
+* EECS 494 (my course) is high-workload (3.45 / 4), though this may vary based on your team composition and interest in game development (those who enjoy the work don't feel as much of the time burden). You may learn more about the course at [eecs494.com](https://eecs494.com), view some sample projects, and determine whether the time investment will be worth your while.
+
+This schedule sounds challenging-but-doable to me. You'll want to get feedback from additional sources. DM me if you have any specific questions about 494.
+Definitely something easy. I’ve heard many people say 482 alone is a full time job and people sometimes spend 40 hours a week on that class alone. You could even go part time if that’s an option, but if not, definitely some easy, blowoff classes with it. Everyone I know that’s taken it said they really did learn a lot from it, though.
+You will typically need 1 week or more on one of P2/P3 without doing anything else. Although I am concurrently doing 6 credit 482 and 3 other eecs classes (1 heave and 2 medium. The heavy one is supposed to be medium, but this year, it turned out to be no less work than 482 4 credit) and can handle them, I strongly discourage you from doing so because you will have very little time to take a rest. Literally my only rest this winter is spring break, when I was still trying to understand 482 project 3 spec.
+I didn't take this at the same time as 482, but I can recommend [EECS 390](https://amirkamil.github.io/eecs398/) (Amir Kamil's 'Programming Paradigms' course). Workload is on the lighter side and I think it provides you with several new ways to think about programming (the biggest one being functional programming).
+Taking it with 493 right now and it's not too bad
+Honestly EECS 484 is somewhat complementary to 482 but if it's Honeyman then good luck lmao. I would say 493 as someone else mentioned. Honestly, the lower the workload, the better the combination with 482 lol.
+I’m taking 388 and 485 with it rn. Don’t recommend 485 concurrently with it but 388 is def a manageable combo
+What the fuck is this? It doesn't make any sense at all. There wasn't a single "slang term" on that list. It's people's names and just random ass words.
+They will not care, and they will more than likely never know unless you explicitly tell them that you took 12 credits anyways. Usually when you submit transcripts it’s just to prove your degree/enrollment at a university rather than to check your grades.
+
+edit: It might even be more beneficial to NOT take these classes and do things on your own time/around campus to develop yourself as a person and explore your interests. Employers would much rather have someone with diverse experiences and viewpoints than someone who *might* be *marginally* better than other candidates due to some EECS elective
+Employers don’t care and they don’t even look at your transcript past your GPA.
+Take the minimum credits.  If you can graduate by taking 12, go for it.  Part of my responsibility in my job is hiring Mechanical Engineers.  We look at GPA but not what your schedule looked like.  The key to getting a job is experience, not just in the field but any way you can build experience. Most interviews will contain a portion where they want you to describe, with examples how you've handled certain situations.  We just had some great answers in the last interview and it was from situations outside what they would see in these jobs.  Your whole life is a learning experience, if you take 12 hours and can join a club or something that interests you, that's more important then taking a class that has no real meaning or value to you.
+I took 12-14 credits every semester my last couple years in order to make more time for extracurriculars related to my career path and those ECs were way more important to getting a job than taking more credits. Employers usually just use your transcript to verify that you actually graduated
+No one will look or care. Just do fairly well and graduate. It’s probably worse to take too many credits and do worse in your classes that semester because of the load.
+How would they know?
+Slightly different take on this than all the other comments: 
+
+You are going to college at Michigan fam. There are so many insanely interesting classes taught by highly regarded faculty here. Where else in life would you have the chance to interact with talents of this caliber that is this diverse. Go surf the course guide and I guarantee you will find something. Take those P/F if you want, all the benefits without the workload, don’t miss out on it. You will still have plenty of time to do clubs or extracurriculares 
+
+Most electives I’ve taken here have been really eye-opening
+Have you considered adding a minor and/or applying to SUGS?
+I’m an engineering manager that hires for my own team’s needs. I couldn’t care less if you took 12 or 16 credits. I would much prefer you be involved in extracurriculars related to your major or the job you’re applying for. Career-related extracurricular experience is far more valuable than classroom experience. I also look for candidates that have had work experiences over the summers.
+It wouldn't hurt to take chill non-CS courses that are 3 credits or less, even if you don't need anymore electives. You're paying all this money for the opportunity to take classes, not for a degree. You might as well milk the most you can out of this university.
+*Fewer than*
+Bro I’m literally taking a total of four credits rn, just save yourself the money and relax for your last couple semesters
+No one will care about your courseload.  They will care what courses you took, what grades you got, and that you actually learned the material well enough you could do it if they hired you.  Twelve units is the minimum to be full time and 12 units of A's beats 16 with a mix of B's and C's any day of the week.
+They generally try to accommodate every declared CS major the best they can, especially if you are so close to graduating. Also, keep in mind that a number of students class shop the first three weeks - they register for more courses than they intend to keep.
+You can e-mail your advisor and they will most likely give you an override for the class. If not, you can ask the professor to get you off the waitlist.

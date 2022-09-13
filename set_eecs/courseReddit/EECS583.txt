@@ -1,0 +1,11 @@
+I took 478 last semester with professor hayes.  The lecture and office hours were useless, but i learned a lot about logic synthesis and minimization through the assignments.  We wrote one project that parsed boolean logic and built a tree structure to represent it and another project we wrote created .BLIF files representing logic structures and had to be able to detect equivalent circuits.  If youve taken eecs 270, its mostly the boolean logic, low level gates, and k-map type minimization.  So if you liked those, youll be fine in 478.  I dont know much about the other one.
+Not really helpful, but I'm in your exact situation. You're a CSE grad student?
+
+There may also be 473 - Advanced Embedded Systems. But no news yet.
+
+I'm told 583 is pretty straightforward. It's taught like a grad class, for what that's worth.
+478 is the "go-to" hardware class for CSE grad students outside of hardware -- it's considered to be much easier than the alternatives, and relatively straight forward. I took it with Markov; there were quasi-weekly homeworks about 2-4 hrs in length, and 3 programming "projects" 8-12 hrs in length.
+Run while you can! (No, I don't know anything helpful)
+
+
+What are 483 & 478 called?

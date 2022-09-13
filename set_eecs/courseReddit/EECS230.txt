@@ -1,0 +1,60 @@
+230 is one of those classes where you either love it or hate it. I loved it because it was basically a more in depth 240. I found the math to be very interesting and helpful for understanding how the applications of it work on a fundamental level. I found the lecture notes during my semester to be very helpful can share them if needed. The book can help too if you need more help on a certain topic. Electrical engineering here is great because it exposes you to many different topics in the introductory courses which will help you decide your specialty area. This class is definitely theory heavy but it will help you in the upper levels that are way more applied.
+Def agree it is a course of extremes, people either love or hate a lot. Do your best on the final, and pass. If it isn't your thing, you won't have to take another EM course ever again.
+From what I recall 314 is not a substitute for 215 for EE/CE
+314 is for non-eecs students, I believe. Eecs 230 discussion was not required when I took it, as it was just time for the professor to go over more textbook problems that could be related to the exams.
+I'm also in 230 this semester. Any feedback for exam 2 would be appreciated. Thanks.
+230 exam 2: electromagnetic boogaloo
+Usually it’s two conceptual questions, but about the same thing, so if you don’t know how to do it your screwed. RIP.
+You should review your offer letter to see if there is language that mentions reneging on a position. Mine suggests that doing so could put you at risk of being blacklisted for further IA positions, depending on how you communicate the matter. Because of course, by taking the second position you'd be putting the 351 staff in a bad spot as they have to scramble to find an IA position. 
+
+I'd recommend you explain the situation to the 230 professor if you hadn't already, but to consider just taking the position you have. I don't know if you'll find someone who has been in this situation or not, but all most people on Reddit will be able to provide is a not-a-lawyer interpretation of the terms of the offer letter which are not necessarily super strict to begin with.
+They added MWrite to Math 216? As if they couldn’t possibly make that class worse
+Oh boy. You might be grading my papers then!
+No sub for EECS, but seems like a lot of this sub are EECS people (with my guess being more CS than EE). Someone made a UM EECS subreddit a while back but it never gained traction so it was abandoned 
+
+http://ss2.eecs.umich.edu/ for 216
+
+https://eecs280staff.github.io/eecs280.org/ click on the link for syllabus and look under the Textbook section. 280 doesn't require a book though
+
+I don't have the book for 230 but I would be interested in it as well as I am taking the class in the fall
+Isn’t 215 an enforced prereq to 216?
+Ive never taken an eecs class but ima say fuck that
+Can't take 216 without 215
+i would say it’s a bad idea to do more than 2 eecs classes at once if there’s another option
+I think 215 is required for 216 which is good because this schedule will either kill you or your life
+I am doing EECS 215, 280, and 200, along with measily math. The hardest class I am taking is my math class. EECS 215 exam and hw policy is very generous and the class is well aimed at getting you to learn. EECS 280 will take a lot more time that expected, but is generally well suited to get you to the end goal with a pass. 200 is fun, but the instructors can be a bit funky
+I'd recommend adding 301 and tech-comm and splitting over 2 semesters, that's what I did last year and also took 203 (EE/CE double major). Assuming from 230 that you're EE I'd say take 200, 215, 280, and tech comm 300 one semester, then 216 301 and 230 the following semester. Those two schedules and something else small added to get to full-time enrollment would be challenging but doable, and allow you to start focusing on your upper level EE electives after.
+Yo ur missing EECS 203
+I don't think you can do that and even if you can, you definitely shouldn't 
+
+I'm debating whether or not 2 physics classes is too much... That many eecs classes would drive anyone off the deep end
+didn't take 200 or 230, but 215 and 280 along with one of those two is probably doable. I did 281 and 215 together with 7 credits of lighter classes (stats and econ) and it wasn't too bad of workload. Even if u could do 216 with those I wouldn't advise it, the hw in that class can be really time consuming
+Why?
+As someone currently taking EECS 201,203,215, and 270 it’s definitely an experience. I think you’re better off limiting it to two EECS classes per semester.
+Totally depends on how well you did in the other classes you’ve taken. If you’ve felt confident in EECS classes up until this point and found them straightforward then you can definitely take 3 or more EECS classes.
+
+I’m currently in 5 EECS classes and it’s a lot of work, but it’s definitely possible if that’s what you want to do.
+Not CSE, but I'm assuming it doesn't require physics 
+
+I'm EE. Never used stuff from 140. 240 is a bit more prevalent though. EECS 215 has 240 as a co/pre requisite. I took them at the same time and found that by the time we got to the electrical stuff in 240, 215 had taught me some useful techniques like nodal analysis and mesh currents (that 240 doesn't cover). EECS 230 has 240 as a pre requisite and for good reason, 230 is like 240 on steroids. However 230 is taught better than 240, and the fact that 230 requires Calc 3 makes it easier to understand the material in my opinion
+I'm CSE and unless you are going to take classes or work on robotics, simulation, or embedded stuff, you dont really need to know physics 140 or 240 that much. For EE or CE my experience is that you will need to know a decent amount of the circuitry and math behind stuff, but you will learn that in other classes and oftentimes will be able to look it up because it will be for a project or lab.
+140 is not super relevant to eecs majors. 240 is useful if you want to take more ee sided courses. take a look at the course guide to see which classes have 240 as a pre req or 240 as a pre- pre req. If you think you might be interested in these courses you may want to consider taking 240 - although I feel like you should be fine, eecs 215 has a pretty good review of the relevant parts of 240
+Not to be that guy but... Check the syllabus.
+
+It really depends on the class. You can also check courseart through the LSA course guide for the typical grade distribution for a given class.
+
+In short:
+
+Math - usually curved
+
+Sciences - usually not curved, but often has a lower % grade required for a particular letter grade
+
+Engineering - usually not curved, but there are MANY exceptions (edit: in my experience. Apparently, most/all EECS are curved, so I guess it depends!)
+
+Others - idk, I'm very STEM
+Depends on class. For engineering classes, usually yes (but also not guaranteed). For social sciences and humanities, usually no. Some classes may also use a modified straight scale, that is they have their grade scale set in stone, but it may not be the traditional 90 = A, 80 = B, etc. Like the boundaries would be lower than that you may have been used to in high school.
+[deleted]
+No IOE classes are offered. I've only ever heard of EECS (and maybe MechE?) offering undergrad spring/summer classes in the CoE. 
+
+Talk to your department advisor. They'll know what's available and what your options are. 
+There is one 400 level IOE project management course offered abroad in France. 

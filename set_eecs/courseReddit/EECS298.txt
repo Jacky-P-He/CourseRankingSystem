@@ -1,0 +1,35 @@
+the fact you can’t petition for certain classes to be counted is ridiculous, honestly. consumer health informatics shouldn’t be counted as an elective for a fucking data science major lmao
+The 281 complaint doesn’t track with me, it’s a core requirement of the major, CS majors take it before any electives as well.
+I will point out that EECS 298 is targeted at literally everyone but CS and DS majors. It requires only limited programming experience (ENGR 101/ EECS 183) and Calc I. Therefore it will not be nearly as rigorous as 445. I guess they are assuming you would have learnt everything 298 has to offer by taking 445 and is therefore reluctant to give credits again.
+
+But yea their selection of eligible SI electives seems pre-darn random.
+Thank you for this post, coming from a pre-freshman who planned to do Data Science in LSA 😀😀😀
+Huh, weird, looking at the advanced electives list (as a BSI and MSI grad) and I gotta say- shocked to see 429 on there because that class didn’t teach a damn thing about data science and had no quantitative or technical component when I took it. 364 was an egregious timewaste, but 564 - Databases with Hess should be an option, for sure. Honestly, most grad SI courses would probably be a good fit.
+
+Also how the fuck is there no inclusion of an NLP course in required or elective courses? This is really vexing. I critique the SI data path on not including enough of the CS or mathematical realm of topics, but I guess the DS LSA route isn’t exactly all I thought it would’ve been either.
+This is why I chose Informatics over Data Science - electives have a ton of flexibility.
+Not saying your feelings aren't valid, but just wanted to address a few things:
+
+1. Most departments want major electives to be almost all upper-level coursework, so that's going to almost always involve prerequisites in the world of math, stats, and EECS.
+2. STATS 206 doesn't count probably because of #1.
+3. STATS 306 also doesn't count probably because of #1 (it isn't really an upper-level STATS class).
+4. EECS 298 also doesn't count probably because of #1 (although I am a little interested in why they wouldn't let you petition for this or 306 to count for a little bit of credit towards the major).
+5. SI classes are usually less quantitatively and theoretically rigorous than EECS and STATS classes, which is probably why those departments have a propensity to not grant major credit for SI coursework.  However, it doesn't justify the haphazard/arbitrary choices of what they have picked as counting/not counting, as you describe.
+
+Someone else described Informatics as a potential choice.  It has more flexibility than Data Science for elective coursework.  However, since Life Science Informatics is the only available track, you kinda get screwed by the weedout coursework in 3 ways:
+
+1. Some of what CS students go through
+2. Some of what STATS students go through
+3. Some of what pre-med students go through.
+
+Pick your poison I guess, lol.
+DSE student here, idk if we have different electives from you, but I found that they're pretty solid, a bunch of stats and math and basically any CS course above 400 are open along with plenty of 200 level engineering courses if that's what you want to do. Does DS in LSA not have the same offerings?
+I think you can take any 400 or 500 leave EECS and count them as your electives? I am a CS+DS major. This is how I would do, just take as much EECS as you can. And those 400 level EECS should give you very solid foundations on those topics.
+> School of Information classes that teach SQL, like SI 364 "Building Data-Driven Applications" or SI 370 "Data Exploration". 
+
+If you're thinking of taking SI classes, I highly recommend taking grad-level versions. 364 teaches you minimal SQL, like hardly a week coverage. 564 on the other hand is a dedicated SQL course.
+Yeah I really wanted to take EECS 298 until I realized it didn't count. I'm an out-of-state student so I need to graduate on time otherwise I would totally take it. Seems like a cool intro to machine learning and the new textbook tools they're using for that class seem interesting too
+[deleted]
+well well well, seems like your rant has been promptly addressed.
+
+(298 now counts as FTE)

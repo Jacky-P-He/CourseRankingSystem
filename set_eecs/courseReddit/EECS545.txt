@@ -1,0 +1,53 @@
+I *think* this is because there was kind of a feud between CSE and ECE over the ownership of EECS 545. I’m not sure which division of the department created it but for a while there were basically two different syllabuses (syllabi?) and they flipped back-and-forth between which division taught it. Faculty were perpetually unhappy with the topics chosen by that *other* division (welcome to academia: when the stakes are meaningless, the fights are enormous). 
+
+There was some additional drama because CSE didn’t even have enough qualified instructors to teach when it was their turn (leading to at least one disastrous semester), while ECE at one point made a kinda-weird push to own all things related to machine learning in the department (*“hey bro I heard you need electricity to run all your ML software so I put all your ML software in the electrical engineering department”*).
+
+Anyway I think the splitting of the class into two numbers was the agreed-upon solution to all of the above.
+Their numbers
+Nothing is different, I asked the same question to the professor teaching 553. 545 is taught by the CSE department and 553 by the ECE department. This is because the PhD students have to take the class with their respective departments.
+[deleted]
+Previously EECS 545 in the Fall was held by ECE, and by CSE in the Winter. They cover almost the same topics, but maybe the CSE one covers more topics and the ECE one has more maths. I heard that some sessions in the Fall used MATLAB instead of Python before, but not sure how is it now.
+EECS 545 has become harder since wn 22, so I think EECS 551 is necessary for this course. Matrix algebra is extremely helpful in machine learning related field.
+
+Moreover, if I can enroll in EECS 592 as an undergrad, I won't choose 492.
+I’ve taken 445, 492, & 692, here’s my POV:
+
+492 will NOT help you with 545. 492 covers a lot of different AI algos lightly, whereas machine learning goes very in-depth in a small subset. In 492 we spent maybe 2 weeks on machine learning.
+
+You would get much more out of 551, and other classes to make sure that you have a strong foundation in matrix/linear algebra, and calculus. Hope this helps!
+From my understanding (what I’ve heard from our peers), 545 is just 445 for grad students.
+1 midterm and 1 final back when I took it in Fall 2018 with Clayton Scott.
+I was #100+ on the waitlist for 545 and got in before the semester started. Usually you could expect a lot of drops both before the semester starts and a second wave when homework 1 is due. You’ll probably be fine.
+545 is a great class. Highly recommend it. It’s not easy, but it’s very rewarding and you learn a lot in it. Possibly the big difference is that in 545, you might have the algorithm explained to you, and then might be asked to (1) derive the crucial step in it, (2) implement it in Python, and then (3) see how it performs on a provided dataset. Other classes might only ask you to do (2) and/or (3).
+I would assume the EECS version is a lot more theory and probably requires more math knowledge than the SI version considering SI 670 is applied machine learning (focusing on how to use machine learning in the real world; I get emails asking for real world datasets that the students can use for that course every few months) while EECS 445/545 is just machine learning and has warnings about making sure you have a strong foundation in linear algebra/probability before taking the course. You should be learning basically the same general ideas in both. I think the main difference would be how deep into the math and theory you go.
+
+It depends on if you care more about application or theory. Generally, SI focuses more on immediate real world application (skipping a lot of the theory or only giving you enough to do what you need but not doing a super deep dive) while EECS places much more emphasis on theory. Theoretically, you can get away with super good grades in all the SI ML related courses with zero college math or only one intro statistics course (doesn't mean no math abilities, just able to understand and learn the minimum required math on the spot). I would assume that is much more difficult to pull off with the EECS versions.
+
+SI tends to be very good at having an updated syllabus on their website [here](https://www.si.umich.edu/programs/courses) and EECS tends to have at least one older version of their courses on a website if you search for it. EECS might switch between matlab/python depending on professor, SI tries to do everything in python/keras if you care about language/tools. 
+
+EDIT: readability
+I took 445 last sem and can say that's it's a lot more theory heavy than the SI one (probably), I feel it helps you learn the concepts better but that's just personal opinion, if you've taken calc1-3 and linear (and 281) then I'd def try 445 if you like more theory heavy classes
+I took SI 670 last fall. It is a good class if you’re taking an ML class for the first time but like the other comments there’s not a lot of theory about ML that’s taught in this class, which is something that I now wish I had more knowledge about. One big critic from the students was that this class did not have any linear math or matrix math as is requirement but being knowledgeable in linear math was expected by the professor. Being from the CS background I had no issue with that but it was a hurdle for some
+I think what happened here is definitely wrong, but I'm not sure if anything can be done. I'm really here to reply to your second statement though.
+
+
+Why do you feel that EECS is overly harsh about prereqs in order to limit the number of CS majors? Compared to other top CS schools, it's much easier to be an eecs major. There's no minimum GPA requirement, you don't have to apply to get into the major, etc. Because of this, our program is getting overcrowded, and many suggest making it *more* difficult to be an EECS major, but you believe it should be the opposite. Would love to hear your thoughts
+From what I've seen, the EECS department might not have much leeway in changing their stance, since they really can't accommodate everyone. I don't think this is how it should be, but it might be worth looking into alternatives if you can't get them to budge.
+
+I'll note that there are alternatives to EECS 445 here, although perhaps not UG course. EECS 545 should be able to count as an upper level elective with approval from an advisor, and covers largely the same material. And if you have taken Math 217 or equivalent, you should have the background already. There's also EECS 505 and 551, which are meant to be taken before 545, but give a lot of background. 
+
+If you don't need the EECS credits, there are also some courses in STATS and SI, although I'm less familiar with those. The STATS ones probably require more background, especially at the graduate level.
+
+Best of luck in any case, I hope the department can find some way to help you, or there's a viable alternative!
+There's no way this is accurate unless some prereqs were explicitly delisted. I took MATH 217 and STATS 426 and was able to take EECS 445 in Fall 2019 using those as 214/250 equivalents.
+
+If you have an advisor you commonly go to (e.g. I always went to Peter Chen), I'd email them directly for clarification. Otherwise, set up an advising meeting ASAP to get this sorted.
+
+I know this is frustrating, but from my experience EECS is super accommodating especially if you go to in-person advising. If you're a strong student they actively encourage you to go out of your way to take harder equivalents. I can't imagine they would turn around and not let you use 217 for 214.
+What exactly is this waiver?
+
+This may be important, since 217 not only teaches linear algebra, but also serves as an introduction to proofs. In the math department, classes that have 217 as prerequisite often only have it there to ensure that students have experience with proofs, but don't actually depend on any linear algebra knowledge.
+
+So, it may be the case that the waiver is only saying that you have experience with proofs, but EECS 445 specifically requires knowledge of linear algebra. If this is what the waiver is for, but you do also have experience with linear algebra, then it may be worth communicating further or scheduling an advising appointment to discuss this.
+Do people recommended taking 214 before 217? Or if i’ll need 217 later on should i jump straight into it?
+The one you have the strongest interest in 

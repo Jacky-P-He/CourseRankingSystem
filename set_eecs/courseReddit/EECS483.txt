@@ -1,0 +1,41 @@
+I had the option of getting into all 3 and I chose EECS 390..here’s the pro/con of each 
+
+EECS 483 - Has Jason Mars as instructor (con) with 5 projects
+
+EECS 390 - Has Amir Kamil as instructor (pro) who has all the notes typed on the website (pro)
+
+EECS 490 - Looks like a more theoretical version of 390 and less application based than 390 (pro?con?)
+
+Personally I prefer more application based stuff than theoretical so I chose 390
+Have a similar question, hope someone answers
+- I wouldn't say 483 had a ton of "useful" information, but it certainly had very fun projects. How useful the content is depends on what field you're going into, I think. Compilers are a big subfield, and I'm sure compiler knowledge doesn't hurt for systems related work, but it's pretty much totally useless for web development.    
+- I've heard 484 mostly can either be self learned, or is covered in 485 (probably the most useful upper level class imo unless somebody plans on never touching web systems).   
+- 489 has solid projects (making a proxy server, router, a new protocol), and there's a lot of information, but it's all very disjoint and not very problem-solving esque (like 482). I don't think it'd be difficult to learn the material by yourself, but the content is honestly extremely dry. Not sure if that's a pro or con for taking a class vs self teaching (probably depends on the individual). There's also some overlap with 485 regarding TCP.  
+- 490 has a lot of good information that's easily applicable to a lot of areas of programming, but I personally felt that the class had too much theory for my personal taste. Probably a preference thing, especially since I don't care for functional/logical programming. When I took it with Kamil, there was also some overlap in project content with 483 (where I felt that the 483 projects were much more interesting).     
+- 493 apparently is relatively self-teachable.
+Older grad here, and 481 is the only of them that I personally took, but looking them up, I'd still recommend 481 most strongly. I think software engineering principles apply to everything you do, and was the most valuable course I had when working on medium to large scale development projects. It deals with meta issues of projects, and how to apply formal engineering principles to systems, rather than just knowing how to code. That knowledge can make you stand out from colleagues who haven't studied those principles.
+
+Something like 483 compiler design is an interesting, fun topic, and doesn't hurt to know, but it's a bit esoteric, and I think for most people it's knowledge they won't directly use. Just for comparison, I think with 482, even if you never go on to design operating systems, it still teaches issues about operating systems that are broadly applicable and good to know about. I don't have the same sense with 483.
+
+367 autonomous robotics sounds fun, and useful for *certain* projects and industries, but might be non-useful if you happen to work in areas that don't involve hardware or robotics.
+
+484 database management systems sounds boring, but databases are such a common element in many projects that I'd think it would be quite generally useful. SQL may be completely omitted from the rest of a CS/CE curriculum, and it's good to have a working understanding of it.
+
+Somewhat similar with 489 networking...that's an element of so many types of systems, although your exposure to socket programming from 482 is probably enough to get you started on whatever you'd need to learn for a project in practice. The projects sound like applying different protocols to the same basic ideas. Useful but maybe not so critical.
+
+493 UI development, while it's a broadly useful topic, I feel like that's an area where you can do just fine without a course on it. Like a person with good common sense and visual design skills would probably still be better at UI design than somebody lacking those attributes who did take a course in it.
+EECS 485 is really good as well if you haven't taken it.
+I’m in 440 Search Engine Design rn for my MDE and it’s a great class. The project seems like it will be lots of fun (early stages so far) and working in a team of 6 is a different but useful dynamic to work in compared to other EECS classes.
+482 is a must they say, i’m in 490 rn and it’s really good but kinda mathy in a good way, 388 is pretty fun and very useful so far
+490 is way more useful in real life than most classes. Databases and PL are probably the most useful skills to making you an effective software engineer
+I took 478 last semester with professor hayes.  The lecture and office hours were useless, but i learned a lot about logic synthesis and minimization through the assignments.  We wrote one project that parsed boolean logic and built a tree structure to represent it and another project we wrote created .BLIF files representing logic structures and had to be able to detect equivalent circuits.  If youve taken eecs 270, its mostly the boolean logic, low level gates, and k-map type minimization.  So if you liked those, youll be fine in 478.  I dont know much about the other one.
+Not really helpful, but I'm in your exact situation. You're a CSE grad student?
+
+There may also be 473 - Advanced Embedded Systems. But no news yet.
+
+I'm told 583 is pretty straightforward. It's taught like a grad class, for what that's worth.
+478 is the "go-to" hardware class for CSE grad students outside of hardware -- it's considered to be much easier than the alternatives, and relatively straight forward. I took it with Markov; there were quasi-weekly homeworks about 2-4 hrs in length, and 3 programming "projects" 8-12 hrs in length.
+Run while you can! (No, I don't know anything helpful)
+
+
+What are 483 & 478 called?

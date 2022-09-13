@@ -1,0 +1,7 @@
+452 is a senior design course with a course project throughout the semester, so you will definitely spend a good amount of time on it, but in general it is not one of the most time consuming MDE courses. The workload can vary from team to team as you have a lot of freedom to decide your own project topic and how you want your project to be. Also in the second half of the semester, there will be no lectures, labs or assignments so you can put all your time into the project.
+
+461 is probably one of the most useful EECS courses for me, and it's an easy A course, no in-class exams. You can gain hand-on experience with both embedded system and control. The workload is moderate to heavy. There are prelabs and homeworks every week, and they are not easy. You may need to spend extra time in the lab as some labs and the final project are time taking, but you do learn a lot after finishing all of them.
+404 is an excellent course.  However, it is not considered a challenging course.  ME seems to be the exception, as most schools do not accept it as a viable graduate course, e.g., [(EECS, p. 5, pt 12)](http://www.eecs.umich.edu/eecs/graduate/ee/eeprogram_new.pdf) and [Aero](http://www.engin.umich.edu/aero/academics/grad/programs/mse).
+
+If grad school is your goal, then take the 451/452 sequence.  This sequence is a lot more work, but will open more doors.  
+I took Math 412, was pretty simple. Lots of matrix stuff and some transformations and studying algorithms, but actually a pretty laid back and interesting class, if advanced algebra is something you're into.

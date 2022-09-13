@@ -1,0 +1,37 @@
+I’ve been a GSI for both. 570 is about 3/4 the work of 470. 470 is about understanding exactly how out-of-order processors work and gives you some hands-on experience using real design tools (Synopsys, etc). Useful if you want to do computer architecture in industry or academia since anything more powerful than a smartwatch is using an OoO processor these days.
+
+570 is more of a research-oriented class where the lectures follow seminal papers in computer architecture, with emphasis on topics like multicore, multithreading, locking, sequential consistency, on-chip networks, etc. Project is much more open-ended. Was originally designed for people who want to do computer architecture research and have taken 470, but also useful for people doing systems research.
+(Disclaimer: I took EECS470 in 2014, then EECS570 in 2016, and graduated shortly afterwards. Things may have changed by now.)
+
+TL;DR: 570 is comparable to other 500-level classes in terms of difficulty, and is definitely easier than 470.
+
+As another commenter pointed out, 500-level EECS courses work very differently: They are usually geared toward reading a bunch of research papers and then writing your own. 570 is no different.
+
+Like many other 500-level classes, EECS570 is split into two distinct parts, and part 1 operates like a regular class with the following workload (at the time):
+
+* Read about 4 research papers per week and take ~5 minute online quizzes on each.
+* Two projects that take up a reasonable amount of time.
+* I believe there was a midterm but my memory is hazy. Assume there is one? :P
+
+And like many other 500-level classes, part two consists of the following:
+
+* You pick a topic to write a research paper in.
+* No assigned workload, just write the research paper.
+* Lectures end. Lecture time becomes office hours for your research paper.
+
+So yeah, the latter half of the class is a “void” with only one goal: giving you the time and space to write a paper.
+
+Overall, I would rate 570’s workload as “slightly above average” for a 500-level class. In terms of workload, it doesn’t really feel like a direct continuation of 470, rather more like “just another 500-level course but with more paper reading”. You do not have to worry about it being a nightmare like 470 imo.
+In 570 right now, took 470 last semester. 
+
+Less work than 470, more emphasis on computer architecture instead of micro architecture. 470 specifically teaches you what makes up the microarchitecture for an OoO processor, in the context of running programs on just 1 processor.
+
+In 570 you learn what needs to happen at an architectural level to make sure you can use multiple CPUs together. There is less emphasis on specific structures found inside the CPU and more emphasis on how multiple CPUs will communicate to work together. 
+
+Instead of learning about specific micro architectures (R10k or P7 style content) you spend more time learning how processors communicate with each other at a higher level (MESI protocol style content)
+EECS 500 courses are beasts of their own... you will almost certaintly need to spend more time on the 500-level class.
+Probably a better idea to ask the instructor rather than random people on reddit.
+You have to check the syllabus first then check with the professor second. It would be less of a problem for you, and more likely for your project partners if the syllabus states no receiving outside help, but if you’re locked into the project that may be a different line.
+What about TCHNCLM 496?
+[deleted]
+Took 301 with 280 and 216 and it was the smallest workload of the three by a significant margin if that helps.

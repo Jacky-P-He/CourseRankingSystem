@@ -1,0 +1,156 @@
+I’m currently in EECS 490, wasn’t made aware of the split last semester and it turns out I actually wanted to take EECS 390. Given that negative bias, I’d say that the class is extremely boring and tedious, especially the first half. There’s also weekly homework that is pretty time consuming which I hate. The actual material is semi-interesting, it’s mostly high level concepts about the basic rules that define a programming language, with the focus being on functional programming. We just recently started reasoning about imperative programs and I think the second half of the class might be more interesting and relevant for a software engineer. Overall, it’s probably a fine class if you’re interested in the abstract side of programming languages, but personally I don’t think it was worth the time. I’m considering taking EECS 390 next semester because I still think it would be more valuable than this class
+EECS 490 should really be called "Programming Language Theory". I suspect that a lot of people take it expecting to learn a bunch of programming languages, when in reality it's a class all about how to formally define the semantics of programming languages.
+
+That said, I really enjoyed it. The lectures are fairly well taught. The homework assignments are probably about 70% programming and 30% written, and they really help you learn the concepts without taking forever to complete.
+
+The class mainly focuses on functional programming, which is a paradigm that really doesn't get as much love as it should in the real world. It's much easier to maintain software written in functional languages over a long period of time without it devolving into spaghetti. Pretty much all of the programming assignments in that class are done in OCaml, a functional language.
+
+Another core focus of the class is writing proofs about the behavior of programs. Some people may think it's impossible to write bug-free code, but that's actually not true. While writing proofs about the behavior of programs is usually more work than it's worth in the real world, the techniques you learn can be applied to help you design software in ways that makes them less likely to have bugs in them.
+
+I ended up joined the professor's (Cyrus Omar) programming language research lab after that class.
+I took them concurrently last winter, and I found both to be extremely useful, well-designed, and well-taught in their own unique ways. Or maybe useful isn't the right word, but they certainly changed the way I think about programming.
+
+I'll reserve any further general comments, but the course websites / syllabi for each are very telling. If you have any specific questions about the courses, I can definitely answer them.
+Just go to class
+You should be fine. None of those individually are considered heavy. 
+I had the option of getting into all 3 and I chose EECS 390..here’s the pro/con of each 
+
+EECS 483 - Has Jason Mars as instructor (con) with 5 projects
+
+EECS 390 - Has Amir Kamil as instructor (pro) who has all the notes typed on the website (pro)
+
+EECS 490 - Looks like a more theoretical version of 390 and less application based than 390 (pro?con?)
+
+Personally I prefer more application based stuff than theoretical so I chose 390
+Survey results from last year (when it was EECS 398):
+
+**How would you rate the workload of this class?**
+
+* Light: 2 (3.4%)
+* Moderate: 39 (67.2%)
+* Heavy: 17 (29.3%)
+* Extremely Heavy: 0 (0%)
+
+Average Score = 2.26 (comparable to EECS 388)
+
+**Approximately how many hours per week do you spend on the class?**
+
+* Less than 5 hours: 1 (1.7%)
+* 5-9 hours: 23 (39.7%)
+* 10-14 hours: 21 (36.2%)
+* 15-19 hours: 9 (15.5%)
+* 20-25 hours: 4 (6.9%)
+* More than 25 hours: 0 (0%)
+
+More details about the class itself are at [eecs390.org](http://eecs390.org).
+- I wouldn't say 483 had a ton of "useful" information, but it certainly had very fun projects. How useful the content is depends on what field you're going into, I think. Compilers are a big subfield, and I'm sure compiler knowledge doesn't hurt for systems related work, but it's pretty much totally useless for web development.    
+- I've heard 484 mostly can either be self learned, or is covered in 485 (probably the most useful upper level class imo unless somebody plans on never touching web systems).   
+- 489 has solid projects (making a proxy server, router, a new protocol), and there's a lot of information, but it's all very disjoint and not very problem-solving esque (like 482). I don't think it'd be difficult to learn the material by yourself, but the content is honestly extremely dry. Not sure if that's a pro or con for taking a class vs self teaching (probably depends on the individual). There's also some overlap with 485 regarding TCP.  
+- 490 has a lot of good information that's easily applicable to a lot of areas of programming, but I personally felt that the class had too much theory for my personal taste. Probably a preference thing, especially since I don't care for functional/logical programming. When I took it with Kamil, there was also some overlap in project content with 483 (where I felt that the 483 projects were much more interesting).     
+- 493 apparently is relatively self-teachable.
+Older grad here, and 481 is the only of them that I personally took, but looking them up, I'd still recommend 481 most strongly. I think software engineering principles apply to everything you do, and was the most valuable course I had when working on medium to large scale development projects. It deals with meta issues of projects, and how to apply formal engineering principles to systems, rather than just knowing how to code. That knowledge can make you stand out from colleagues who haven't studied those principles.
+
+Something like 483 compiler design is an interesting, fun topic, and doesn't hurt to know, but it's a bit esoteric, and I think for most people it's knowledge they won't directly use. Just for comparison, I think with 482, even if you never go on to design operating systems, it still teaches issues about operating systems that are broadly applicable and good to know about. I don't have the same sense with 483.
+
+367 autonomous robotics sounds fun, and useful for *certain* projects and industries, but might be non-useful if you happen to work in areas that don't involve hardware or robotics.
+
+484 database management systems sounds boring, but databases are such a common element in many projects that I'd think it would be quite generally useful. SQL may be completely omitted from the rest of a CS/CE curriculum, and it's good to have a working understanding of it.
+
+Somewhat similar with 489 networking...that's an element of so many types of systems, although your exposure to socket programming from 482 is probably enough to get you started on whatever you'd need to learn for a project in practice. The projects sound like applying different protocols to the same basic ideas. Useful but maybe not so critical.
+
+493 UI development, while it's a broadly useful topic, I feel like that's an area where you can do just fine without a course on it. Like a person with good common sense and visual design skills would probably still be better at UI design than somebody lacking those attributes who did take a course in it.
+EECS 485 is really good as well if you haven't taken it.
+I’m in 440 Search Engine Design rn for my MDE and it’s a great class. The project seems like it will be lots of fun (early stages so far) and working in a team of 6 is a different but useful dynamic to work in compared to other EECS classes.
+482 is a must they say, i’m in 490 rn and it’s really good but kinda mathy in a good way, 388 is pretty fun and very useful so far
+490 is way more useful in real life than most classes. Databases and PL are probably the most useful skills to making you an effective software engineer
+that's really thoughtful of you to think about profs having families at home, some with young kids and some with immune compromised partners or parents. my parents are teachers and hybrid is twice the work for them. it's like turning one class into two or two into four. so i completely understand that some profs can either be in person or virtual but can't do both. That's why I think we should be virtual until feb. 1 and then re-evaluate. Also --- it's freezing out and do I really need to walk to class?
+Every course you’ve mentioned is an eecs course. There are non eecs courses at UMich lol. We really should rename this subreddit to umichEecs
+I personally think online would be better because it might be better for faculty and because it offers a lot more flexibility for COVID positive students. Some of my classes have in person elements that are really important for learning and there’s no way for me to participate/get that learning without being there. My roommate just tested positive. I was with her for days. I’ve tested negative but my test was pretty close to exposure so it’s probably not accurate. I probably have COVID, but I can technically go to class until I get tested on Wednesday. I don’t want to go to my classes until I get my results back, because I believe I’d likely be exposing those around me. This adds 3 days on to the 5 that I’d have to quarantine should I test positive. And I don’t know if these absences would be excused because as of now I am asymptomatic. This makes things difficult when it comes to my classes with attendance requirements, and it makes it so I’m missing a lot of learning I can’t get back. My experience tells me that online would work better, especially when the campus environment is already so messed up that I’m really depressed living on campus. After three days I was homesick (which isn’t normal for me). However, I don’t know exactly how going online would affect others.
+This is probably a good idea, and I belive all of my classes are doing this. 
+
+But for some reason, there's been a girl hacking into my back 3 days in a row now. I've been reflecting on the fact that people have to be told to stay home if sick. When did it become the norm to come in when sick? This is a commonsense precaution that should be valid for ALL illnesses. 
+
+If the university is going to require masks, just make them n95s. I think we're all aware that tiny piece of fabric tied my face with shoelace is, you know, junk. Some professors are requesting or handing out n95s. 
+
+Normalizing staying home if sick and n95s are sustainable long term and don't diminish learning. It's bizarre that your classes aren't offering a stay at home option.
+
+Edited for clarity
+482 is certainly valuable if you want low level knowledge. 490 is not that practical but still interesting if you want to dive into Rust/OCaml.
+I don’t really see how you are behind. You only need 4 ulcs to graduate + mde. You could probably take all those courses if you really wanted to. 
+484 + 485 + 481, 482 + 489, 490 + 494. You’d only have one semester with 3 Eecs.
+You could probably take 485 and 489 together in one semester. 482 is also a good class, but I recommend taking it either by itself or with a relatively low workload EECS class on that list
+I would call 485 and 482 must-take if you want to become a GOOD software engineer/CS researcher, unless you already know web/systems principles from other sources.
+
+485 is an amazingly wide overview of every part of the web stack, and it can serve as your one and only web dev class.
+
+Some people want to avoid 482 because it’s quite hard, but I really think it’s critical to understanding a full picture of the reality of a computer. You can get away with not taking 482, but I don’t think you can get away from eventually having to learn its concepts, so might as well do em in school.
+
+489 is very interesting and will be very valuable to anyone working in networks. But, if you aren’t, I don’t think the info in it is practically useful.
+
+481 is (I think, I dropped the class after a bit) mostly stuff that can be replaced by internship or job experience.
+
+494 is an insane experience, and will eat up huge chunks of your life if you let it. It was also a great experience in meeting deadlines on a high quality software deliverable. I’m glad I took it, but I would call it optional unless you have an interest in video game dev, then I recommend it.
+
+484 and 490 IDK, but I have heard from an employee at Ocient (state of the art DB company, they hire heavily from UM) that 484 teaches largely antiquated database stuff. I can neither confirm or deny this personally.
+Not a CS major, but I did take Linear Algebra(back in 18 or 19). AVOID that class; by far the worst run course I’ve ever been in. From the consistently late grading to the lack of direction from any prof. Felt like a train wreck from beginning to end.
+Which linear algebra are you talking about?
+Have you considered SUGS
+201 has good git and other fun useful stuff, 1 credit. there’s a software engineering course with prof Leach, 481 , 4 credits, does git and versions and good practice stuff i’ve heard. 490 is a no for sure, it’s a programming languages course which explores the topic through the functional language OCaml. 402, 403 i haven’t heard of
+I believe 403 is taught alongside EECS 281, which is an incredibly well-taught class for learning CS concepts and C++. If you have the background for that I'd highly recommend it, since it will directly help with object oriented programming and exceptions. Like others said, 201 goes more directly into things like Git, so if you can audit it that could be helpful.
+EECS 381 was legendary for this, but unfortunately I don't think they'll ever bring the course back... keep an eye out though. I think professor Kieras' notes will make a good read for you though, check them out at this site http://umich.edu/~eecs381/
+
+Nevertheless, I've heard good things about EECS 201!
+EECS 201 - Computer Science Pragmatics
+EECS 381 was the best class for object oriented programming and writing good c++, but unfortunately it's gone now. The [website](http://umich.edu/~eecs381/) is still up, with many excellent handouts. I imagine it also covered exception handling.
+
+&#x200B;
+
+[EECS 280](https://eecs280staff.github.io/notes/23_Exceptions.html?highlight=exceptions) covers exception handling briefly, but not much.
+
+&#x200B;
+
+As far as version management, git, github, and other logistical/tools based things, I'd strongly recommend eecs 201. It's a 1 credit course (though I'd say it's higher than a 1 credit workload), but it covers all sorts of things, it's very useful. There's a [website](https://www.eecs.umich.edu/courses/eecs201/) as well, take a look to see if you'd like it.
+
+&#x200B;
+
+There's also eecs 481 as was mentioned, which covers a lot of software engineering concepts, though not necessarily the things you mentioned. I bet you'll never guess what's next... that's right, there's a [website](https://dijkstra.eecs.umich.edu/kleach/eecs481/w21/index.php).
+
+&#x200B;
+
+EECS 403 is the same as EECS 281 (I'm an IA for it). It goes deep into algorithms and how data structures work, but doesn't cover Object Oriented Programming specifically. You can choose to make your programs object oriented if you want, or you don't have to, so if that's something you're looking for specifically, 403 might not be for you. It is a good course if you want more experience in C++ or want to learn how to write some more difficult programs. (there's no website unfortunately lol).
+
+&#x200B;
+
+I don't know anything about EECS 402, but EECS 490, as others have mentioned, is probably not what you're looking for.
+201 sounds like what you're looking for.  
+
+I wouldn't recommend 490 as is with Cyrus Omar as it's more theoretical. I'd probably look into the old EECS 490 which is now sometimes offered as a special topics: https://amirkamil.github.io/eecs398/syllabus.html which I've heard good things about and should be more applicable/approachable than the current 490.
+SI 106 is an introduction to Python. It’s not comprehensive but it gives a really great intro to the language, especially if you haven’t coded before. If you have, you’ll pick it up easily and be able to learn some advanced things with practice. Take it with Steve Oney if you can 
+SI 106 I guess?
+I recommend taking courses from the School of Information 
+
+SI 506 is the graduate course for Python. It goes more in-depth than SI 106 but you learn the same things as 106. 
+
+SI 206 is an undergraduate course but it’s a first look into actual data scraping and presenting data, with some SQL as well (EECS 183 will not prepare you for 206, I recommend taking 506/106 before 206 but there are no formal prerequisites for 206.) 
+
+School of Information is a great resource for Python and learning about data scraping and presentation. 
+You might honestly be better off taking some python classes in your own time. Its structure is very similar to R, the only issue would be holding yourself accountable learning python without a class schedule enforcing deadlines.
+Why not take it on Coursera? It is offered by Chuck Severance of the School of Information.
+EECS 183 teaches Python and C++. I don’t think there are any courses purely in Python. Most programming courses are in C++ or at least have a C++ component.
+SI 106. I am a TA for the course. We assume everyone knows nothing about coding and in 14 weeks we teach you Python and end with a cool project to be proud of. We have lots of awesome staff all willing to help you understand. Highly recommend the course. Take a look at gradeguide.com and the ART 2.0 site to help you choose though!
++1 to recommending SI106. It's an Intro to Programming course that walks you through working with Python. If you get to the end of it and want more, SI206, which is like 80% continuing with python (large emphasis on web-scraping, web crawling, etc.) and 20% using SQL as a part of python projects.
+Are you asking about grad level classes? I would recommend you take EECS 485 to gain some useful python experience, but seeing as you are a grad student I don’t think you’re allowed to take it. At least I hope not...EECS undergrads are having a hard enough time as it is getting into classes they need to graduate.
+Some School of Information classes give a good introduction to python. Specifically SI 506 and SI 507. They are graduate level courses, but are introductory to python programming.
+If you have any interest in physics, PHYSICS 411 is intro to computational physics. It's an applications focused class on mostly numerical methods. Short intro to Python at the beginning, and then the details of practical programming for a wide range of mathematical problems. Requires less physics than you might expect.
+I don't see EECS 490 mentioned here but EECS 490 will teach you python and it'll make you pretty good at it. The class uses python to explain core concepts in the programming world, thus you will develop a very good understanding of Python.
+
+https://web.eecs.umich.edu/~akamil/teaching/fa18-490.html
+
+4/5 of the projects are done in python.
+BIOINF 575
+If you want to improve your programming skills, take EECS 183, 280, and 281. They’re primarily in C++ but the skills will translate very easily. 
+
+I had a job working in python after only taking 183 and 280 and was able to pick up the language in a matter of weeks vs the months/years it would take starting from scratch. 
+I can't speak for the philosophy class, only for 216. 216 is a decent amount of work in my opinion. Written homeworks due every other week, repetitive web work every week, and lab write ups due every other week was annoying. Depends on what ENGR 100 section you have, but that may also be a decent amount of work with your team. EECS 280 speaks for itself with the time the projects take. Even if you manage your time that sounds like a lot of work. If you're heavily considering CS or IOE, I'd say drop 216. I wouldn't take 216 unless I absolutely had to. If you end up changing your mind it's not like you'd be behind or anything by taking 216 your third semester 
+I would only take Math 216 if I absolutely needed it. Since you're undecided, I say that I would see how much of a consideration you are giving to declaring Mechanical. Since you're still a freshmen, you still have a fair amount of time left before you should declare, so I would personally drop math 216 since if you end up not declaring Mechanical, you would have taken a math course that you don't need plus you'd still have to take linear algebra (Math 217) for IoE or CSE. 
+The one you have the strongest interest in 

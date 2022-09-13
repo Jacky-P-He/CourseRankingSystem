@@ -1,0 +1,188 @@
+I'm taking 270 with him right now and I think he's alright. Not a great professor, but if you keep up in class you'll do fine. For me the workload is about 4 hours a week for homework and another 4 for labs. One warning is that the class was revamped last semester and they are still making changes, which will likely continue into next semester
+While i did not have Karem for a prof, I would say  it definitely took about 4-6 hrs or so outside of class to do the homework, but if diligent on getting it done and going to Office Hrs, it should not be horrible. 
+
+Labs were a similar case; make sure you start with more than enough time on prelabs and postlabs. Depending on the gsi, in-lab varies, of course.
+Been there. It’s awful. I have no advice but to keep going
+As someone who’s also in 270, I can only say that you’re not alone and to not give up, this class has been terrible
+215 has tedious homeworks, but you can use MATLAB for most of the heavy math and exams are usually take-home. 270 has less homework but a lot more lab-work that involves coding in Verilog and harder exams. So depends on what you have a higher tolerance for really, but I think 215 would be easier.
+When I took 215 it was very easy. 270 had a bit more of a time sink but I really enjoyed the material.
+I haven’t taken either, but in 370 they mentioned that a lot of the material is covered by 270, so I’d imagine that 270 would be easier for you.
+Where did you see those courses listed under robotics? I don't see them here: [https://robotics.umich.edu/academic-program/courses/course-offerings/](https://robotics.umich.edu/academic-program/courses/course-offerings/)
+if you dont need to take 270, then dont. i heard it is basically two classes. the lecture/exam portion and the lab portion.
+I did this semester, content overlaps somewhat during the beginning
+I took both 270 and 370 in Fall 20. It kinda depends if you want to take 270 as an FTE. There might be better options, but I did know a few CS people that were taking 270 as an FTE.
+
+It might make sense if you were interested in 470 or something that requires 270. 
+
+At least for the content, there is definitely overlap. "it might make sense to take it at the same time as 370 so I can double focus on computer hardware?"  -maybe, but I'm not sure if you necessarily need 270 though.
+Difficult but doable
+Yeah 370 will be a lot easier if u do that
+There's some real world interacting with hardware experience in the 270 lab that I think is pretty beneficial for 373 in not getting totally blindsided by the labwork, although the hardware used is quite different. But if you're really passionate about doing a 373 project I'd say go for it.
+I was an IOE major (a senior) and didn’t find the class to be super difficult. Reading the textbook before class (and taking notes while doing that) helped a lot. 
+
+It was probably similar difficult to MSE 220, which I also took to fulfill the non-IOE engineering requirement. (My third choice was NERS 211, which was a nightmare for me.)
+If we're taking the same class, I'm pretty sure the stuff they talked about today is not normal course material
+I took the class last semester as a CS major and it was tough, but mostly because it seemed more hardware and design oriented rather than coding. The only coding you do is in labs, and if you go to the less busy ones its easier to get help. The coding is also in Verilog, not anything I'd learned before but it was okay to pick up in class. The HW and exams are more based on design. Honestly a tough class but I wouldnt say youre unprepared
+I would say that both those schedules are going to be pretty tough but relatively similar. Id say the main difference is that In 270 the labs are pretty tough, time consuming, and theres like 7 of them (if I remember right), but in 370 you get 4 projects which i found to be relatively easy if you understand the material. Some people might say that taking 270 first helps understand 370 but I didn’t really find that to be the case when I took it.
+If you are in CSE and would like to graduate with a CSE degree, then 370 is like your only choice…. I think you are required to take 370 in order to graduate. So good luck!
+Background: I've been teaching EECS 370 for a few semesters now.
+
+
+IMO students who take 270 before 370 generally do better and have a better understanding of the course material. It may be minute, but I think 370 is a much harder course if 370 is your first exposure to logic gates and binary numbers (This material is taught in 270). Having prior exposure is a big boon. 
+
+
+However, I do think 281, 370/270, and 376 is a pretty intense workload semester. Have you considered trying to do just 2 eecs courses and getting another required credit in like stats? Especially if you think you're a student who is more interested in low-level and hardware courses, taking 281 and 270/370 earlier is more important than taking 376. 
+
+I know when I was taking these courses, I personally scheduled it like the following and I think it worked out well:
+
+(Fall, 281, 270, + other req)
+
+(Winter, 370, 376, + other req)
+
+
+I also think EECS 201 is an excellent course, and should be a required course for the major.
+I took both last semester 270 was slightly higher workload than 370 but both were lighter than a class like 280. Probably something like the 203 workload.
+Math 214 isn’t totally awful, but it’s definitely more “math majory” than what your probably used to.  The textbook will be really helpful but it’s a chore to read.  Other than that, the class is not too bad, homework’s are ten questions per week straight out of the textbook, so it’s pretty easy to find help on the internet if you need it.  Definitely easier than 215, and probably easier than the other CoE math classes (I didn’t take them).  
+
+Don’t underestimate the projects though, those are real bitches.
+My first semester sophomore year I took: 270 281 216 and a humanities. Doing only the 3 of them should be doable.
+I had the first schedule (plus CLCIV 350) my sophomore year, 281 got tough at times but definitely doable.
+I know. Brehob pulled a sneaky one on us.
+If it makes you feel any better, Brehob midterms have a reputation. He usually is more lenient on finals
+Anyone wanna review my supplements. I am applying to electrical engineering in a few days
+I would hold out for a bit (You have up until july I think to wait untill you mask).
+EECS 270 is a shitshow for a reason. It's the only prereq to EECS 470. Just putting it into perspective: it's harder than most ECE courses in the country.
+mask anything below A-, for breadth classes/not really related to your major. 
+
+mask anything below B+, for classes related to you major (ie. MechE if you're MechE, Chem if you're Chem, etc.)
+I'd say mask anything that's more than one grade below your average. For example, if your GPA is about 3.7, I'd hide anything below a B+, and if your GPA is about 3.0, I'd hide anything below B-.
+
+Personally, I would mask anything below an A-, but I'm the anxious perfectionistic type (and I'm in LSA, where the core classes tend to be less brutal).
+I would mask anything below an A-. That said I’m also in IOE which is definitely a less sweaty arena than the other engineering majors so I might have no idea what I’m talking about.  
+
+As for grades if you’re within a standard deviation then your performance is comparable with the average student.  Based on the fact that you’re doing well in labs it sounds like you have a good grasp of the material itself but you’re just having a hard time with exams. I would do as many old tests as you can find to familiarize yourself with the exam bs
+I’m taking both this fall semester. Probably 312, but 270 and 312 are prerequisites for 427(VLSI design) a useful class that some biomedical engineering grad students take as well as ece students that want to go into chip/(complex circuit) design. Eecs 414 is probably a better option than those two because it introduces MEMS, the foundation in which bionanotechnology is based upon. Both 312 and 414 are prerequisites for another class bme grad students and nanotechnology ece students take called 425(integrated Microsystems lab). I myself am currently undecided on either to focus on computer hardware or biotech. But to answer your question, 312 is a better move than 270 if you can only take one of them
+[deleted]
+Are you in the class rn? Sakallah sent out a notification that we'll be turning to simulation.
+I felt the labs were difficult and time consuming, and the homework was sometimes tricky to get right. 
+
+But overall I think it was less time consuming than, say, project 3 of 280.
+I think 270 is definitely more work than 280 on average. The homework takes me a fairly long time, and the labs are also very time-consuming. (But they're also pretty cool.)
+Brehob is a great professor, if you can follow him in lecture then you are on the right track.  One thing you should realize is that 270 is basically two courses that are intertwined, the lecture/homework/exams are grouped together and the lab is for the most part separate.  
+
+My advice (as someone who took the class once and taught the lab for three semesters) is to take the lab seriously.  If you simply play around with the schematic/verilog code and use guess-and-check to get your lab working and signed off, you will not only score low on the post lab questions but it will also carry over to the exams.  Usually the exams are 70% or 80% material from lecture and homework, and 20% to 30% material from the lab (specifically Verilog).  If you don't understand how Verilog works and how it is different from most programming languages you will not score very well on the Verilog portion of the exam.  Some weeks the lab IA will give a short powerpoint presentation.  PAY ATTENTION TO THIS.  I cannot even begin to describe the amount of people who need to spend additional hours in the lab because they didn't spend 10 minutes listening to the explanation from me at the beginning of class.  Another tip I have is to not leave the lab if you finish early the first few weeks; instead you should stick around and try to start the next lab or do your post lab questions then and there.  All of my past students who did this ended up finishing all labs early in the semester and for the 2-3 weeks before finals they didn't have to worry about that portion of the class.  The students who left early for the first 2-3 labs after finishing tended to be the ones who were in lab days before the final struggling to get lab 7 done.  
+
+If you're interested in more advice PM me.
+It's been a while for me but I remember the exams being difficult and the labs being relatively easy and surprisingly fun. I was a 3.4 student overall but got a B- in 270. I had Igor Markov. 
+
+I was CSE. If you are CE or EE, I imagine you will have an easier time than I did. 
+The labs can take awhile but are actually interesting and worth your time.
+
+The homework wasn't bad when I took it, and the exams weren't awful either (I took it last Fall with Karem Sakallah).
+
+I don't think anything about the class was especially difficult. At least for me, it moved slowly enough that I never failed to grasp any of the concepts.
+Brehob is one of the best professors in the department, so that's good news there.  I found the class to be extremely easy except for the exams.   Overall, it's one of the better courses since you learn a lot and enjoy a lot of it too.
+Brehob is a really good teacher, I took it with someone else, and I got a B. But my exam average was a 95%... take the labs/homework seriously lol
+I took it 2 years ago in spring with Brehob, and it was one of the best classes I've ever taken. Brehob is an excellent teacher, and there is plenty of time to complete the labs. The exams shouldn't be a surprise if you pay attention during the lectures.
+Enjoy your traffic light FSM. You'll be at it for a while ;)
+
+It's a pretty cool class. Take what they say about "functionally complete" parts to heart (I.E. nand gates can make a mux, which can make XOR's if you're clever [because mux's IIRC are also functionally complete] and so on and so forth).
+
+Read/watch up on some Minecraft redstone circuits if you want to get a feel for what all you can do once you've finished the course, and what all the course covers (transistor->basic combinational circuit->basic sequential circuit (JK FLIP FLOP? SR FLIP FLOP? freakin' engraved in my head) ->kickass circuit like ALU/carry-ripple-adder, memory banks, comparator, TIMERS (thats a big one) that kind of thing).
+
+I found it all pretty hard but it was the first class I ever took at the U after transferring from a different university, so steep learning curve.
+
+It'll make 370 infinitely easier, and several other courses will just make more sense as well.
+Just wanted to pipe in and say that I had Brehob for Engin 101. He's awesome. Count how many times he says "In my heart of hearts". I swear he said it every other sentence...
+Brehob is a really good professor. I didn't have him for 270, but I did for 373 and 473. He's also a good professor to have early in your college career; because he's the head CE advisor, he knows a ton of the different classes, and in 373 he would always talk about what class would teach you more of whatever topic we were doing at the time. A great way to find out what classes might interest you.
+
+270 is a lot of logic gates and that sort of stuff. I thought it was really easy, maybe because I took Peter Chen's Microprocessors and Music section of Engin 100 and that taught some of the same stuff. I ended up with an A+ in 270. I had Papaefthymiou and Mudge.
+upvotes for all my blue buddies
+
+Yeah, sorry about the site crashing. Turns out we managed to break Google Docs...
+circuits are a very small part of 370, like 1 or 2 lectures at most. Really doesn't matter if you take 270 or not.
+It's basically unnecessary. 
+You most definitely don’t have to, it’s a requirement for CS and most who take it through CS wouldn’t have taken it with 270 knowledge.
+Current IA for 370. It's not really necessary.
+Not necessary, but very helpful for about 2 weeks of the semester. There's a slight overlap in material. 370 requires either 270 or 203 as pre-reqs, just because knowing some discrete math methods and truth tables is indispensable for the material.
+215, 270, 203 is the least work.
+No it is not against the honor code unless you post actual code from the project
+If you think it adds to your portfolio, I see no reason why not to include it. But I think there are a couple caveats:
+
+Obviously don't share your code or a ton of details on how you completed the project -- a student in the class who finds your portfolio shouldn't be able to use it as a resource. Also, make sure to mention that it's a class project, and talk about whether it was an assignment everyone did or a final project you selected yourself.
+I feel like required hw shouldn't really be listed as a project anyway
+I think you should just stick it out, personally. But at the end of the day, you decide what your interests are.
+215 in semesters past used to be a traditional lecture which I really liked because 215 covers lots of fundamental material that is useful for upper level courses. The labs were definitely stressful and long, but understanding the material covered in class will definitely help you get through it easier. If you are not interested in areas of EE outside of computers then you should switch out. Basically if you prefer debugging code instead of debugging breadboard/analog circuits then you should switch. Both CS and CE are great majors for getting into hardware. If you want to do digital circuit design then you should go for CE, for anything else, it’s your call. CS and CE are basically to same for hardware just pick your poison between 216 and 376. I got old 215 annotated lecture slides if you need them. You got this!
+I feel you with 215. It’s definitely my hardest class and I’m taking 376 and 281 at the same time.
+I have the same problem, Im a senior have poor study habits.    EE is the hardest degree. I don't recommend trowing to coast through it. Be serious about fixing those habits. There is nothing like spending 16 hours on a cad assignment once a week. Also learn Linux, best to learn before you need it for a class
+Can’t speak to 270 but given 281 is a requirement, everyone gets off the waitlist eventually. I wouldn’t be worried about either. You’re relatively close to the front for 281, and very close for 270, and there’s an entire summer left to go. You’ll move up. If not now, you’ll def see some movement first week of classes
+Everyone who wants to get in to 281 in fall and winter semester has been let in, historically. I don't expect that to change going forward. I don't know about 270 though.
+I'm pretty sure this applies to just about every class people take at UofM, but there's little reason to worry *this* far out from the start of the fall semester. People's plans change all the time and tons of students will drop/add classes like crazy at the start of the semester. I would not be nervous unless you were in those positions the second week of the semester or something like that.
+You'll get in to 270
+183 is a pre req to 270, so I'm not sure if you can take the two at the same time. I think you definitely want some programming background before taking 270. 
+
+Also if you're planning on doing CS, keep in mind that 270 is not required and does not help THAT much in taking 370. If you are debating CE, 270 is required.
+
+Finally, 388 requires 281. The only major courses before 281 are 183, 203, and 280. The quicker you get to 281, the better. 281 allows you to take most upper levels classes. 
+
+Here's the LSA program guide, if you haven't seen it! http://cs.lsa.umich.edu/wp-content/uploads/2016/07/16_17_cs_lsa.pdf
+
+Feel free to message me if you want to! I took Engin 101 instead of 183, but I can help with other course planning!
+Please post in https://www.reddit.com/r/uofm/comments/61eo5w/fall_2017_course_discussion/
+I think EECS 475 (Intro to Cryptography) doesn't require EECS 281, but it's not offered next semester.
+
+EECS 388 requires 281.
+
+Otherwise, that schedule seems doable. Just watch out for those 270 labs! They can take a while to complete (especially the last one).
+All I can say is that Stats 412 was awesome and really applicable to real world engineering etc. Also, Jackie Miller was cool and the class was pretty easy overall. Would recommend.
+[deleted]
+Adding 270 to that schedule wouldn't be too difficult and probably preferable to adding crypto. 370 projects aren't too time consuming, 376 is give or take, but since it's a homework based class shouldn't be too time consuming either. mp300 and tc300 both have trivial amounts of work. I'd recommend adding 270 to that schedule overall.
+
+Haven't taken crypto, but have heard it to be a bit tedious of a class.
+I didn't know that you could take 370 before 270... Regardless, it shouldn't be too hard adding 270. I'd recommend taking a look at EECS 285 since it's only 2 credits.
+
+Also, cryptography is EECS 475 just fyi... and it isn't a walk in the park.
+For 281 just start the projects early and pay attention. The projects aren’t bad but the tests are pretty hard so don’t neglect studying until the night before!
+EECS 281 is going to be a lot of work just by itself. I would honestly choose only one out of the other two EECS classes unless you don't mind not having any life outside of academics (and burning the midnight oil every day) or getting just passing grades.
+I know tons of friends have taken and loved ENTR390 and generally ENTR courses are interesting-but-easy A’s. Which lab are you doing? I’m signed up for the IOT one to get some basic hardware experience
+Sakallah is beast. Exams are dumb but don't stress at all. Just put time in the labs and do well on hw.
+If you can still graduate on time and take other classes in the meantime, then I'd say do it. Horrible professors suck and if it doesn't make a difference 4 years down the road, switch up your schedule. I'd also say that you're in the class with a bunch of other students going through the exact same thing, so it wouldn't be like you're alone in it if you take the class. 
+I took EECS 270 as an IOE senior. It wasn’t a hard class. You can learn the material from the textbook. The slides are from the book and I think all instructors use the same ones. Your lab IA will also teach you a decent amount of content. 
+I took it with mazumder a few years ago. He made us buy these packets of powerpoint printouts that were basically going to be the contents of the book he was about to publish (not sure how that's going, those slides weren't that helpful).
+
+Honestly as a whole it wasn't that bad. The textbook is actually pretty good (although expensive, you can still sail the seven seas to obtain it). Most of the time i dedicated for that class was for the labs. Many of mazumder's exams were very reflective of the practice exams he gave us. Make use of GSI office hours (not the lab ones, the content ones) and you should be fine.
+It should be graded on a curve so as long as you do good relative to everyone else you'll do fine. Even if you would learn more in the class if you took it with another professor you would probably get the same grade (at least that's how curves are supposed to work). 
+
+That said, I know someone in CE taking 370 next semester in place of 270 for the same reason you described, so maybe look into that.
+Personally, i would just tough it out. Form study groups, go to extra IA/gsi hours, find an equivalent course online  from another uni and study their material over summer/weekends.  
+
+If you're going for grad school and need to ace it, then maybe wait on it. 
+
+That said, there's no guarantee that he'll won't still be same professor for that class the subsequent semester. In that case, you would be wasting your time.
+Which 270 professor are you hoping for that does a good job?
+I'm a CE major and would not recommend delaying 270 if you want to focus on computer architecture or embedded systems in your upper levels. I'd bite the bullet and take the class if you're confident you can learn on your own and beat the curve.
+Took 270 with him a couple years ago. He's not a good prof, but office hours basically served as a second (and better) lecture. If you put in the work you should be fine. And going forward, there is always a way to learn with a bad prof, you just have to get a feel for how to do that.
+250 is easy and you learn nothing at all. 301 is not a good choice for CSE since it discusses many EE topics. 412 should be the vast choice, not hard and only 3credits but hard to get enrolled
+Why are you so taking 270 as CSE? (Just curious). I've seen 301 wreck many of my EE friends, I wouldn't risk it. Some like it though. 412 was easy and is an option for CE as well. 250 is supposed to just be busy work. 
+217 sucks, it was 203 on steroids and just sucked. I hated it with the white hot passion of a thousand burning suns.
+
+270 is pretty cool but is not necessary for 370.
+MATH 419 is one of the most challenging yet rewarding classes I've taken at the university. My understanding is that it's more theoretical than 417.
+as far as 270 before 370, if you've taken Peter Chens' ENGR100 class I wouldn't bother. Even if you haven't, it's not entirely necessary from what I've been told. 
+If you just want to take a linear algebra class and pass, take 214. Also, I don't think it is worth it to take 270 before 370. I didn't and they go over the concepts decently well in 370.
+Take 270 if you want to understand how computers work.  If all you care about is writing code, you can probably skip 270.
+If you care to learn statistics/probability try Math 425. It's an easy class and fulfills your math reqs
+This is the way
+10000% the hardest exam ever at umich
+early bruh moment
+
+update: couldn't finish the exam had to guess on two questions, guess im not taking 482 :DDD
+Got fucked as expected 😎
+Ah, the semi annual “EECS exam bad” posts return again 😞
+Seeing how you guys did the exam, do you guys have tips for the next batch of future eecs naysayers?
+Just finished the 270 exam and oh boy did I fail that. Hardest exam I ever took
+You should take 203 if you're planning on majoring in CS or else you won't be able to take 281 the next fall.
+
+Your schedule seems pretty doable - you'll still have some free time.
+You're doing CS, not CE? ME/Aero stuff sounds a bit more CE ish to me but what do I know. Depending on the 100 section it should be okay. Toys is supposed to be a bit more work. 
+Have you taken 203?

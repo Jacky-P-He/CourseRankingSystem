@@ -1,0 +1,220 @@
+EECS 203 was my favorite class of my first college semester (F21). I watched some of the videos on the EECS 203 YouTube channel over the summer beforehand to get some familiarity with the material. I recommend looking at it so you can get a taste of what the course is like!
+i took it last spring / summer with another class and it was fine. i was working full time tho and that caused a lot of stress, so maybe work half time to not at all and you’ll be fine.
+It’s not bad if you are good at math. Took it after math 217 and it was a joke
+Momento de bruh
+Something’s wrong I can feel it
+Been there, done that
+Wait so what happened?
+I'll do you one better: a student should answer and just @ whatever post number has FAQs
+I totally agree with the sentiment that 203 tries to cover too many topics. It used to be even worse but even now they cannot really go in-depth on any of them. 
+
+I thought Diaz was really good btw. From my experience she actually usually goes slower than Emily. 
+
+I feel you about the homework. I also thought the criteria was unnecessarily harsh at time. 
+
+I will have to respectfully disagree that Math 116 is taught better. That class is filled with graduate student thrusted into teaching without adequate raining
+These criticisms sound pretty tame if I’m being honest. It seems like 203 used to be a lot worse than it is now - it tried to cover even more topics than it does now, and the homework assignments were absolute ball busters.
+
+Graetz was definitely my favorite instructor, but I honestly found most/all of them sufficient.
+
+203 obviously isn’t perfect, but it’s steadily improving - and it’s good practice for 376.
+All Hail Greg Bodwin
+hard disagree about instruction quality - EECS 203 has been one of the best taught classes in my albeit experience. Diaz, especially, goes super slow and lets you absorb the information at a very comfortable pace.
+Most courses grade homework on accuracy, it's not something unique to 203. I don't know about you, but I VASTLY prefer written homework where I can write out my thought process compared to online homework portals like Mastering or Webwork. You get a week to work on 203 homework, and I don't find them bad at all. I do agree that it would be nice if 203 spent a few minutes just saying "hey, you can use these concepts in these programming situations!", but I don't think it's completely necessary (after all, a lot of the concepts to me at least are obvious in their usefulness, e.g induction being similar to recursion).
+
+EECS 203 isn't really like other courses where things are cumulative. Honestly, it kinda makes sense that a lot of stuff is a bit sudden since a lot of the topics just straight up don't relate to any other ones. By the way, Logical Equivalences and Sets share much of the same rules (and in EECS 270, they literally mention that boolean/logic algebra and set algebra have 1-1 correspondence and are isomorphic)
+I watched one diaz lecture when I couldn’t make Graetz and sure enough thats the topic i was worst at.
+I disagree with a lot of this — taking 203 last semester, I definitely felt like they made it easier from what a lot of people described. Although I can see how the constant switching between topics can be annoying, the class is inherently more focused on breadth than depth, as its meant primarily to introduce you to concepts that come up in far more detail in later classes. Plus, that means that none of the topics are that hard, as they’re covered at an elementary, surface-level. I’m sure if you’re interested in Discrete Math you can take more in-depth courses later on.
+
+I agree that the way they graded HW was annoying, especially at the beginning of the semester. However, from my personal experience, I found it easier as the semester went on because I figured out how to better show my work in line with what graders wanted. 
+
+I also think a lot of the instructors are really good (not just Graetz). I loved Diaz’s teaching, and Zhu (who taught last sem) has been amazing so far in 376. Although needing to go to OH can be frustrating if you’ve never really struggled in HS, I feel like it’s good preparation for higher-level, more difficult EECS courses where that’s necessary to succeed.
+I took it last semester. In my opinion it was much better than what people have described it to be. I went to office hours a lot, for the the weekend review sessions before exams. The content is hard and it takes effort to make the deductions and think the way you need to think. On their part, they provide more than enough resources and help to let you achieve whatever grade you want to. It is a hard class though so your performance is dependent on how much time you want to put into it
+Natural deduction was my favourite too! 
+
+I had a really bad lecturer who was very toxic and completely up his own ass though. It was not good.
+You can have homework worth 0-1% of the final grade if you don’t want to be judged on accuracy. Accuracy is the point.
+Why on earth wouldn't the homeworks be graded on accuracy? How can you expect not to be graded on the quality of your work? If your work sucks, either take the L or go to office hours and get better. The classes where I was able to brute force answers with many tries (looking at you, webwork) were the ones I ended up learning the least in, and it left me with bad habits I had to unlearn to be able to effectively code when I got to higher level classes and internships. Brute force works through eecs 280 or so, but you really need to understand what you're doing after that. EECS 203 is a difficult class, it really is, and it's definitely imperfect. But it also may just be the first truly hard class you've taken. It is for a lot of people.
+
+Even if it isn't, it's ok to struggle a little bit. Bombing something you thought you'd excel in is a really good learning experience. Just keep at it, you'll be fine. Most people pass, and most of them don't try as hard as you're trying. You got this.
+I heard 203 got a revamp? Is it still this bad?
+I'm taking 280/203 as well and could definitely agree with a lot of the things you are saying! I'm actually doing research related to this topic if anyone has time please fill out his survey. I would really appreciate it!
+
+[https://docs.google.com/forms/d/e/1FAIpQLSeciTBbn9t2G1yGh5na0o10ZVdK\_6kIZwJws5\_moZzLBiFnFw/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSeciTBbn9t2G1yGh5na0o10ZVdK_6kIZwJws5_moZzLBiFnFw/viewform?usp=sf_link)
+In reality, discrete math is a very large subject which Michigan has constantly been attempting to teach by covering as many bases as possible; the curriculum is constantly changing here but for the better I'd say. As someone currently taking eecs 203, I think it's a matter of your ability to do proofs and apply definitions in various scenarios you may be unfamiliar with- as opposed to what you may do in other math classes. In short, you shouldn't be "disadvantaged" by taking eecs 203 elsewhere as much as it's just a different exposure to how to "prove things." Basically, you should take it here if you know you are going to dedicate a significant amount of time understanding the content. Otherwise, just take it elsewhere.
+Want to hop onto this thread to ask if anyone has any good online recommendations for EECS 203 over the summer?
+IMO anybody who takes 203 at a different university to dodge the difficulty is doing themselves a disservice. If you can't handle 203, you certainly aren't going to be able to handle 376 or many upper levels and you likely aren't a good fit for the program. If you're going to be culled from the program, it's ideal for that to happen sooner rather than later so that you actually have time to adapt your plans.
+203 is normally very paced. That said I think you could do it if you really sink yourself into the material for the time period that the class lasts. My recommendation is to go to as many office hours as you can and start the homework right when they come out. When I took this class I would go to office hours just to work on the homework and when I had a question come up the GSI was there to help. The GSIs are great and extremely helpful.
+I would recommend taking 203 at umich. A lot of concepts between 376 and 203 is overlapped. ANd although everyone says it is a hard class, I aruge that 75% of the hw questions can be answered through reading the textbook, refer to slides, and using your common logic. You may not finish the class with flying colors (at least I did not), but passing it should not be a big deal.
+203 is almost impossible to get transfer credit for. take it at um and you’ll thank yourself in 376
+NVCC, has an online asynchronous option.
+I don't know any specific cheap options, but [https://transfercredit.ugadmiss.umich.edu/#](https://transfercredit.ugadmiss.umich.edu/#) can help you find which colleges have transferable credit. For community colleges in Michigan, it looks like only Lansing Community College and Grand Rapids Community College will work.
+No idea about cheap but, asynchronously:
+
+Worcester Polytechnic Institute or Brandeis
+I took an EECS 203 equivalent at Oakland University (a small Michigan college) and it was fantastic. I had an amazing prof named Eddie Chen. He was clear, nice, and taught the material super well. In state it's not too expensive, but idk about out of state. I would highly recommend Oakland tho
+Don’t do it. Take Calc over summer
+Won’t be fun but it’s doable
+= not fun
+hell nah not for me
+You'll be fine
+anyone done something like this? how’s the workload of these 3 together?
+Doable
+Easily doable but if you wanna feel comfortable, stay on top of your shit at all times.
+I had similar schedule for winter semester(eecs 280 math215 eecs203 intlsd 101 + 2 credits research ), and it was completely a mess. EECS203 + MATH215 ruins your social life, tanks your gpa, and makes you stay up late during weekends. 280 projects are rewarding and fun, and you can still get a A after bombing one of the exams. I truly suggest to not take 2 math courses together.
+I did 280 + 203 + 300 Spanish + 300 honors + 9 hours research
+
+I was already quite familiar with the 280 coursework. 203 is definitely a pain, mostly the homework. Do half on M/T, and half W/Th.
+
+It’s overall doable, but I have atrocious time management, so there’s been a few all nighters this semester (just for essays though).
+
+I can’t speak to 215, I took it over summer, but I hear that all the 200 maths are horrible (coming from a math major). I’d highly recommend doing it over the summer. The math department accepts online now.
+If your discrete math comes back as a UMich credit (non-departmental) please don’t take EECS 203 here
+Don’t take 565 it’s for math majors. 465 could be useful but it will be hard if you don’t have prior experience in formal math. 203 shouldn’t be too bad but probably useless. Only things that I’ve used in any classes after are like big O and like basic graph theory stuff that they teach you in 281/376 anyway
+Please be prepared. It depends on how much mathematical maturity you have. Tbh, one of my 295-396 friend even fails 565 but that’s more because she hates the material. 565 and 465 could be very unfriendly if you haven’t taken one proof-intensive math class. That being said, I highly recommend against 565. If you want some challenges, 465 may be a good idea but please be cautious. EECS 203 will always not be the bad option to choose, since it is notably easier than the other two math courses listed and the content is enough for CS major.
+I'm currently taking EECS 203, this class is definitely geared towards CS majors, and it is not nearly as bad as a lot of people say. I've heard from a lot of people that they cut down on a lot of the useless content in the past year, so people that took it before then will probably say it's harder than it actually is. It's by no means a super easy class but it is definitely doable even with other heavy courses. Hope this helps
+
+Edit: to better answer your question, if you've already taken Discrete Math and feel confident about it, you probably won't need to take EECS 203
+I liked Diaz more than Emily. Many friends find Emily better at explaining the most difficult concepts but I personally preferred Diaz's pacing and delivery
+i have graetz, they’re awesome.
+you can also watch whoever’s lecture you want so it doesn’t really matter who you register for
+Graetz is crazy overrated, Diaz is better. Heard bodwin is rlly good tho but he’s new this sem:
+Diaz imo
+Graetz is the best imo
+Bodwin is relatively new, so not all comments have feedback for him.
+
+When I took 203 I had graetz. When I took 477 I had bodwin. Imo they're both wonderful and I would strongly recommend both for different reasons. You should watch at least one lecture recording of each to see who clicks with you better
+Diaz
+Bodwin is goated.. the class mood always feels chill and he does his best to interact with the class as much as possible
+KIM ALL THE WAY
+For me that would be absolutely hellish. It’s certainly doable but you aren’t gonna have much free time. If you’re susceptible to burnout you may want to have a half term to reset before fall. 
+
+If 101/151/183 was easy for you and you were great at proofs, combinatorics, and probability in high school, you could probably swing it.
+I actually took eecs 203 + another course last summer. I would say it’s doable (but painful) just don’t have a full time job during the spring semester.
+Not bad at all. I don’t think people have realized it yet entirely but they dumbed down EECS 203 a lot. You can definitely do it
+The thing about 280 is it’s extremely easy, but also extremely time consuming and that’s not considering a shorter semester.
+i did it last year, definitely tough and didn’t really do much else during spring semester, but summer was pretty relaxed with just 203. i think it also prepared me well to deal w the course load of 281 and 376 the next fall
+If you can stretch out 203 do that, 280 is only possible like that if you feel highly confident in your programming skills, otherwise I would not risk your money like that on eitheer cause you only have so many finaid semesters and you are risking one of them here.
+Fill out the permission request form and they should be able to handle that for you. The link should be:
+ https://docs.google.com/forms/d/e/1FAIpQLSdaFFV7RAcBvdjvfAzkhhxx6o-DE2AxcBXyaCJOL0dht8pjkw/viewform
+
+They're usually pretty quick with it so you should have your response by tomorrow or at most by Thursday morning 👍
+Hey at least you're not whoever apparently seems to have received a -7.4% after curve
+I think what helped me most is completely understanding the material the same week it is taught. This can be done by solving every HW question by yourself (incl group HW). If a question is tough try to rewatch the part of the lecture that talks about it rather than asking for help immediately. Toughing out the HW by urself is IMO a really good way of learning the material. This way you’ll be in pretty good shape for the exam early on. Aside from that you can redo HW problems, practice exams and go through lecture slides a few days before the exam. Good job though! It seems like you are doing well anyways and can def improve on the next exams.
+I got a 91, main thing I did was I went thru every discussion problem and every problem in review session before practice exam, then i took that guy how I would take the real thing. It helps to have ur notes ready to go, including past hw problems as well (since its open note).
+I also did worse than I expected but that was because I was expecting there to be a big curve...but the curve didn't do anything to my grade
+yeah it was pretty tough, I should have studied more but I’m lazy 😿
+I did pretty average with an 82.5.. pretty good considering I couldn’t do natural deduction to save my life. It does feel like I wasted a good 20 hours studying, but I’m hoping to finish out this class with a B or B+
+I did well above average. I did every practice test and every discussion problem. They are very helpful!
+I got a 100 on the open response, but the multiple choice absolutely fucked me over 🙃
+I got in the high 90s for the exam, and I actually did not have to study as much as I thought I would because I had already grasped the material quite well from doing the HWs. For me what really helped is understanding the HWs and making sure you learn any topics you don't understand from them BEFORE midterm season comes around. What topics were your worst on the exam? I'd argue that different topics, such as logical equivalence, natural deduction, written proofs, etc. should be studied in different ways, and I'd also argue that 203 is a class where the quality of your studying matters much more than the quantity of it. PM me if you'd like.
+I took eecs 203, 280, and Econ 401 and I was fine
+Edit: depts
+Oh for the love of god. They’re two bloody classes. There is no combination of two classes at this school that are too difficult to take simultaneously.
+Idk about Econ but eecs 203 is pretty manageable. I think you’ll be fine
+Last one was tough I messed up on it but maybe I’ll get partial credit
+It’s over both the spring and summer terms. So it’s a non accelerated version that is over the whole summer break. 
+
+Depends on you. I think watching lecture recordings is fine others prefer to go in person. It’s prob a good idea to go to discussion especially if you’re struggling but not necessary (you could just do the discussion problems on your own)
+
+Exam are probably gonna be online but that’s just my guess
+
+Yes you’re definitely in a good spot considering it’s not even accelerated.
+Just for the second bullet; I don’t think I attended any lectures after the first week or two. I just watched the recordings of Diaz’s lectures and everything was a-ok. So totally doable in my opinion.
+
+I also didn’t go to discussions, but you might want to do that if you can; the GSIs and IAs when I took the course were really good.
+Hey I'm one of the IAs for EECS 203 this semester. I'm sorry that the class feels kind of defeating right now, but please know that you're not alone in feeling that way. Like we said in the first lecture, this is a different kind of math class which requires you to think in different ways that you're not used to. It's okay to get stuck, feel like a moron, and get some problems wrong here and there. Just know that the EECS 203 staff are here to help you - go to office hours to get help on homework, reach out when you don't understand something, and we will do our best to help you out. We want you to succeed just as much as you do!
+
+One resource that I don't think is emphasized enough is the textbook. Doing odd-numbered problems and checking your answers in the back is a good way to get some additional practice. Also, I highly recommend re-writing the proofs we do in lecture out by hand. A lot of the proofs in this class follow a similar rhythm, so the sooner you can get that down the better off you'll be.
+The Math Sorcerer and blackpenredpen on YouTube saved my butt plenty of times.
+Trev tutor p good, welcome to EECS 😱😱😱
+what subject y’all on? PM me if you need some clarification on the subject. 
+
+This class was absolute shit when I took it and I had to teach myself almost everything from the book and online videos. I felt like the lectures did almost nothing because the instructor zoomed thru 50+ slides; shit always felt like a race.
+hey I’m taking the class too. I’d be happy to talk to you about hw and stuff.
+Very doable
+Current 203 grader here.
+
+1. A 203 grader earns $12 per hour.
+
+2. There are about 20 graders this term. I would say it’s not that competitive maybe? As long as you apply in an early stage and have a decent grade like A in this class, you are likely to get the job.
+
+3. For the workload, every grader will need to grade one question each week. There are usually 2-3 graders grading the same question, so being a grader will not take you lots of time.
+Just look at the transfer database https://transfercredit.ugadmiss.umich.edu
+Why do you have to flex on us like this :(
+Pretty sure they have something on Wolverine Access where you can post your services but I’m sure you could just get business from leaving this post up, especially around now cuz the final is in about a week and a half. You also might want to mention what your going rate would be for this
+Just a quick question, how difficult are the exams usually for this class? I find the hw and practice exam to be pretty easy but apparently the exam is harder than those.
+might need u fall next year 🤩
+[deleted]
+ASU! I took it through there when I was working for Starbucks since they were paying for it. Their class is 3 credits rather than 4 but you can make up the extra credit with an elective (at least for CS-E). The course itself is very well-organized and I got an A- in it, which I could never have done if I took it here at UMich.
+I have been looking for this too!
+I'm taking it at NVCC, they offer it and it transfers here.
+Physics 140, eecs 203, eecs 280, easy ala class looks like one of the most typical freshman CS schedules you could possibly make. Don’t expect to be a walk in the park because it’s not, but everyone will go through it so you’ll be able to find many friends with like the same exact schedule
+If your deciding between MechEng and CS, why not split the difference and look into the robotics major?
+I had to make this decision in Winter 2020. It was hard to decide, but it is one of the best I made. If you think you’ll do good in EECS 203 then keep it it’ll serve you as the advance math class for your ME degree. Good luck!
+I took that schedule +math 215 a while back. 4 STEM heavy courses was definitely a lot, however, it was technically doable and I did decent in all of them but definitely take an easier 4th class if you wanna really focus on getting solid grades in all of em
+Can only speak on physics 140 and EECS 280, even though I haven’t heard “ nice things” about 203. The pair is definitely double. IF you don’t procrastinate on the 280 projects and study 3-4 hrs + review lectures for 140 they shouldn’t totally kill your chance at having a social life. When you add 203 to the mix, good luck.
+youre fine, if you want to take chem 130 with all that that would prob be doable too
+If you look at the page for 203 on Atlas, you will see that historically it has been offered in the spring term. However, it was not offered last spring, so take that as you will. The course guide for spring 2022 will come out when the one for fall 2022 comes out.
+Just want to put it out there, yes you can take 203 over the spring semester.
+
+
+Would I recommend it though?
+
+No. That class is extremely conceptual difficult and the class is very fast paced already. I could not imagine taking that class at 2x speed. Be weary taking that class. It wrecked me😂
+If you look online, there’s a transfer credit lookup for school of engineering. I would just find a few cheap online schools and see if their discrete math classes that transfer.
+All EECS classes I took last semester offered online accommodations to students still abroad due to the pandemic. It is possible 203 professors would provide you with the same accommodations. Lectures have been recorded for the class for years now, so the only change they would need to make is giving you an online exam. They should already have one designed, so it should not be too great a hassle to provide it to you. Speak with them ahead of time as to whether this is possible.
+203 records lectures and discussions, but exams are in person. in theory you should be able to take the class online and then fly in to take exams
+I can relate. I'm a junior in 203, too. Definitely makes you feel behind when so many ppl in the class are freshmen or sophomores. It is a notoriously hard class, so don't be too hard on yourself. I'd recommend setting up an appointment with a professor to talk about your grade and what to do from here.
+I would go talk to the professor during office hours.  I almost failed 203 back in 2006 and it was the hardest class for me.  I ended up in every office hours but got by with a C+
+the curve score hasn’t come out yet on canvas
+I mean it’s unfortunate but if you fail 203 I don’t really think there’s much other options than to retake it.
+
+Apart from this I heard that math 465 might serve as a prerequisite to classes that need 203, but I have not taken it so do your own research if you choose to go this route
+would that help?
+yes
+Attendance is not mandatory. Usefulness vary. Definitely go if you are struggling with the topics of the week. I went to none while taking it and was fine
+You probably won't be forced to go to the discussion you signed up for -- you can just show up to another one if it works better with your schedule.
+As others said, it is not mandatory. 
+
+However, I usually find them to be pretty helpful and u are allowed to attend any Discussion u want. 
+
+ I suggest signing up for whatever is open and choosing a couple different ones at the start of the sem to see which IA/GSI u like 👍
+I'm doing fine in the class and only went to the first discussion, there aren't assignments or attendance and they're all recorded anyway if you need to watch
+You can go to any discussion section, I went once the whole semester and ended with an A- . EECS 203 is a class that people blow so out of proportion, it's really just a math class that gives a base level intro to various upper level math topics unrelated to calculus. If it's your first class that requires writing proofs that's the biggest challenge, also I found the textbook really useful but I know a lot of people didn't use it at all.
+376 has much less breadth than 203 so I felt it was much more digestible to prepare for and have a grip on the material. Personally I did better in 376 than 203 so I think you should be fine
+EECS 376 introduces a lot of new stuff with a heavy focus on Turing machines, algorithms, computability, and mappings throughout the course. However, many of the proofs that you will have to write (most of the homeworks are just proving things) will rely on 203 knowledge such as graphs, asymptotic complexity, and permutations. EECS 203 is a difficult course and B is right around the middle of the distribution so I'd say you'll do fine in 376.
+Learn how to play euchre for 280
+For 203, one of the best things you can do to prepare is study logic and proof writing, it will take you a long way in 203.
+Dang - that's a pretty intense schedule for a first semester.  Definitely start assignments as soon as they come out, and don't be afraid to ask for help.  MRADs should have  in-house study group tutors too, so use that resource.
+Watch the vids the IAs make for 203. Saved my life on the exams when i didnt get what was discussed in lecture.
+All you need to know before you take 280 is C++ syntax. They will cover everything else. Highly recommend learning how to play Euchre before the class starts. For 203, it was just like a math class imo. Just learn the content as you go and study as you would for any other class
+Not a comment on your first semester plans, but just to make sure. You know that Data Science exists and is a dual major between computer science and statistics correct? Not to say at all that double majoring is a bad idea, you get a ton of coursework and experience I am sure, but I just want to make sure you know there is a major for that.
+Honestly, best advice is make sure you know when the add/drop deadline is and acknowledge that it’s not the end of the world to drop a class. That’s a rough schedule for your first semester and if it’s making you miserable, drop a class and take it next semester or over the summer. It won’t be on your transcript and no one will be any the wiser if you do it before the deadline. BOL friendo
+Quite a schedule you got here. 
+
+But for 203, no matter how much you prepare you will never be prepared for it, but studying logic and proof writing and finding a video on YouTube about how to go about thinking about the logic should better prepare you for what they throw at you
+
+280 teaches you C++ for the most part but some things you need to self study so you should be good by watching the 4 hour video.
+I would suggest not taking 203 AND 280 first semester as you need time to adjust to college. On top of this, this will be the first semester back from COVID so you may find it extra hard to adjust.
+Highly recommend attending all discussions/labs for 280 and 203. I know attendance of them isn't required for 203, but not sure about 280, I feel like I skipped some and just did the lab online. 
+
+Either way, they go over concepts and I found that helpful for exams for both classes. If your assigned lab/discussion IA isn't helpful, try different sections, really makes a difference if the material doesn't immediately stick. Also, there were usually only a handful of people there at the ones I went to, like less than 10 people after the first few sessions, so you basically have free office hours once they run through the material.
+Other people have given you better advice so all I got is "find a nice place to cry after exams"
+Just want to mention that I’m in the exact same boat as you and I’m so glad I found this thread! I have C++ experience but was worried about the difficulty of taking these classes much earlier than most students seem to. Good luck to us, hahaha
+280 is not bad, just make sure you start projects early
+I took 203 maybe a decade ago, but back then, it was pretty much straight out of the textbook. If you're really concerned, just buy the textbook now and start going through it yourself. It's pretty well written and there's plenty of practice problems. 
+
+I also went into eecs280 with no C++ experience. It was definitely a lot of working playing catch-up during the initial projects, but overall not too bad.
+for 203, the homework can make your life miserable each week, just don't fall behind on the lecture cuz that class is hecka fast paced... good luck!
+All you have to do for 203 is go to office hours until you find an IA that does a good job leading you to the answers. I found one guy who I thought did a great job of helping me out (they won’t straight up give you the answers in 203 like they do for other classes if I remember correctly unfortunately) and would go to his OH once a week to get it all done. Don’t bother with professor OH, they’re completely unhelpful
+My first sem was kinda like urs except I didn’t have those 3 creds of research stuff. I can say that it wasn’t as bad as some ppl think, but those 3 extra creds can make a difference so that’s for you to consider. I also did not know C++ coming in and went to 280 straight and it was fine. Just start 280 projects within a few days they are released and find a good 203 group and you’ll be golden. Office hours save lives.
+Ummm stats 412 is already full so idk how you plan to take that unless you already registered…
+For 280, they have project videos and lectures on YouTube. For 203, pray. That’s all you can do because you will never truly be prepared.
+Don’t even stress, work on things you love doing over the summer . 280 and 203 are really hyped but consistency once the class starts will allow you to comfortably do A- or better. I don’t think you have to prepare beforehand! theyre really well taught and resourced classes!!
+yeah that’s a pretty doable schedule you should be good
+Especially for EECS 280. Do not rely on a partner for anything. The class is not very forgiving when it comes to projects. I would recommend going solo on all the projects and just putting in work.
+Hi there! Would you be interested in joining a study group for EECS 203 during this fall 2021 semester? We are the Chapter of the Scientista Foundation at the University of Michigan, a campus organization that is creating study group(s) of three to six classmates enrolled in the EECS 203 class. If you would be interested in participating in this study group, we have an Interest Form you can complete at https://forms.gle/jTvGTGWkHAgLzh1G6. Feel free to contact the Chapter through the Contact button at [https://maizepages.umich.edu/organization/scientistachapter](https://maizepages.umich.edu/organization/scientistachapter) should you have any questions or need further information.
+Hey! How are you doing with the classes? I'm planning on doubling EECS 203 and 280 while taking ENGR 100 and a very easy intellectual breadth class. Would love to know if you have any tips
+That would be a normal EECS workload for an underclassman. If you're pretty sure you want to pursue CS then I would say go for it. If you're on the fence and just trying CS out then maybe just take EECS 183 and if you enjoy it then continue on full steam ahead.
+Definitely possible. I took 203 before 183, and I was fine in both.

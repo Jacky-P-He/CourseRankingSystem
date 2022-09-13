@@ -1,0 +1,193 @@
+Definitely worse than 281. Haven't heard a lot of people on here say that but everyone who I've talked to in person about it agreed with me. I took it with 370 and it was doable but 485 projects would take days out of my schedule.
+
+Edit: Just wanted to add that 485 expects you to learn basically every programming language and the associated libraries that you use in the class on your own, so if you don't have much programming experience outside of C++ it might not be so fun.
+I personally thought 485 was more project work, but maybe it just felt more because I took it during the pandemic. I guess your mileage will vary since there seems to be a number of people who think it is less work. It could be possible that these people already knew about web dev before taking the class, but I don't want to be presumptuous.
+I'm currently in 485 and 370. In my opinion 485 has a much heavier workload than 281, mainly due to the learning curve and having to self teach a bunch of new programming languages. I also personally found 281 much lighter than people make it out to be. Taking it with 370 is good tho, imo 370 is one of the lighter cs classes I've taken
+I will say that contrary to the other commenters I found the workload of 485 not too bad, probably similar to 281 (disclaimer -- took the class last year). I think that taking it with 370 would be reasonable. I took it with 482 and it was manageable enough (I had little free time but could continue with my clubs, also had stellar groups for both classes). YMMV but if you can find a good group for 485 I think that taking it with 370 would be perfectly fine, with a bad group I think it would be difficult but you can manage depending on your GPA standards/work tolerance.
+If you’re not in a rush to take it, there’s also the option to hold off on it until you feel like you’re ready to take it. 493 might be hard to get into, but if you can get a little get of web dev experience beforehand it would be helpful (although not required). Maybe even taking 484 could help ease your way into 485. 
+
+IMO, this class is definitely worth taking and it’ll require more diligence and planning than other upper levels.
+In its current state, 485 is extremely project heavy - your grade is 50% projects, 50% exams. The projects aren’t anything particularly tricky, they just take time. They also require grouping up - if your partners blow, you’re gonna have a rough time.
+
+If 281 was manageable for you, then so will be most upper levels. This one’s no exception. I think most people would put it one step below 281 in terms of workload - find good partners, get an early start on projects, and you’ll be fine.
+I honestly found 485 to be not too bad. I’d work on it maybe 4-5 hours, then 2 days before the deadline id work on it 10 pm-6 am and get it grinded out.
+I will always say yes to a 1-1 call with anyone who asks. You don't need to talk about what happened in the past if you don't want to -- this is a zero shame space -- and we can work together to make things better for the second half of the semester.
+you can't be doing worse than me. i didn't finish the react part of project 3 and that costed me on the midterm as well. i am finishing project 3 over the break
+For me, it’s okay if you were expecting to do poorly and did poorly, but if you were expecting to do really well but did poorly then that’s a big oof. 
+
+The latter is exactly what happened to me rip, I really thought I had multi choice down but I did not at all. I guess I lack super deep conceptual understanding :( 
+
+But yeah, doing more work in the projects is for sure important. I recommend that you read and understand your teammate’s code too. That helped me a lot.
+Same. I did terrible on the exam. Wondering same thing
+You're already switching groups which is a really nice start, if noone lets you do much then you won't learn much either. If you want more resources for the conceptual part of the class I think Deorios lectures from last semester are really nice (you can get to them from his personal website [here](https://www.andrewdeorio.com/)).
+I’m assuming the exams are in the same format as previous semesters. The advice depends on what part(s) of the exam you struggled with. 
+
+Free Response? For the final, try and understand P4 and P5 in depth as possible. What I mean by that is, P4 you build MapReduce and in P5 you build a search engine that uses it. Understand to the best of your ability how MapReduce works and the process of translating a problem into a map reduce one. 
+
+MC? Can be hit or miss, but do your best to understand the application of concepts. I.E when to use technique X and why?
+
+Best of luck and feel free to PM!
+485 is a good class. 493 is a pointless joke that you take to get an easy A
+485 goes over web systems and full stack web apps. 493 is a crash course on front end web dev with a few design pieces mixed in. Take whichever interests you more. Personally I thought 485 was overall a better course and had more depth but if you have no interest in learning about working with backend tech then obviously don’t bother. 493 is alright but you can really learn everything in that class from w3schools or something similar
+I took both of these classes but in separate semesters. 
+
+If you don’t have web dev experience and is a bit rusty on your stats/linear algebra, then I’d say each class by itself is easily equivalent to 281. 445 is a lot of theory and 485 is a lot of googling/busy work. 
+
+If you do have prior experience then they are not too bad I guess. 
+
+I would say take an easy 3rd class lol.
+It's possible yes, but not if you take 445 and 445 at the same time. Two much too handle.
+If you also have some internship experience, then 485 should be relatively easy.
+
+445, unless you have a math background, will be a lot of net new and require a bit of studying.
+
+If you've done neither, then if you got an A/A- in 280 and 281 and didn't struggle to much on the projects, it's doable.
+I’m in that combo right now and it’s very doable! Probably one of the better balances of EECS classes I’ve taken in a semester. 376 has weekly homeworks while 485 has projects due every 2-3 weeks, which I like because 376 deadlines are more short term and 485 deadlines are more long term. I think 376 is more studying and like figuring out more mathy concepts, while most of the trouble in 485 comes from actually programming and figuring out Python/flask/react/sql etc if you’re not already familiar. Also personally I really like combining one programming-heavy class with one more conceptual class when picking classes for a semester. Definitely a doable combo and I honestly highly recommend, especially if those are your only 2 eecs classes
+Not great not terrible
+that was my first ulcs and i struggled thru it but that was mainly bc i didn’t have any prior experience w web dev. my friend who’s had experience in that stuff is taking it rn and she’s def having a much better time than i did
+Honestly not too bad if you have experience writing API’s and front end. The second half might be a bit challenging tho but it is not too bad if you have a good team.
+The only thing they share is SQL and databases. 484 goes into depth about SQL commands while 485 is very basic
+If you intend to work with databases in your job one day, I would definitely recommend taking 484. The first half of the course teaches you SQL commands, schema/relational database design, and database redundancy normalization. The second half covers NoSQL and how a database system actually works under the hood with joins, unions, queries, etc. While database backend is not as useful for industry, it is still very interesting.
+
+TLDR; After taking 485 followed by 484, I realized I did not learn nearly enough SQL in 485 to say I am proficient on my resume. If you have any interest in backend development, strong SQL skills are essential.
+I am in 484 and 485 right now. It is very manageable. Between 484 and 485, you will gain many skills if you haven’t already learned them before including: Python, HTML, CSS, JavaScript, React, Bash, Hadoop, SQL, MongoDB, and Java. I don’t know about 388.
+388 is a better class in general imo, and it’s fine without 370. Also would pair nicely with 485.
+
+With 388 you either love it or hate it. It was my favorite class I’ve ever taken here
+This one is pretty much down to personal preference I’d say. Take whatever interests you more.
+
+>	I’ve heard super mixed things about 484 and the way that class is run but I also know it’s a pretty important class to take since you learn a lot of critical skills.
+
+I mean, it depends on what you wanna do out of college. For the average CS undergrad, I’d very much disagree that there are a lot of “critical skills” learned in 484 - it’s mostly just SQL stuff that you can learn fairly easily via online tutorials, and after that it’s all about how DBMS’s are implemented which isn’t super relevant for your typical SWE grad.
+
+*Might be worth taking this with a grain of salt since I took the class with Leach who is no longer teaching here.
+484 has a good professor this semester, I’d recommend taking it. You can technically learn the content on your own but I personally found SQL very awkward and unlike normal programming languages. SQL online resources also suck donkey balls compared to other languages and is simultaneously expected knowledge for data scientists.
+why not eecs 445 instead of stat 415？
+If you have experience with them you should be fine.
+You can be done with time to spare
+Half the time I spent on project 3 was just learning react. You’ll get it done
+Ugh, didn’t finish mapreduce question and felt like multiple choice was a complete crapshoot. Def tougher than the midterm.
+Also did zero preparation, also think I passed? Between 370 and 485 today my soul has been fully reaped. I am now a hollow shell of myself; like a robot, programmed to fail eecs exams
+Apparently better than the 370 exam
+Yeah, this was more difficult than the midterms. I was rushing a lot
+I. Just. Got. Mucked.
+Mapreduce wasn’t the easiest but I think it was doable. The threading question was not bad at all. IMO some of the MC’s were super hard tho, like I guessed on a bunch of them
+I didn’t think it was that bad. However the map reduce question took me a lot of time since planning everything out is a bit of a headache. Multiple choice wasn’t terrible either and the threading question was prolly the easiest out of all the FRQs we’ve had in the class. Shoutout to Deorio tho for keeping my interest while cramming lectures!
+Was it just me or was the MapReduce question easier than past exams? It be making me feel uneasy.
+[deleted]
+https://atlas.ai.umich.edu/course/EECS%20484/
+https://atlas.ai.umich.edu/course/EECS%20485/
+
+looks like 485 is a lot more work, but has a slightly higher median grade
+
+I've taken 485 and can attest a lot of the work takes time and can be conceptually kinda difficult, but haven't taken 484 so idk
+484 is definitely easier but I heard bad things about the class and the professor so ¯\\_(ツ)_/¯
+I highly recommend 484 over 485! I personally found the 485 projects long and kinda confusing. It takes me days to finish a 485 project but only a couple hours to do 484. Also 484 doesn’t have hidden test cases like 485 so you won’t get surprised by your final grade. 484 does have hw while 485 doesn’t, but I think it’s still less work overall. Plus I found the 484 exams easier but maybe that’s bc I liked the concepts taught in 484 more
+Haven't taken 484 (taking it next semester though) but if you want the easier class I think 484 is a lower workload. If you have experience in Python / JavaScript / HTML then 485 won't be as hard, but I had to learn all these languages while taking it and that definitely added to the difficulty
+If you are DS major and do not want that much workload I definitely recommend 484, as it has has much less workload than 485 and easier project/hw. Although 484’s lectures are not good(not well organized), but you do not really need to go to the lecture to do well in this class(most people don’t go).
+485 really teaches you to not rely on lectures to give you all the info you need to complete the project (aka Google is your best friend forever). 370 is also a decent amount of work if you want a good grade (edge cases are a bitch in this class). 481 is a lot easier workload and the material isn't the hardest to understand, however the final project can take a decent amount of your time depending on what you do. IMO don't do all 3 together, but it is technically doable
+From my experience, there is a huge conceptual gap between 281 the the rest of the upper-level courses. Before 281, you have been focusing on algorithm and optimization, but for most of the upper level courses, performance isn’t the focus, and the learning style shifts a lot from “you do what you learn in class” to “google the solution yourself.” That said, I think doing eecs 485 as your first upper level is definitely a good choice, as it introduces a wide range of ideas that you will come across latter on in your CS education, but it does have a significant workload. I heard 481 is relatively easy, but still it is a upper-level and I don’t know if jumping into two upper level + 370 is a good idea. So, I would suggest you take 370 and 485 together, and just choose other non-major classes that you need to graduate.
+pt.3 was honestly the easiest out of all three pts in my opinion since you just reorganize your code for pt.1 but i’m not sure exactly how many hrs i took to finish it. i think you can finish it in the next few hrs before the deadline if u grind. personally i’d just use a late day or something (i don’t remember if we get one or not so you should double check on this) if i were you just bc i don’t wanna stay in school any longer than i have to
+I took the course last year and also dropped the ball and didn't finish part 3, though I was so frustrated because I also knew what to do; I just needed the time to do all the Jinja2 stuff, which was straight-forward but tedious/time-consuming. I got like a 64% on that project just because I didn't have part 3 fully done, but I still finished the course with a B since my partner and I did really well on all projects after that (except for one where we did okay). I did about average on the exams too. If you're okay with not an A, then you're definitely not screwed yet.
+i really underestimated the workload in this class lol. I also spent way too long on the css which was quite dumb of me
+same boat, only did hand coded part and 3/4 of part 2 and 1/10 of part 3. im thinking if i do good on everything else we can probably still get an A but i have no clue
+485 is a great intro to full stack development, and I'm not sure there's anything else like it here. I took it this semester, and while it can be tough to learn new frameworks or languages, it's completely doable and will surely be helpful for any career in CS. It's a must-take course for sure.
+> Does Eecs 485 have any mandatory lectures or labs?
+
+No
+
+> Does Eecs 485 have any collaborative projects or can they be done individually
+
+I don't exactly remember if its allowed to work solo, but highly recommend working with a partner
+
+> What programming languages do you learn in EECS 485 and to what proficiency?
+
+* Python: You get pretty confident in your abilities after the course. No real OOP but you learn a ton
+* JS: Decent amount through Reactjs, not quite as much as Python due to only using it for P3.
+* SQL: Lost of exposure to mySQL (and PostgreSQL), P1-3 strengthen this pretty well, although probably not quite to the level of EECS 484 (though I haven't taken 484 so I wouldn't exactly know)
+* HTML/CSS: Entirely dependent on how much effort you want to put in as the "look" isn't what is really graded
+
+> Is EECS 485 easier or harder than 281 in project difficulty?
+
+I'd say pretty comparable difficulty, only thing is 485 requires a lot more self learning and Googling than 281 - 281 they give you everything u need in lecture/lab to be successful, whereas 485 they don't really tell you much about the project other than "hey this library would probably be useful for you to use, but we won't tell you how it works ;)"
+I took the class a few years ago, so my information might be out of date.
+
+On a scale of 370 to 281, I feel it was closer to 370. 281 was challenging because it was a combination of 1) I have to figure out how to do this 2) once I figure out how, I have to figure out how to do it well. In 485 and 370, I almost always felt like I knew what to do, at least in a pseudocode sort of way.
+From my personal experience, the projects in 485 are in between 280/370 and 281 for both difficulty and time needed. Time outside of class will vary depending on your experience/familiarity with some of the concepts used (mainly for projects 1-3).
+Am I the only one who felt that the MCQs are significantly harder than the previous exams...
+Yeah the last FRQ was pretty tough. I felt like I was learning some React during the exam LMAO
+Existence is pain
+F. For real that was 1000x harder than the previous exams
+The scrolling hurt my soul
+I feel my heart crack
+Ahaha that was so hard ahaha
+F
+Please NO. I don’t wanna think about this exam😩
+It's really not that bad...MC is just testing your understanding of lecture, and FRQ is testing how much you understood the projects...
+
+Basically if you didn't pay attention in lecture, and didn't do your share of work in the projects, well then yeah, the exam will seem difficult.
+Flask and Django, OP how are you using both? Both have different paradigms and styles associated with them. Are you using dispatching of some kind?
+Isn't it still winter break for y'all?  How are you on a 485 project?
+I did super well in 485 when I took it. Lecture slides are really key for the multiple choice, lots of smaller things can be tested that will be on slides but not discussed super in depth in the actual lecture.
+
+For midterm 1, if you really wanna tryhard and have the time to, try making a mini project on your own that models similar things you did for Insta485. Maybe try to emulate a subreddit, to-do list/calendar or something like those examples that requires GET and POST calls. Probably the best way to reinforce everything you've done with flask + sql + react (and maybe you can turn it into a cool personal project for your resume who knows)
+
+And for your cheat sheet, write down all the important flask + sql functions (decorator, creating + executing select/ins/del queries, accessing session, jsonify, etc) as well as basic react stuff like how to declare components, create a constructor, change state with inputs/buttons, stuff like that. Best of luck!
+know projects 2&3 very well for the frq, basically just flask, basic sql, and react
+
+just be familiar with lectures for multiple choice
+There's professor office hours right now. If you have time you should join
+As far as I'm aware, MacOS is actually much better for web dev than Windows, and fairly even with Ubuntu since both are *nix systems.
+
+So between Ubuntu and MacOS use what you're most familiar with.
+I took the course W20 solely using MacOS, and it went really smoothly. I don’t think you need to worry too much, I’ve never heard of anyone having any difficulties. Good luck!
+I started out with a traditional VM, moved to WSL, and finally got a Mac half way through 485.
+
+EECS as a whole got waaayy more fun. Lol.
+I can access the lecture recordings linked from the EECS 485 website ([https://eecs485staff.github.io/eecs485.org/](https://eecs485staff.github.io/eecs485.org/)) even though I'm not enrolled in the class.
+If you get it, can you send it to me as well? Really want to learn 485 in my free time, since it’s so hard getting a spot in the class. Thanks.
+To be honest though, you dont learn much from the lectures about web dev. I felt like they were very disconnected from the projects, they instead covered a plethora of random subjects. I had to rely on google to do projects for the most part. So if you want to learn like the programming side, I'd suggest doing the projects instead!
+485 exams historically have pretty garbage questions. I got lucky and the final was mostly reasonable the semester I took it (apart from "this is a no calculator exam" then expecting you to do fairly non-trivial computations for some of the multiple choice questions) but they gave us the previous semester's final to study from and boy would I have been furious if I were given that garbage as my actual exam.
+Yeah my strategy for this class was to focus on making sure my free response was correct, then basically just circle random ass multiple choice questions. It worked well.
+That class really stressed me out a lot more than 281 did. Like the disconnect between projects and exams was extremely large.
+Yo old post but did you end up passing in the final? Shitting myself rn cuz I got below 1.5std from the mean in the midterm 😥
+We have a [schedule advising megathread](https://www.reddit.com/r/uofm/comments/gypdsf/megathread_incoming_student_course_selection/) for exactly stuff-like-this
+
+Edit, how tf does this have gold?
+You'll be fine to learn stuff over the course of the semester! You *can* choose to go solo if you wanted, but I only know 1 guy who did that
+They’re mostly all group projects so probably not a great idea to get a head start unless you don’t want your group mates to also learn the material
+On a side note: how would you recommend self studying before the class starts? I have no experience with HTML/CSS/Python, where and how should I start?
+You’ll be fine, plenty of people had zero webdev experience going in including me. You learn as you go
+I’m in 485 right now and I had 0 web dev experience before. If you want to get a head start I’d look over some basic documentation/examples of html, flask and react, which are the building blocks for p1 -> p3. Don’t worry about CSS I did none of it this semester all my shit looked really whack but worked well :) 
+General python knowledge would help, but nothing in the class is too complicated that you couldn't just pick it up as you go.
+I never worked with SQL before taking the class, I taught myself the basics and did fine in the class. For 485 the most difficult part was doing the JavaScript project. That being said, for most upper level EECS classes you're expected to be able to teach yourself other languages and tools.
+It's sorta a learn as you go thing. You don't need to know too much and basic SQL is easy to learn anyways. I don't remember, but I think they showed us a few examples in lecture/discussion.
+
+Ex) `SELECT COLUMN_A, COLUMN_B FROM TABLE_A WHERE COLUMN_A = 3;` tells it to return the rows where column_a = 3 and only show column_a and column_b in the returned rows. You'll want to look up update and create statements too, but it's not hard.
+
+Edit: same as the other commenter, I had no experience with SQL (or JavaScript and knew only a tiny bit of Python) going in.
+EECS 281 is the only enforced prereq. It's okay if you don't know SQL going in - what you need to know for the class is very easy to pick up.
+You’ll be good. They teach what you need to know during lecture. 
+You will be fine. You don't even use SQL. The closest project to a database is creating virtual memory and a file system. 
+That sounds like hell, why are you trying to do so many EECS courses at once?
+Any 3 EECS courses together is already pretty bad
+I took this three eecs classes together. 370 and 484 are doable. If you have a good bit of web dev experience, you can throw 485 in there. Otherwise, might be a lot to take on. 
+I'm going to piggy-back off this thread, because I don't want /r/uofm to be full of the same posts.
+
+Could I get some advice too, please?
+I'm thinking of either 484 + 485 + last semester of language + easy 1/2 minicredit
+or
+388 + 485 + last semester of language + easy 1/2minicredit
+
+Is there any differences in difficulty between 388/485 vs 484/485?
+Don't underestimate Stats 413 especially if it's with Yukai Sun again (which it probably will be). The class is extremely theoretical and the homeworks are almost entirely proof based. I did alright in Math 217 and EECS 203 so I don't think I'm that awful at theoretical math/proofs, but I pretty much can't finish any of the hw assignments without going to multiple office hour sessions.
+
+According to one of the GSIs, last semester the class was mostly Cs and Bs and very very few As. Our first exam had an average  72.5%, which is considered a C- under his planned grading scale (though I think he stated that he would likely lower the scale a bit).
+
+I actually do like the class quite a bit (a lot of people don't), but I really wish I took it in a lighter semester.
+Depends, on how focused you are and your work ethic. 
+
+If you consistently get atleast an A- among your EECS and math classes, then you should be fine. 
+
+Be prepared to work on homework and projects 7 days a week for several hours.
+485 is not hard or very time consuming unless you're really focused on killing the exams. 370 and 484 are a bit more but also a level easier / less time consuming than 281. I'd personally try and spread these into 2 semesters but I think you could handle 3/4 if you don't take any other class.

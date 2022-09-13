@@ -1,0 +1,47 @@
+That sounds like hell, why are you trying to do so many EECS courses at once?
+Any 3 EECS courses together is already pretty bad
+I took this three eecs classes together. 370 and 484 are doable. If you have a good bit of web dev experience, you can throw 485 in there. Otherwise, might be a lot to take on. 
+I'm going to piggy-back off this thread, because I don't want /r/uofm to be full of the same posts.
+
+Could I get some advice too, please?
+I'm thinking of either 484 + 485 + last semester of language + easy 1/2 minicredit
+or
+388 + 485 + last semester of language + easy 1/2minicredit
+
+Is there any differences in difficulty between 388/485 vs 484/485?
+Don't underestimate Stats 413 especially if it's with Yukai Sun again (which it probably will be). The class is extremely theoretical and the homeworks are almost entirely proof based. I did alright in Math 217 and EECS 203 so I don't think I'm that awful at theoretical math/proofs, but I pretty much can't finish any of the hw assignments without going to multiple office hour sessions.
+
+According to one of the GSIs, last semester the class was mostly Cs and Bs and very very few As. Our first exam had an average  72.5%, which is considered a C- under his planned grading scale (though I think he stated that he would likely lower the scale a bit).
+
+I actually do like the class quite a bit (a lot of people don't), but I really wish I took it in a lighter semester.
+Depends, on how focused you are and your work ethic. 
+
+If you consistently get atleast an A- among your EECS and math classes, then you should be fine. 
+
+Be prepared to work on homework and projects 7 days a week for several hours.
+485 is not hard or very time consuming unless you're really focused on killing the exams. 370 and 484 are a bit more but also a level easier / less time consuming than 281. I'd personally try and spread these into 2 semesters but I think you could handle 3/4 if you don't take any other class.
+I’ve taken 413 and 281. This schedule looks fine to me
+
+413: annoying class tbh, it’s not “hard” but it has random busywork and they are so anal with grading it’s hard to get an A. Also it says applied but it’s a proof class. If you liked 217 and 412 (I did not) you will find it easy, otherwise it’s solidly mid tier workload (280 level). 
+
+
+281: Order of magnitude easier than its reputation. EECS 280 projects were really dumb imo, I hated them so much because the class moved way slower than their projects and I didn’t know what was happening in their header files at all most of the time. Only saving grace were fantastic 280 professors. In 281 Dr Paoletti releases project tutorials where he explains each step of the project (make sure you watch the full 1 hour video b4 starting each project). In 280 you also were required to use certain syntax because they were trying to teach you specific things, but in 281 they just want correct outputs. Labs match up with tests 1-1 in 281 as well so you basically barely need to study. Go to lectures in person btw, Darden and Paoletti are literally such fantastic professors I cannot plug them enough. 
+
+
+My advice for 281 projects is make sure you are really writing code like a software engineer. A lot of my friends who were better than me at 280 (I got a B in that class) took triple my time to complete 281 projects because of debugging. People get into the bad habit of writing long functions and no classes. I wrote 3-5 separate header files and classes for each project and an assload of 5-10 line functions that called each other, so it never took me very long to debug.
+I think STATS 413 really depends on the instructor. I took it with Yuekai, and here is the course website https://www-personal.umich.edu/~yuekai/stats-413/
+
+I liked his class, but only as a student who already likes math proofs. Otherwise the amount of linear algebra and other rigorous mathematics might be too much.
+
+Not sure about the other instructors though.
+I'm currently taking an EECS course (spring half term) and the instruction has dropped, mostly due to the fact that they are understaffed and over admitted students. Having taken EECS 183 as a regular in-person class, I would say the instruction will likely be of high-ish quality (more than other classes, I'd expect), but the main difference would be the end-of-year showcase and final project, since that is normally in person and is with a group of students. Since 183 is an intro course and has a large staff, I would expect that lectures and labs would be fine. Office hours may be more congested than normal also. 
+
+I can't speak for any of the other classes.
+I can't speak on your specific classes you're asking about, but the quality of instruction wasn't too steep a drop off in most, not all, of my classes. I found the motivation to actually do work to be much lower, but for the majority of my classes my profs and GSIs were always available for help and really worked hard.
+I can't speak on those specifically but in my experience quality of instruction dropped a bit, and I think many people on this sub have expressed the same. I too am considering taking a gap semester if things continue online so many people are in your shoes
+It’s been pretty bad.
+485 will use Python, Javascript and MySQL with some CSS
+For STATS 413 and 415 you will use R to program which has its own language. The labs for these classes are based around using R as well and should teach you everything you need to know. If you know C++ though it is pretty similar and easy to pickup especially if you use RStudio.
+484 is SQL, Java, MongoDB
+415 is Python or R
+As a class of 2017 Stats Major, that concentration pretty much used R and R alone in any computational stuff.

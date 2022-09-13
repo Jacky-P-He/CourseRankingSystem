@@ -1,0 +1,60 @@
+If the homework and past exams are easy for you then you'll have no problem on the exam.
+What about TCHNCLM 496?
+[deleted]
+Took 301 with 280 and 216 and it was the smallest workload of the three by a significant margin if that helps.
+This, but I’d be looking to work with someone on the EECS 280 projects
+Sounds like a good question for office hours, if you haven’t already tried asking for help there.
+Basically go to office hours. For EECS 301, the material can appear easy when you just watch somebody solve the problem for you. The only way you can become competent with the material is by solving problems.
+250 is easy and you learn nothing at all. 301 is not a good choice for CSE since it discusses many EE topics. 412 should be the vast choice, not hard and only 3credits but hard to get enrolled
+Why are you so taking 270 as CSE? (Just curious). I've seen 301 wreck many of my EE friends, I wouldn't risk it. Some like it though. 412 was easy and is an option for CE as well. 250 is supposed to just be busy work. 
+I've heard good things about the prof for next semester, but I know a nontrivial number of intelligent people who have failed that course. Why are you in such a rush to fill the stats requirement? I would honestly put it off a semester assuming you're not a senior. Stats 412 is incredibly easy. 
+This scares me. As EE major, can I take Math 425 for req instead? (next semester)
+I can't speak for that class specifically, but I'm currently in Cergy as part of the Winter IPE program; feel free to PM if you have any questions about living here!
+Yeah I did that program last year feel free to PM me!
+All I can say is that Stats 412 was awesome and really applicable to real world engineering etc. Also, Jackie Miller was cool and the class was pretty easy overall. Would recommend.
+[deleted]
+I know this is kind of late, but I am also a girl in CE who is also probably going to fail her classes for stupid reasons. Feel free to pm me
+Take IOE 265! Low workload and easy class.
+412 is not a high workload but IMO it is very important to have good statistical knowledge as a CS major. If you want to apply to data science jobs, they will give you basic stats technical interviews along with coding. 
+
+Honestly speaking 412 is easier than 250 from what I’ve heard (haven’t taken 250). Calc 3 is not needed at all.
+[deleted]
+Hard as hell.  The summer I was there, everyone in the UMich cohort basically failed an engineering class.  Everyone that tried to do 3 classes dramatically overshot, and dropped either 1 or 2 classes.  Most people ended up doing 2 classes (one humanities class and one engineering class), and even then plenty of people failed the engineering one.  
+
+Math is very very difficult at SJTU, since you'll be at bottom of curve.  It's very easy not being able to get credit for the class, since failing at SJTU is like a F but not being able to get credit for umich transfer is a C.
+
+I would not take classes at SJTU, if you really really need the credit and are on a set timeline.  Anything goes...
+I haven't taken 412, but 426 is pretty theoretical and conceptually hard. 
+
+I took eecs 281+370+376 and stats 426 together last winter and I found the concept of 426 the hardest among all of my courses. If you are good at math and enjoy the theory you can go with 426; otherwise I would suggest taking 412 though it may have some overlap with 425.
+The focus of those two courses are entirely different. 426 is theory-focused while 412 is mostly applied. And yes, 426 is much more difficult than 412 from what I’ve heard. 
+
+Have you looked at 413? You might need to talk to an advisor to get permission to use it for requirement tho
+Just do 412, that schedule sounds crowded enough as is and I doubt recruiters will bat an eye.
+
+I did find the talk about estimators and bias useful (in 426) because I was also taking EECS 445 at the time but I think that was more just a happy coincidence.
+
+For reference I majored in CS + Fin Math and took math 425, 426, 525, 526. 425 and 426 can cross-list as stats although I’m not sure if that’s every year.
+Isn’t 215 an enforced prereq to 216?
+Ive never taken an eecs class but ima say fuck that
+Can't take 216 without 215
+i would say it’s a bad idea to do more than 2 eecs classes at once if there’s another option
+I think 215 is required for 216 which is good because this schedule will either kill you or your life
+I am doing EECS 215, 280, and 200, along with measily math. The hardest class I am taking is my math class. EECS 215 exam and hw policy is very generous and the class is well aimed at getting you to learn. EECS 280 will take a lot more time that expected, but is generally well suited to get you to the end goal with a pass. 200 is fun, but the instructors can be a bit funky
+I'd recommend adding 301 and tech-comm and splitting over 2 semesters, that's what I did last year and also took 203 (EE/CE double major). Assuming from 230 that you're EE I'd say take 200, 215, 280, and tech comm 300 one semester, then 216 301 and 230 the following semester. Those two schedules and something else small added to get to full-time enrollment would be challenging but doable, and allow you to start focusing on your upper level EE electives after.
+Yo ur missing EECS 203
+I don't think you can do that and even if you can, you definitely shouldn't 
+
+I'm debating whether or not 2 physics classes is too much... That many eecs classes would drive anyone off the deep end
+didn't take 200 or 230, but 215 and 280 along with one of those two is probably doable. I did 281 and 215 together with 7 credits of lighter classes (stats and econ) and it wasn't too bad of workload. Even if u could do 216 with those I wouldn't advise it, the hw in that class can be really time consuming
+Why?
+As someone currently taking EECS 201,203,215, and 270 it’s definitely an experience. I think you’re better off limiting it to two EECS classes per semester.
+Totally depends on how well you did in the other classes you’ve taken. If you’ve felt confident in EECS classes up until this point and found them straightforward then you can definitely take 3 or more EECS classes.
+
+I’m currently in 5 EECS classes and it’s a lot of work, but it’s definitely possible if that’s what you want to do.
+[deleted]
+Definitely take Math 425
+Try to find a good Math 425 professor too
+425 is strongly tailored toward students who are planning on taking the [actuarial exam](https://en.wikipedia.org/wiki/Actuarial_credentialing_and_exams#United_States).  I think the class does provide a good foundation in probability, but be prepared to have a lot of practice specific to an exam you are not going to take.
+They added MWrite to Math 216? As if they couldn’t possibly make that class worse
+Oh boy. You might be grading my papers then!

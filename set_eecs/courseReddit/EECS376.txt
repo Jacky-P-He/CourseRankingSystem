@@ -1,0 +1,196 @@
+I really love 376 because it's super interesting stuff that really addresses the core mathematical foundations of computer science. I definitely get why people find it pointless because it's definitely not as practical as other CS core courses, but I think it's just fun because it involves a lot of problem-solving and puzzle-like aspects, which I love. 
+
+Also, it seems much more organized + better-run than 203, although the content is definitely more difficult. I think my understanding of computation as a whole has definitely improved through taking this course, though I get that the people doing CS just for the money / who only like the hardcore coding aspect might not appreciate it as much. Also, the profs are  great! I really enjoy going to Jimmy Zhu's lectures.
+I think it's because of the lack of distinction between computer science vs. software engineering in the curriculum here and at many but not all colleges. Most CS majors here are aware that they're on track for good careers as software engineers, so the theoretical computer science (math) classes like 376, 477 are less popular than the applied classes like 281, 482, 485, because people are placing the most value on the classes they see as giving them more valuable career skills.
+I feel like 376 is a course for CS people who want to go into grad school, like tbh I feel like I gained nothing taking this class. At least in 281 and 370 I gain more experience in practical computer programming experience and vaguely know how computer processors work (so if I wanted to I could make a computer in minecraft because of 370).
+
+But tbh in eecs 376 I don't feel like I really gained much, like I don't ever see myself using anything that is taught in this class. It's just proofs of random computer science stuff.
+Like everyone else said, it doesn’t seem very practical to what you will be doing “on the job” in industry. It feels a little like a continuation of 203 (and 281 to an an extent), so it is very math heavy and very abstract. If you didn’t like 203, you probably won’t like 376. 
+
+That being said, I thought it was much better than 203, which sounds like it might be an unpopular opinion from the other replies. 
+
+It may seem too abstract and useless at times if you don’t want to go into academia or research, but I really don’t think that’s true. It gives you insight into some of the fundamental ideas, algorithms, and thought processes behind computer science. It gives you perspective as to how we got where we are today, and where we can go in the future. And of course, you are learning how to think and how to problem solve, which is what’s important at the end of the day. Once you get some experience under your belt you start to see that your mental models and ability to think creatively and efficiently is so much more important than knowing how to use a language or what something like polymorphism is.
+it’s my favorite class at umich. a lot of the concepts are somewhat difficult to grasp, but the material is by far the most interesting that i’ve taken.
+It's truly the foundations of computer science and should be taught to all CS students. However, the class is so poorly taught that it is a joke. The entire course needs an overhaul. They basically just throw a bunch of random proofs and concepts at you and expect you to extrapolate higher level concepts on your homework.
+
+Students have been complaining about it for years. I took it 7 years ago. The professors say its a course that everyone needs to go through, it's like a right of passage. I heard a professor say a variation of "Everyone before you had to take it, so you do to". Which I can agree with on some level, but just make the course not suck so hard.
+
+If I was a professor, I would want to teach this course, because you do nothing. Just show up to class, talk nonsense for an hour and leave.
+It’s a hard discrete math course lol
+We plan to accommodate everyone on the waitlist.
+I'm in Zhu's class right now and he's great
+For 370, the class is essentially split into 3 parts during the semester. Prof austin taught the first 1/3 for my section, he was good but a lot of his explanations could use work. However, the GSI that’s teaching the current part (Lauren Biernacki) is amazing. Really great at explaining concepts well while keeping things concise. Can’t really give any recommendations (sorry 😅), but this has been my experience so far.
+mark brehob is amazing for 376
+Kamil is good for EECS 376
+Tang is very, very clear for 370. She's the only instructor that insists on writing annotations on slides by hand to guide you through concepts and examples.
+Really enjoyed Narayanasamy for 370 and Kamil for 376 both were clear and always answering questions
+Both these classes are very conceptually challenging. Most important thing is to understand 100% of lecture content by the time you get to the next lecture. Use office hours religiously.
+
+I personally found Kamil’s lecture notes more useful than lectures themselves for 376. I would honestly recommend skipping lectures for this class if you aren’t gaining anything from them. 376 is all about practice-practice-practice.
+Watch Beaumont recordings for 370, you’ll be much better off!
+Last fall I watched Satish & Amir’s lectures. Both are pretty good for me, especially Satish. 376 with Amir will have a reasonable exam, but 370 with Satish & Tang will have a very hard final exam.
+Narayanasamy one of the clearest and best lecturers in EECS he breaks everything down so it's easily digestible, also a super nice guy who really cares about students.
+Satish and lingjia both really good! The 3rd guy is new to 370 but they split up what lectures they teach so you might have to go watch a certain profs lectures regardless
+I’m in that combo right now and it’s very doable! Probably one of the better balances of EECS classes I’ve taken in a semester. 376 has weekly homeworks while 485 has projects due every 2-3 weeks, which I like because 376 deadlines are more short term and 485 deadlines are more long term. I think 376 is more studying and like figuring out more mathy concepts, while most of the trouble in 485 comes from actually programming and figuring out Python/flask/react/sql etc if you’re not already familiar. Also personally I really like combining one programming-heavy class with one more conceptual class when picking classes for a semester. Definitely a doable combo and I honestly highly recommend, especially if those are your only 2 eecs classes
+I saw this as a chance to make up for my poor midterm. Instead I definitely did worse. Just. Needed. More. Time. : (
+i need a 29 on this to get the 40 average on exams. hoping i can get at least 20 on mc
+Piazza riot time
+2 FRQ GANG
+Omg that makes me feel so much better i only did 2 of the frqs too. We are in this together they can’t fail us all
+The Free Response questions weren't even that hard. It's just they take so long to complete. 
+
+A part of me dies inside everytime a question asks for me to prove a language is NP-complete.
+bro at least you submitted the exam
+that was honestly the worst exam i've ever seen... i went and got a bottle of jager as soon as it hit 9pm
+I just want to say if you want to make this test so hard, at least give us enough pratice. The practice one does not reflect any actual difficulty of the final. The FRQ was much easier than the actual one.
+I hate 376. It is hard but useless. My friend completed a series of 500/600 level proof-based math courses, but he could also get 2/4 frqs done
+F
+#abolish376
+F
+F
+I had no problems, finished 20 mins early.
+I HATE 376.
+Don’t go to office hours just to do homework, go to clarify lecture concepts. In fact, I’d actually not recommend getting homework answers from OH’s since struggling through them helps you remember. Most times Thursday/Friday are completely empty so you have plenty of opportunities to talk to Ia’s. 
+
+Understanding how/why to do reductions for example, is crucial. Nothing in the class is intuitive unless you get talked to 3+ times. Once you get why reductions work you will be able to do reductions much more easily
+Start reading Bible and praying. 
+
+Just let you know. The final from last semester is really HARD compare with midterm. If you still got time before graduation, take 376 last semester. If you don’t care GPA, i think it’s still easy to pass. I failed both exam but still managed a B-. Not good, but you pass!
+Go to proffice hours! I went to Brehob’s 8am office hours religiously for homework help and to clarify concepts and he ended up bumping me up.
+just a tip for the final, go for partial credit!! even if you see a question on that ONE thing you didn’t study enough (why is there always that question), write what you do know, as much as you can, even if you’re not sure of the final answer or feel like you only know half of what you’re supposed to do. 376 is very good for partial credit! time can be a bit of a crunch, so try to look at every question before you start/before the end of the exam so that even if you’re too pressed for time to write the worlds best turing reduction, you can still write SOMETHING that responds to the question.
+Only grades in 376 are the exams and weekly homeworks, discussions are like 203.  
+Grading on homework is a lot more lenient than 203
+Email the prof for 475
+Are you sure that the final grade entered was a C-? I had a C- in 376 this semester and it got bumped to a C thankfully
+Just FYI 475 is a much more mathematically intensive course than 376 and the prof described it as “376++”. I don’t know why you got a C- in 376; if you think those reasons won’t apply for 475, then sure I would encourage you to explain those reasons to the prof/department to seek an exemption. Otherwise, well, prerequisites are there for a reason, it’s because the department thinks those courses are necessary to succeed in the next one.
+
+
+Since you’re probably a CS major you’ll need to retake 376 anyway by my understanding. IMO it’s Best to hold off on 475 until you do so.
+Wow, I thought classes like 475 and 477 are for people who A+ 376. I am interested in Cryptography as well. But looking at my grades for 376. Maybe classes with no exams or proofs is a good option for me LOL
+Email the professor for 475. They may allow you to take the course provided you retake 376 at the same time. Talk to your advisor as well.
+Unfortunately there are no publicly available lectures for either of these classes, but the notes for 376 are really good and you can take a look at them instead. https://eecs376.github.io/notes/
+Personally I learned more from 376 lecture notes than from the lecture. If you want a head start, I would start learning about proving decidability and proving undecidability as they are conceptually hard to understand initially.
+tbh, one can only learn 376 WELL (I hope this is the reason why you want to start this early) if you do the **exercise**. This is true (at least for me) for any proved-base courses. But anyway, since I expect that you will take it in a near future, so to be familiar with the content may be helpful in some ways.
+For 376 check this out: [https://eecs376.github.io/notes/](https://eecs376.github.io/notes/)
+
+I don't know if there are videos for either class that are saved. If you are looking for 445 resources PM me, I don't know if there is anything public out there
+376 has much less breadth than 203 so I felt it was much more digestible to prepare for and have a grip on the material. Personally I did better in 376 than 203 so I think you should be fine
+EECS 376 introduces a lot of new stuff with a heavy focus on Turing machines, algorithms, computability, and mappings throughout the course. However, many of the proofs that you will have to write (most of the homeworks are just proving things) will rely on 203 knowledge such as graphs, asymptotic complexity, and permutations. EECS 203 is a difficult course and B is right around the middle of the distribution so I'd say you'll do fine in 376.
+Here's what the syllabus says:
+
+"Your weighted average exam score must be a passing score. The threshold for a passing score will be no higher than 40% of the available exam points, weighted as above."
+
+40% seems to be the upper bound for the required threshold. So, even if everyone else did perfect on the exams, the passing threshold isn't going to be higher than 40%. On the other hand, if the class does bad enough that the weighted average tanks, the 40% threshold will be lowered. 
+
+EECS 376 is going to pass most of the class no matter what happens.
+I really wish this had a see results option even though I’ll never take EECS 376 I really wanna know
+second half is quite a bit harder imo. Polynomial time mapping reductions 🥴🥴 don't remember what that even means but its big words
+I thought the second half was more interesting
+281 takes quite some planning especially if you are aiming to get 100% on the projects. I generally started the project a week in and was generally fine but was thinking about it before that point. For 376, honestly a large part of learning it (for me) was sitting the office hours/discussion Zoom call and just listened until I understood each problem. This usually took around 10 hours (probably an underestimate) per week imo to understand each one, solve it, and write it up coherently
+376 depends on how good you are and how good your group is. But it should take like 10-20 hours depending on the understanding of the material. 281 projects take roughly 30 hours I think including planning, coding, debugging and going to office hours.
+376 homework is tough, just make sure to utilize office hours. Some days I was sitting on Zoom for 10 hours with my group tryna figure it out 🥴
+376 hw usually took me around 3hrs, but I felt like I had a good grasp just going to lecture. Dealing with office hours might take a lot longer
+Yup. Hope you enjoy spending most of the next semester in office hours so that you can have any amount of success on the routine homework assignments. It sucks but you'll make it through - good luck.
+Apparently making a decent EECS class is NP Hard :(
+same
+haha memories(bad ones). Yeah its pretty bad, all office hours and you'll never feel like you know exactly what youre doing.  The beginning half is the hardest though so just make it through that, also DONT BS HW 3 I know its impossible but literally just write something down.
+Tbh I hated this class but the moment I was done with it, looking back at it the class could have been really cool but the hw just kinda removed it. The idea of decidability, NP completeness and encryption is really cool, but there's a reason why the majority of top cs schools don't require this class
+It's the worst class in the program and the faculty do nothing to improve it. The information you get in this class could be valuable, but they manage to suck out all interest and make you learn through mundane lectures that are never on topic and very opinionated. The class doesn't suck because it's hard, it sucks because the department doesn't know how to teach it.
+[deleted]
+Pro tip! Write answer (don't use latex) I would write down wrong answers all the time and got p high scores on the hws even though I had like no idea what I was doing. The class grading system is really fucked so don't expect much
+Is there a single good EECS class? I ask as someone who’s major is not EECS but who always sees these posts and feels bad for you guys
+I took 376 winter 2020. Tim, Ian, Sanjana, Anjali, & Dana were probably the only reason i got through that class. Retrospectively I would say that the discussion notes were probably the most useful in terms of understanding the topics. That in conjunction with office hours will help how to do the homework. 376 doesnt have a lot of 203 specific content besides the larger picture of how to do proofs, some basic number theory, and cryptography. That being said...
+
+&#x200B;
+
+i hope eve brute forces diffie-hellman for the rest of her life
+Markov's inequality is a fairly small part of the course. It's covered in one lecture and you'll probably get one or two questions about it on the Final exam.
+
+Bounding as a general concept, however is very crucial. It's not exactly a topic and more so a concept that you will repeatedly see throughout the second half of the class
+Historically, EECS 376 would spend two lectures on Monte Carlo methods and Chernoff bounds. But they weren't covered at all in W21. I don't expect more than one lecture on it F21, and quite possibly none. See [http://eecs376.org](http://eecs376.org) for the tentative schedule.
+As the other commenter said, it’s a very small portion of the class. However, I feel like if you see a proof of the inequality, then it becomes pretty intuitive. It can be hard to see that in a textbook, but I’d recommend you watch a video on it if you’re interest (which I assume you are given that you’ve already read the textbook).
+When I was in 376 i went to multiple cause its a conceptually difficult class. Office hours were always super packed too.
+There wasn't the past 2 semesters
+Brehob is a treasure and given the option to take any course with him I would. Remote 376 lecture honestly probably will suck no matter who is giving it though.
+Sorry for not answering your question, but when I took the class lass semester I found lecture to not be an efficient use of my time. I think that discussion and the practice problem session are worth attending for sure. For lectures, I found it much quicker [to just read them](https://eecs376.github.io/notes/) while working through the problem sets.
+Stout will be the worst by far and the other two will both be fine IMO
+Brehob
+Brehob is a solid choice for any course.
+Can't speak to 376 in particular but Brehob is great in the hardware-focused courses
+EECS 376 has a <4% failure rate and basing off the midterm average... ain’t no way they’re failing half the class
+I wouldn't worry too much about this class, if you do the homeworks and attempt the exams you should pass no problem. "Failing" a 376 exam would be equivalent to getting like a 15 percent given the typical  low average and large spread of the scores.
+im not even confident in getting 50%, not looking good rn
+I would assume so. Most EECS classes have this policy, if your raw grade is passing but you failed the exams or projects portion, you can't pass. I don't personally know of anyone this has happened to, but if it is stated in the syllabus I don't see why it would be false.
+Do you guys think there will be a curve? Based on my calculations from the median grades published on piazza the class median is around a B right now :\\
+If you feel confident in EECS coursework, 339 should be the lightest load of your courses. The main time commitment is the end of semester project, which shouldn’t take too long.
+The workload for SI 339 is much lower than the other 3 classes and is by far the easiest class in that list. It's basically just intro front end web dev with html/css/js/jquery and making sure you know how to make accessible websites (using wave/axe). The biggest assignment in that class is a project near the end of the semester that a lot of people use as an excuse to make a personal website (which you should have if you don't have one already). I personally spent more time choosing colors than writing code for that project.
+
+281 and 370 tend to have due dates very close to each other and both are project based. 281 + 376 is usually a better combo than 281 + 370. I don't think adding SI 339 is a big deal as long as you're not trying to do all 4 at once.
+I’d say it’s fine if you did 281, 376, 339 and either nothing else or a very light course. I would not do 370 instead of 376 - 281 and 370 together already get *very* hectic, and you wouldn’t want a third project based course on top of that
+I got a pretty tough written one that took me a while and it's probably still not right lol but my multiple choice was okay, not too many hard ones so idk i guess we'll see how it goes
+Pretty much felt the same as the midterm to me. There was a whole written problem that I didn’t even attempt (once again). The multiple choice was definitely a bit harder tho
+I only felt good about two of the written lol
+Just finished the exam (took the alternate time). I'm glad that I'm finally done with this class, but another part of me is worried that I might've failed the exam or gotten less than a C overall. I really don't want to retake EECS376...
+
+&#x200B;
+
+Confident in 1/4 written, MC not so sure.
+Dang I finished the MC in about 15 mins, now yall got me second guessing. Also yea Epicular, written threw me through a loop at some parts (really hoping my half-logic gets me something close to half points on a few)
+Just trying to pass 376 :( idk how I feel
+I’m cackling I literally got a 31.5/70 on the exam
+I’m pretty sure the rule still applies like most other EECS classes that -2SD is the border between C-/C
+jesus christ I wanna die, they released the estimated grades (which I don't think has curve applied) and I feel like I just got featured on Scared Straight
+This class really is 203 Part 2 with the fucking exams
+[deleted]
+If you do Eecs 280 hmu
+Its not required, but you can get extra credit for going if you ask good questions or answer the lecture questions.
+You don't have to go :) If you just want to pass the class I'd skip lectures and go to discussion and the practice problem session (all recorded), they really help :)
+In covid semester no
+The MC wasn't bad even with the time crunch.
+
+The free response however, was like looking both ways before crossing state street and then getting hit by an airplane
+Also I can't believe they said it was designed to be taken in 70 minutes???? It took me easily over 4 hours and I did not really do all that well
+I literally opened the exam at 9:30 am and worked on it non stop until 9:30 pm.  I still think I might've failed.
+One problem is that they did not break the questions down.
+
+A good exam question is designed with subquestions (as hints) so the students can show how much they know in the number of subquestions they can answer.
+
+All the homework questions were designed with subquestions with the previous ones inspiring us to do the latter ones.
+
+Disappointed.
+i was waiting for this HAHA. Ur not the only one buddy <3
+frq was in NP-very very hard
+I high key agree that it was the worst final I've taken
+The free response seemed so doable, but was hard af. I understood every question, but couldn't come up with even a somewhat correct solution on most of them :((
+F
+I thought I knew how to do mapping reductions. This exam taught me that I had never been more wrong in my life.
+easily the hardest I have ever taken /:
+My fleeting desire to take more theory classes was thoroughly smashed to pieces by this exam
+I actually loved 376, but that final was absolutely the hardest exam I’ve ever taken. Opened the exam around 10:00am, submitted the written at ~9:55pm. I didn’t work 12 hours straight tho, I probably only put 6 relatively productive hours in there as I was massively lost on the Free Response. Ended up frequently pacing, tossing my water bottle in the air, getting snacks, and finding ways to waste time while I could barely process the problems. I felt the MC was pretty okay tho, hoping I got decent points there and that they’ll be nice with partial credit :(
+To give you clarification on what office hours being "helpful" really means, OH in 376 were simply the most straight forward way to get answers to questions on the homework.
+
+376 is one of those classes where if you don't go to OH for the homework, you'd better know the concepts like the back of your hand or be some type of genius because chances are you'll be averaging like 50% on the homeworks while everyone else is hitting near 95% since they go to OH.
+
+So because of that, I would imagine there shouldn't be any significant change whether the format is online or offline. In fact, I would argue that online would be better since the content could potentially be recorded and you don't have to deal with the cramped conditions and lack of study rooms that 376 dealt with this [semester](https://www.michigandaily.com/section/academics/computer-science-ias-struggle-find-space-office-hours)
+
+Edit: To add to the crowding issue, I would imagine that crowding for 376 would only get worse in subsequent semesters since the university did notably relax restrictions to take 281 due to the Covid-19 situation by making any P grade treated as an [A to take 281](https://covid-19.engin.umich.edu/student-resources/grading/). On top of that, Winter 2021 would be the first time we get back to campus (assuming next semester is online) so the scramble to get rooms and any other sort of administrative activity would likely be a bit disorganized.
+I took 376 this semester, and I actually thought online office hours were better. They were much easier to get to and I could go to more of them. It was better than dealing with getting kicked out of so many buildings on centeral and not finding anywhere to sit.
+Took 376 this sem:
+
+The quality of OH really depends on the IAs. There were 3 really good IAs this sem and they really helped with getting my hw scores up(1092.5 out of 1100, \~99%)
+
+That being said, i pretty much only went to OH for hw help. I think i went to OH more than i went to lecture lol.
+
+Online OH were a mixed bag: I think the school issued some of the IAs ipads so they could screenshare what they were writing. This was really helpful. However, not all IAs used them which was kinda annoying. I also found it easier to screen record what they were writing so i could go over it later if i still didn't understand. That REALLY helped.
+
+If you are taking it next semester, make sure to hop through all the IAs who have office hours the first week so you know whos good.
+376 is a great class, the staff adjusted extremely well this semester to the online format. I personally really enjoyed the course content although it was super difficult (the final we had on Wednesday was probably the hardest exam I’ve ever taken). OH is key to getting homeworks done, and online OH were better in some ways as some people have already pointed out (easier to get to, no in-person overcrowding). Still missed the in-person “touch” that, in my opinion, is the difference maker for many courses, but nonetheless, 376 maintained the quality of learning experience as best they could.
+Just record the OH. They give all the answers
+It's been hard for me to go to a lot of the office hours because I am in a different time zone, smh
+No 376 uses Canvas to store all of their content.
+I think the course recommends Sipser's Introduction to the Theory of Computation as a textbook, so you could try reading through that although it's pretty dense. If you want more info on the topics covered in the class, try doing some reading on Turing reductions, computational complexity classes, and polynomial-time reductions. There is also an algorithms and cryptography portion of the class, although the algorithms part should be easy to pick up if you did well in 281, and the cryptography portion doesn't go super in-depth.
+The textbook isn't terribly useful for the class, but here is a good resource for practicing DP:  [https://www.geeksforgeeks.org/dynamic-programming/](https://www.geeksforgeeks.org/dynamic-programming/)  (DP is usually the trickiest question on the midterm)
+Stack exchange has some good stuff..
+some dumbass said the n word 80 times while the mods were taking a nap
+Racism
+Damn that’s rough, that racist stuff should be censored on discord

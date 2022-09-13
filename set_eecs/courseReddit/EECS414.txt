@@ -1,0 +1,5 @@
+I can answer for the first pair. MATH 416 tends to deal a lot with randomized algorithms, whereas 477 doesn’t deal with them much at all. The syllabus is pretty much consistent year to year with what Pettie does, which is a lot of graph theory. 416 often changed quite a bit.
+
+I took 477 and it was a fantastic class. I’ve heard good but not amazing things about 416.
+I took both. 416 seems to depend on the professor, but lady two offerings have been on randomized algorithms. We did not use CLRS for 416, but a book on randomized algorithms. The math was at a much higher level than 477 (much more rigorous) but also narrower in scope.
+The one you have the strongest interest in 

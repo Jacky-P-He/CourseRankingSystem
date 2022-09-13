@@ -1,0 +1,239 @@
+I do not believe the 494 attendance policy will be in place next semester.
+I’m also trying to take this combination next semester, what’s the likelihood of getting off the waitlist for 494?
+Hey there-- I know a good bit about EECS 494 (and you may learn more at eecs494.com)
+
+The two courses are typically regarded as having a similar (fairly heavy) workload, and this is backed up quantitatively by [the EECS workload surveys](https://ece.engin.umich.edu/academics/course-information/ug-workload-survey/). EECS 494 has been reducing its workload / time requirement every semester via various tweaks and balancing patches-- it is designed to require no more than 12 hours of outside effort per week, in line with CSE guidelines (though poor project management or design pattern decisions often cause teams to overshoot).
+
+Students who find game development enjoyable often report time going by very quickly, lightening the perceived workload. Feel free to DM me with any specific questions.
+I thought 482 6 credit was one of the heaviest courses an eecs undegrad can take. So 494 will be lighter, but as for how much lighter, not sure.
+I'm in EECS 494 right now. Seems like most people opt to take it together with the Tech Comm part of their MDE. I wouldn't recommend taking another heavy project-based EECS class, since a lot of the deadlines in this class are pretty tight as is. If you need to take a ULCS elective, classes like 388 or 481 seem pretty good.
+ATLAS has data on this-- [https://atlas.ai.umich.edu/course/EECS%20494/](https://atlas.ai.umich.edu/course/EECS%20494/)
+
+EECS 496 (44%)
+
+TCHNCLCM 497 (43%)
+
+EECS 493 (10%)
+
+EECS 388 (9%)
+
+EECS 485 (9%)
+
+EECS 376 (7%)
+
+EECS 484 (6%)
+
+EECS 481 (5%)
+
+EECS 445 (5%)
+
+EECS 442 (4%)
+
+&#x200B;
+
+You may DM me with any questions. We are looking to open another section of EECS 494 in the next few days.
+Hello this will be my first upper level class. What other upper level classes do you recommend I take with this?
+Gotta say - if any of you have the slightest interest in game dev then 494 is an amazing class. The lectures are super good and although the workload is kinda hard (def think it's a bit overstated, for sure less than 482 or 381), the projects are super rewarding and fun to do.
+
+Also makes you appreciate all the hours that going into developing a full-fledged AAA game
+I'm signed up for 494 for fall, does anyone know if the course covers the performance aspects of game development (multi-threading, graphics, low-level stuff, etc.)? Writing performant code is really something I'd like to learn more about.
+So dope!
+I'm not a big gamer but it was fun watching some of the game trailers!  Thanks for posting about this.
+I'm in Game Dev now. It's alright, the lectures are pretty much useless (they talk about high level game design principles but you aren't given anywhere near enough time to actually factor them into projects), and the professor left over the summer so it's being taught by GSIs. Whenever I go to lecture, it ends up devolving into watching a bunch of gameplay videos, which is kind of interesting until you realize that you just wasted 2+ hours on essentially nothing. The work itself is alright, it can be a lot of work depending on how ambitious your game ideas are, and the expectations aren't very clear. If you are really interested in game development, I'd say take it, because the work will be interesting then. In comparison, I've heard 441 is way less work but much more boring.
+
+Both mobile app development and game development can be self-taught (you basically have to teach yourself for both classes either way), so you won't really miss out by not taking one. As for taking both at the same time, you may have some difficulty since they try to keep spots open for people who still need to fulfill their MDE reqs. You should try contacting the instructors or the advising office.
+Game Design is pretty awful. It's a ton of code, but you don't actually learn anything useful. It's just a lot to wade through. 
+I took 441. I really liked the class. I had never done mobile app development before, but it gave me an opportunity to learn.
+
+The class is not technical AT ALL. You're required to learn and develop from the technical side completely on your own. The class is more about the entrepreneurial side, so a lot of people don't like that. Personally I really liked it and it was one of my favorite classes, and as someone working on a mobile app in industry now I can say it was the most useful class I ever took and I feel far more prepared for understanding both business and technical concepts around software inception and delivery.
+I'd recommend searching the CSE Facebook group ([here](https://www.facebook.com/groups/343020979078852/)), there's a lot more CS people there than here. If you search, someone has probably already answered some of your questions, but if not, you can also ask and someone will answer pretty quickly.
+I took 494 with 485 last semester (12 credits). And it was doable. With 494, the most stressful part of it is the first project where you have to recreate a level from a classic video game and then modify it to use a custom mechanic over the course of three weeks. The deadlines for that project are absurd to be honest. I was spending most of my free time working on that during those three weeks. After that, the projects are a One-week Prototype and your Final Project. Both are fine and the class is about as hard as a moderate EECS class after Project 1.
+From what I’ve heard from a current project teammate who is a graduating ECE MSE for IC and VLSI. He told me that out of 427, 470, and 482, 470 is the most conceptually difficult, 482 to be most stressful, and 427 to be the most work. I’m curious about 473 though
+You can't really poll this well cause fewer people take 470. I'd say the ECE MDEs like 473, 427, and 470 are likely to be more difficult than 482 as a whole if you consider workload. From my experience the ECE MDEs are heavier workload and can be more conceptually challenging than 482. 473 is very open ended and i'd say whether it's more conceptually difficult depends on the project you do. I took 473 and 482, and it was a noticeable difference in workload (473 being much heavier) for me. Conceptually I have them close with maybe 482 slightly more difficult, just cause 473 covers for breadth more than depth. But since 473 is project driven it forces you to independently find answers to most of your conceptual questions and that adds to the challenge
+Eecs 427
+There’s a big interest factor here as well. 470 is the truest computer engineering course there is. CE majors who enjoy their field absolutely love that class (CE majors in general are more likely to be passionate about CE than CS majors are about CS). Almost everyone I’ve talked to who took 470 absolutely loved the class. It is also a much smaller class.
+
+
+In contrast, 482 has some interesting content but for the most part people are taking it for resume building/it’s a “soft” CS requirement due to peer pressure from other CS majors (I disagree with this, multithreading and syscall syntax are the only things relevant to most SWE careers). Combine an insanely difficult class with 0 desire to take it and you get the worst experience of your college career for most CS majors here. 
+
+
+IMO 470 is “harder” in terms of workload just because verilog is such an obscene language to use, but 482 is a worse experience.
+EECS 494 almost always has some spare seats owing to its difficulty (we tend to experience 5-15 drops within the first few weeks of any semester).
+
+MDEs / Capstones are typically recommended to be taken in your final semester or two, though students seeking to work in the games industry may benefit from taking EECS 494 earlier (as this provides a large boost to one's gamedev knowledge and portfolio-- useful for earning critical internships as early as possible).
+
+EECS 494 is heavily invested in the Unity ecosystem, and concerns itself with efficient production of well designed, commercial-grade game titles (read about a team's recent 5-figure publishing deal here - [https://cse.engin.umich.edu/stories/undergrad-game-developers-sign-video-game-development-deal](https://cse.engin.umich.edu/stories/undergrad-game-developers-sign-video-game-development-deal)). We employ C#, and nearly zero C++. 
+
+Learn more about the course at [https://eecs494.com](https://eecs494.com)
+I am almost 100% certain you are guaranteed an override for an MDE if you’re a senior and you need it to graduate. 
+
+Normally for an MDE it’s recommended to take it in your last semester because that’s when you have the most knowledge and can therefore contribute the most to an open ended project like EECS 441 or 494. I would probably recommend OS first because 494 is very C++ heavy and OS makes you a much better C++ programmer. Taking OS first will definitely reduce your 494 workload but taking 494 first probably won’t help with the very specific stuff you have to do in 482 like VM.
+I've got a question -- informatics masters student here considering trying to snag a seat in 494, but a bit spooked by how infamous the course is workload-wise, and I'm wondering what, from your perspective, are the aspects/parts of 494 that most contribute to students rating the workload as so heavy?
+
+I'm trying to pick between this and a similarly groovy-but-intense NLP course and I feel like maybe having an idea of what that workload actually might look like, concentration-wise, might demystify 494 and make it seem a little less intimidating.
+Dang, I really wish I could do a second MDE in lieu of a fourth upper level; I would love to do the video game MDE.
+I have taken a couple stats courses already but not STATS 306, I can ask around with some of my friends and get their opinions on an estimated workload.  Best of luck on the remaining portion of the semester!
+Hi, I'm taking STATS 306 right now actually. This semester was the second semester they offered it. So far, from what I heard, last semester was their guinea pig semester and the prof who taught it was pretty easy going with easy homeworks and exams (source: a friend who took it last semester).
+
+This semester, the professor is Jonathan Terhorst. He's really not great imo, but he is also a new prof. The homework sets are apparently harder than last semester, but you have the option to do it with up to 3 other people (so max of 4 per group). There are a couple of people in my group who have done up to EECS 281, but some of the thinking among C++ and R are different. So we just go to OH for help if we don't get it. But yeah, weekly homework sets. Some homework sets take under 3 hours a week and some take longer because the prof throws a curve ball at us (where his notes don't tell us anything relevant).
+
+There's only one midterm (worth 30%) and it wasn't too bad? I feel like it was a huge time crunch, but the course is curved, so as long as you do higher than average.
+
+Feel free to message me for more details! :)
+I'm also in Stats 306 with Professor Terhorst this semester.  I think he does a really good job of teaching the material.  He follows the book closely and actually shows examples of how all the code works in class.  Because he demonstrates the basics of the code rather than just lecturing about it, I think it's easier to follow than other CS classes like EECS 183.  
+
+I've found the R language to be somewhat more complicated than C++, but it's not too challenging if you start small and then string the code together to build up to a larger solution.  This is what most of the homework assignments are like.
+
+We've had one midterm in the class and it was similar in format to the homework.  I thought it was rather easy, but the mean score in the class was a not-so-nice 69%.  Practicing homework problems over again was the most helpful way to study.
+
+Hope this was helpful.  I'm really enjoying this class.
+I wouldn't be too hard on yourself-- EECS 485 is [widely regarded as a moderately high-workload course](https://docs.google.com/spreadsheets/d/1OjPj0SsK_5Yg99mOrZhF64LmDf50gfiWcW7ceQHdxDk/edit#gid=0) (2.54 / 4).
+
+&#x200B;
+
+* EECS 486 is regarded as being a bit lighter weight (1.24 / 4)
+* Likewise with EECS 497 (1.17 / 4)
+* EECS 494 (my course) is high-workload (3.45 / 4), though this may vary based on your team composition and interest in game development (those who enjoy the work don't feel as much of the time burden). You may learn more about the course at [eecs494.com](https://eecs494.com), view some sample projects, and determine whether the time investment will be worth your while.
+
+This schedule sounds challenging-but-doable to me. You'll want to get feedback from additional sources. DM me if you have any specific questions about 494.
+Very informative and well-written post, thanks for sharing.
+As a math GSI, thanks for this post and I really agree the department needs to make changes. Especially workload in the intro courses -- I honestly feel bad for my students having to juggle so many different kinds of assignments (watching Canvas videos, reading the textbook, quizzes, exams, masteries, webwork, team HW, etc...) It's a lot even for us to handle all the course components, and when first-time GSIs are given minimal training while simultaneously being overworked, it's not a good situation for them or for students.
+Applied Math grad here. I think one of the first problems with GSIs is that they’re probably so good at math that they didn’t do normal college calculus. They probably did a track similar to the UMich 195/196/295/296 track where they’re proving calculus not doing calculus problems. 
+
+The best possible GSIs for Math 115/116 are probably other department GSIs like Engineering, Econ, Stats, etc. who took those classes and might actually have used calculus in the last 5-6 years. 
+
+Additionally, the Math department needs to stop using assistant professors (aka untenured, but tenure-track) for upper-level courses. Teaching does not help them achieve tenure, which means their incentives are not aligned with their students doing well. Time they spend teaching is time not spent on research, which will help them earn tenure. It’s not fair to them or the students to make them teach.
+Also for 115/116 attendance counts too. That's not a bad policy since going to class is important, but I'm starting to have this feeling that if they removed the mandatory attendance, only 1/2 of the people would attend the lectures just because of how ineffective they are.
+
+&#x200B;
+
+I'm in Math 215 and I didn't attend lectures for 3 weeks. Only relying on textbooks and self-learning. Turns out, I got 10% better than the class average for exam 1.
+Thanks for this amazing writeup.  I graduated in 2017 and agree with everything you say about the program.  I'm glad to hear there is now an internal push to make things better.
+
+I started as a non-honors math major and quickly became aware of the department's rigid caste system.  (I wasn't even aware of the honors track at first, or of how much better it was -- meaning I never even had a chance to enter!)  The honors students are fed with a silver spoon and everyone else is left completely in the dark.  
+
+I had basically zero guidance choosing courses, even with regular advising appointments.  At the time I enjoyed being able to pick-and-choose whichever courses sounded interesting, but looking back I realize what a disservice that care-free approach did to my education.  I didn't learn a lick of abstract algebra until my third year.  I had no idea what my "unknown unknowns" were.
+
+The undergraduate-level classes I did take were, for the most part, disappointing and taught by professors whose enthusiasm for teaching had long left them.  Expectations on students were quite low and for the most part I didn't feel challenged at all my first 2 years.  There were two notable exceptions:  Prof. Uribe for Math 451 and Prof. Montgomery for Math 354.  I'm incredibly thankful to both of them for showing me what a joy math can be.  I also heard great things about the IBL version of Math 490 but never had the chance to take it myself.
+
+The course schedule is full of landmines.  The workload and curriculum can change wildly by semester and by professor.  Even worse, the department makes no distinction between 1) courses intended for math majors and 2) courses intended to be taken by science / engineering / cs majors.  The worst course I can remember is a PDEs course (Math 454) taught by a biology professor who had no business teaching math majors.
+
+By my third year, I started to realize how behind I was compared to the honors track and decided to push myself harder to catch up.  It was far too late for me to switch to the honors sequence (and, I was off-cycle -- not every class in the sequence is offered every semester).  But, I started taking graduate-level courses (starting with 597).  I was woefully unprepared, but I took on the challenge and finally felt like I was learning something new.  Best decision I made during my time there.
+
+What changes would I like to see?
+
+* I think basically every math major should take a version of the honors sequence in their first 2-3 years, at maybe 50-75% of the usual pace.  The material covered is extremely important for *all* math majors, and it's a tragedy that they don't use that curriculum for everyone.  However, from what I heard the breakneck speed of 295/296/395/396 takes quite a mental toll on the average honors student.  The professors seem to encourage a toxic competitive atmosphere in the honors courses too.  (As a result I felt very unwelcome in the Nesbitt room as someone who didn't suffer through the honors sequence.)
+
+* There should be more thought put into the order of courses.  The problem with the a-la-carte style of course selection is that professors can't make *any* assumptions about what students will know coming in to the class.  So, the first 3-4 weeks of the semester was often a review.  There's no chance for knowledge to compound itself over 4 years when students are able to take classes in any order.
+
+* Realistically 215/216 is a waste of time.  Math majors should jump straight to Math 451 instead of memorizing integral / derivative rules before even properly seeing integrals / derivatives defined.
+
+* Math 217 should be the ONLY intro-level linear algebra course offered by the department.  I was a TA for EECS 445, and the students who came in having taken Math 214/215 were just as skilled at linear algebra as those who had never taken a course.
+
+Feel free to DM me if you think the perspective of a recent-ish graduate might be helpful.  It was only in grad school (CS) that I realized how big the gaps in my education were.
+You should also bring up the fact that the intro math sequence is absolutely integral for a lot in non majors. In aerospace, Calc 3 and Diff Eq are essential, but me and many others are having trouble because we dont have a very good understanding of them.
+Do you think GSI's are cognizant of the situation? One of my close friends is a GSI and he says he's not particularly tough on students, and that they're all doing pretty well. 
+
+I do wonder if there's a possibility he's out of touch given that he came into undergrad skipping a ton of courses and getting to Grad courses before too long, so he clearly does not understand what it feels like to be an intro student. He's told me that he just doesn't want people to fail (and have to retake the course), but doesn't personally care whether students learn anything. He said this half in jest but...
+Thank you for this. I took pre-calc and calc at Michigan and no class has ever made me question my own intelligence than Michigan math. So much time and effort to get Cs with little help from my GSIs. All of that in the shadows of my physicist father who couldn’t fathom why I was so bad at math.
+
+Math doesn’t have to suck, thanks for trying to point that out.
+I remember really not understanding calc 3 and 4 until I had application of it in fluid dynamics. And the funny thing is that in those classes, you aren't even really doing much calculus. You see the concepts or an equation written in a familiar form and go "ahhhh, thats what all that calc 3 stuff I never really learned is used for". The math labs could have been helpful, but youre so focused on just getting them done in the alloted time in the lab that you dont really have time to ponder why things happen, just have time to ask a question to make sure you dont fall behind the pace of everyone else.
+i am one of the dumber honors math students and I like the program
+I graduated in 2019 so things may have changed since I took 115/116, but workload was only part of it. And honestly a small part of it. My Arabic and computer science classes were 3x the work but half as hard. I think you are severely underestimating the fact that every GSI is different and every section is different. Some don't speak English very well, some just aren't good teachers, and others (like mine) constantly said things like "this concept won't be on the test so we won't cover it", then have that concept show up on the test. There were alot of classes at UMICH that had "heavy workload" and was hard because it was alot of work. Calc 115/116 weren't those classes. It was hard because of poor organization and poor instruction.
+I’m a prospective math major and I have a few questions.
+
+Well the first thing is I’m actually firstly a CS major, so keep that in mind. Anyway, I’m not doing the normal sequence at UMich because I have up to 215 in transfer credit, and I was planning on doing 217 next summer, hopefully. If I take 297, would I then get access to all the honors math? Should I? Or should I just do normal pure math at this point, and take whatever harder classes I want/can?
+I'm an alum, and 115 was a class that turned me off of math. It took me YEARS to rediscover a love for math after that shitshow.
+
+I took AP Calc in highschool and got a 4. I did not get credit and had to retake Calc 1, where I got a C. I got an email from my GSI telling me I had a great mind for math and that I should consider pursuing it further. I was an A and B student and screenshotted the email thinking it was a joke. 
+
+Just some personal experience that I think jives well with what you posted.
+I’m an honors math (295-396) alumnus, and I want to encourage any prospective students who may be interested in theoretical math to take the sequence. Surviving that sequence was more difficult than getting a PhD, but I learned so much, I developed skills which will stay with me for the rest of my life, and I made my best friends in college in the sequence.
+I took 295 in the fall of my freshman year (2017) because I was considering a math major. I had taken some math classes at Saginaw Valley State University when I was in high school, and they never really gave much homework. I came to undergrad with the idea that most classes would just be a few exams; I was totally unprepared to have any homework, let alone 295's amount. I went to the Bagel Sundays and I spent a good amount of time (around 10-15 hours each week) on homework, but I just wasn't getting it done. I asked Dr. Debacker for some advice, and he said "You need to get the homework done." So, I dropped the class.
+
+A few years later, I took 217 in a spring semester. At that point, I had been through the ringer with my chem major, and I was used to selling my soul for a semester. I documented how long I was spending on the assignments, and it worked out to be a little under 25 hours a week. I got an A+. 
+
+UMich Math is great if you're willing to sell your soul to it, but it's a jealous mistress.
+I graduated with the honors math major + a masters through CUGS in 2020 (class number 41!) and took the full honors sequence, plus a few graduate classes. I'm currently pursuing my PhD in math at a top program I love, so the TLDR of my rant is that everything worked out in the end.
+
+I wholeheartedly agree with your assessment; it feels concise yet somehow complete. I will say that your point about professors picking a few "golden children" from the honors math sequence and putting them up on a pedestal 100% does happen. The system is very hierarchical; I got some more opportunities handed my way (an REU for example) since I took the honors sequence in full; those would be harder to get if you didn't do this.
+
+&#x200B;
+
+On the other hand, there were a number of honors math kids (people who, for the most part, were quite a bit smarter and worked harder than I did) that got spoon-fed opportunities. A good chunk of undergraduate awards and scholarships, for example, are purely a favoritism game played by certain faculty. I knew of someone (who is a great mathematician! I don't want to take away from them) who won an award in field A (say, Analysis) without having taken a single class in field A outside of the honors sequence, doing any research in the field, or particular caring about the field at all. They just happened to be in the good graces of a certain professor, who nominated/gave them the award, as well as the stipend associated with it. I can think of at least 6 other examples off the top of my head where someone received an award/opportunity/recommendation over other candidates for similar reasons (or lack thereof), but I don't want to disparage anyone and/or make the response so pointed that people could figure out they were mentioned. As someone who has graded 295 you are particularly aware of this; that's one of the most coveted grading roles in the department (high pay + high hours) and you clearly earned it, but you probably did get on the good side of Stephen/Sarah. For what it's worth, of all the people I've seen grading the honors sequence, they are currently getting their PhDs at UChicago, Stanford (x3), Berkeley, UIC (x2), Harvard, Princeton, or work at facebook/google, so you are in good company.
+
+&#x200B;
+
+The point is that there is certainly favoritism within the department, and one does need to "play the game" (do volunteering things, math circles, interact with certain professors, etc.) to get ahead and get these opportunities, honors math or not. There is also a culture of being "volun-told" to do something, due the "implication" that not doing so might reflect poorly on your chances of getting a rec letter for graduate school from the person asking a "favor" of you. I know of someone who had to be at the math building by 6:30AM on a Saturday with 12 hours notice, just because they were asked to by a professor and couldn't feel like they could say no.
+
+As you mentioned, Sexism is pretty common as well. I know of an instance where a group of undergrads were invited on a whim to a graduate student welcome dinner within the department. They were invited to answer questions about what it was like to study math at Michigan and comment on their experiences as undergrads. That group of undergrads consisted entirely of underclassman, female honors math majors (the 4-5 of them consisted of 80% of the women fitting that description, I should add). I wonder why they specifically were invited? Perhaps they should have been warned that they'd be tokenized for "appearances".
+
+&#x200B;
+
+This is not to take away from the academic quality of the department, though: I have been on the receiving end of at least a little bit of this "pointed focus" towards future graduate students, and the honors math sequence (as well as a number of the professors in the department) prepared me for graduate school more than any other life experience I've had. I have had wonderful experiences with a number of professors, and honestly credit a couple of them for getting me into graduate school at all. I just think that these sort of things should have been fixed (if they haven't already; a lot happens in 1-2 years), and I'm sad I didn't do much to shine a light to this while I was an undergrad (honors math does keep you busy, as you know). I wish you and the next generation of math kids the best, though, and hope the climate committee can get fleshed out over the next few years.
+It's interesting that so many professors don't seem all that interested in teaching. Besides those studying teaching itself, I can't really think of a field that should be more interested in pedagogy. Math teachers so often struggle to communicate the field's ideas to students, from kindergarten all the way to college. 
+
+I hope you're successful in addressing this problem in our math department.
+TL:DR - it doesn’t. It’s an indifferent machine run by a elite committee of dicks.
+[deleted]
+>The (non-financial, undergrad portion) math department is intentionally designed to find students talented in pure math, filter them into extremely difficult and time-consuming classes, and build extremely talented grad students to send to other schools. It is extremely extremely effective at this. It is awful at most everything else.
+
+Then they need to get the fuck out of the business of calling themselves an academic institution that is for the purpose of teaching students... They need a complete rebranding to what they actually are: a group of researchers that administer exams!
+
+&#x200B;
+
+Also thank you a lot for your insights and work within the department to try and correct these blatant problems. It takes people like you to facilitate this type of change and absolute power to you for helping to push/lead the charge!
+I graduated with an undergrad in math (non honors) and tend to agree with you. I will say though that being a part of the Douglas Houghton Scholars program for calc 1 and calc 2 which provided an extra IBL element to classes made the experience far better. I wish this option was made available to more students
+Math 215 is taught *very* poorly as well. I find I am always more focused on getting assignments in (especially the written homework which takes many hours) rather than actually learning and acquiring a solid understanding of the concepts. The assignments I feel actually take away from the class rather than add to it.
+
+It's such a shame because I am actually interested in learning the material, but it really really seems like the class is simply not meant for actual learning. This is extremely disappointing to me as this is one of the top universities in the US and we pay a *lot* of money to go here.
+[deleted]
+After two years here I suspected the Math Department was run by outright fascists.
+
+Nice to know that they don't actually hate ALL human beings, just those who aren't math majors /s
+
+In all seriousness, I am glad that changes are being made. Nonetheless, I struggle to stomach the fact that for years the faculty has been designing courses that many students outside their departments are forced to take with goal of making the process of learning math so Darwinian that they can ensure any inferior graduate candidates have been weeded out. That is disgusting and misguided as all hell IMO, but I guess for a lot of the faculty we are just the revenue stream to fund their research, not actual human beings with hopes and dreams and passions beyond Calculus.
+482 is certainly valuable if you want low level knowledge. 490 is not that practical but still interesting if you want to dive into Rust/OCaml.
+I don’t really see how you are behind. You only need 4 ulcs to graduate + mde. You could probably take all those courses if you really wanted to. 
+484 + 485 + 481, 482 + 489, 490 + 494. You’d only have one semester with 3 Eecs.
+You could probably take 485 and 489 together in one semester. 482 is also a good class, but I recommend taking it either by itself or with a relatively low workload EECS class on that list
+I would call 485 and 482 must-take if you want to become a GOOD software engineer/CS researcher, unless you already know web/systems principles from other sources.
+
+485 is an amazingly wide overview of every part of the web stack, and it can serve as your one and only web dev class.
+
+Some people want to avoid 482 because it’s quite hard, but I really think it’s critical to understanding a full picture of the reality of a computer. You can get away with not taking 482, but I don’t think you can get away from eventually having to learn its concepts, so might as well do em in school.
+
+489 is very interesting and will be very valuable to anyone working in networks. But, if you aren’t, I don’t think the info in it is practically useful.
+
+481 is (I think, I dropped the class after a bit) mostly stuff that can be replaced by internship or job experience.
+
+494 is an insane experience, and will eat up huge chunks of your life if you let it. It was also a great experience in meeting deadlines on a high quality software deliverable. I’m glad I took it, but I would call it optional unless you have an interest in video game dev, then I recommend it.
+
+484 and 490 IDK, but I have heard from an employee at Ocient (state of the art DB company, they hire heavily from UM) that 484 teaches largely antiquated database stuff. I can neither confirm or deny this personally.
+Not a CS major, but I did take Linear Algebra(back in 18 or 19). AVOID that class; by far the worst run course I’ve ever been in. From the consistently late grading to the lack of direction from any prof. Felt like a train wreck from beginning to end.
+Which linear algebra are you talking about?
+Have you considered SUGS
+Hey there, I have a few questions.
+
+1. 494 is often said to have a high workload. Is this because a lot of time is spent coding or because a lot of time is spent understanding game design concepts? Can you estimate how much of a split there is between these two actions?
+2. Not sure if you can answer this, but how much time would you say students spend per week on 494?
+3. Will 494 be remote or in-person for the fall? The class size is on the edge of what some might consider to be small or large so I wanted to see if you had anything to say.
+4. In the game showcase, projects use technology such as TVs, controllers, etc. Are these provided or do the students have to provide them themselves?
+
+Thank you for your time.
+Do most people complete projects on general-use laptops or higher end PCs?
+Does the course allow students to choose groups, or are they randomly placed into them?
+Hello, I’m an incoming transfer student to Michigan. When looking through EECS classes I noticed that the majority of them use C++. I was wondering why EECS 494 uses Unity rather than Unreal since it seems like most students would be more familiar with C++ than C#. I’ve not worked with either of them, but I’ve heard Unreal can be a little heavier and harder to work with, is this a reason why?
+1. 497 is the required tech comm for CS and 496 is the required tech comm for CE. Don't know specifically what is different about the courses but the different degrees want different tech comms.
+2. 494 is a really good class if you have a interest in games. It's a great class to build a game portfolio and Professor Gibson knows what he is talking about and has a really expansive network that he uses to help support his students. However, be aware that if you want to do game dev or design in the future you have to make games outside of class too.
+3. Don't know too much about other upper level classes but I know a lot of people like to take and a lot of companies like to see that you have taken 482. Just be aware that it's a lot of work.
+1. not much. The technclcm classes I took were for the most part a joke. As long as you know how to write a decent paper/resume, you will have no problem.
+
+2. they are all good. Just pick something that you want to explore and go for it. I did the mobile MDE, which was interesting.
+
+3. if you liked 485, also look at 484. They are similar but different enough to be interesting. I also took AI, 492 I think, which was good. all depends on what you like. 
+[deleted]
+1) TCHNCLCM 497 is about writing documents for helping you be able to communicate your ideas to others, whereas EECS 496 is about professionalism and deals a lot with personal finance, copyright, patent, and trademark law, ethics, and business. Both are required to graduate if your are CSE (EE and CE have to take 496 as well, but I think they have a different TCHNCLCM course). Both have important things to learn, but they are both exceedingly boring, and the work that you have to do is tedious and annoying, but not hard. I don't know who's teaching it in the fall, but 496 is currently being taught by Professor Laird, who makes what would be a mind numbingly boring 2 hour lecture into a slightly less mind numbingly boring 2 hour lecture.
+
+2) 494 is a great class providing you are interested in making games. Professor Gibson is very knowledgeable about the games industry and the game design process, and he is well connected in the industry as well. However, the class is a bit of work, and if you aren't prepared to do that work, the class won't go well for you. But if you are prepared to do the work, then the class will be great. 

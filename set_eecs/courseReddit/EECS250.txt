@@ -1,0 +1,321 @@
+281 & 376 have some overlap (Big O, algorithms, etc.) but they’re different enough beyond that. That being said, the course staff tries to structure the courses so they cooperate well together.
+
+281 & 370 are more project based classes which require incredible time management. 376 is more-so a busy work type of course that is more “difficult” than time consuming. 250 has changed I’m sure since I took it, so I don’t know what kind of class it is now. It was basically a ton of busy work when I took it.
+
+In terms of workload, I found this to be the order:
+281 > 370 > 250 = 376
+
+In terms of difficulty, I found this to be the order:
+376 >> 281 > 370 >> 250
+
+But I also found the actual material of 250 to be incredibly easy. Many students find it very challenging and spend a ton of time at office hours and on the assignments. If you don’t like statistics (or don’t have Gunderson as your instructor) I’d advise against taking it with 281 since that would be 2 very time-intensive courses.
+PHIL 340 is awesome, it's CS relevant topics (AI) from a philosophy/ethics perspective, and if you're in engineering it'll fill your upper level humanities requirement. Super low workload and interesting topics
+ASIAN 230: Intro to Buddhism is super chill (grades just based on exams that are mostly direct from readings). Prof. Lopez is the best professor I’ve had here hands down.
+
+Doesn’t matter if you are interested in Buddhism or not, his lectures are riveting
+I’m taking these exact classes next semester!! lmaoo
+Dtats 250 isn't as hard now if you're taking Miller especially, wholesome class. Are you LSA? Could you take some of those requirements?
+It'll be a lot easier to find study buddies in GSI/IA office hours
+Heads up, I believe EECS 183 and ECON 401 both have evening exams on 11/10 at the same time (8-10 PM). Make sure you can get an alternate exam.
+Hey I'm a freshman and in EECS 183. Which class are you in?
+I'm also in EECS 183 \^\^;
+Hello there,
+
+  
+Would love to have you join a study group within my organization for the EECS 183. Would you like to join a study group? It's through a campus organization called Chapter of the Scientista Foundation at University of Michigan. Once you complete an Interest Form, the Chapter will send you details to join the EECS 183 study group available.
+Hey, I’m a freshman in EECS 183 and I’d love to study with you + be friends. You can dm me and we can follow up from there. <3
+Definitely get 376 out of the way early, that class is a mess and you won’t wanna deal with it your last semester.
+Who's offering? I would recommend 370, since it's a project-oriented class. The other ones will pair just fine with an otherwise heavy workload. 
+AFAIK 370 and 376 are generally not taught over spring; 370 was offered for the first time over last spring though so not sure if they will continue that. 
+281 is a lot of work, but conceptually alright. The thing that makes the 281 and 370 combo so difficult for most people is mainly the fact that a lot of deadlines come very close to overlapping. There are only so many ways to fairly spread out four projects and two exams. People who manage their time will can manage the combo well. However, every term, Dr. Paoletti will have students come to him with a drop request, saying "I spent two weeks on the 370 project, leaving me with only two days to work on the 281 project".
+
+A lot of people will tell you that 281 is much more difficult than 280. You hear that mainly from those who got away with starting their projects last minute in 280 and before, thus they start the semester thinking they can manage it in 281. If you start your projects and go to office hours early, then it will be manageable. On the other hand, you will hear some people say that they were able to get a better grade in 281 than 280. The reason for that is mainly that in 281, the playing field tends to be more even. In 280 and before, there were always a good portion of students who came in already having experience with most of the material, thus those who did not come in with such experience may have been at a disadvantage (despite the prior experience not being an expectation). In 281, you rarely have students who come in already having significant experience with the material, maybe with the exception of some repeaters who may have a bit more experience (but they're repeating because of insufficient mastery). As a result, 281 is a better determiner for how you compare against those wanting to major in CS.
+Sounds like a very doable schedule especially since it doesn't seem like you struggled in 280
+Just FYI, the 376 professor this semester is known to be very good and make the class easier than usual.
+
+I did the 281 and 370 combo and it wasn't too bad. I think people really overhype how hard 281 is. If you 1) go to class, 2) start projects early, and 3) take the hints given in professor office hours (aka proffice hours), you'll be in a very good position to succeed. 370 is not a cakewalk, but you can really throw it on the backburner and concentrate on 281 when there is not a project/homework to work on, although you'll need to actually learn the material for the midterm/final. The 370 projects are very annoying but easy to get done fast (2-3 days max). The 370 and 281 staff is very good at dropping hints so you don't slam your head on a wall for hours. Your schedule sounds totally reasonable. 
+250 is easy and you learn nothing at all. 301 is not a good choice for CSE since it discusses many EE topics. 412 should be the vast choice, not hard and only 3credits but hard to get enrolled
+Why are you so taking 270 as CSE? (Just curious). I've seen 301 wreck many of my EE friends, I wouldn't risk it. Some like it though. 412 was easy and is an option for CE as well. 250 is supposed to just be busy work. 
+That doesn't sound that bad if you took AP stats in high school.  Otherwise you'll need to spend some time on stats which may or may not be too heavy depending on your programming ability.
+281 and 370 will keep ya busy, but that courseload is very doable!
+I took the same schedule except philosophy instead of a language and it wasn't too bad. 281 and 370 are rough together but if you manage your time well you'll be fine.
+Get ready for some fun nights
+You'll be kind of busy but it's definitely a doable schedule. 
+I’m taking 376 with 281 and stats 250 in the fall, I heard that a lot of the 370 deadlines line up with the 281 deadlines so I’m saving that to take with an easier ulcs. probably won’t be the most fun semester but gets it out of the way and I also don’t know what else to take lmao
+You probably don't want 370 with 281. stats 250 is a joke of a class, so if you genuinely want stats knowledge take 280. I would take a distribution requirement. If you're in lsa do your upper level writing.
+Stats 412 imo. I was a data science major and this is a required course for the major anyways
+Dont do stats 250 it is ap statistics with R
+If you’re doing stats 426 (which you will need for the stats major), you can look into getting stats 250/412 waived. Completion of stats 425+426 counts for stats 412 for the data science major, and often gets stats 250 waived for the stats major.
+Super doable
+1. Yes that schedule is very doable, I had a similar one a few terms ago and it was pretty easy.
+2. Why 250 and 425? I would recommend just taking 412 if you plan on being a Compsci heavy DS student or 425+426 if you plan on being a stats heavy DS student.
+not sure if this helps but before I was accepted, during fall 2021, I withdrew from EECS 203 and EECS 280. Meet with an advisor from UMSI, I learned they don't just care about grades. GL :)
+One W, if it's your only W, won't hurt you. Hell, I had a string of W's and I was still accepted to U-M Law School. If you hate the class and and it doesn't advance your goals and it's diverting time and energy you could devote to other courses and you think you'll end up with a bad grade if you stay in it, then go ahead and withdraw and take the W. A W is better than a bad grade.
+Hopefully you made the appt with a SI advisor but I think you should be fine
+looks completely doable
+281+370 is completely doable, but do make sure to start early on preparing for your final exam.
+I’d say it depends on your year; doing 370 early allows you to take a lot of really important ULCS (482 491 471 470 483 just to name a few) 
+
+In terms of difficulty I’d say atlas is p click baity and under estimates the difficulty of the class (I personally found it harder than 281)
+Take eecs 376 over eecs 370
+Do they offer ROB 101 for the fall term?
+I would not pick 281 + 376 + chem + engr 100. 
+
+281 is tough and more difficult than 280. 376 is significantly harder than 203, especially this years modified 203 which was made easier. And engr 100 is VERY UNDERRATED. It's a huge time consumer and most sections actually grade annoyingly hard. 
+
+I'd recommend 281 + 376 + humanities + engr 100. This gets lots of a recs done and is the medium schedule u suggested. Only problem is chem tho...
+I think your assessment is correct that EECS 281 + 376 + CHEM + ENGR 100 is the one that gets the most amount of reqs out of the way but will also be the hardest. Since you say you’re looking for a challenge, I’d say go for it. It won’t be pleasant but it’ll be survivable.
+[deleted]
+ENGR 100 and EECS 281 in the same semester? Are you a freshman? If so, you're already ahead on EECS.
+
+You could probably take CHEM 125/126/130 at a community college (make sure it transfers prior to enrollment) over the summer.
+Are you planning on doing a dual degree with CS in engineering and UX at SI?
+Not related, but how did you feel about SI 364?
+[deleted]
+you MADE THE M-BUS APP???? holy crap ur insane kid!!
+You'll be okay, I took 203 this semester and it wasn't nearly as bad as people described it  because they pretty much overhauled the way content was taught and grading was done this semester. 250 has also (apparently) gotten easier with a redesign, although I can't speak to that firsthand (see this post: [https://www.reddit.com/r/uofm/comments/qr0a2j/conflicting\_views\_on\_stats\_250/](https://www.reddit.com/r/uofm/comments/qr0a2j/conflicting_views_on_stats_250/)). 
+
+Also, apologies if you already know about this site, but you can look up historical workload and grade distributions here: [https://atlas.ai.umich.edu/](https://atlas.ai.umich.edu/). Hope this helps!
+183 isn't bad if you have coding experience coming in.
+
+Eecs 203 is a bit more work in that you'll have to study. I spent about 3-4 hours a week on it.
+
+Stats 250 was easier than 203 imo. I spent at most 2 hours a week on it.
+
+I havent taken ASTRO 101. Hopefully it's not too bad.
+
+I did EECS 280, EECS 203, Stats 250, and asian 325. It was a decent workload, but very doable. I think you'll be fine!
+I can’t speak for Astro 101, but the general idea of eecs is 2 eecs a semester is the maximum. So EECS183 and EECS203 is a reasonable combination. 250 is pretty light, but needs the time to practice due to all the variables. Keep in mind winter semester is faster, so the deadlines for projects will be a bit faster than fall semester.
+Have you contacted the housing department about this yet to confirm? I highly doubt that they would actually boot you out mid contract just for dropping to part time. In the housing T/C (https://docs.google.com/document/d/13iXAYKHKnU9anhUeKcXYYHrINrDOV0kqgkvw0wF5BBs/edit) section about eligibility, I don't see anything relating to credit hours (except for Northwood community apartments which presumably doesn't apply to you) other than "enrolled in classes" which you are. 
+
+I would consider switching out one or even two of the classes you're least likely to get let off the waitlist in for some distribution requirements, stuff you're interested in, or just easy 4 credit classes in general. All of those courses have one or more substantial weekly homeworks and relatively challenging exams.
+I'm on the same boat. I signed up the second my window opened on Dec. 6 and got waitlisted for every single class I needed to continue on my major path. That's right, literally 0 spots were available in ANY of the four classes I intended to take. I went to EAC advising sessions and they basically said to backpack some random classes and hope I get off the actually useful classes. That's not looking very likely at the moment, so I'm probably going to end up having a semester of BS, especially given most of my general electives are already covered and I am yet to take EECS 280.
+Register for your second choice of classes and drop them if something opens up. You don’t always get your first choice, that’s why they do it in segments.
+Housing will not kick you out or fine you for being below full time.
+I have no idea what this advisor is talking about. You sign a contract with housing for the academic year. There aren’t any stipulations in there about student status. Plenty of students go part time or drop to full time during the semester
+
+If Anything you should be concerned about your financial aid. Register for your full time otherwise if you do get in these classes last minute it’s gonna be a pain in the ass, if not already to late to get your full time aid package
+Take IOE 265! Low workload and easy class.
+412 is not a high workload but IMO it is very important to have good statistical knowledge as a CS major. If you want to apply to data science jobs, they will give you basic stats technical interviews along with coding. 
+
+Honestly speaking 412 is easier than 250 from what I’ve heard (haven’t taken 250). Calc 3 is not needed at all.
+The one constant of /r/uofm, it was true when I was a student in EECS, it is true now, and it will be true until the heat death of the universe.
+Oh yea, screw that exam. It was way to difficult! I don’t get why they had to make it that hard! (Coming from an EECS major)
+I swear the frq were way harder than the practice exams 😔
+This is the kind of high-quality post that I expect from r/uofm
+Lmao you thought that exam was hard, wait til next semester with [Insert EECS Class + 1] exams!!!
+“I thought [EECS class] was supposed to be easier than [next level EECS class]”?!
+What did you get for problem theta?
+:( :( :(
+Majors facts :/
+:(
+201
+Most labs I've taken here have been whack. For the 1-2 credit amount they represent, you have an awful lot of work to do outside the lab along with the hours spent in lab. Especially chem labs yo, I'm pretty much shitting my pants the entire time until I leave.
+Stats 250 wasn't awful, but it was really annoying because there's a lot of busy work that I don't think really helps with understanding the material. Eecs 370 during any of the lectures that Mudge taught because it's easier to just teach yourself than listen to him stumble through reading off slides. Eecs 376 because I'm not interested in theory in the slightest and it's a required course.
+
+Edit: I also want to add that the exam grading rubric in stats 250 in ridiculous also, and probably the worst part of the class now that I think about it.
+I really didn’t like eecs 203
+Math 115. The math department for lower level courses is not great and team homework takes way too long when it is not directly affecting your grade at all. I’m sure some GSIs were better than the one I had but still was not a good experience.
+Woody plants (ENVIRON 4??). It the only class I’ve ever dropped, the workload was absolutely insane for a 4 credit class. You were expected to be able to ID over 120 plants in their winter forms by the end of the semester, on top of lectures/exams that were generally about plant biology and unrelated to the lab material. Lab was also 4-5 hours long, being raced through the woods by a GSI who barely has time to show you all the plants. If you go in with no prior plant ID knowledge you’re fucked. 
+
+Taking second place right now is BIO 288 which I’m currently enrolled in. More than half the class failed the first exam and the lectures are absolutely pointless, the professor (Tom Duda, not afraid to call him out here) knows this and doesn’t give a single fuck. He told us the exams used to be all multiple choice but that was “too easy” so he changed them to the way they are now. I do fine on lab quizzes but can’t handle the way exams are written. Professors not giving a fuck unfortunately seems to be common in the BIO department (never had a problem with any PiTE or SEAS professors). 
+
+Also FUCK math 115 and stats 250. My 115 GSI barely understood English.
+SPACE 101 “Rocket Science” is an underdeveloped, mismanaged shitshow. The professor is fine but the course material is completely aimless. The most recent exam was a mix of basic physics problems, random historical rocket trivia, and grainy-ass JPEGs of rockets that you had to identify.
+
+They’re making shit up as they go. A couple weeks in they decided to do iClickers every lecture, and it seemed like none of the staff had ever administered an exam in their lives.
+in terms of instruction, chem 210. my professor was such an a**hole and was the type that wouldn't answer a question because he thought you should already know that. orgo was already hard content-wise, but he didn't have to be such a dick about it.
+
+content was hands down chem 482. that was the only class that gave me so much anxiety, I would literally pray to get ill so I wouldn't have to go. I had absolutely no idea what was going on in that class like ever.
+Bio 173. Terrible prof, terrible GSIs, terrible activities. I hated that class.
+
+
+MCDB 310. Rude prof and wayyyy too much material in too short a span (but it was a fun challenge if you're up to it)
+
+
+EECS 203. Proofs are poorly taught and lecture doesnt give you enough for the homework
+
+
+ENGR 100. I had a bad section, but it was basically busy work and memorization
+
+
+
+My favorite classes:
+Chem 210. Really forces you to think. Find a friend who understands the material and study with them :)
+
+
+Chem 215. Honestly, same as above
+
+
+Phys 240. This took me some time to figure out, but go to the physics help room, and attend lectures!
+
+
+Ling 111. Harder than it should have been, but interesting concepts
+
+
+EECS 280. Last coding class that was decently easy tbh
+Chem 125. I’m sure this is highly dependent on your GSI, but with mine the class was a dumpster fire.
+EECS 203, hands down.
+Astro 102 was pretty ass. They treated it like an astronomy weeder class despite 90% of students just taking it cause they were interested in Astro and needed a distribution requirement. Any big lecture with required attendance pissed me off.
+Worst in terms of difficulty: Math 217
+
+Worst in terms of “this is a shitshow”: Math/Stats 425
+EECS 314 by far
+EECS 203. 
+Thats it.
+EECS 203, shit belongs in the lower levels of Dante's Inferno
+Stats 250. I’ve taken a good amount of math classes and done pretty well, stats 250 I was very close to failing the entire time. Labs are literally entirely unrelated to lecture and you aren’t tested on it. 2/3 lecturers are not understandable.
+Chem 210 would have been worse if not for the FN orgo sessions that Nolta did... while she was the prof of 211. Hardest though has probably been math 115, I took it as a first semester freshman and the college learning curve combined with my lack of good quantitative reasoning skills killed me.
+Stats 401. At least with Nagaraj. It’s poorly taught, she’s rude to the students, and the content is not very interesting relative to other classes that cover it (eecs445 for example).
+Math 214 last semester was a shit show, and I’m just bad at Math 216 so it’s making me miserable
+Stats 250 can blow me so wack
+Either MATH 115 or EECS 376.
+
+MATH 115, math here is hard. Even harder when a GSI who barely speaks English is teaching it to you.
+
+EECS 376, I’m convinced I will never understand this material. Conceptually the hardest class I’ve ever taken.
+Organization wise, Stats 415 was absolutely awful when I took it. Materials split between Canvas and prof's website, low to none piazza response rate, unclear or missing rubrics. Assignments other than the midterm took forever to grade. Labs weren't even related material.
+
+Difficulty wise EECS 388 had some of the hardest material and projects, conceptual-wise. The final exam was made with this in mind, though, so even with leaving 3/8 sections blank you could score an A.
+
+Workload wise its Math 217. I was spending 10-15 hours a week solely on that course's HW. The only other course that came close to it was EECS 442 which was a capstone for my major, not a bloated 200 level class. I learned more about proof writing from 1 week of Math 351 than the entire semester of 217.
+SI 110
+i'm old so this is probably not relevant to current students, but the worst class was a 400 level EECS that was taught by a first time professor.  (I won't name him because it was literally his first semester teaching. also I just looked him up and he has a named professorship so I assume he has grown into the role.)  The class was called object oriented design and was about data modeling and API design.  The professor had a good idea for a class but it was just poorly implemented.  
+
+The idea was that the class would divide into groups and each group would have an interrelated problem domain. Each group had to receive data from other groups, work with that data, and make their own data available to other groups.  So each group had to define the data they needed and data they could output and also define an API for providing that data.  Again, it sounds like a really neat idea.  The problem was that the professor spent all of five minutes covering necessary topics and spent the rest of every class period talking about himself and all his great industry experience and generally shooting the breeze with students.  He treated class as essentially office hours.  On top of that, there was the ever present problem with group projects and free-riders.  Here it was even worse because each group had to rely on other other groups.  There were no interim goals or requirements that would have forced groups to make progress.  The professor never contemplated that the groups would fail to work cooperatively with other groups or that some students (and entire groups) would not be self-motivated. In the end, things had broken down so much that actually getting data from other groups was abandoned.  We had to assume that we were getting idealized data from the other groups.  Overall, it was just a very untested plan for a class with too many assumptions about student behavior.  
+
+I guess the takeaway is to be wary of brand new classes and brand new professors because you might just be a guinea pig.
+econ 102. dudek has got to be the worst professor possible for an intro econ class, tried proving everything on his tiny ass chalkboard all class (none of which was required knowledge for the exam). worse, there were probably 2-300 people in the lecture. average on our final was around a 40-50 if i remember correctly
+I also particularly despised HISTORY 101, which had mandatory iClicker attendance, even on the last day of lecture.... after all assignments, essays, and exams for the entire semester had already been administered and turned in. Oh and no devices to keep yourself busy were allowed.
+
+I sat outside the lecture hall and clicked in random answers in protest.
+Chem 260!! Poorly taught, awful exams, and masses of homework.
+My opinion, and a common one I think, is math 115, math 116, and eecs 203
+Maybe an unpopular opinion...but psych 111. Useless lectures, pretty much sat there while the professor read definitions off the board in an excited voice lol.
+I graduated from UM 13 years ago, but there was a 400-level psych class that I took that was designed to funnel football players into for an easy A. Had no idea going into it that it was designed as such. There was actually a huge exposé regarding the professor a few years after I took that class. Total waste of time class, although I had this guy in my class, and he was pretty funny:
+
+https://www.google.com/amp/s/deadspin.com/deadspin-hall-of-fame-inductee-marques-slocums-f-k-lio-5041955/amp
+Great books (gtbook 191?)
+I'm was a science geek in the lsa honors college. And this class broke my spirit.
+Stats 250. The way things are graded is just abysmal
+Stats 250
+EPID 600. I don't know of a single person that didn't get an F on the final.
+NERS 471. Pretty upper level Introduction to Plasmas course. There was no assigned reading it was simply the professor deriving for hours each class with no written out notes. Midterm and Final Averages were in the teens with small standard deviations. Very intense difficult class that could be better taught.
+Lower Middle
+EECS 280/281
+In the Winter 2013 semester I took STATS 425 Introduction to Probability (also was listed as MATH 425) and that was the single worst course I took at Michigan, and it was 100% because the professor sucked. He was a horrid teacher and often times you were better off skipping class and learning what you needed from the book. The Exams and Homeworks were terribly written and asking for help from the professor was a fruitless endeavor. I don't feel bad about naming and shaming Professor [Dalibor Volny](https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1808274) because a) he really was that terrible and b) I don't think he teaches anymore anyways.
+
+Also, STATS 250 must have really changed since I took it (the same semester as STATS 425 if you can believe that) judging by all the replies here. I actually enjoyed that class, it was easy, well taught, and not terribly overbearing in terms of workload.
+I wanted to say EECS 370, but my answer goes to EECS 312 by a MILE. 
+
+It's not even the content. 
+
+The professors teaching and communications skills are ass.
+
+The book is ass. 
+
+The assignments are ass. 
+
+The slides are broken, wrong, and you guessed it, ass. 
+
+What more could a guy ask for?
+ANTHRCUL 158
+
+My professor gave us no grades throughout the semester.  We had five papers due throughout the semester, and we would receive "feedback" but no actual grades.  We then had a final paper, which was 12 pages single-spaced.  I got a B in the class.  No idea how the professor got to that determination, but he somehow did.
+Chem 130.
+I took the honors section of Bio 171 and it was awful mostly due to the instructor we had for the section. She managed to make biology seem less interesting to me than calculus, which is an accomplishment. She was also irritable all the damn time. Made me really wish I had studied more for my AP bio exam so I could skip it lol
+
+I also really loved my first two semesters of Hindi (ASIANLAN 115/116 iirc) but the last two semesters were pretty stressful because at that point the class was filled with actual Hindi-fluent Indian students that were just knocking out an easy language requirement, so it was intimidating and I always felt pretty inadequate. But it motivated me to put a lot of work into presentations and whatnot so yay?
+FRECH 231 FOR SURE
+Soc 368. Professor is a condescending nightmare  to listen to during lectures and the GSI for my section manages to be worse. Wouldn’t answer my email because I didn’t put the section time in the subject line even though I included section number.
+EECS 477. Boring lectures, boring homeworks, concepts and exams were pretty hard and we’re challenging to prepare for. Didn’t help that I also took it during a particularly crazy semester.
+Ling 101. But I was a transfer student and really just only took classes in my major. Did not have to do any of the weed out requirements, also did not have to do any of the LSA prerequisites. My classes here were amazing.
+Only reason why ling 101 was bad for me was because I didn't have experience prior to that with any classes larger than 80 people.
+MechE 320 with David Dowling
+EECS 545 with Satinder Baveja. Very disorganized. Homeworks often released late without appropriately adjusting the deadline. Slides often posted late and were very disorganized. Office hours deliberately scheduled at a time which was inconvenient for everybody. And the thing was he gave zero fucks about the quality of the course, with the reasoning that because of the class topic and wait list size, if you weren't happy to take the course, somebody else will.
+History of sport in russia
+STATS 306 with Jonathan Terhorst (Winter 2018, so his first semester and the second time they offered the course) was a hellish nightmare I never want to relive in. The professor's lectures were cake compared to the monstrosity of the homework. Weekly homework and we could work in groups (up to 4 people) that took 15-20 hours a week... Had no idea what was going on and one of the GSIs even had office hours during the lecture time (???) Professor was so afraid of cheating that he sent out multiple long announcements before the final making threats about how to punish students for cheating - one announcement is fine, but no need to write a few essays... we're stressed about the final as it is. He also made an entire seating chart for the final but had students sit diagonally from one another like a checkerboard which meant we could see the entire full screens of the two students in front of us (???). The exam average was 47% where the highest grade was 75%. I saw multiple people crying after the final and I remembered laughing/crying for a solid 3 minutes because I knew I bombed the exam. Horrible class in general. The man was rude in office hours and when I asked him a conceptual question, he would look at me stupidly and ask, "what do you *not* understand?" Alright, hot shot from Berkeley, ok we get that you're smart but this is our first time learning the material. Worst class for me in the UG Stats department hands down.
+Worst workload: EECS 381
+
+Worst topic: Psych 111
+
+Worst class overall: EECS 477
+Econ 401 and stats 250, fucking kill me
+Math 215 or EECS 280
+Any of the Japanese classes.
+Learned the least in? Engr 101 (intro to matlab and c++)
+
+Enjoyed the least? EECS 320 (intro to semiconductors)
+Stats 250 eecs 270 and eecs281. None of them are bad but put them all together and the workload is stupid with the labs, weekly homeworks, and projects.
+astro 115 so far, this is my first semester and I took it to just be an easy class since it was 3 credits and an introduction class. Yeah, the class starts off easy and then soon enough the calculations on the homeworks go into trillions and you have to dig for answers in the book. The lectures are 50 slides each. Average test grade for Exam one was a C. Personally I studied the wrong material (DON'T STUDY THE BOOK) and almost failed it.
+That seems like a lot. eecs 280 takes up a lot of time and I’ve heard stats 250 has a lot of busywork. The UROP class also has a lot of busywork, and that’s not even counting the research hours for the UROP project you’ll apply to. So while it may be 1 credit, it’s kind of comparable to the workload of like another 3 credit class. I would drop one of the first 4 courses for sure.
+If the homework and past exams are easy for you then you'll have no problem on the exam.
+It's provided on Atlas: https://atlas.ai.umich.edu/spotlights/largest-courses
+Take IOE 265 instead of stats 250. It’s significantly easier and counts for the same credit
+Take engr 110! Easy 2 credit class for first sem 👍
+That looks like more than 12 credits. Is there a reason you want another class, because I wouldn't add another. I would also contact whoever your doing research with and see how much of a time commitment that will be, adding another class might not be the best decision.
+I got accepted into Ross minor and dropped it after a few classes. Not that special of a program that people make it out to be imo. The best part about it is networking and all of my courses were online. 
+
+Best thing to do to maximize your chances of getting accepted anywhere (club, job, etc.) is to go and talk to them in person. Show them why they should accept you before they even look at your application.
+Join MProduct or VOID Tech and work on a client project as a PM
+Best advice: get A’s in the pre-reqs and get to know the SI profs. Find a topic-adjacent research project or similar to work on and put on your resume. And start an applied stats minor regardless. Knowing R and going through more stats than the non-existent curriculum in SI will benefit you immensely.
+I tried to override 280 last semester (was a transfer student too) but it was under Professor Peter Chen (who has since been on leave since he was accused of sexual assault) so everybody trying to override this semester will probably have new questions and it’s a different process. Umich is really strict about you taking their version of data structures so don’t get your hopes up too much honestly. It’ll be an easy A.
+
+Just say that you’ve taken data structures and algorithms on your resume. You don’t need to specifically say 280 on it because most internships don’t care about class number and what matters is how you perform in the actual interview to prove that you actually know D&A 
+
+Apply apply apply. Have a polished resume, practice interpersonal skills and have a good elevator pitch. Year doesn’t matter as much as your ability to pitch yourself as a good candidate. There’s career fairs and resume workshops everywhere on campus, make sure to take advantage of your resources and you will be completely fine.
+Dang, I didn’t expect all the negativity about this course. Stats/math 425 is completely different than 250, 250 is statistics whereas 425 is probability. There’s very little, if any, overlap between the two courses. 425 was one of my favorite courses I took and the first half of the course is directly applicable to real life situations you encounter every day. If you’re interested in probability, I would definitely recommend taking it. It sounds like the poster before me is a high level stats/math grad student, which isn’t a bad thing, but probably a different perspective than your average undergrad. I preferred the course more applied than having to worry about proving every damn thing the entire way.
+(I was a two-time TA for MATH 425 and a three-time IA for EECS 545/445.  I graduated in 2017 but doubt things have changed much since then.)
+
+MATH 425 is a waste of time, run far far away.  The intended audience is finance majors with no real background in math.  The class is not proof-based and consists mostly of memorizing formulas.
+
+Since you've taken MATH 217 and Calc 3, you'll get much more out of MATH 525 instead.  It's proof-based and you'll learn how to think somewhat rigorously about probability.  It will also whet your appetite for measure theory (which you can learn more about in MATH 597/625 if you choose). 
+ MATH 525 would also be a great class to take concurrently with EECS 445, since you'll be able to see what you learn applied to solving real-world problems in ML.
+I take STATS 250 last semester and EECS445 this semester. I don't find anything required high-level stats here, 445 just needs 217 + some basic knowledge of normal distribution (pdf) and Bayesian.
+I didn't take stats 250 but did take math 425. It was an interesting class that I think I got value out of. Many people thought the first half of the class (combinatorics) was easy and the second half (probability distributions) difficult. I thought both were pretty hard (and I did fine in calc 4!) and had to work hard to pass. Granted I had class after a graveyard shift at work. I liked that it wasn't proof based.
+Stats 250 is actually a hard class now. I'd suggest taking stats 412 or ioe 265 instead
+The projects have been the same for a few years, but some felt way more time consuming for a 2 credit class imo (esp projects 3-4, maybe 2 as well).
+
+Kind of inconvenient around exam times tbh, but at least the course has no exams itself, just in class pop quizzes when I took it. The projects are generally slightly easier than EECS 280, but in Java (minus euchre).
+
+However those 17 credits sound like a lot. Especially with 370 and 388 both being project based courses, there will probably be some crunch times in the semester where you have to give up some coursework to make time, and the logical option being 285, it'll probably just be unnecessary stress if you don't need the flex-tech credit that semester. You can always download the projects from the site and work on them on your own time if you really want to learn Java later on.
+
+If you can graduate without packing your fall semester to 17 credits, I'd say don't worry about the headache, but you know yourself best though.
+I lost credit for stats 180 after taking stats 250. Yes, you need stats 250 for the CSE. No, stats 180 does NOT count for the CSE requirements. Yes, stats 250 does count, even though apparently they are similar enough that taking one nullifies the other.
+They've changed the policies since I was there. I got credit for "Stats 101X" for AP Stats and then went on to take and receive credit for 250 and 401 (edit: you previously had to take Stats 250 and there was no Stats 280 to take instead for CSE even if you took AP Stats). The page you linked to makes it pretty clear, and it seems to be a great change. Stats 250 felt like a recap of everything I had learned with the exception of one or two things, and I was bored out of my mind taking the class. 
+
+>Credit is assigned for a score of 4 or 5 on the AP Statistics test. Those with STATS 180 credit may proceed to STATS 280 (while keeping full credit for STATS 180) or may take STATS 250, in which case they receive full credit for STATS 250 but lose their credit for STATS 180. 
+
+>Students with STATS 180 may also bypass both STATS 250 and STATS 280 and take any Statistics class for which STATS 250 is prerequisite. It is an individual choice which Statistics course to take following AP Statistics, but here is some guidance.
+
+>Those who took AP Statistics several years ago, or do not feel ready to proceed to a more advanced course, are encouraged to take STATS 250. Otherwise, STATS 280 may be a suitable choice, particularly for those considering a Statistics major. Those considering a Statistics or Applied Statistics minor can take either STATS 280 or STATS 401. 
+
+**EDIT:** I misread your question. It seems you've already taken Stats 250? If the credits for Stats 180 are still on your transcript, you may have been under a different policy at the time. If you just finished up with Stats 250, just wait a few weeks to see what happens on your transcript. My guess would be your credits for 180 will be removed.
+For any class, if there is the "no credit will be granted for class x after receiving credit for class y", then if you take class x after taking class y, both classes will still show up on your transcript, and your transcript will indicate the number of credits each class is. However, for class x, you will not receive any *credits towards progress*. Credits vs credits towards progress are two separate things on your transcript. It is only the credits towards progress that counts towards graduation credits.
+A few of my friends had stats 250 as a requirement but had credit from AP, I guess you can submit a request for stats 180 to sub out for your stats 250 requirement? They got it approved and didn’t have to retake anything. But yes if you took stats 250 it basically replaces and eliminates your stats 180 credit.
+Competitive: Very, but realistically I got in with a GPA under 3.0 and my Stats250 was a C+, so if you're solid in everything else you have a fair and balanced chance of acceptance. Granted, it's only getting more competitive, so make sure you ace everything else, because realistically every other applicant is going to also ace all of the other prereqs. Good luck!
+It's getting harder. I heard the acceptance rate was < 40% this year from secondary sources around SI. But, there seems to be some discussion about allowing more students in the future. Without any concrete news, prepare a back-up plan if you get denied.
+[deleted]
+Can’t help you out with admissions but I got into a good groove when I took stats 250 last winter semester. It’s not so much math heavy, you’re given all the formulae you need and you really don’t need more than that. It is excruciatingly nitpicks over proper notation and the way you word answers though, to the point where you essentially need to remember a template for how to answer questions and be able to tweak it slightly according to any other tricky variables they put in the problem. Really do as best as you can on homework, since that’ll reflect the grades you get in exams generally. I liked going to the gsi led office hours to work on the homework collaboratively , and I went to professor office hours for any other questions I had regarding specific questions or concepts. Use every resource available to you. I wouldn’t consider myself a math person, I got a C+ in calc 1 but an A- in stats.
+If you want to do SWE you should try to stick it out with CS tbh.
+I don't think you should do STATS 250 because 3 math classes may get tedious fast. Also I used STATS 250 as a filler class with EECS 281 (really easy with pretty hard class). 
+
+If I were you right now, I would take EECS 203, Math 214, EECS 270. I don't know where your interests lie but the class is "intro to logic design" I really enjoyed the class and it counts for flex tech requirement. It helped me decide between CE and CS and also helped me a great deal with EECS 370 (some people will tell you it's not necessary but I found it useful). A lot of time is spent in lab in that class, so I think it's a good break from book work of the other two math classes.
+
+And of course you are free to tack on an IB class or not depending on how much you can handle. 
+
+I'm graduating CS-eng this year, just message me if you have any questions.
+1. What are IB credits? 
+2. If you plan on taking a super hard EECS class e.g. 381, then I suggest saving STATS250 as a filler and maybe even your 300lvl humanities (which you should definitely take pass/fail unless you're trying to boost your GPA). You'll be doing yourself a favor.
+You should send an email to umsi.undergrad@umich.edu with this right away!
+You can! Keep in mind you may need more time to graduate depending on how the BSI requirements change. (Requirements change frequently as the degree is still kinda sorta relatively new)
+Sounds very possible. Look at the required classes for the two tracks in school of info.
+
+You could definitely accomplish this in four years. I don’t know that you could take all the required classes in 4 years.
+
+Also it’s fine if you take IOE 265 or Stats 412.
+Certainly possible. Also, the big companies have programs that are geared specifically towards freshman. Google EP, Facebook U, Amazon Future Engineer and Microsoft Explorer. Even if you don’t land those, interning at a local or smaller company is always great. Anything after freshman year is good.
+Possibly, but you also shouldn’t worry too much about it. Internships are always a plus, but you’ve got several years, so there’s no rush unless you want to graduate early.
+You could get an internship just by taking EECS 183 if you try hard enough. It only gets easier after you get your first internship though.
+It’s certainly possible especially since you’re taking 281 freshman year. In my personal experience though it’s hard to get an internship freshman year off merit alone. Be aggressive and network yourself with hiring managers so you have an “in”.
+Very likely Depends on your grades and other activities though, for sure.

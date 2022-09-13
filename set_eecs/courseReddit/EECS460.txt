@@ -1,0 +1,9 @@
+460 is more control theory and 461 is more hands on embedded controls. 460 has more ME application and 461 more CE. I liked both.
+460 covers control topics in-depth while 461 is more like application based. 460 is a  very useful class if you plan to study control, power and energy systems. Moreover, the feedback theory covered in 460 will also help you understand the feedback system basics and help you design analog circuits with feedback loops. 
+461 is useful If you want to do some controls and also gain some low level programming experience. 
+
+Take 460 if you want to study control theory in-depth.
+Take 373, 473 if you want to study embedded systems in-depth.
+Take 461 if you want to explore both fields. ✌✌
+This question is best served by asking engineering advising. Idk their number, but the number for newnan lsa advising is 734-764-0332. If you're lazy call them and ask to be transferred. 
+I took 460. It hits the ground running right away. If you're pretty familiar with LTI systems, feedback control (PID), and differential equations go for it

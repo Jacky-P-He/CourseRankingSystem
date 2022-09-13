@@ -1,0 +1,64 @@
+Maybe it’s advisory and not enforced?
+I’m in this class this sem. He will require no prerequisite. I think it is a new version of CS231N, and it is well designed. The homework workload is high, some (A4) may even be higher than a 482 project. The grading curve is very good. More than 1/2 of the class will get an A or better.
+I'm in it this semester with no 445 and no previous ML experience. It's completely suitable for beginners, as the course content starts with very basic stuff, including teaching how to use pytorch, basic neural networks and stuff. I'm not sure about next semester's policy, but I didn't need any prerequisite to be enrolled in.
+498 uses the Unreal Engine ecosystem, not Unity-- can you link me to where you saw this error?
+
+This course will aim to be noticeably lighter than EECS 494 (as described in the course syllabus at bit.ly/umich_xr ).
+It looks like a new class. It looks like it’s more oriented for ECE majors since the advised reqs include 351, 301, and linear algebra, this prof is part of ECE, and it’s a ULEE and CE EECS elective. This class has 62 seats which is similar in size to eecs 351.
+Isn't this a new course?
+I took it and had a great time. Workload wasn't too bad, and the projects were decently interesting. The course content was more focused on just a few types of machine learning (unlike 445, which tried to cover a ton of different topics), and the types of ML covered are very useful.
+No
+heard it's similar to 370 workload
+Haven't taken it but considered so. [Here are people's thoughts on the class from the Facebook CSE page](https://imgur.com/a/Lrv7EWo) that might be of some help  
+
+I'd also consider that the class is taught by Jason Mars, if you aren't aware of his [controversy](https://www.theverge.com/2020/2/13/21135765/clinc-ai-university-of-michigan-sexual-harassment-allegations-ceo-startup) and thus [concerns over teaching](https://www.michigandaily.com/news/academics/students-express-concerns-over-teaching-appointment-jason-mars/)
+YMMV but from my experience the 6 credit portion for P2 was probably the hardest of all the 6 credit portions for the projects. The P3 and P4 6 credit portions were more in line with the “20% more work” mantra.
+I’ve taken all the mentioned classes. 498 by Justin Johnson was my favorite class at Michigan. It’s 5 projects in Google Colab in numpy and torch. Pretty much the only class that taught me skills directly applicable in real life. It’s definitely more work than 445, but also less math and more programming.
+
+Affective computing was also very good, but quite different and when I took it had a lighter workload. Professor Provost is an awesome professor. This class touches on a breadth of subjects, but doesn’t go super deep. It’s good for exposure to new topics, but not as hands-on writing code as 498.
+
+442 is an easier version of 498 and I wouldn’t recommend it as much. It re-uses some of the assignments from 498 but uses numpy instead of PyTorch (at least when I took it). Professor Johnson taught 442 for one semester after I took the class, so that might have been fixed. 442 teaches you traditional computer vision techniques which are used very infrequently currently since everything is very ml-focused. The first half of 442 is traditional CV and the second half is a high level overview of what 498 covers.
+
+445 was awesome for a math background of why ML works. I’d recommend 498 first to get the skills needed to actually create ML models, 445 to learn why they work, affective computing to see ways to apply those models, and 442 for traditional computer vision techniques
+I want to hear more about this class as well. I am taking it with EECS 442
+Do they offer 498 GPU next term?
+FYI, I feel like EECS 491 made me as anxious as EECS 482. The only difference is that the duration of the anxiety can be shorter.
+that's really thoughtful of you to think about profs having families at home, some with young kids and some with immune compromised partners or parents. my parents are teachers and hybrid is twice the work for them. it's like turning one class into two or two into four. so i completely understand that some profs can either be in person or virtual but can't do both. That's why I think we should be virtual until feb. 1 and then re-evaluate. Also --- it's freezing out and do I really need to walk to class?
+Every course you’ve mentioned is an eecs course. There are non eecs courses at UMich lol. We really should rename this subreddit to umichEecs
+I personally think online would be better because it might be better for faculty and because it offers a lot more flexibility for COVID positive students. Some of my classes have in person elements that are really important for learning and there’s no way for me to participate/get that learning without being there. My roommate just tested positive. I was with her for days. I’ve tested negative but my test was pretty close to exposure so it’s probably not accurate. I probably have COVID, but I can technically go to class until I get tested on Wednesday. I don’t want to go to my classes until I get my results back, because I believe I’d likely be exposing those around me. This adds 3 days on to the 5 that I’d have to quarantine should I test positive. And I don’t know if these absences would be excused because as of now I am asymptomatic. This makes things difficult when it comes to my classes with attendance requirements, and it makes it so I’m missing a lot of learning I can’t get back. My experience tells me that online would work better, especially when the campus environment is already so messed up that I’m really depressed living on campus. After three days I was homesick (which isn’t normal for me). However, I don’t know exactly how going online would affect others.
+This is probably a good idea, and I belive all of my classes are doing this. 
+
+But for some reason, there's been a girl hacking into my back 3 days in a row now. I've been reflecting on the fact that people have to be told to stay home if sick. When did it become the norm to come in when sick? This is a commonsense precaution that should be valid for ALL illnesses. 
+
+If the university is going to require masks, just make them n95s. I think we're all aware that tiny piece of fabric tied my face with shoelace is, you know, junk. Some professors are requesting or handing out n95s. 
+
+Normalizing staying home if sick and n95s are sustainable long term and don't diminish learning. It's bizarre that your classes aren't offering a stay at home option.
+
+Edited for clarity
+Please use department names in future posts, not just course numbers.
+I also got a 0 on one of the problems and like a 2 on the other. Man debugging during an exam is brutal
+You might not have failed just because you didn't get points on the autograder. I'm pretty sure the staff will manually check your code to see if you were on the right track. Plus, with all the issues, I'd anticipate a big curve.
+I got zero on both AG questions, really hoping they will put a lot of emphasis on manually checking the code since I think I was def on the right track
+Even despite the extra time, I think it would be fair if exams were made to be slightly less weighed in our grades bc of not only the circumstances of the exam but also the circumstances of this semester.
+Totally empathize. I wasted so much time going back and forth between caen and slowly editing some things at the end in vim due to compile errors. Really hoping they place a significant amount of emphasis on the hand grading.
+Don't feel bad, that exam was ROUGH. This class is fuckin hard haha. Shoot me a pm if you need anything!
+Wait the 482 exam was a timed autograded assignment?? Any partial credit with this?
+I do not think a sophomore could succeed in 381 , honestly
+Sounds like you could use an appointment with an advisor!
+>I had a very tumulous freshman year where I took on more than I could handle and ended up regretting it
+
+Based on this, I would say don't take 381.  
+
+Many people would prioritize 482 over 381. 381 concepts you can learn in the industry from code reviews. 482 is still hard and a lot of work but less time consuming than 381. 
+
+
+These are all extremely ambitious. If you think any of these are a step back, then what on earth where you taking these past two semesters? Also, how early are you trying to graduate? (It looks like you're shooting for a year and a half?)
+
+Option 3 looks the most realistic to me, taking 2 EECS courses and 2 Math courses at the same time is bad news unless you are extremely confident in your math and programming skills. You have distribution credits to get out of the way, use them to break up your heavy semesters by pairing EECS and Math with easy distribution classes.
+FYWR shouldn't really take much work, it's mostly to make sure your grammar is intelligible and you know how to not plagiarize. ULWR is where the actual quality of writing will matter.
+Why Math 217 instead of Math 214? You're not going to benefit from the proofs and rigor of 217 unless you plan on going to grad school and doing a lot of theory based stuff. Save yourself some stress
+Are you taking 281 this spring? Or how will you have completed it prior to your sophomore year? You know that it is a prereq for 381, right?
+
+Also be extremely careful with 381. A lot of people want to take it because of the prestige of the course, but a substantial number end up being forced to drop the course or accept a failing grade. Prof. Kieras is hard on his policies, and will not listen to sob stories. Each year, you hear a number of seniors in their final term who end up failing the course and not being able to graduate.
+
+You may have heard people say that EECS 381 is considered "pseudo required" for CS majors. That is not necessarily true. Yes, you learn a lot, but it is not necessarily worth the stress. Basically, it if you are very interested, by all means go ahead and take it. However, don't feel like you absolutely need to take it in order to be taken seriously as a CS major.

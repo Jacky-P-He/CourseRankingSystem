@@ -1,0 +1,131 @@
+Take ENGR 490 instead. I’m in the same position and I emailed an advisor and they said it’s gonna count for the req
+The class has significantly improved from last semester - it's basically a quiz every lecture (they're easy and collaboration is allowed), four hw's (also easy), and a project which we have not been given details for yet - unknown difficulty but it doesn't sound like the end of the world.
+
+About 2.5hr weekly time investment including lecture, so workload is not bad at all.
+yeah im in the class and can shed a little bit of insight. first, here's the official email the prof sent out after the class:
+
+>I want to apologize for what happened last Friday.
+
+>The lecture was supposed to address the topic of emotional intelligence and the skills we all need to function well in a variety of environments and situations. The invited speaker, a psychologist, was recommended as an expert on this subject.
+
+>However, the course that was delivered was unprofessional and unacceptable. In particular, disparaging comments about specific groups, individuals, and putting students on the spot with no preparation violated the norms that we hold ourselves to in EECS.  This is particularly ironic in a class devoted to the topic of professionalism.
+
+>I have heard from a couple of students already about how uncomfortable this made them feel. I am reaching out to any others who would like to share their feelings, publicly or anonymously. I have also sought the advice of the EECS chairs and the Associate Dean for Undergraduate Education.
+
+>The consensus was that it would be appropriate to devote the first part of this week's lecture to a conversation about what happened last week, and to hear a variety of perspectives on what is acceptable conduct and what is not. The chairs of EECS (Professors Mingyan Liu and Brian Noble) have agreed to participate so that they can hear and address any concerns you have.
+
+>In addition, the College of Engineering will contact the Ross School of Business to make sure they are aware of what happened and to take appropriate actions.
+
+In terms of specifics of what happened, one student was brought on stage and the lecturer asked him for his name. He said some name like "John," but the lecturer seemed surprised. The student was Asian and the lecturer kept saying something like "Is that your real name? What's your real name?" implying he wasn't from the country or couldn't have a western name like John.
+
+There were also instances of him bringing students on stage and asking them in front the the whole class: "who are more capable leaders, men or women?"
+
+there were some more instances but i dont remember much. besides these insensitive things, his "lecture" was barely structured and i stopped paying attention basically right after he began. maybe other people can share some more anecdotes
+
+edit: i didn't include his name but if you need to know just send me a pm or something
+
+
+I was in the lecture too and I can post what I remember (bear in mind that I was high during this class so I may get some details wrong). For some context, 496 takes place in the Stamps Auditorium and it's usually pretty full because every CS/CE student that's taking a senior design class this semester has to take 496 at the same time. Every week we have a different guest lecturer teach class. 
+
+The lecture begins with the guest lecturer calling the students in the back of the auditorium to the front of the stage. After like 10 students reluctantly come to the stage (only 1 girl in this crowd - this is important later) the guest lecturer instructs them to stand in a row on stage. He then asks the dude at the front of the line a question like "is it more important to know your weaknesses or focus on your strengths?" The student answers, and the lecturer tells the crowd to vote on whether or not we agree and if we disagree then the student will have to leave the stage. This proceeds with 2 or 3 other guys (I don't remember the questions but they were similar to the first) which I guess makes sense because the lecture was supposed to be about emotional intelligence. The crowd voted to keep all of the first people if I remember correctly. I legitimately don't remember the questions 
+
+Then we get to the next guy and the lecturer asks, "who are better leaders in the workplace, men or women?" The student looks kinda stunned (because what the fuck kinda question is that??) and lecturer says "you have to choose!" The lecturer presses a couple more times, presenting it like a binary choice, and the student noncommittally says "men I guess." The crowd immediately boos the kid off the stage and the lecturer says "guess they didn't like that!"
+
+THEN HE ASKS THE NEXT DUDE THE SAME QUESTION. The kid looks stunned because up until this point every person in the line has gotten a different question. The guy answers "women" - there's some commotion in the crowd but no booing yet and then the guest lecturer asks "why?" (another unwinnable question what the fuck??). The student says something that I couldn't hear because the crowd immediately boos and he has to get off the stage. The lecturer then asks the same question to another guy who gets to stay because he answers "women" and "because the crowd likes that answer" (lmao).
+
+The guest lecturer then asks if anyone from the crowd has a question and a girl says "how many EECS boys does it take to get a non-misogynistic answer?" and the crowd cheers/laughs/says "ooh" but the lecturer shrugs it off. Finally we get to the girl on stage and the lecturer asks the same question. She gives a long answer about how the gender of your supervisor doesn't matter and the class snaps/claps after she's done. The lecturer dismisses everyone from the stage, thanking them, and then continues with his "lesson." He never mentioned the activity again, and I have absolutely no idea what the purpose of it was. It was mostly just incredibly baffling. 
+
+During another activity where he called more students on stage, an Asian guy with a two-syllable name introduced himself and the lecturer proceeded to ask him "what's your first name?" a couple times because he didn't seem to understand that the dude had two syllables in his first name.
+I'm in this class too. A friend of mine who's an RA went up to him after class and spoke to him about how unacceptable his language was. Asshole pretty much just shrugged and walked away from her.
+
+Ross really knows how to hire em. Dude also kept plugging his books in class.
+
+edit:  Here's the email the EECS department just sent to all of its students:
+> It has come to our attention that last Friday during the EECS 496 class, a guest speaker delivered an unprofessional and unacceptable lecture. Students were put on the spot without preparation and made to quickly answer controversial and divisive questions, making many feel extremely uncomfortable.  
+
+> This behavior runs counter to the values we hold dear in the EECS Department and across campus.  We have reached out to the affected students and will be having an in-class conversation about this at Friday’s 496 lecture. In addition, actions are being taken so that the individual involved understands our concerns and does not repeat this style of lecture.
+
+> We know this is a stressful time of year and hope this does not distract you from your studies. The EECS Department will continue to do everything we can to facilitate a learning environment where all feel respected and valued.
+
+Believe this is where the term "rosshole" comes from.
+Dang I need to see some sauce! Any links available?
+Any way to see the lecture recording?
+Can someone paraphrase what he said? I’m interested in knowing the extent of this dude’s foolishness.
+why would a professor from such an esteemed institution as the Ross School of Business lecture at a class run by the eecs department? doesn’t add up.
+Yeah should be fine unless your MDP project is nuts. 470 is a lot of work, but certainly shouldn't be un-doable!
+I think so considering EECS 388 is low-moderate workload and 496/497 and busywork/low workload but I guess how much time u spend on MDP project depends on your project but overall looks very doable
+Yes, looks doable
+EECS 497 involves you building a project with your group and going through the entire product life cycle, which includes things like UI/UX design and other non-development/coding tasks. The amount of time you put into your project is completely up to you. I took it in F21 and my group put the bare minimum in - I’d estimate less than 2 hours a week (didn’t go to lecture and filled out the summary forms instead)
+You do not have to take them at the same time, its just encouraged.
+I did not take them together and it barely mattered. In fact, I may have been better off than others, as many people’s MDE projects were lagging behind TC 497’s coursework, so they had to make stuff up.
+Can't speak on the rest but EECS 442 is relatively low workload. 2-6 hours a week. However, the final project is a lot of work especially if you choose something challenging, maybe 10-25 hours at the end of the term depending on what you pick.
+EECS 496 is 1-2 hours of work per week, TCHNCLCM 497 is 1-2 hours of work per week, 497 is what you make of it (could be 2 hr/wk, could be 10+ like in my case). I suspect since you have many classes which aren’t so time intensive (can’t say anything about CEE), the most difficult part will be keeping track of all the different deadlines. But from the EECS + MDE side, it’s very manageable. I did the same 3 (497/497/496) and spent 15 hours per week total between all 3 every week, others were spending as little as 6-7.
+I did EECS 485 + EECS 496 + EECS 497 + THCNLCM 496 this semester (12 credits). 
+
+From my experience, 442 was less work than 485. If usually spend about 2-4 hours a week on 442. 
+
+496 was just one mandatory seminar each week and then 5 assignments over the course of the semester that took about an hour each. Final was easy and there was also a pretty quick final writing project thing.
+
+497 was a bit of work. Probably did on average 2 hours a week between all of the coding and documentation.
+
+Tech comm was like 30 minutes of work averaged over the semester.
+
+I havent taken CEE so I'm unsure there.
+
+Amd I think thr piano class will be just fine on top of it.
+
+The biggest thing that I'd be worried with is the amount of classes you're taking is high (6 classes). You'll have to be on top of every deadline and you'll have a lot of assignments due at the same time.
+
+Other than that, your schedule is probably reasonable
+EECS 496 can be taken whenever, TCH 496/497 needs to be taken with or after your MDE (497 is CS focused). EECS 497 or “Human Centered Design” should be the lowest workload mde
+Personally, each semester after Fall 2021 seems depressingly challenging to me. I think I would be incredibly stressed and unhappy the entire time. Maybe you're considerably more capable than I am though! I think if you want to try this it might make sense to *attempt* this schedule, and see if it is feasible for you. However, I'd do this with the understanding that there is an extremely high likelihood you'll have to drop some classes and stay for another semester or two. Don't feel like a failure if it becomes too much, because this plan seems extremely difficult.
+
+I will say if you go this route, you need to ensure you're properly gauging your ability to complete your semester's classes early on. You'll want to drop classes towards the beginning of the semester, before you get a W, and before your other grades suffer because you're committing lots of time to a class you're going to have to drop anyways.
+Everything after fall 2021 will be really tough, I wouldn't personally ever recommend 3 full fledged eecs courses in one semester. This schedule seems super challenging to me tbh.
+The 281/370/376 combo would be quite frankly soul crushing. Also you have to get special permission to register for 3 upper level EECS courses (the 2 ULCS + MDE semester) in one semester as far as I know and I think that’s only if you need it to graduate that semester.
+1 apply anyway if you can afford it, not just at michigan but anywhere you're interested in. 3.2 is low but Michigan's name will mitigate that somewhat.
+
+2. Work for a year or two then go back to school. Industry is a different world from university. You may find concepts you may become interested in some topics after working for a little bit and lose interest in other topics. Also having work experience supplements grades.
+
+In general i would recommend taking gap years between undergrad and grad school. Even at the masters level it's not the same experience.
+Pad your gpa with ioe electives
+Alternatively, you can apply to UMSI's online Masters Applied Data Science (MADS). There's no GPA requirement.
+
+https://www.si.umich.edu/programs/master-applied-data-science-online
+~~You would need to get special permission to add 485.~~ I would not recommend it although it might be doable IF you have prior web dev experience, AND if you choose a very straightforward 497 project
+I'm in Game Dev now. It's alright, the lectures are pretty much useless (they talk about high level game design principles but you aren't given anywhere near enough time to actually factor them into projects), and the professor left over the summer so it's being taught by GSIs. Whenever I go to lecture, it ends up devolving into watching a bunch of gameplay videos, which is kind of interesting until you realize that you just wasted 2+ hours on essentially nothing. The work itself is alright, it can be a lot of work depending on how ambitious your game ideas are, and the expectations aren't very clear. If you are really interested in game development, I'd say take it, because the work will be interesting then. In comparison, I've heard 441 is way less work but much more boring.
+
+Both mobile app development and game development can be self-taught (you basically have to teach yourself for both classes either way), so you won't really miss out by not taking one. As for taking both at the same time, you may have some difficulty since they try to keep spots open for people who still need to fulfill their MDE reqs. You should try contacting the instructors or the advising office.
+Game Design is pretty awful. It's a ton of code, but you don't actually learn anything useful. It's just a lot to wade through. 
+I took 441. I really liked the class. I had never done mobile app development before, but it gave me an opportunity to learn.
+
+The class is not technical AT ALL. You're required to learn and develop from the technical side completely on your own. The class is more about the entrepreneurial side, so a lot of people don't like that. Personally I really liked it and it was one of my favorite classes, and as someone working on a mobile app in industry now I can say it was the most useful class I ever took and I feel far more prepared for understanding both business and technical concepts around software inception and delivery.
+What about TCHNCLM 496?
+[deleted]
+Took 301 with 280 and 216 and it was the smallest workload of the three by a significant margin if that helps.
+You missed a 75 point assignment, you consider office hours to be "sucking up" and you're bitching on Reddit about your grade.  Nice.
+[deleted]
+I had Soloway for my senior design course and loved him.  I don't understand why they have him teaching EECS 183 given his background, but he was the most generous grader I had for 'real' courses at Michigan, and the class was uniquely similar to software engineering positions.
+
+While you might have an argument to a slightly higher grade, your problems as described feels mostly self inflicted.  When you have five assignments total, you can't afford to miss one of them and expect a good grade - if anything, I'd think you would have been hit far worse with most other professors.
+
+Complain further up the chain if you really want to pursue it.
+You skipped a 496 assignment and didn't bother to sign up to do a presentation to cover for it? That's on you, not Soloway. And as for how he graded the assignments, I definitely know people got 70s or 100s on certain ones.
+
+For reference, I got an 85 on all the assignments (save for the "75/75" on the questionnaire, and didn't do the business plan), did a presentation, and got an A-. I'm content with it. 
+Hey man, it'll all be OK. I got something for you:
+
+http://imgur.com/PUFcekB
+why not try hard instead of whining about how unfair he is. 
+1. 497 is the required tech comm for CS and 496 is the required tech comm for CE. Don't know specifically what is different about the courses but the different degrees want different tech comms.
+2. 494 is a really good class if you have a interest in games. It's a great class to build a game portfolio and Professor Gibson knows what he is talking about and has a really expansive network that he uses to help support his students. However, be aware that if you want to do game dev or design in the future you have to make games outside of class too.
+3. Don't know too much about other upper level classes but I know a lot of people like to take and a lot of companies like to see that you have taken 482. Just be aware that it's a lot of work.
+1. not much. The technclcm classes I took were for the most part a joke. As long as you know how to write a decent paper/resume, you will have no problem.
+
+2. they are all good. Just pick something that you want to explore and go for it. I did the mobile MDE, which was interesting.
+
+3. if you liked 485, also look at 484. They are similar but different enough to be interesting. I also took AI, 492 I think, which was good. all depends on what you like. 
+[deleted]
+1) TCHNCLCM 497 is about writing documents for helping you be able to communicate your ideas to others, whereas EECS 496 is about professionalism and deals a lot with personal finance, copyright, patent, and trademark law, ethics, and business. Both are required to graduate if your are CSE (EE and CE have to take 496 as well, but I think they have a different TCHNCLCM course). Both have important things to learn, but they are both exceedingly boring, and the work that you have to do is tedious and annoying, but not hard. I don't know who's teaching it in the fall, but 496 is currently being taught by Professor Laird, who makes what would be a mind numbingly boring 2 hour lecture into a slightly less mind numbingly boring 2 hour lecture.
+
+2) 494 is a great class providing you are interested in making games. Professor Gibson is very knowledgeable about the games industry and the game design process, and he is well connected in the industry as well. However, the class is a bit of work, and if you aren't prepared to do that work, the class won't go well for you. But if you are prepared to do the work, then the class will be great. 

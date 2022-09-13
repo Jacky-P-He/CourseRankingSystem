@@ -1,0 +1,246 @@
+Most of the learning in 280 happens in the projects.  Don't let your partner do too much of the work.  And then, to prep for the exam, work all the problems in the past exams.
+Make sure to take a look at the live practice exam and some of the alternate formats there too, like the fill in the blank with code writing or the drag-and-drop style code building on the polymorphism questions. 280 has moved to using more questions in those styles since switching to electronic exams.
+Have lobster and your IDE pulled up so you can test your code
+The best way to get better at something is practice. EECS exam coding != EECS project coding. Figure out a style and methodology that works for you when hand coding. 
+
+Also talk with some IAs and try and get an idea on how exams will be graded. They probably won’t tell you that much but usually there is 1 IA that will help you out a little more than they should. 
+
+During the exam remember partial credit is almost always a thing. So even if you don’t know the answer throw some “code” on the page because you may pick up some partial credit. 
+
+If you need more advice feel free to DM me. I was on the opposite end of the spectrum as you. I did pretty mediocre on projects but always seemed to nail the free response questions on exams.
+I strongly recommend using lobster for doing practice exercises
+Not as generous as you think
+if it makes you feel better i also failed multiple practice exams and got an 85 on the actual exam. practice exams are for failing (at least for me)
+[deleted]
+The exams weren't too bad for me last semester, and I tend to do much better on projects in eecs classes than on the tests. I also failed the practice exams and ended up with a 95 on the final.
+it's pretty ass but they make it sound like it's good
+i am also currently failing a practice exam :’)
+It's beeeg
+Personally I found that P3 - euchre is the hardest. P1 and P2 kind of linearly increase then there's a sharp drop-off in difficulty(relative to P3) for P4 and P5.
+
+The projects are all public and stay mostly the same year after year. Here is the link for P2 from FA 2021: [https://eecs280staff.github.io/p2-cv/](https://eecs280staff.github.io/p2-cv/)
+
+The primary focus is on C-style ADT's
+Project 1 in general is less forgiving + more annoying than the other ones. When I took it (FA 2021) it was out of 18 points total so missing a single test case is a huge hit compared to the later projects where they're out of 100+ points. If you only made silly mistakes you'll probably be fine(90+) in the remaining projects.
+Yeah college is a different animal, to echo what Veauros said, everybody here got all A's in high school; and now you're in college, where the average for classes range from high C's to high B's.
+
+I will offer a few words of hope that there will be classes you're just better at, and do well in, you're not going to have the same experience in each class. And also that it is possible to bounce back
+Lol I got a 77 on p1 last semester and finished with an A. Don't worry about it!
+Exams are by far the most critical component for determining your grade. Project averages and medians in most EECS classes are usually around 90% (obviously there will be exceptions) so the exams become the big factor in determining your grade. If you do well on the exams (0.5-1 std dev above average) on exams, you have fairly good shot at getting an A, even if you aren’t scoring perfect on the projects. 
+
+As a side note, when it comes to horror stories on projects in EECS, anything is a horror story if you don’t allocate time correctly. Start early and be consistent. Working 2 hours a day for a week on a project will yield far better results than trying to have two 7 hour coding sessions.
+Don’t worry dude, I got at 11/18 on p1. I repeated a stupid mistake a few times. I know that I can do way better and I know I deserve it for doing that stupid mistake. I know that I am a better coder than that and that one single project will it define me. Do good in the rest of the class and you’ll be fine.
+I would say it’s pretty hard. I put in solid effort and got an A-. That being said, I struggling pretty hard in 203 while I was taking 280 and if it weren’t for 203 I definitely could’ve gotten an A. So basically, getting an A is definitely doable if you put in the time/energy.
+Do the projects well and focus on bug catching (like crazy). I averaged 99% on projects and got i think like a 90 and 85 on exams and got an A
+1) The test cases on the autograder are *brutal* and very much designed against edge cases. This is true of almost every EECS course, btw.
+
+2) If you're getting an 83 on a project, I *promise* you you're doing better than the majority of your classmates. There are tons of people that outright fail projects.
+
+3) Start. Project 3. Early.
+Every single person here got straight A’s in high school, okay? Including the ones getting B’s and C’s in EECS 280.
+
+You’re a medium-sized fish at best.
+Don’t do it. Take Calc over summer
+Won’t be fun but it’s doable
+= not fun
+hell nah not for me
+You'll be fine
+anyone done something like this? how’s the workload of these 3 together?
+Doable
+Easily doable but if you wanna feel comfortable, stay on top of your shit at all times.
+I had similar schedule for winter semester(eecs 280 math215 eecs203 intlsd 101 + 2 credits research ), and it was completely a mess. EECS203 + MATH215 ruins your social life, tanks your gpa, and makes you stay up late during weekends. 280 projects are rewarding and fun, and you can still get a A after bombing one of the exams. I truly suggest to not take 2 math courses together.
+I did 280 + 203 + 300 Spanish + 300 honors + 9 hours research
+
+I was already quite familiar with the 280 coursework. 203 is definitely a pain, mostly the homework. Do half on M/T, and half W/Th.
+
+It’s overall doable, but I have atrocious time management, so there’s been a few all nighters this semester (just for essays though).
+
+I can’t speak to 215, I took it over summer, but I hear that all the 200 maths are horrible (coming from a math major). I’d highly recommend doing it over the summer. The math department accepts online now.
+1, EECS IAs are pretty competitive in general. I know EECS 203 will have 8\~10 openings in this upcoming semester due to people graduating and I assume the situation will be similar for 280. I know a few people who got IA positions right after taking the class so I don't think that's a factor at all. Piazza activeness doesn't hurt but the video and then the interview are by far the most important. 
+
+2, 8\~10 hours per week.
+
+3, I know 281 IAs have to teach a lab section and all 203 IAs lead discussion. I will guess 280 IAs must teach a lab section based off of that.
+
+4, $24/hr IIRC
+
+5, You reapply each semester. The process is less complicated if you are already on the team. 
+
+6, From what I have heard from upperclassmen at other schools, companies really like people who not know only their stuff but can also teach them. Resume-wise IA is about as good as you can get among campus employment.
+1. I heard it’s somewhat competitive but is generally easier to get it in the Fall compared to the Winter, since a lot of people graduate in the Winter. I also heard your grade in 280 isn’t a factor
+2. If it’s the same as 203, then the official amount is 10 hours/week
+3. Unsure
+4. I believe it’s $24.50/hour
+5. Semester, yes
+6. Yeah I think so
+It pays 24.5 an hour, highly recommend it! 
+
+Posting on. Piazza def helps as well, GL!
+[deleted]
+I don't remember registering that early?
+
+In any case, I pretty much changed my entire schedule the first week after classes started. I did EECS 280 + EECE 203 + STATS 250 + SI 364 by the way, and it was perfectly fine.
+
+EECS 280 / 203 / 281 are usually pretty huge and don't have space issues.
+280 always makes extra seats for anyone who wants to take it. 
+Freshman don’t start registering until late June at the earliest, and keep registering until August. You’ll be fine
+The advisors should reserve seats for transfer students in select sections of popular courses. I transferred in winter and all sections were full but the transfer advisors reserved seats for transfer students in EECS 280 and 203.
+Im a freshman this year and I didn’t register until July last year which is pretty normal. You should be fine.
+EECS 280 and 203 make an effort to accommodate as many students as possible. You’ll most likely be able to register
+Yea but if you’re comfortable with any programming language the switch should not be huge. 
+
+There is a diagnostic test of sorts you can do to see if you can go straight to 280 without 183 or the engineering equivalent.
+If you were able to register for eecs 280, you must’ve either taken eecs 183 or gotten exam credit in a standardized test that taught an object oriented language such as Java or c++
+Not specifically C++, but prior experience with program, specifically object oriented programming, is assumed. I only had used Java but it was an easy transition and I know people with Python backgrounds have similar experiences
+I took that class with some people who skipped 183. Some of them skipped bc they were already too advanced for 183. Others bc they wanted to rush, and they struggled.
+Not really — I had credit coming in from AP CS (which uses Java) and I learned C++ for the first time while taking 280 my first semester freshman year. The transition was super easy, they teach you everything from the bottom up(except for really simple concepts like variables and control flow that transfer to C++ really easily if you have prior coding experience)
+I can tell you from experience that if you’re experienced with Java OOP you should be fine adjusting
+not really. the first few lectures they start from scratch. i took eecs280 with no prior coding experience and got a high B+ ( I fucked up on the midterm). It’s possible to get a good grade without coding prior to the class
+Doable
+Anything is doable with enough adderal
+EECS 280 is not so bad. Projects are theoretically doable in a day or 2 (NOT recommended. Physics 240 starts genuinely easy and gets moderate once you start electromagnetism.
+Do you have any other experiences or credentials that make you think you can skip 280? If you do then go for it, but if your knowledge is 183 level then I think you can skip 183/do the diagnostics at best.
+I was able to do this but I did take a bunch of other CS courses. But you should definitely go for it if you feel like you know the stuff in 280 already. I would say the interview is largely to convince them that you have the skills to suceed in 281.
+My 280 lecturer just said we are getting them at the next lecture, or if we do Zoom we can get them from office hours.
+That sounds pretty doable. Preferably with a very light 4th course, and don't procrastinate on your 280 projects at all. For reference for 214, I found calc 1 easier but calc 2 harder. YMMV based on how well you get along with the material
+I’m in 214 and 280 rn along with physics 140/141 and a CLCIV. I think it’s pretty doable.
+Agree with everybody else that I’ve never heard of Carroll so she must be new lol
+Yea I think she's one of the newer lecturers. I've actually never heard of Carroll before you mentioned her here.
+She wasn't teaching when I was taking the class so I imagine she's newer, but I took this class winter 2021.
+Carroll is new! she used to be an IA :)
+Does nobody like Beaumont? He's very good imo
+I took 280 last sem there was no one named Carroll so they are new
+I’m following along Carroll too she’s indeed rly nice
+Caroll is new, she used to be an IA when I took it last year and she was so amazing. So glad she is teaching this year you guys are lucky to have her
+Yup, it's her first semester as an instructor!
+Nice != skilled
+Very doable
+Yes every CS class has project averages in the high 90’s because we get 0 bitches and have nothing better to do.
+Yeah even the upper level projects you’re looking at similar scores, with Q3 almost always being 100. 
+
+It’s only in exams that you see abysmal medians.
+
+Don’t fret though, you can totally get an 80% ish here or there and still survive.
+The Q3 is almost always 100 or close to a 100 since the test cases give enough feedback to people that they should improve their code. You should work for a 100 on all public test cases and then some more so that you can also pass majority of private test cases
+Only EECS project I’ve seen with a lower than 90 avg was P3 in 482😳😳
+Yep even Euchre had a median in the low 90s
+There are a lot of motivated people in the cs department. I wouldn't say it is a talent thing, but it does show that you need to put in more effort on your test cases if you want an A.
+Youre given literally two weeks to work on it. Just keep working on it lol wth is this question...
+im also in 280 as a junior and haven’t taken a “real” coding class ever before, we can do this!
+So there's a pro and a con to taking it when you have, and in the schedule you have. 
+The pro is that most people take eecs 280 as freshmen or sophomores. For many people this is one of the first hard class they've ever taken, and a lot of people I knew struggled a lot just putting in the consistent effort to avoid crunching on projects.
+I firmly believe that college gets more difficult each year, especially in EE. I was finding the new hardest class I had ever taken basically up through the end of my graduate school courses. The bonus is that you're over leveled in a sense. If you're an EE and you've taken courses like 230, 320, or 216 yet, i think that even if you struggle to get into a CS headspace, you'll have the work habits to get you through. 
+The con is that 280 as a course believes that it's the only hard course on your plate, because it's targeting freshmen and sophomores. It'll throw a couple of projects that are way more work than they need to be to teach the concepts (cough euchre cough) because it's trying to teach you about debugging large systems, which you already have a sense for if you've been in EE lab courses. This will likely be annoying when you're trying to put out fires in other courses, and you suddenly need to work on a eecs 280 project. 
+
+Don't know if that helps, but that was largely my experience taking eecs 280 at a later point in my college career.
+A few official course resources that I can recommend:
+
+- Sign up for coaching with one of our staff. This will give you a 1 on 1 connection with one of our staff who can help as a guide through the course. There's a link on eecs280.org.
+
+- The beginning of the term is rough for a lot of students. Setup issues can also be particularly frustrating and make it feel difficult to make progress. We've got setup clinics schedule this week in place of Tues-Fri labs. Feel free to stop by one for any questions related to your IDE or debugger. There's a listing of which sections support which environments on eecs280.org.
+
+- If you're interested in a refresher on C++ material, the ENGR 101 Runestone materials are available via engr101.org. the C++ Primer book is also not too bad.
+
+- Office hours, of course, for project support.
+If you have some time beforehand you can do a little preparation through online C++ materials, hopefully that can give you the confidence boost you need.
+Given your concerns, 18 units including EECS 280 + an RA appointment is really asking for trouble.  EECS 280 is a great class and you'll learn a lot.  But it's a lot of work even for students who feel comfortable with programming, especially once you hit the infamous Euchre project 3.  I would consider dropping something.  Twelve units is all it takes to be full time and 12 units of A's beats 18 with a bunch of B's and C's any day of the week.
+I’ve had a similar feeling — I took 280 almost two years after having to retake 183 and it terrified me. 
+
+I could have been a better student, but in the end 280 was the class that convinced me to switch my major (back to) CS. So while I was initially super afraid of it, it ended up being one of my fav classes at UM! 
+
+You mention struggling through ENGR 101. I think people who haven’t programmed before have an especially tough time in 101/183 because it’s an entirely new way of thinking, but by the time you’re in 280 you know a little bit more of what to expect and how to digest the information. I guess another way of putting this is that I think the learning curve flattens as you progress from 183 to 280 (and arguably from 280 to 281 as well).
+
+I’m going to echo what others have said and recommend that you lighten your load a little. 280 will NOT be fun if you’re an RA and taking 18 credits. Find yourself a partner who you work well with, start the projects early, and always always always ask questions even if you’re afraid of being embarrassed. 
+
+I had DeOrio who isnt teaching 280 rn, but I would occasionally watch Juett’s lectures and go to his OH. I can attest that he’s really good at teaching and cares a lot about the students (as my questions should have worn his patience thin but they didn’t lol).
+
+You’re an EE student so you’re definitely highly intelligent and know how to work hard, so I promise you you’ll be okay if you just take it one step at a time. 
+
+If you have any questions my DMs are open :)
+280 isn’t difficult at all. Start your projects as soon as they’re assigned and that’s really all you need to worry about. The tests cover pretty basic programming concepts.
+That's how I felt with a lot of the cs classes I've taken so far, like I enjoyed but hated eecs 370
+My friends think that I'm really unhappy with my time in EECS because of my random rants about how bad my code is and my projects but truth be told I never feel happier than when I just sit down and get stuff done. Sometimes that's writing actual code, sometimes it's test cases, sometimes it's just me drawing out how my program will be and when I find an edge case my dopamine just spikes.
+This but with 281
+I just… Google course equivalencies, and figure it out?
+
+https://transfercredit.ugadmiss.umich.edu/
+There are only 2 places that have a course equivalent to 280: [https://apps.engin.umich.edu/equivalencies/courses/equivalentto/eecs/280](https://apps.engin.umich.edu/equivalencies/courses/equivalentto/eecs/280). One's in Iceland, the other in China.
+You can do all the projects using Visual Studio only under Windows.  But you'll need WSL if you'd like to run some of the tools, especially Valgrind to look for memory leaks in the later projects.  VS Code gives you a graphical front-end to debugging your program under WSL.
+If you’re really interested In windows only, then you could look at finding some windows debugging tools: https://stackoverflow.com/a/6580332
+However it is unlikely you could get any help from office hours/piazza if you aren’t using valgrind/the recommended tools.
+I know you kinda already got an answer, but I'm in EECS 280 right now as well and I'd highly recommend joining the EECS 280 discord server if you haven't already.
+
+There were people there asking similar questions, and you can often get answers there a lot faster than reddit or piazza. It's really informal and chill.
+If you're a CS major trying to graduate without taking any more extra semesters, you definitely don't have time to retake 280, and I don't think it's necessary. IMO 281 projects mostly use new stuff that's covered in class, and the project tutorials are super helpful. Know how to write classes, structs, and loops, and you can pick up the rest. 280 notes are also publicly available to reference anytime.
+You really don’t get rusty with programming. You forget syntax but the ability to build data structures and organize code is borderline impossible to forget. It took me like 2 days to get back into the swing of things in 281, and I had a fairly large 1 year gap between 280 and 281
+Dont
+There are 280 class notes online. Also it might be helpful to look at your own code for the 280 projects
+Physics 140, eecs 203, eecs 280, easy ala class looks like one of the most typical freshman CS schedules you could possibly make. Don’t expect to be a walk in the park because it’s not, but everyone will go through it so you’ll be able to find many friends with like the same exact schedule
+If your deciding between MechEng and CS, why not split the difference and look into the robotics major?
+I had to make this decision in Winter 2020. It was hard to decide, but it is one of the best I made. If you think you’ll do good in EECS 203 then keep it it’ll serve you as the advance math class for your ME degree. Good luck!
+I took that schedule +math 215 a while back. 4 STEM heavy courses was definitely a lot, however, it was technically doable and I did decent in all of them but definitely take an easier 4th class if you wanna really focus on getting solid grades in all of em
+Can only speak on physics 140 and EECS 280, even though I haven’t heard “ nice things” about 203. The pair is definitely double. IF you don’t procrastinate on the 280 projects and study 3-4 hrs + review lectures for 140 they shouldn’t totally kill your chance at having a social life. When you add 203 to the mix, good luck.
+youre fine, if you want to take chem 130 with all that that would prob be doable too
+They have sitting around in the bbb for little while. I grabbed mine from outside Beaumont’s office in November. Otherwise I’d try Juett’s or Deorio’s office.
+
+The 280 profs had this website running last semester and while the specific dates wouldn’t be useful the locations are https://docs.google.com/document/u/1/d/e/2PACX-1vRuTHPhXhn3KP0dyYfeodsRhS4s6-inYmIG5QnYGVNds8P45NVxVX_nZFgl5j2TpA_i-ASmIFh0mCbU/pub
+You can sign up for either section and then first week go to each ones section and decide yourself..you don’t have to go to ur assigned lecture
+She’s a very good lecturer but you can attend any lecture for 280
+I liked her, she explains concepts well
+Beaumont was really good for 370, I recommend him for 280 too!
+I've heard from a friend that Saleem is a pretty good professor/lecturer. Regardless, you can attend any EECS 280 lecture, so you can switch your schedule to your liking during the semester!
+She’s good
+Not sure, but I while we're on the topic, make sure your code compiles on CAEN before submitting to the autograder. You can burn an attempt that way.
+Best to take 281 right after 280. Cause you do become rusty if you don’t code for a while especially for C++.
+Can you take 280 and 203 next semester? It’s better to get all your prereqs out of the way asap since ULCS have awful queues and waitlists. I would try to take 280 next semester, and then 370 with 203 if you can’t take 203 next semester as well. I really don’t think you’ll be that rusty, programming isn’t like a foreign language exactly and if you really enjoy it you’ll be able to get right back into it no problem. If you’re motivated, you can try working on small side projects to stay sharp, but it’s not necessary.
+Freshman year I took 183 first semester, 280 second semester
+
+Sophomore year I took 203 first semester, 281 second semester
+
+That’s not to say that this path is right for everyone, but it turned out fine for me with regards to “rustiness” and ULCS waitlists. I just think people generally overvalue cramming the early CS courses (you’re not gonna pull any decent ULCS classes as a sophomore). Take it at your own pace and make sure you don’t overdo yourself
+would highly recommend not taking physics 140, math 116 and 203 together.. you are literally taking 2 weeders and one of the hardest eecs classes there is. you simply wont have time for all three at all
+Free
+the professors wrote a set of "course notes" for the class which serves as the textbook for 280, and it's free on the website
+No required texts for EECS 280.  You can learn more about 280 at the course website at [https://eecs280.org](https://eecs280.org).  The "Lecture Notes" link leads to an online hyperlinked textbook written by Professor Kamil.  But I think most students get by on just the lectures (they're always recorded and you can go to any) and doing the projects and labs.  More helpful are the tutorials explaining how to setup and use stuff like Visual Studio, WSL (Windows Subsystem for Linux) and Valgrind.
+I'm not sure about what the class looks like abroad, but I dont think recruiters will care too much where you took eecs 280 as long as you have a mix of good projects completed and are able to demonstrate your coding competence in a coding interview.
+
+For me, 280 was an important foundation for how I code today. A lot of the basic data structures and ideas carry through a lot of classes that I take now. If you think you'll be able to learn the material abroad, go for it. 
+
+I dont think 203 and 280 need tk be taken together. But I think you should take 203 before 281 (it might even be a pre req). So make sure you're able to schedule accordingly.
+I think 203 is an enforced prerequisite for 281 that you aren't allowed to take concurrently — I highly doubt that the CS department would let you do that, but talk to an advisor to make sure.
+Which course did you find that would transfer in as EECS 280? Have you double-checked with an advisor that it would count?
+You'll get it no problem, don't worry.
+[deleted]
+Not sure if you’ve taken CS here but they don’t take attendance so you could just sign up for one section and go to another for lecture, for lab you gotta go at scheduled time but there is no reason to go through this if you don’t have a lab problem
+Learn how to play euchre for 280
+For 203, one of the best things you can do to prepare is study logic and proof writing, it will take you a long way in 203.
+Dang - that's a pretty intense schedule for a first semester.  Definitely start assignments as soon as they come out, and don't be afraid to ask for help.  MRADs should have  in-house study group tutors too, so use that resource.
+Watch the vids the IAs make for 203. Saved my life on the exams when i didnt get what was discussed in lecture.
+All you need to know before you take 280 is C++ syntax. They will cover everything else. Highly recommend learning how to play Euchre before the class starts. For 203, it was just like a math class imo. Just learn the content as you go and study as you would for any other class
+Not a comment on your first semester plans, but just to make sure. You know that Data Science exists and is a dual major between computer science and statistics correct? Not to say at all that double majoring is a bad idea, you get a ton of coursework and experience I am sure, but I just want to make sure you know there is a major for that.
+Honestly, best advice is make sure you know when the add/drop deadline is and acknowledge that it’s not the end of the world to drop a class. That’s a rough schedule for your first semester and if it’s making you miserable, drop a class and take it next semester or over the summer. It won’t be on your transcript and no one will be any the wiser if you do it before the deadline. BOL friendo
+Quite a schedule you got here. 
+
+But for 203, no matter how much you prepare you will never be prepared for it, but studying logic and proof writing and finding a video on YouTube about how to go about thinking about the logic should better prepare you for what they throw at you
+
+280 teaches you C++ for the most part but some things you need to self study so you should be good by watching the 4 hour video.
+I would suggest not taking 203 AND 280 first semester as you need time to adjust to college. On top of this, this will be the first semester back from COVID so you may find it extra hard to adjust.
+Highly recommend attending all discussions/labs for 280 and 203. I know attendance of them isn't required for 203, but not sure about 280, I feel like I skipped some and just did the lab online. 
+
+Either way, they go over concepts and I found that helpful for exams for both classes. If your assigned lab/discussion IA isn't helpful, try different sections, really makes a difference if the material doesn't immediately stick. Also, there were usually only a handful of people there at the ones I went to, like less than 10 people after the first few sessions, so you basically have free office hours once they run through the material.
+Other people have given you better advice so all I got is "find a nice place to cry after exams"
+Just want to mention that I’m in the exact same boat as you and I’m so glad I found this thread! I have C++ experience but was worried about the difficulty of taking these classes much earlier than most students seem to. Good luck to us, hahaha
+280 is not bad, just make sure you start projects early
+I took 203 maybe a decade ago, but back then, it was pretty much straight out of the textbook. If you're really concerned, just buy the textbook now and start going through it yourself. It's pretty well written and there's plenty of practice problems. 
+
+I also went into eecs280 with no C++ experience. It was definitely a lot of working playing catch-up during the initial projects, but overall not too bad.
+for 203, the homework can make your life miserable each week, just don't fall behind on the lecture cuz that class is hecka fast paced... good luck!
+All you have to do for 203 is go to office hours until you find an IA that does a good job leading you to the answers. I found one guy who I thought did a great job of helping me out (they won’t straight up give you the answers in 203 like they do for other classes if I remember correctly unfortunately) and would go to his OH once a week to get it all done. Don’t bother with professor OH, they’re completely unhelpful
+My first sem was kinda like urs except I didn’t have those 3 creds of research stuff. I can say that it wasn’t as bad as some ppl think, but those 3 extra creds can make a difference so that’s for you to consider. I also did not know C++ coming in and went to 280 straight and it was fine. Just start 280 projects within a few days they are released and find a good 203 group and you’ll be golden. Office hours save lives.
+Ummm stats 412 is already full so idk how you plan to take that unless you already registered…
+For 280, they have project videos and lectures on YouTube. For 203, pray. That’s all you can do because you will never truly be prepared.
+Don’t even stress, work on things you love doing over the summer . 280 and 203 are really hyped but consistency once the class starts will allow you to comfortably do A- or better. I don’t think you have to prepare beforehand! theyre really well taught and resourced classes!!
+yeah that’s a pretty doable schedule you should be good
+Especially for EECS 280. Do not rely on a partner for anything. The class is not very forgiving when it comes to projects. I would recommend going solo on all the projects and just putting in work.
+Hi there! Would you be interested in joining a study group for EECS 203 during this fall 2021 semester? We are the Chapter of the Scientista Foundation at the University of Michigan, a campus organization that is creating study group(s) of three to six classmates enrolled in the EECS 203 class. If you would be interested in participating in this study group, we have an Interest Form you can complete at https://forms.gle/jTvGTGWkHAgLzh1G6. Feel free to contact the Chapter through the Contact button at [https://maizepages.umich.edu/organization/scientistachapter](https://maizepages.umich.edu/organization/scientistachapter) should you have any questions or need further information.
+Hey! How are you doing with the classes? I'm planning on doubling EECS 203 and 280 while taking ENGR 100 and a very easy intellectual breadth class. Would love to know if you have any tips

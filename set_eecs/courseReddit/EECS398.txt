@@ -1,0 +1,36 @@
+https://www.ratemyprofessors.com/ShowRatings.jsp?tid=2283397
+
+I took it. Generally a good class. Most of our class agreed that the IA's were more helpful than Nicole. A lot of the lectures are repetitive, but definitely worth watching. It's a good MDE and it's always a great talking point with recruiters/interviewers. Do your research before you start.
+
+Also, Nicole actually wrote MSN Search. She has a wealth of knowledge that you should capitalize on. I've gone to her office hours just to talk and she's really interesting.
+Is it taught by the same prof for EECS549 // SI 650, Jurgens?
+[deleted]
+Anthrcul 101 was by far the easiest class I took at UM, and it was an interesting class too. 
+Schedule an advising appointment.
+The people saying that this is impossible are overreacting, but there are some things you should be aware of. If I understand correct, you're enrolled in 16 credits, which is very reasonable, but 4 of them are 1 credit courses. 1 credit courses are a big potshot - some of them are treated like throwaway courses, but some of them are taken very seriously. Serious 1 credit courses usually require substantially more time per credit than a larger credit course - there's an initial time commitment required for any course, then as you add on credits you're adding on less time than that initial requirement so the actual work per credits goes down. 398 especially is quite a lot of work for a 1 credit course. 
+
+That being said, 398 is a great course and I definitely think it's a good idea to take it with 280 - you should get a lot out of it if you apply what you learn in 398 to your projects in 280 (especially git). You may want to consider dropping one or two of your other 1 credits though if things get rough though. Also you can drop 398 if you find that you don't enjoy programming enough to feel enthusiastic about most of the assignments. Of course, then you may want to reconsider your position in 280 + 203 as well. 398 covers a broad range of topics, so it's fine if not everything appeals to you or you find some stuff boring (there are a couple esoteric things that aren't really that useful in there too) but I'd say look at the syllabus and make sure you're interested in / can see a use for at least 5 or 6 of the topics if you're gonna take it.
+398 is fairly easy, 280 and 203 are commonly taken together. If you stopped there, with the English class too, it’d be a fairly reasonable schedule. But 3 creds extra and grading will make it realllly tough. I would put off 398 and a couple of the other small classes until the next semester. 398 can be a good complement to 281. 
+This schedule sounds insane. I would be very wary of doing this. 
+you're going to die, plain and simple. three eecs courses by itself is generally time consuming
+398 (special topics) could be one of many things. If it's Computing for Computer Scientists I think you should be fine. The "three EECS class" doom and gloom shouldn't be a factor if that's the 398 section you're in. If it's a more involved section you may want to reconsider. 280+203 is a fairly common combination and 203 is just a math class, so it also doesn't really fit the "three EECS" paradigm.
+
+You know yourself best, but I think it looks to be on the heavier end of reasonable (but I don't know the commitment of the mini courses). Understandable if you'd want a lighter pace since your CS history is not as long as some others, but I wouldn't give a blanket statement either way. Doable, just not necessarily pleasant.
+I have taken a couple stats courses already but not STATS 306, I can ask around with some of my friends and get their opinions on an estimated workload.  Best of luck on the remaining portion of the semester!
+Hi, I'm taking STATS 306 right now actually. This semester was the second semester they offered it. So far, from what I heard, last semester was their guinea pig semester and the prof who taught it was pretty easy going with easy homeworks and exams (source: a friend who took it last semester).
+
+This semester, the professor is Jonathan Terhorst. He's really not great imo, but he is also a new prof. The homework sets are apparently harder than last semester, but you have the option to do it with up to 3 other people (so max of 4 per group). There are a couple of people in my group who have done up to EECS 281, but some of the thinking among C++ and R are different. So we just go to OH for help if we don't get it. But yeah, weekly homework sets. Some homework sets take under 3 hours a week and some take longer because the prof throws a curve ball at us (where his notes don't tell us anything relevant).
+
+There's only one midterm (worth 30%) and it wasn't too bad? I feel like it was a huge time crunch, but the course is curved, so as long as you do higher than average.
+
+Feel free to message me for more details! :)
+I'm also in Stats 306 with Professor Terhorst this semester.  I think he does a really good job of teaching the material.  He follows the book closely and actually shows examples of how all the code works in class.  Because he demonstrates the basics of the code rather than just lecturing about it, I think it's easier to follow than other CS classes like EECS 183.  
+
+I've found the R language to be somewhat more complicated than C++, but it's not too challenging if you start small and then string the code together to build up to a larger solution.  This is what most of the homework assignments are like.
+
+We've had one midterm in the class and it was similar in format to the homework.  I thought it was rather easy, but the mean score in the class was a not-so-nice 69%.  Practicing homework problems over again was the most helpful way to study.
+
+Hope this was helpful.  I'm really enjoying this class.
+Entrepreneurship 407.  Just show up once a week for an hour and listen to a new entrepreneur talk about their life.  Your grade is 100% based on attendance, no assignments.
+Check out the course on aliens!
+Water and Society is boring af but easy af

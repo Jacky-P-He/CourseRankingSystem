@@ -1,0 +1,73 @@
+Taking EECS 312 right now, conceptually somewhat complicated (large physics component) but very low workload compared to other EECS classes. Garmire is a really nice and reasonable professor and honestly kind of a genius.
+I am also taking EECS 312 right now with Garmire. And he is extremely friendly and generous. He is extremely willing to work with you and help as much as he can until you understand it. The labs are by far the most difficult part of the class. They would consistently take me at least 15 hours each. Learning the software can be tricky, the first couple labs are a good tutorial however it can still be difficult on the later labs. Like I said just ask and he will help you.
+
+I also took EECS 320. I took it last fall so the format was slightly strange as the lectures were held over zoom but he would play a recording of a lecture he recorded the previous day or so then he would answer any questions posted in the chat. The GSI that semester was incredibly helpful and explained the material well. My biggest takeaway was that class had the longest formulas I had ever seen in my life and to go along with that soooo many variables. 
+
+As for which you should I take I can't answer that but I will say it would be helpful to have 320 before 312 as the basis for 312 relies on 320. Now they do cover what you need to understand from 320 in the first couple weeks of 312 but you will most likely feel more confident if you took 320 prior. It is also important to note that all of 312 isn't like the beginning. I know several people that dropped the class after the first few lectures because they were intimidated by the material or weren't interested in it. So if 320 wasn't your favorite but you're really interested in 312 I would encourage you to stick it out past the first few lectures to really get a sense of what the class is about.
+Cause a Forrest fire
+I’m just planning on crossing my fingers and hoping for the best. Book problems too.
+The new program still requires a solid state course, you just have about 4 or 5 courses to choose from to satisfy this requirement (320 being one of them). I know someone who took 200 last semester as a flex tech elective and he said he didn't find it that useful
+For me I feel like it's more useful to take another higher level elective, than design courses. I might be wrong, but I'm going with the older one.
+Can’t you just take EECS 320 as an upper level elective? I guess you should be asking yourself if you really want to take the design courses
+Just trying to revitalize this thread. I am in a similar situation as the OP. Any other people that have taken eecs 200 or 300 that want to give their opinion? Also, OP have you heard from anyone in person about eecs 200 and eecs 300? I am basically choosing between eecs 334 or eecs 270 (an upper level elective) and eecs 200/300, as I will also be taking eecs 320 with either the old or new program.
+The two other comments preceding me were clearly by people who didn't like 203. If you hate 203, then taking it with any class won't be a fun time because you'll hate 203. 
+
+
+I understand that mudge can be a bit of a shitshow, but just remember that 370 is pretty heavily curved. Not everyone gets it, but since you're a CE, i have faith that you'll be fine. I can't comment on the other two courses. 
+
+Do with this what you will. 
+Hard, but doable. 
+
+203 was hard as hell when I took it, but that was most likely Yaoyun Shi's doing. 
+
+216 - I've heard good things about Yagle. I had 216 with Winick - never, ever again. 
+
+320 - never took it, no comment. 
+
+370 - Mudge will be kind of a shitshow, but 370's probably the most tightly-run class in the department, in terms of the curriculum and how closely it's followed. Push comes to shove, get some people from previous semesters to explain things to you. 
+
+All in all - not the hardest courseload I've ever seen, but be prepared for some busy nights. 
+
+Also - have you tried running this schedule past Brehob yet? He'll tell you flat out whether or not this is a good idea. 
+I don't suggest taking 4 EECS classes. I did it once and it was awful and I needed to drop a class at the end of the day. Would not reccomend even for the most studious of students. 
+203 + 370 is alot alone... 
+Thanks for all your replies and the suggestions, I know that 4 EECS classes seems very hard, but these in particular are all at moderate load according to the department survey. I know what I am capable of, for example my third semester I took,
+
+MATH 215 (comparable to 203)
+
+EECS 215 (supposedly heavier than 216)
+
+PHYS 240 + 241 (lighter or same workload as 320)
+
+ME 211 (ton of work, 370 will be that or less)
+
+a student team I will drop
+
+and pulled a 3.6+ GPA in  this semester, with way more class hours than this coming one, so I'm not really worried. Brehob did tell me to drop one of these classes when I went to him, but I trusted in myself. Basically all I do is tailgate for a while for the football games, watch my soccer team every weekend and maybe go to a party once in a while with my roomates. My only concern is that I will be continuing my internship into the fall with like 15 hours a week, but I can quit that at any time.
+Lol 203 and 216,no 
+I hated taking 312. The labs are so poorly written it's basically a part time job trying to understand and complete them. 216 and 270 aren't that bad. And I can't speak for 320's difficulty. 
+  
+If you want to take 312, you should put it off or later. The logic from 270 and understanding of the physics in 320 will help you tremendously if you want to take it.
+I'm also an EECS student (EE tho not CS) who took 217 because I'm a math minor, and I think all that really needs to be said is that 217 is, to this day, the heaviest workload class I've taken. If you don't want to spend 20 hours a week (or more) on your math class, don't take 217.  
+  
+Now, to be clear, I'm not trying to scare you off - I did fine in the class, and certain aspects of it did help prepare me for the upper-level math courses I took to complete my minor. There's also nonzero odds you will like the content of the class way more than me, or maybe you'll hate the IBL format way less. Just be aware that it *earns* its incredibly high workload score on ATLAS.
+I'm doing 214 and my girlfriend is doing 217 currently. My workload has across the semester been consistently much less than hers. 214 is pretty much passable if you can plug and chug on exams and do well on homework. 217 looks like a nightmare.
+Look into robotics 101 to get a math 214 equiv for CS! That’s what I’m doing and really happy with the class. Staff is really nice and supportive, and probably not as much work as a math class here
+Shouldn't you take 286?
+I’m pulling an A in 281 right now, and I can honestly say that the class is not nearly as difficult as everyone says it is. You don’t need to study up anything for it unless you haven’t programmed in C++ in over a year. 280 level knowledge is more than enough to do well. The reason some people do bad in the class is because they procrastinate. If you start every project within a few days after the spec is released, do all the lab assignments yourself, and attend lecture, I guarantee you’ll get at the lowest a B+.
+For 312, I don't think studying over the break is necessary. But if you want to, look into diodes and MOSFET transistors and how they operate as solid-state devices. I remember the first lecture really rushing thru both these topics for which the entire EECS 320 is dedicated.
+They added MWrite to Math 216? As if they couldn’t possibly make that class worse
+Oh boy. You might be grading my papers then!
+Have you considered consulting an academic advisor?
+Used to do some of the advising for the department. That's a rough schedule.
+
+EECS-314 is tedious and takes itself FAR too seriously, so it has a lot of busywork and eats time.
+
+320 isn't very difficult. Very similar to thermo in approach and workload.
+
+382 is a lot of tedious work. But it's more of a memorization type exercise. All of that materials structure junk has no consistency or "rules" from what I remember.
+
+350 isn't too bad until you get neck deep in the project. Then it's a lot of work to build everything and meet your deadlines.
+
+If you're very motivated and keep on top of all of your assignments early, you can swing that schedule. It's going to be a little rough at times, and then *REALLY* rough for a week or two near the end when everything's due at the same time.
+It's doable, but you'll probably have some extra tough weeks. Eecs is cake but has a lot of busy work, and 350 will take up a lot of time too. The others are pretty standard engineering classes. Usually 320 uses mostly textbook problems for homework so you can use a solution manual if you're into that.

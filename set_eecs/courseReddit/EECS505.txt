@@ -1,0 +1,9 @@
+[deleted]
+EECS 505 is one of those courses that you should take if you have the time to kill. It's a moderate to heavy amount of work depending on the topic of that week. I liked the class a lot but I don't think the workload is justified by what it teaches you. It's mostly implementing various models of ML in a guided online notebook using Julia (NOT python or Matlab). It's really a fantastic course for graduate students whose primary area of study is not CS or ML. I felt that it didn't go deep enough into either the math or the programming part of machine learning, but for me it kind of worked well. 
+
+If you're a CS student, you'd be better served by the more project-heavy EECS 445. If you're a graduate student in signal/image processing or ML, you should probably be in EECS 551 instead, which is supposed to be a very similar class but tailored specifically toward that major.
+
+> Why aren't more people talking about this class?
+
+It's a very new course, only in its third semester. It was a special topics course for a year before last fall I think. 551 is not a new course but I don't know if/how undergraduates can register for it (and a lot of CS undergrads seem to be driven away by alternative languages like Matlab or Julia 😃).
+Gaandu

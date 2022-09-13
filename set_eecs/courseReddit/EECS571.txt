@@ -1,0 +1,22 @@
+I think what happened here is definitely wrong, but I'm not sure if anything can be done. I'm really here to reply to your second statement though.
+
+
+Why do you feel that EECS is overly harsh about prereqs in order to limit the number of CS majors? Compared to other top CS schools, it's much easier to be an eecs major. There's no minimum GPA requirement, you don't have to apply to get into the major, etc. Because of this, our program is getting overcrowded, and many suggest making it *more* difficult to be an EECS major, but you believe it should be the opposite. Would love to hear your thoughts
+From what I've seen, the EECS department might not have much leeway in changing their stance, since they really can't accommodate everyone. I don't think this is how it should be, but it might be worth looking into alternatives if you can't get them to budge.
+
+I'll note that there are alternatives to EECS 445 here, although perhaps not UG course. EECS 545 should be able to count as an upper level elective with approval from an advisor, and covers largely the same material. And if you have taken Math 217 or equivalent, you should have the background already. There's also EECS 505 and 551, which are meant to be taken before 545, but give a lot of background. 
+
+If you don't need the EECS credits, there are also some courses in STATS and SI, although I'm less familiar with those. The STATS ones probably require more background, especially at the graduate level.
+
+Best of luck in any case, I hope the department can find some way to help you, or there's a viable alternative!
+There's no way this is accurate unless some prereqs were explicitly delisted. I took MATH 217 and STATS 426 and was able to take EECS 445 in Fall 2019 using those as 214/250 equivalents.
+
+If you have an advisor you commonly go to (e.g. I always went to Peter Chen), I'd email them directly for clarification. Otherwise, set up an advising meeting ASAP to get this sorted.
+
+I know this is frustrating, but from my experience EECS is super accommodating especially if you go to in-person advising. If you're a strong student they actively encourage you to go out of your way to take harder equivalents. I can't imagine they would turn around and not let you use 217 for 214.
+What exactly is this waiver?
+
+This may be important, since 217 not only teaches linear algebra, but also serves as an introduction to proofs. In the math department, classes that have 217 as prerequisite often only have it there to ensure that students have experience with proofs, but don't actually depend on any linear algebra knowledge.
+
+So, it may be the case that the waiver is only saying that you have experience with proofs, but EECS 445 specifically requires knowledge of linear algebra. If this is what the waiver is for, but you do also have experience with linear algebra, then it may be worth communicating further or scheduling an advising appointment to discuss this.
+Do people recommended taking 214 before 217? Or if i’ll need 217 later on should i jump straight into it?

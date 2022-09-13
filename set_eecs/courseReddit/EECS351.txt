@@ -1,0 +1,438 @@
+Yes
+Sounds good to me should be a breeze
+There are a lot of these kind of questions... people usually dont take more than 3 technical classes. If you do, then you'll be swamped. It's up to you whether you want to put yourself through that.
+You should review your offer letter to see if there is language that mentions reneging on a position. Mine suggests that doing so could put you at risk of being blacklisted for further IA positions, depending on how you communicate the matter. Because of course, by taking the second position you'd be putting the 351 staff in a bad spot as they have to scramble to find an IA position. 
+
+I'd recommend you explain the situation to the 230 professor if you hadn't already, but to consider just taking the position you have. I don't know if you'll find someone who has been in this situation or not, but all most people on Reddit will be able to provide is a not-a-lawyer interpretation of the terms of the offer letter which are not necessarily super strict to begin with.
+It looks like a new class. It looks like it’s more oriented for ECE majors since the advised reqs include 351, 301, and linear algebra, this prof is part of ECE, and it’s a ULEE and CE EECS elective. This class has 62 seats which is similar in size to eecs 351.
+Doable
+360 is the sort of class where it's a good amount of work, but designed in a way that you do reasonably well if you try hard. 351 is one of Dante's circles of Hell from *Inferno*.
+I did 280, 203, an essay class and something else together and did pretty well in all of them. 
+
+If Physics 351 is less than 203 then I’d say it’s perfectly doable.
+I can’t speak much for 360/351, but I think had a similar courseload last semester (eecs 183/203, english 242, chem 210, bio 192) According to atlas, chem 210 (orgo 1) should be similar in workload compared to 351, and I think 242/192 is about as much work as 360. I think it will definitely be difficult (especially if 351 is notorious for workload), but I think it will be manageable if you stay on top of things.
+I took 351 and 203 in the same semester along with math 217. I think that this is doable but will be a fairly tough semester.
+JW why are you not on the Honors Physics track if it is your major?   
+
+
+I'm in Eng Phys btw
+351 is fine, and would be a suitable pair with 280 and 203 without dying provided you don’t have too many other classes that semester. I can’t directly compare 351 with 415 or 310 but, it definitely prepares you well for the upper level biochem coursework, and isn’t too much for those courses.
+
+I was a biochem/math double major (class of 21) with a CS minor, and would be happy to chat about course pairings and break down my four years and my recommendations and impressions so feel free to dm me if that would be helpful.
+310 is poor prep for a biochem major, I take a lot of classes in the chemistry and biophysics departments and 310 is a joke in terms of rigor, besides the exceptional workload ofc. I’d take 351 if I would’ve retaken biochem instead of 310, prepares you much more for upper level biochem and has a better distribution
+This is from what I heard, but MCDB 310 is more for students that's going towards premed while chem 351 is for chem major and biochem 415 is for biochem major. This is only what I heard from someone working for premed advising, so take it as you will.
+Kinda meta, but it feels like 75% of this sub is in EECS
+Now that it’s been around for a bit, what are people’s thoughts on 6 credit vs. 4 credit EECS 482? People who have taken either of the new version, which would you recommend?
+
+Also, can anyone recommend an interesting ULWR course?
+How's EECS 498 Conversation AI? Thinking about taking it for capstone 
+So I'm in the unique position of having gotten the 2.5 between EECS 203 (C) and 280 (B) to take EECS 281, but not the 2.5 in pre-req classes I need as an LSA student to declare CS as my major (C+ in Math 116 brings me to a 2.43 between the 3 classes). The two main options I see in front of me is either cancel my AP Credit for Calc AB and take Math 115 (or some other Calc I equivalent that isn't as horrid as 115/116), or retake EECS 203 (barely passed it with a C and I did not particularly enjoy that class) in order to bring my pre-req GPA up a little bit. Between taking Calc I and retaking 203, what seems like the best step moving forward? I was planning for my fall 2019 schedule to be EECS 281, STATS 250, SI 110, and PSYCH 112, and I'm not sure exactly what the best way to adjust it would be so I can accommodate the pre-req course without destroying my sanity.
+I'm thinking on taking EECS 281, EECS 370, and MATH 217 next semester. How difficult would this schedule be? [Note: I'm currently taking the ENGR 100 section about microprocessors with Professor Chen.]
+Did anyone take the “Conversational AI” course with Mars this semester? Thoughts on it? 
+What classes do you guys recommend taking to cover the ULWR? I'm a math major and English was never a subject I enjoyed, so I was hoping maybe there were some ULWR courses that were just a little less workload compared to others.
+
+Edit: I can't seem to find a list of ULWR courses.  Do you have to choose a course and have it approved by an advisor or is there a list of approved courses somewhere?
+Anybody know where I can find registration info for the intro class where you learn to play the bell tower?
+Is a schedule consisting of EECS 281, STATS 250, MATH 214, and SI 110 a little too much to reasonably handle?  Reason I'm going for 214 over 217 is that I don't have the most amazing math background here, EECS 203 kinda kicked my butt pretty bad and Math 116 didn't go much better, but I'd still like to take EECS 445 eventually (also lowkey don't have a high enough pre-req GPA to declare CS-LSA but can't imagine crawling through 116 or 203 again, so Linear seems like the next best thing to get me up there and genuinely interesting). I feel like I have the drive to improve and succeed in these classes, but would it be a good idea to do them all at once or am I just signing away my life for a semester?
+EECS 230, 320, 351, Tech Com 300, ideally need one more class for tech elective. Any suggestions? How is 351? How do those classes so far look like?
+I'm a non-Business student who wants to take a couple interesting business classes. Do you guys recommend FIN 440 (Financial Trading ) or FIN 480 (Options and Futures in Financial Decision Making)? Any other recommendations?
+Is EECS 203 and EECS 280 over the Spring too much? I really need to if I want to double major, but kinda nervous...
+How is EECS 201? Is it worth taking? Do you actually write any project like in 280? How much work is it? I was expecting it to be very light workload since it is a 1 credit course, but on the [EECS Workload Survey (spring 2018)](http://www.eecs.umich.edu/eecs/undergraduate/survey/all_survey.2018.htm), 5/5 people voted 'Moderate'. Anyone has any thoughts on taking this class? Thanks!
+[deleted]
+Anyone know if you can take a language placement exam as a sophomore? Missed my chance in freshman year lol
+[deleted]
+I've heard that it's all right to go to any lab section for EECS 280. Does that mean I can schedule a class that conflicts with EECS 280 lab and just head to a different lab section?
+Trying to decide between RC intensive German and just the regular LSA classes. Any thoughts? I've heard the RC program is the best for actually learning the language, which I'd love to do, but I'm not sure if it's worth taking up that much of my schedule. 
+Is it worth taking Differential Equations and Linear Algebra in U of M instead of a community college?
+Has anyone taken Stats 485? thinking about taking it for DS capstone, unsure what the difficulty level of it is 
+thinking about taking STATS 250 w/gunderson over spring semester. i'm taking calc 1 this semester and i know it's going to be a hit to my GPA, and i'm worried that taking STATS over the spring is gonna hurt it even more. (as of right now, taking it at CC isn't an option because i might be in ann arbor over the summer and WCC doesn't have an exact stats 250 replacement)
+Schedule: EECS 281, EECS 201, Physics 240, Math 214. Stupid or reasonable?
+Any opinions on EECS 490 + EECS 482 vs. EECS 484 + EECS 482? Considering taking EECS 482 (6 credit version) along with another ULCS course for fall 19 semester. I've already taken EECS 388 and EECS 485.
+Can someone tell me how EECS 370 is structured as a class? On schedule builder it lists Trevor Mudge as being a lecturer for every class, and from what I've heard, I'm not trying to deal with that. Will I be essentially guarenteed to have Mudge as a professor next semester if I take EECS 370?
+Any opinions on ARTDES 176  ( Graphic Design for Non-Majors)? What's the workload like?
+If I am taking 11 graded credits and 1 pass/fail, am I still a full-time student and eligible for my financial aid?
+econ 401, math 217, eecs 203, and phil 160
+
+doable?
+I'm a rising freshman in engineering.
+Would MSE 220 be too much in addition to Engr 100, Engr 151, Math 285, and UROP?
+I'm a rising sophomore stats major and was thinking of taking calc III over the summer at a CC. Are the concepts in Calc III important enough to my future classes (specifically MATH 217 and any upper level stats classes) that I should take it at UM or would this decision not really matter?
+Has anyone taken MATH 525? Would you say that taking MATH 451 before it is really important, or would taking MATH 217 and 215 be sufficient?
+Hey guys I feel like I made a mistake. I’m an incoming LSA CS major and would have to take Calc 1 and Calc 2 to declare. How hard is college calc compared to high school AP AB Calc? I was planning to retake calc 1 to solidify my foundation.
+Does anyone have advice for math 116? I know it's a hard class but I enjoy math and want to be mentally prepared going into it
+Mainly for pre-med students, but if you got chemistry or biology credits through AP exams, how did it work out for you in the long run if you didn't take the college gen courses? (for studying for the MCAT/applying to med school?)
+Aero 225, Aero 201, Aero 205, Aero 285, 1 intellectual breadth. How hard would this load be excluding the intellectual breadth which I haven’t chosen yet? Also if you have any suggestions for the intellectual breadth, comment below.
+Anyone have experience with EECS 428 course, and how is it compared to physics 453? Im worried about repeating content I've already learned.
+Anyone have fun and relatively easy four credit HU or SS classes to recommend?
+Has anyone taken EECS 491: Distributed Systems (I think it used to be a 498 section which I'm assuming was generally the same) and can comment on the workload/conceptual difficulty? Specifically as compared to six-credit 482
+Thinking of taking EECS 370, EECS 485, and EECS 493, plus a 3-credit humanities course. Would the workload be doable? Trying to figure out a way to get 3 EECS courses into my schedule for fall and winter next year so I can graduate on time. 
+[deleted]
+What're people's opinions on EECS 423 Solid State Device Lab?
+
+&#x200B;
+
+So far I'm thinking of taking EECS 301 and PSYCH 280, since I'm going to be a senior and want to rid of my 301 and HUM reqs. I might also take EECS 417 (Electrical Biophysics), but it likely conflicts with 423. 
+
+&#x200B;
+
+So any feedback/opinion on EECS 423 will be helpful.
+
+Thanks in advance
+[deleted]
+Opinions on taking Spanish 230 in the spring vs. taking Spanish 231 & 232 separately? I’m weary bc it’s an 8 credit class, but I just want to get the foreign language requirement done. Is it worth it?
+
+Side note: this would be the only class I’d be taking in the spring.
+Thoughts and experiences on taking EECS 370 in the Spring. I am going to take it in the spring and just wanted to know what to expect?
+Are there any Race and Ethnicity Humanities courses that you guys recommend?
+Thoughts on EECS 270, EECS 281, EECS 216 and a humanities class?
+Thoughts on taking EECS 370, EECS 270, MATH 217, and STATS 412
+Can I get some thoughts from people about EECS 438 as mde w/ EECS/TC 496, or on EECS 501 & EECS 516? not sure if taking both would be feasible or if it'd be better to just pick one of the last two. Also super different but for EEB 433, does the lab generally go for the full 3 hrs & does it actually take place weekly or does it meet less often than that?
+Is it better to take Calc 3 or calc 4 over the summer? Wondering if anyone has thoughts about their level of difficulty. I’ve taken 115 and 116 at Umich and don’t want to ruin my GPA any more lol
+How does EECS 280, EECS 270, EECS 203, and ACC 300/FIN 302/300 level humanities sound? I’m a bit worried about taking 3 eecs courses in one semester but I want to see if I like the hardware side as well as not getting behind on programming. 
+Thoughts on EECS 270, EECS 370, MATH 216 and STATS 412? 
+Is taking EECS 281, EECS 370, MATH 214, and a couple of minicourses going to to be too hard of a schedule? I've heard that 281 and 370 together is a very heavy workload.
+Hey can I get an opinion on my potential courseload for next semester? I’m thinking Ill take.  
+Physics 360
+French 232
+MATH 316 
+Physics 351 
+I might switch 286 for 316
+Can I attend any lecture/lab for EECS 485?
+What have people heard about EECS 413 (one of the circuit major design courses). My friend really enjoyed 311, especially the final project, but is debating whether or not he should pursue 413 and/or 427 (VLSI) as his MDE. He hasn't taken 312 yet so if he does take 413 this fall, he'll be taking it with 312. Will this be too much?
+If I plan on majoring in Data Science/CS with a data focus would it be more beneficial to take Math 214 or Math 217? Would the fact that 217 is used as the math departments introduction to proofs and more theoretical stuff benefit me more in CS and Stats classes later on or would it be better to just take the easier 214?
+Does anyone know what section 099 for biology 305 (genetics) is? What is the difference between this and section 001?
+EECS 203/280/270 at the same time? Someone please help me decide lolol.
+Has anyone heard anything about EECS 467 (Autonomous Robotics)? I was looking at past projects and they seem really interesting. I was planning to take it as my MDE, however, it is listed under "extremely heavy workload" in the CSE course guide. If I took EECS 442 (Computer Vision) as well as all other the MDE classes (EECS 496 and TCHNCLCM 497), would I be overloading my schedule?
+Need info on Econ 452/Stats 306. I have to take 452 as I am an Econ major. I saw that R is taught in the course but it is difficult to tell if it's done extensively. From what I can tell, it's very basic stuff- not a the point where you can say you're proficient with it. Can anyone give me some perspective on this?
+
+On the flip side, can someone who took Stats 306 comment on the effectiveness/extent at which R is taught. I really would like to learn the language, but do not want to learn the same things in two different classes. 
+Has anyone taken EECS 442 (Computer Vision)? I heard that it is not well structured and I want to hear other opinions.
+People who've taken LING 441/442, what're your thoughts on the classes? Is it worth taking as a CS major that's interested in taking EECS 595 in the future.
+Thoughts on EECS 441 vs EECS 495 vs EECS 498 (conversational AI) for MDE?
+can we take labs separate from the class? (like, chem 210 in fall and then chem 211 in winter)
+I currently  a freshman in LSA honors and I need to take an honors core next year. None of them really sound interesting to me and I am debating whether or not I should just drop honors?  What are the pros to continuing to stay in honors?  
+EECS 280 - I have taken C++ at MSU, but it’s been a few months since I’ve programmed anything, and now I’m transferring over to UMich. I’ll have to take 280 next semester. Is this an introductory programming course? Or should I brush up on my C++ before taking it?
+I’m transferring over and I’m not very confident with my coding abilities. I can retake EECS 183 and would take EECS 280 the semester after. I would still like to graduate in 4-4.5 years. Would retaking EECS 183 set me back by a lot? I already have credit for 203, and will be taking STATS 250 over the summer.
+Can you go to any Math 217 lectures, or must you go to the one you register for? I’m getting nervous bc I want to go to the 8:30 ones next semester bc the lecturer seems really good, but there are only 2 spots left and I register in two days.
+Does anyone have any suggestions of easy/interesting courses which count for engineering intellectual breadth that are 1 or 2 credits? I need 2 more intellectual breadth credits and have room in my schedule next semester.
+Has anyone taken Chem 451 and can tell me how the course was? Thank you
+How much harder/more work is 441 taken with Sugih vs. taking it with Soloway? The Soloway sections are filling up quickly and I want to know if it's still very little work/easy if taken with Sugih bc I'd rather do that than 495
+AMCULT 352 is an excellent easy A. Professor Stallman genuinely cares about her students and wants them to create a positive impact on campus. She also canceled all out quizzes!! You also get to attend a lot of cultural performances on campus so it's a great excuse to explore different shows!  This is probably the best class I have taken during my time at Michigan, and I highly recommend that you check it out!
+Does anyone know anything about how open-restricted seats work? For example, IOE 265 has run out of seats for ENGR Undergrad but has 40+ seats for IOE Major and 40+ Undeclared Engineers. Will these seats be opened up for everyone if they are not filled?
+Which class number is the arab-israeli conflict class? I cant tell which one is the one that every one talks about
+[deleted]
+[deleted]
+Can you go to any EECS 281 lab consistently? or Do you need to go to the one you signed up for?
+I'm number 12 on the waitlist for STATS 412, are the odds pretty good that I will be able to get off of it to take the class or not so much? Also my overall schedule as of now is EECS 216, EECS 230, STATS 412, EECS 414, TECHCOMM 300. Doable?
+Looking for a Humanities that is light on writing
+This is a stupid question, but how exactly do the waitlists work? I'm in position 2 for both eecs 203 and 280 and I'm just unsure of what to do next. Thanks!
+Anyone know how hard is it to get off EECS 281 waitlist? All the lectures are full and it seems like there's at least 80 people overall in waitlist. I've looked into some past posts and it seems like this happens every year. Any help would be appreciated!
+[deleted]
+Hello,
+
+I am a rising freshman planning to major in aerospace engineering, and I plan on taking Engr 100, Engr 151, and Math 285 this fall. I will also be doing research through MRADS/UROP. Since the research is 2-4 credits, and I don't have work study, that's 14-16 credits my first semester. (Unless I'm misunderstanding and its 2-4 credits per year and not per semester).
+
+I was also considering doing a philosophy/psychology elective in addition to this, but I'm not sure if it would be better to have a lighter course load my first semester. What are your thoughts on this?
+Rising freshman math student in RC, how heavy is the workload for the language classes (Japanese in particular) outside of class and lunch tables? RCLANG 196 is already 10 credits so if it takes more than 15 hours a week it might be better for me to just not do the language requirement. 
+
+I’d also want to take Math 295 and EECS 280.
+What classes did you all take freshman year?
+POLSCI 101 questions:
+
+POLSCI 101's course description says "[t]he course is taught through gameful learning." Anyone know what that means?
+
+"In addition to readings, lectures, and discussions, students choose two out of four optional assignment paths: essays, group project, weekly Instagram assignments, or mini exams." Which assignment path do you recommend, and why?
+
+"The course uses various interactive technologies, both in interactive lectures and discussions. A laptop is recommended but not required." Sounds like the involves more than the usual iClicker. What's this about?
+
+The prof is Mika LaVaque-Manty. Your opinions?
+[deleted]
+[deleted]
+I accidentally registered for a class in SU19 and I tried to drop it, but the system says " **Error:** You cannot drop this class. Dropping this class would put you below the minimum required units." How do I drop this course / make the system recognize I don't want to take classes in that semester?
+Has anyone taken PHIL 151? Curious to hear any thoughts on the class.
+STATS 250 SPRING SEMESTER???
+
+I plan on applying to the school of info in the fall. I already have two of the pre reqs done but they are transfer credit, so I know the grade won't show. So, I want to make sure I get the best grade I can in both. I'm going to take SI 110 in the fall, but I'm currently debating on whether I should take STATS 250 in the spring or in the fall. My friends have told me they found STATS really difficult so I'm a little worried about taking it as an accelerated course in the spring. However, when I was reading the course description, there's no final for STATS 250 in the spring. There are just two quizzes and two exams. Part of me feels like this could make STATS easier (especially bc it'd also be the only class I'd be taking spring semester) but another part of me feels like taking it in the fall would offer more opportunity for improvement if I messed up on one of the quizzes/exams. Any input would be great, thanks!
+Has anyone taken MCDB 436 (Immunology)? There’s not that much information on it anywhere and I would like to know what I’m getting myself into haha
+[deleted]
+I am an incoming graduate student at U of M. I received an email saying that my date for registering for classes is June 3rd. But I have never registered for classes at U of M before. On June 3rd, how would I go about registering for classes?
+
+Also, does the school calendar for graduate students differ from undergraduate students?
+Sample schedule for bio premed?
+So I’m in lsa data science and am having trouble picking classes for the first fall semester. I was told I should do EECS 183 first semester and then CALC 2 or 3 in the winter. Is this is a good idea? Is it possible to take both in one semester or is that crazy? And then for the rest of my schedule I was thinking SPANISH 103, FYWR, and then a first year seminar. Any advice?
+Hey everyone! I'm an incoming freshman in LSA, and I'm hoping to major in physics. I intend to take the courses listed below in my first term. Any thoughts/suggestions/advice?
+
+1. PHYSICS 160/161 (4 credits)
+2. MATH 295 (4 credits)
+3. ENGLISH 125 (4 credits)
+4. CHEM 210/211 (5 credits)
+How hard is French 231? It appears to have a higher workload than organic chem and people seem to struggle with chem.
+[deleted]
+Are you allowed to attend any eecs 280 lab?
+Any advice for BIO 171? I'm taking it this Fall with Duffy
+I'm a rising sophomore in Computer Engineering, and for the fall I'm signed up for EECS 373, PHYS 240/241 and EECS 215 (waitlisted, but first on the waitlist for my lab section). I'm considering adding MATH 417 (Linear Algebra) because I would like to take EECS 467 (Autonomous Robotics) later on, which requires linear algebra. I wanted to take 417 specifically because it's a graduate level course that I could transfer to my master's degree if I choose to pursue SUGS in ECE. There is currently a waitlist for 417, but it's empty. Would adding MATH 417 to my schedule be too much?
+I’m a freshman with a lot of CS experience that got put into EECS 280, even though after reading the description it sounds like I’ve already taken this course (through local college). Additionally, I’m in MATH217 this sem, but the EECS advisory office emailed me and said I needed to take discrete math before progressing to 281 or another class in EECS. Any advice for this situation? Is there a possibility I can take discrete math concurrently with my next EECS class? How cooperative is the EECS office?
+
+My late orientation really do be like that some times.
+Was wondering if I took Accounting (ACC) course for my business major, does that also count as a part of Michigan Engineering's PCDC requirement (professional or creative development courses)? Similarly, does a course that according to Michigan Engineering is a Liberal Arts course (LAC) also count as a general elective course? I am kind of confused on what courses are and isn't allowed to be double counted.
+Is 6-8pm math a little too late? freshman here
+How is EECS 183 for a rookie w 0 coding experience
+Is orgo really as bad as people say? I thought gen chem was pretty time consuming but not overwhelmingly difficult, and I’m deciding whether or not orgo is worh it. 
+
+Would love some input on how it  compares with material difficulty and course load? Thanks in advance
+Hello! I was just wondering if I had to print out the lab manual for genetics lab bio 306. Would an iPad be allowed in the lab? (Sorry if this sounds stupid I was just hoping to save paper and stay more organized and I wasn't sure if the bio department had the same policy as the chem labs)
+Incoming freshman and I'm wondering if my schedule is too much. currently im signed up for bio 172, physics 140/141, amcult 103, rccore 100. My concern is that bio and physics together will be too much of a workload. I wanted to take physics 135 as this seems to be much easier than 140, but I would have to join the waitlist and the two sections of 135 have 5 & 2 people waitlisted right now.  So, would it be worth it to join the waitlist on 135 or should i just stay with 140 and not risk joining a waitlist?
+[deleted]
+Thoughts on taking EECS 281, EECS 270, Math 215, STATS 412, and Tech Com 300?
+Does anyone have any recommendations for an easy 2 credits of humanities distribution? 
+Incoming Freshman: What are overlapping requirements like? What boundaries are there for classes that possibly fit a major, distribution and/or skill requirement? I want to go into my meeting with my advisor with some knowledge of the process.
+What’s the best/easiest FYWR to take in the fall 2019?
+Does anyone recommend taking EECS 484 and EECS 485 concurrently? If not then what would be a better course to take with 485? I’m thinking about 388 or 490. 
+[deleted]
+Is taking EECS 482 and 441(MDE mobile app dev) together doable? Does passing 381 make 482 easier?
+PHYSICS135 or PHYSICS140?
+
+i suck at math and physics but i need physics for my major (biology-related). which one would be less painful?
+EECS 281, EECS 215, Physics 240 and EECS 270?  
+Or Math 216 instead of physics? I'm taking either math or physics over the summer - which would be a better schedule?
+[deleted]
+[deleted]
+What's ASTRO 201 like? I'm already through Calc 1 and 2 and took AP Physics (didn't have to do 140) in high school, should the class be terribly difficult for me?
+
+If I take it with EARTH 305, EARTH 315, and a humanities course how difficult would that be?
+[deleted]
+What's a comm or other writing related course that doesn't require too much reading? I enjoy writing and have been thinking about adding communications as a second major (planning, but not declared, to major in Political Science), but I absolutely hate reading outside of class. 
+
+If it matters, I'm a second semester freshman right now. 
+Opinions on MCDB 310 (Intro Biochem) vs BIOLOGY 305 (Genetics) for summer term?
+has anyone taken anatomy 403? it looked like there was a lab component when i checked, but there doesn't seem to be any actual designated lab section on the course guide. 
+Any thoughts on EECS 312 with Dennis Sylvester?
+Thoughts on EECS482 (6 cred), EECS485 and MATH412/493? (that's all the classes i'll be taking) + IA position?
+i want to minor in CS, and i don't have room in my schedule (or the will lol) to take both 203 and 280 at the same time (as ppl usually do) for fall 2019. which is a better order to take them in?
+Anyone take CMPLXSYS 270? Would you say it was enjoyable?
+
+(also planning on taking genetics, genetics lab, and intro stats)
+Anyone have any thoughts/advice on taking chem 351 vs MCDB 310 for an intro biochem class?
+Does EECS 281/EECS 376/ECON 101/STATS 250/TECHCOMM 300 sound okay?
+Thoughts on STATS 250, EARTH 118 +119, ENVIRON 211, and either orgo or Physics 135+156?
+I'm a freshman in computer engineering, and I'm currently enrolled in physics 140, math 116, engr 100, and a 300 level humanities. Next fall semester I plan on taking EECS 280, physics 240, and I still need to decide on any other courses. Is this a bad idea? And please don't tell me to take 240 over the summer--I've already looked into this and it will be nearly impossible to fit in my schedule. Any advice appreciated.
+Has anybody taken ASTRO 201? What's the class like difficulty wise? I'm already fairly experienced in calc (in 216 rn) and physics.
+Would you advise taking EECS 281 + EECS 376?
+Can anyone speak to the workload of EECS 482 (6 credit), EECS 477, MATH 481, and STATS 412?
+
+Also, any thoughts on taking a course with Seth Pettie?
+Is EECS 398(search engine), EECS 491, TCHCLM 497, EECS 496 and ARTDES 174 a good schedule? Would love to get any insights. Thanks!
+How manageable is EECS 281, CHEM 215, and PHYSICS 140/141? Also taking three additional music credits.
+How bad is ECON 451? I love my 251 class and currently have a B+. I did find the most difficult part of the course to be the proofs and theoreoretical stuff and that appears to be a large chunk of 451. I mainly want to take this class because I'm very interested in going into Data Analysis and was told in general the more econometrics you have, the better. I don't want to take this class if there's a remote chance of me failing. Is this class more difficult than say 401 or 402? How much of an extension/difficult is it than 251?
+Has anyone taken psych 360? How is the course? Interesting? Hard?
+[deleted]
+Is EECS 216, EECS 230, EECS 203, STATS 412 doable? Heard bad things about the 216 workload, but I have heard that Stats isn't too bad and neither is 230. I've also been told to be careful about 3 EECS classes in one semester.
+I'm doing CS in Engineering and I'm trying to get an Entrepreneurship minor or (at least take a few courses in it).
+
+I'll be taking EECS 370, 376, and Physics 240/241 anyway but in order to still be able to get the minor it would be a good idea to get some of my credits for it out of the way. One of the core requirements for the entr minor is UC 270 "Entrepreneurial Creativity" with Michael Johnson.
+
+Has anyone taken this class? I'm just worried about the workload as I'd be taking 17 credits with the other three classes which would be a tough schedule on their own. I just don't want it to add a noticeable amount of work to an already tough schedule.
+Which of the following is more doable?
+
+EECS 445, EECS 490, Math 451, and Stats 426
+
+EECS 445, EECS 388, Math 451, and Stats 426
+Any suggestions on easy workload humanities courses? Something that won’t be too much work with 2 EECS courses?
+Hi I’m a Chem Eng major who’s coming to Fall19 as a sophomore, and I need a recommendation between 2 schedules : 
+
+1. Math 215, Phys 240,241, CHE 230, 2credit humanities
+
+2. Math 215, Chem 215,216, CHE 230, 2credit humanities
+
+I’m wondering whether taking Orgo2 (Chem 215,216) along with CHE 230 would be better than taking them separately. I personally would prefer the 1st option, but all the sample schedules seem to put Orgo2 and CHE 230 on the same semester. Thank you!
+I’m planning to take EECS 281, MATH 215 & PHYSICS 240/241 plus a humanities. The thing is I’ve heard about the workload of eecs 281 and contemplating whether to add the humanities course or not. Any help would be nice!
+Is taking Math 217 pass/fail with EECS 388  or EECS 485 (if i get in) + EECS 481 and a 3 credit social science doable for Fall 2019?  I haven’t taken calculus since high school (1, 2 and 3) but would like to take a some kind of theory course if I can.
+Has anyone taken EECS 486 or know of anyone who has? If so, what are your thought about the course?
+[deleted]
+Does anyone know if any more seats for Math 419 will open up? I see historically around 60 people have taken the class, but it only seems to have 40 total seats as of now.
+Has anyone taken PAT 200? If so, what is the workload like outside of class? I am looking to have a lighter course load and am not sure whether to take this or not
+does anyone have experience with econ 101/stats 250 over during sp/su? i'm worried that it'll be too fast paced
+Has anyone had experience with EECS 370 and/or Math 214 in the spring? I was planning on doing one or the other, but I  was hoping that it would be possible to take both if it's not too time-intensive. I have taken Calc 2, and am currently in EECS 281 if that's helpful. However, I hear there is a lot of hardware stuff, which I don't think I'm looking forward to.
+Any information regarding EECS 301? I'm simply curious about how useful people found the discussion section to be and whether or not it's worth attending? Thanks!
+How hard will this schedule be?
+
+Planning on taking:
+
+
+EECS 370, EECS 376, PHYSICS 240, PHYSICS 241
+
+and possibly being an IA for EECS 183 as well
+
+Thanks.
+Is EECS 441 allowed as an ULCS elective? I would like to take it as an elective and not as the MDE. It's not listed under the ULCS list here so I'm not sure if it meets requirements:  [https://cse.umich.edu/eecs/undergraduate/computer-science/18\_19\_cs\_eng.pdf](https://cse.umich.edu/eecs/undergraduate/computer-science/18_19_cs_eng.pdf)
+[deleted]
+Thoughts on Keith Levin as a professor? He's teaching Stats 426 on TTh and Professor Banerjee is teaching the one on MW. I wouldn't have any classes on mondays if I took Levins section but I want to know if hes a good professor. Or does he just teach on a grad level no matter what hes teaching?
+I need to start doubling up in CS classes or I'll fall behind. With that being said, should I take EECS 281 with 370 or 376? I know that 376 is really difficult but I'm worried about 281 and 370 and their coinciding schedule for exams and projects and possible mixing the topics up during the exams. I'm taking two summer courses so I can lighten my cred count for the next semester at just two classes: both EECS. I've seen other posts about this but it didn't really help me. What should I do?
+Would EECS 320, EECS 301, EECS 351, CEE 255, and marching band be doable?
+Is there some type of prerequisite for SI 422 that I'm not aware of? I can't validate it in my backpack as it says there's some prerequisite called UINF that's not allowing me to enroll. I'm a Junior in CoE doing CS if that's any help.
+
+Edit: I can also sign up for the other lecture section of the class but it says it requires Instructor Consent in order to enroll, but the course guide doesn't say who the instructor is...
+I just learned the LSA course guide is incomplete in some areas. (e.g. the PAT classes) Does anyone know what other subjects might be incomplete there?
+Planning on taking EECS 203, 370, and 312. How doable is this? Also how is 312 in general
+Has anyone taken ENTR 411.002: Engineering Practicum – Engineering Tech and can speak on their experience and the amount of work/effort that has to put into the class?
+Not sure if this has already been asked but...do most people do genetics or biochem after finishing orgo?
+Any easy Spring 2019 courses?
+is eecs 281, stats 412, math 214 and Asianlang doable for fall?
+Taking EECS 203&280 during spring. Anyone know what projects are used during spring semester? For this winter, there was five. Thank you!
+Are there any courses that teach you personal finance/how to do taxes?
+Give me your opinions on EECS 489 and EECS 491. I'm trying to decide between them. I've already taken 445, 482, 483, and 485. Thanks
+BIOLCHEM 415 vs MCDB 310? I'm definitely not taking CHEM 351 but any advice on choosing between those two classes?
+Should I take Math 215 or 216 for computer science? Or should I take linear algebra first? 217 or 214?
+How difficult would eecs 388 + 370 + 270 be? The only other course I'd be taking it with would be techcomm 300.
+Has anyone taken Hebrew here? How is the department?
+I’m going to be a freshman, am I late to scheduling? And how do I schedule?(online or go to A2 and talk to the advisors?)
+[deleted]
+Is if possible to do well in Chem 230 at the very fast pace in spring? Do you still do the flipped classroom style were you take notes at home?
+How likely am I to get into an English class that I really want to take if I’m on the waitlist and I just show up the first day? Would they be able to let me in even if the class is technically “full”?
+Thoughts on EECS 281, EECS 376, EECS 285, TCHNCLMM 300, and Math 214 for Fall '19? I know the workload will be crazy but I really enjoy programming so I'm looking forward to Java and C++ coding. How is 376 compared to 203, and Math 214 compared to Calc 2? And is 285 and TCHNCLMM a lot of work?
+Quick question: I’m an incoming freshman. When should I start picking my classes? Am I supposed to do it before orientation? Or after orientation when I met with my advisor?
+CLCIV 371 or GREEKMOD 350?
+
+I’m an engineer and have to fulfill my 300 level humanities credit and I was wondering how these classes were like for those who have taken them already. What’s the workload? Are class recorded? Anything else I should know about the course?
+ Does anyone have any experience with Philosophy 183 with David Manley? Is it hard, easy, a lot of work? Any information is helpful thanks. I'm taking 3 harder classes and I'm just looking for a class that isn't a ton of work.
+Chances of getting off of STATS 412 waitlist? Going to declare Applied Stats minor for more preference but just wondering if anybody here had succeeded in getting off.
+Is lecture mandatory for EECS 376? I've heard that there are i-clickers for that course.
+If I can't get into STATS 412, should I take STATS 425?
+I need advice from a more experienced premed. The course thing says I can take physics 135 or 140 plus the labs, which would you recommend? I know 135 is geared for health science people, and is probably easier, but would not taking 140 put me at a disadvantage later on?
+
+Also, how does Bio 173 work? Is it a standalone lab, or is it usually paired with 172 ?
+I'm a sophomore, maybe majoring in Econ but I'm not quite sure. Am I better off talking Calc 115 this coming semester which is a major requirement (my workload doesn't look too bad so far, only Econ 102), or talking an intro to psychology class (something I'm interested in but would mean pushing off calc)?
+I'm number 20 on the waitlist to get into an EECS 485 lab. What are my chances of getting in?
+Is Wayne Lau or Michal Zochowski better for physics 135?
+I noticed there is a waitlist for EECS 496: do they let people off it because, it's necessary to graduate
+What do you guys think of taking EECS370 and EECS281 together?
+Hello,
+I am deciding between Math 216 and Math 286 for the fall.
+Any thoughts or suggestions on the differences between the two?
+Thanks!
+If my midterm date for MATH 217 overlaps with one of my labs for EECS 270, it's not a big deal right? Just asking since I have not used override the time conflict before.
+
+&#x200B;
+
+Also thoughts on EECS 270, EECS 370, MATH 217, and STATS 425? I know some of these classes are a lot of work but is it manageable?
+Are EECS370 projects same every year?
+EECS 438, EECS 460, Physics 405, Physics 360
+Could someone give me advice on if I should take 280 and 203 in the spring semester? is it possible? is so is there a good game plan?
+How bad is calc 2 over a summer half term? has anyone had experience?
+Hi all, I was wondering what the difference is between ENG124 and ENG125. Which do you recommend? Thanks!
+[deleted]
+Generally speaking, how hard is STATS 401 compared to 412? Also weird question to anyone who has taken STATS 401 and EECS 370, would you say one was more work than the other? I was looking to switch EECS 370 out with STATS 401 so I didn't have to take EECS 370 and EECS 281 together, but the workload on art actually has STATS 401 as more work than EECS 370. Thanks to anyone who can answer my question!
+Is EECS 203 and Stats 250 in the Spring semester doable?
+completely undecided and in LSA. what classes should I take (or have to take) my freshman year? also have a slight interest in transferring to either Ross or CoE (I'll decide that later) but how would i keep myself open for those options?
+Hey! Incoming freshman here and I'm stuck on what calc course I should take. I've tried doing research on this sub and on other threads half of the people say do the honors sequence (and suffer) and the other half say do the standard sequence (and suffer). I'm hoping to double in BSI while in Ross (pre-admit) because I don't like the CS field, so I'm not looking to pursue anymore math after this freshman calc course. I got a 4 in BC last year and I'm retaking for a 5, to maximize my options for which calc to take at michigan. should i skip calc 2 and take calc 3? should i take honors calc??? Thanks so much!!
+ I am trying to get an idea of which courses to take my first semester. If I can schedule them, I am planning on taking Comm 101, Spanish 277 (assuming I place into that, I have 5 on AP Spanish test), FYWR124/125 and then I was looking to take either Math 116 or 156 -- I am taking Calc AB exam and hoping to get a 5 - it was a pretty easy course for me, I am very strong in math but don't like it much. I want to take math though because I am not sure of my major/direction and I think it would be good to get it out of the way. What is the difference between 116 and 156? Thanks for any advice!
+I’m an incoming sophomore transfer student from a top 40 private school who has taken an intro to CS course in python and a data structures course in Java, both of which I’ve gotten an A in. However, I do not receive credit for EECS 183. I can, however, bypass it by learning c++ over the summer and doing a project. I’m wondering if you guys think it is a good idea or will I be missing something if I skip right into 280.
+Any easy courses to get the FYWR over with? And for English 124/125, is it better to take it fall or winter? I/m assuming there are fewer options in the winter. Thank you.
+Hi! I'm a freshmen joining LSA in Fall, 2019. Under EECS 183, lecture 003, there are several "sections". As per my understanding, each lecture (001,002,003) is taught by a different professor, and that is how they differ from one another. What exactly is a "section" and how does one section differ from the other?
+What is a good credit load to take for a freshman?
+Hi, I'm an incoming freshman fall student. I'm curious about the difference between honor calc 1 and regular ones. What are the differences? What are your experiences about it ? 
+Thanks !
+Hey all,
+I never attended UofM and I'll be taking Orgo I next year at a different school. The instructor in question is Nancy Wu. No ratings in ratemtprof so I'm assuming it's her first time teaching where I'm at, but I did some googling and saw that she recently taught orgo here at this institution. Could a person who took a class with her give me an insight as to what kind of person and teacher she is?
+[deleted]
+Looking for a good instructor for FYWR ENG 125??    Any recommendations??
+[deleted]
+I’m an incoming freshman and I’m confident I got a 5 on BC Calc. I’m unsure whether to take Math 215 or 156. (I’m engineering undergrad) Would it be beneficial to do applied honors calc 2? Is it around the same difficulty as math 215? How much overlap is there between calc 2 and calc 3? Sorry for all the questions ;-;
+i’m going into LSA undecided. i have AP credits in AP Calc AB and have completed a dual enrollment in Calc 2. also i have additional AP credits in microeconomics, lang and comp, us history, and us gov’t. i am just confused on what a typical freshman year schedule looks like in LSA?
+Do you think CS Honors is worth it? I am planning to go to grad school for CS. I have to take EECS 443 as my capstone for CS Honors but I wanted to take EECS 467. Can I take two capstone courses?
+This is what I’m planning:
+
+• CHEM 130 + CHEM 125/6 (5 credits)
+
+• BIO 171 (4 credits)
+
+• PUBPOL 210/PUBHLTH 200 (4 credits)
+
+• UROP (2-4 credits)
+
+how do-able is this for my first semester here ?
+[deleted]
+I’m an incoming LSA freshman who’s interested in majoring in Information, but not sure yet. My schedule is:
+
+MATH 116 (4 credits)
+SI 106 (4 credits)
+RCLANG 290 (8 credits)
+UC 280 (UROP, 2 credits)
+
+Can anyone tell me how hard any of these classes are? Especially MATH 116, since I took AP Calc AB senior year of high school but ended with a B+. And I’m worried about overdoing it taking 18 credits first semester. Thanks!
+CS-Engineering student here, looking for any advice on my schedule as I’m unfortunately kinda a perfectionist when it comes to unnecessary things like this.
+
+Basically I have credit to skip 151 and go straight to 280, but I don’t know C++ so is it a good idea to stick with the schedule I have and take 151, or should I lighten the load on second semester by taking 280 first semester? I'm a little bit worried my first sem is too easy and second is too hard, but lemme know if I'm wrong. Thanks!
+
+
+1st Sem:
+
+* MATH 216
+
+* ENG 151
+
+* ECON 101
+
+* PHYS 140/141
+
+
+2nd Sem:
+
+* Eecs 280
+
+* EECS 203
+
+* ENG 100
+
+* PHYS 240/241
+undecided LSA freshman
+-CHEM 210
+-EECS 183
+-COMM 159
+-BIOLOGY 105 or PSYCH 111
+
+how does this schedule seem? Should I drop one since orgo has a lab that goes with it too?
+[deleted]
+Hi! I'll be attending Michigan this fall, but I'm really worried about having to take calculus.
+
+Some background: I took 6 APs my junior year and ended up getting a 3 on Calc BC. I did great in my class however and ended up with an A. Then I decided to retake BC senior year to skip out of the Ross calculus requirement and I'm pretty sure I failed it (didn't study much and almost had a panic attack during the exam).
+
+So should I even bother bargaining with my advisor to allow me to skip out of math entirely or should i try to enroll in MATH185? I heard it's definitely more manageable and easier on the grading compared to the other math courses...
+
+thank you!
+So I'm going to be attending the international orientation in August. If class registration take place during orientation, won't all the classes be full by then?
+Are EECS 492 discussions mandatory?
+Anyone who did Cambridge A Level Math? Which class do you get credit for, Calc 115 or 116?
+Has anyone taken the LING 102 Seminar “Language and Humor”?
+[deleted]
+I'm thinking of Engr 151, Chem 125/126/130, Phys 140/1, and Math 215 for first year engineering. Is that managable?
+For the first fall term, what’s a good amount of credits to have? Thanks
+How’s eecs 285?
+I'm currently signed up to take Astro 102 (Stars, Galaxies, and the Universe), and am expecting/relying on it being an easier class with a minimal workload (Course Profile has Workload at 15%). 
+
+&#x200B;
+
+Has anyone taken this course and can speak to the amount of brute memorization required of astronomical bodies? I know I will absolutely hate this class if it comes down to me memorizing the names of stars.
+[deleted]
+Anyone have thoughts on Math 465? Difficulty? Quality of Teaching? How applicable the topics are?
+Musicol 121 w Cruz??
+Am I allowed to take as many mini-courses as I can in order to fulfill the NS and SS requirement?
+[deleted]
+How is this schedule?
+
+Math 217 (Cianci), Stats 250 (Gunderson), English 325 (Hinken) and Spanish 231 (Hilberry).
+
+Is this too heavy of a course load? As for Stats 250, I took a similar course at my old school as well as AP in HS so I am familiar with the topics but definitely rusty. I plan on majoring in Statistics though because I did really well in those classes and I enjoyed them a lot. 
+
+Math 217 is the class I am most worried for. I took Calc 3 this summer so I have some experience with proofs and vectors and stuff but I'm still not really sure what to expect in Linear Algebra.
+
+Also, how is English 325 as an ULWR? My original schedule was just Math 217, Stats 250 and Spanish 231 but I decided to add English 325 today because there was still an open section that didn't have any time conflicts. Should I hold off my ULWR until next semester and try to get a different class or stick with this class?
+Can I swing EECS 381 with STATS 413 and EECS 477? I’m an extremely hard worker but I don’t want to have a completely unmanageable schedule.
+Does anyone know where I can find some information on what Bio 305 (Genetics) and/or MCDB 436 (Immunology) are like?? I just want to know what I’m getting myself into haha
+My class load is Stats 250 (Gunderson), History 200 (Moyer), Biology 172 (Chapman), Anthrcul 101 (Perers-Golden) and UROP. Is this a decent schedule as an incoming freshman? I looked at the syllabus for bio and I have learned most of the concepts. I have minimal knowledge of stats. I loveeeee the topics covered in History 200, but I am worried that the class might be difficult for a pretty mediocre writer like me. Does anyone have any experience with Moyer and History 200?
+Does anyone know if Psych 111 requires a textbook?
+I was wondering if anyone had any advice or opinions about Physics 160, Honors Physics. Also, how does it differ from Physics 140?
+Is it necessary to buy the textbook for Psych 345 with Dr. Zahodne?
+After taking a language placement test, is your placement valid for the rest of your undergrad--meaning you don't have to take it again? Wondering because I took the Spanish on freshmen year, and want to take my last class (Spanish 4) senior year.
+Yes
+It looks a little rough but definitely doable with good time management

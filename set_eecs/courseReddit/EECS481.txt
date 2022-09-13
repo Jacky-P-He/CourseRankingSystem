@@ -1,0 +1,228 @@
+481 was my second favorite class at Michigan (second only to 590, also with Wes).  The projects are pair projects, but you can also do them alone.  The workload is fairly average (more writing than coding on the whole).  The content of the course is much more applicable to a software engineering career than most EECS courses you can take.
+Wes Weimer is *fantastic*. An absolutely captivating lecturer.
+
+The class content is very practical and teaches information that is important for a future SWE to know, albeit sometimes boring. The projects are interesting and *very* practical, but sometimes very frustrating.
+
+Take the course. Wes is superb and will make it worth it. Will also help you as you become a software engineer.
+EECS 445 is really rewarding and it’s medium workload. The professor is also really good and it’s the only class this semester where I actually look forward to going to the lecture in person. 
+
+I haven’t taken EECS 481 but it’s a really low workload class with little programming assignments and mostly just readings
+485 really teaches you to not rely on lectures to give you all the info you need to complete the project (aka Google is your best friend forever). 370 is also a decent amount of work if you want a good grade (edge cases are a bitch in this class). 481 is a lot easier workload and the material isn't the hardest to understand, however the final project can take a decent amount of your time depending on what you do. IMO don't do all 3 together, but it is technically doable
+From my experience, there is a huge conceptual gap between 281 the the rest of the upper-level courses. Before 281, you have been focusing on algorithm and optimization, but for most of the upper level courses, performance isn’t the focus, and the learning style shifts a lot from “you do what you learn in class” to “google the solution yourself.” That said, I think doing eecs 485 as your first upper level is definitely a good choice, as it introduces a wide range of ideas that you will come across latter on in your CS education, but it does have a significant workload. I heard 481 is relatively easy, but still it is a upper-level and I don’t know if jumping into two upper level + 370 is a good idea. So, I would suggest you take 370 and 485 together, and just choose other non-major classes that you need to graduate.
+It could change next semester, but according to [the EECS 481 website:](https://web.eecs.umich.edu/~weimerw/481/)  
+> **"Live, in-person attendance at the lectures is required** (unless you believe you have been exposed to COVID, etc., as above) and significantly contributes to the participation portion of the course grade."
+For EECS 442 your attendance isn't tracked.
+I took 481 this past semester and used a Mac. I had to download Virtual Box and used VirtualBox in headless mode which was really easy. If you're still worried, you could find a partner with Windows.
+\[Note: Not a student\]
+
+I'm not sure what the projects require, but I use Ubuntu on my Mac in VMWare. Works well. You can also get a Digital Ocean Ubuntu VM for $5/month if you need, but I find remote non-gui debugging a bit of a pain. 
+
+Does your Mac lack RAM or SSD space?
+You could also consider setting up a free tier AWS instance which runs ubuntu.  Leave it up the whole semester and ssh into it whenever you need to.  I believe VS Code and other IDEs support compiling and running code directly on another server which would make your life even easier.
+Running a Vagrant or Docker should be enough - you can also spin up an EC2 micro instance and that should work fine too
+You can go take a look at the course [website](https://web.eecs.umich.edu/~weimerw/481/index.html) for this past semester still. Take a look at the assignments and see for yourself, Mac isn't officially supported, but sometimes they have advice at the bottom of the assignment and IAs and other students tend to be able to provide advice on Piazza. You are also allowed to work with partners for assignments, so you could work with someone who can more easily run Ubuntu. The class is very much about learning how to get things to work to accomplish your goals, so this is a good place to start doing that.
+A docker might be a better option than a virtual machine.  I'm not super experienced with either, but I have found that the docker containers have a similar performance to a native operating system, while the virtual machines run like crap (super big slowdown).
+I’ve never taken 481 but I experimented with Linux in the past by dual booting from a usb drive on a Mac.  It should run much smoother than a virtual machine
+Yeah it's doable. I know someone who did it. Be ready to buckle down though, and make sure your other classes are lighter loads.
+482 is harsh and unforgiving. 481 is what you make of it. You'll get graded fairly, and I felt like I didn't work as much as I did for 482.
+
+Better make sure your last class is like...attendance only. 
+Generally you will spend less time on the 8 credits (4 cred MDE + 2 cred Techcomm + 2 cred business ethics) than you would by taking 2 x 4 credit technical EECS courses.  When I took my MDE package in Fall 2010 I remember spending ~15 hours total on EECS 496 and Techcomm 497 combined for the entire semester.  Your MDE will take up as much time as you want to put into it.  
+
+I took EECS 494 as my MDE and even after our project was due we spent additional time making it look better for the video game showcase in CSE (now BBB?).  I've also heard from friends who didn't want to put time in that they got off extremely easy with their MDE.
+
+So to summarize this disjointed explanation: If you are worried about the courseload then you can easily get away with spending less time on your MDE combo than on two technical EECS courses.  However, your MDE could end up consuming all of your free time if you let it (ie. if you are very passionate about the project you end up working on).  Also, last I checked Dr. Chesney was teaching EECS 481 and he was one of my favorite EECS professors by far, so it shouldn't be too bad.  It's no EECS 470.  
+481 was a very light workload for me.  We made Kinect games that were meant to have some value in autism therapy.  Most of the documentation and presentations that we turned in for 481 could be relabeled and turned in for TechComm.  I got an A and didn't slack off, but I'm pretty sure I spent less time working for those 8 credits than I ever did for 281.    
+I took 481 at apparently the same time as Compard_Shepmander. The workload felt relatively light to me compared to 482 or even 485 (I was taking 485 at the same time).
+
+The ethics/professionalism course felt like a huge waste of time. It was 98% common sense and 2% stuff that probably could've been rolled into another class somewhere.
+
+TechComm also felt kind of useless, but the good thing is it's relatively easy to take your TC docs and turn them in as docs for 481 (or vice-versa; sometimes the 481 version would be due first, sometimes the TC version). They're looking for almost exactly the same things in both docs; you might just have to chop stuff out and make one shorter or change some wording or something. The docs were, honestly, the most annoying part and probably took up at least half of our group meetings for 481.
+
+Like Compard_Shepmander said, we did Kinect games for kids with autism. That was awesome; we had to do research on autism at the beginning of the semester, as well as the capabilities and limits of the Kinect hardware and SDK. Writing the code for the game was pretty fun; I had never done C# before and I love learning new languages, and the SDK was super-easy to set everything up with.
+
+I came out with a good grade in all 3 (Techcomm, 481 and the professionalism course) and it never felt like it was a lot of work. If you do weekly team meetings to get work done and discuss issues it's a lot easier to deal with things quickly.
+I was also in EECS 481 this past semester which worked on the Xbox Kinect Games, and I would agree that the course load of 481, 496, and 497 is pretty manageable, but I would also add that the class is kind of what you make of it. The more time you put into it, the more you are likely to get out of it. It is also a very team driven project, so how your team decides to approach things could also alter how much times the class consumes. Some groups in our class chose to meet more than others. Also, the way the class is structured, you can typically get involved in the type of coding you are interested in.
+
+Also, [this](http://www.engin.umich.edu/newscenter/dme/gaming/) is Professor Chesney's website for the work he is doing. If you watch the video that is posted you can see some of the games that were created in out class.
+I would say, you can take one other EECS course and another filler course. I took EECS 494 as my MDE, with 481 the same semester, and a History course to finish my humanities sequence. 
+I think you should be fine. I transferred nearly 30 credits so I've only been doing 12-13 credit semesters here, but I've still been able to get all the upper levels I've wanted. I think it's mainly sophomores who are "ahead" in the program who have the hardest time getting into upper levels. I also didn't decide on CS until second semester of sophomore year, so I didn't take upper levels until fall of my junior year. Anyways, I would take this with a grain of salt as this is just my experience
+With where you’re at it shouldn’t be that big of an issue. Maybe for one more semester you might have some difficulties with highly popular ULCS like 485 and 482. But you can always take things like 388 and 481 which don’t often fill up that fast, and are amazing courses
+I was in the same situation and I basically had to waitlist for all the ULCS on my registration date but overtime I got off the waitlist for enough of the ULCS and I ended up with a schedule I was happy with. You may not get ALL the ULCS you want but you should get the majority before the Add/Drop deadline. For EECS 485 specifically, as a second semester sophomore I got waitlist for it this semester and was like 5 by the add/drop deadline so I expect that you would get off the waitlist next semester when there’s less people before you (since seniors graduate)
+370 + 481 will be easier but I think 370 + 485 (with a good group) is extremely doable depending on your other classes this sem.
+- I wouldn't say 483 had a ton of "useful" information, but it certainly had very fun projects. How useful the content is depends on what field you're going into, I think. Compilers are a big subfield, and I'm sure compiler knowledge doesn't hurt for systems related work, but it's pretty much totally useless for web development.    
+- I've heard 484 mostly can either be self learned, or is covered in 485 (probably the most useful upper level class imo unless somebody plans on never touching web systems).   
+- 489 has solid projects (making a proxy server, router, a new protocol), and there's a lot of information, but it's all very disjoint and not very problem-solving esque (like 482). I don't think it'd be difficult to learn the material by yourself, but the content is honestly extremely dry. Not sure if that's a pro or con for taking a class vs self teaching (probably depends on the individual). There's also some overlap with 485 regarding TCP.  
+- 490 has a lot of good information that's easily applicable to a lot of areas of programming, but I personally felt that the class had too much theory for my personal taste. Probably a preference thing, especially since I don't care for functional/logical programming. When I took it with Kamil, there was also some overlap in project content with 483 (where I felt that the 483 projects were much more interesting).     
+- 493 apparently is relatively self-teachable.
+Older grad here, and 481 is the only of them that I personally took, but looking them up, I'd still recommend 481 most strongly. I think software engineering principles apply to everything you do, and was the most valuable course I had when working on medium to large scale development projects. It deals with meta issues of projects, and how to apply formal engineering principles to systems, rather than just knowing how to code. That knowledge can make you stand out from colleagues who haven't studied those principles.
+
+Something like 483 compiler design is an interesting, fun topic, and doesn't hurt to know, but it's a bit esoteric, and I think for most people it's knowledge they won't directly use. Just for comparison, I think with 482, even if you never go on to design operating systems, it still teaches issues about operating systems that are broadly applicable and good to know about. I don't have the same sense with 483.
+
+367 autonomous robotics sounds fun, and useful for *certain* projects and industries, but might be non-useful if you happen to work in areas that don't involve hardware or robotics.
+
+484 database management systems sounds boring, but databases are such a common element in many projects that I'd think it would be quite generally useful. SQL may be completely omitted from the rest of a CS/CE curriculum, and it's good to have a working understanding of it.
+
+Somewhat similar with 489 networking...that's an element of so many types of systems, although your exposure to socket programming from 482 is probably enough to get you started on whatever you'd need to learn for a project in practice. The projects sound like applying different protocols to the same basic ideas. Useful but maybe not so critical.
+
+493 UI development, while it's a broadly useful topic, I feel like that's an area where you can do just fine without a course on it. Like a person with good common sense and visual design skills would probably still be better at UI design than somebody lacking those attributes who did take a course in it.
+EECS 485 is really good as well if you haven't taken it.
+I’m in 440 Search Engine Design rn for my MDE and it’s a great class. The project seems like it will be lots of fun (early stages so far) and working in a team of 6 is a different but useful dynamic to work in compared to other EECS classes.
+482 is a must they say, i’m in 490 rn and it’s really good but kinda mathy in a good way, 388 is pretty fun and very useful so far
+490 is way more useful in real life than most classes. Databases and PL are probably the most useful skills to making you an effective software engineer
+no, you can't count MDE for your tech electives
+I'm absolutely not trying to take away from what /u/Rowbond said, I just wanted to point out that emailing an advisor takes ~2 minutes and you will for sure get the right answer. While everyone on here is very knowledgeable, personally, I would never want to gamble on something that affects my ability to graduate.
+I can answer for the first pair. MATH 416 tends to deal a lot with randomized algorithms, whereas 477 doesn’t deal with them much at all. The syllabus is pretty much consistent year to year with what Pettie does, which is a lot of graph theory. 416 often changed quite a bit.
+
+I took 477 and it was a fantastic class. I’ve heard good but not amazing things about 416.
+I took both. 416 seems to depend on the professor, but lady two offerings have been on randomized algorithms. We did not use CLRS for 416, but a book on randomized algorithms. The math was at a much higher level than 477 (much more rigorous) but also narrower in scope.
+They will not care, and they will more than likely never know unless you explicitly tell them that you took 12 credits anyways. Usually when you submit transcripts it’s just to prove your degree/enrollment at a university rather than to check your grades.
+
+edit: It might even be more beneficial to NOT take these classes and do things on your own time/around campus to develop yourself as a person and explore your interests. Employers would much rather have someone with diverse experiences and viewpoints than someone who *might* be *marginally* better than other candidates due to some EECS elective
+Employers don’t care and they don’t even look at your transcript past your GPA.
+Take the minimum credits.  If you can graduate by taking 12, go for it.  Part of my responsibility in my job is hiring Mechanical Engineers.  We look at GPA but not what your schedule looked like.  The key to getting a job is experience, not just in the field but any way you can build experience. Most interviews will contain a portion where they want you to describe, with examples how you've handled certain situations.  We just had some great answers in the last interview and it was from situations outside what they would see in these jobs.  Your whole life is a learning experience, if you take 12 hours and can join a club or something that interests you, that's more important then taking a class that has no real meaning or value to you.
+I took 12-14 credits every semester my last couple years in order to make more time for extracurriculars related to my career path and those ECs were way more important to getting a job than taking more credits. Employers usually just use your transcript to verify that you actually graduated
+No one will look or care. Just do fairly well and graduate. It’s probably worse to take too many credits and do worse in your classes that semester because of the load.
+How would they know?
+Slightly different take on this than all the other comments: 
+
+You are going to college at Michigan fam. There are so many insanely interesting classes taught by highly regarded faculty here. Where else in life would you have the chance to interact with talents of this caliber that is this diverse. Go surf the course guide and I guarantee you will find something. Take those P/F if you want, all the benefits without the workload, don’t miss out on it. You will still have plenty of time to do clubs or extracurriculares 
+
+Most electives I’ve taken here have been really eye-opening
+Have you considered adding a minor and/or applying to SUGS?
+I’m an engineering manager that hires for my own team’s needs. I couldn’t care less if you took 12 or 16 credits. I would much prefer you be involved in extracurriculars related to your major or the job you’re applying for. Career-related extracurricular experience is far more valuable than classroom experience. I also look for candidates that have had work experiences over the summers.
+It wouldn't hurt to take chill non-CS courses that are 3 credits or less, even if you don't need anymore electives. You're paying all this money for the opportunity to take classes, not for a degree. You might as well milk the most you can out of this university.
+*Fewer than*
+Bro I’m literally taking a total of four credits rn, just save yourself the money and relax for your last couple semesters
+No one will care about your courseload.  They will care what courses you took, what grades you got, and that you actually learned the material well enough you could do it if they hired you.  Twelve units is the minimum to be full time and 12 units of A's beats 16 with a mix of B's and C's any day of the week.
+Lmao you will be fine, those three combined is still less than 482.
+Ngl i don’t think taking the 3 easiest  EECS classes at the same time Is a good Idea. I’d highly recommend taking something else instead of 481 or 493 (like 485, 445, 470, 482). I think you’ll get a lot out of it but it’s still ur call.
+if u can afford it (graduate on time), then replace it. But I'm guessing if u didnt have a choice, then you wouldn't be asking.
+482 is certainly valuable if you want low level knowledge. 490 is not that practical but still interesting if you want to dive into Rust/OCaml.
+I don’t really see how you are behind. You only need 4 ulcs to graduate + mde. You could probably take all those courses if you really wanted to. 
+484 + 485 + 481, 482 + 489, 490 + 494. You’d only have one semester with 3 Eecs.
+You could probably take 485 and 489 together in one semester. 482 is also a good class, but I recommend taking it either by itself or with a relatively low workload EECS class on that list
+I would call 485 and 482 must-take if you want to become a GOOD software engineer/CS researcher, unless you already know web/systems principles from other sources.
+
+485 is an amazingly wide overview of every part of the web stack, and it can serve as your one and only web dev class.
+
+Some people want to avoid 482 because it’s quite hard, but I really think it’s critical to understanding a full picture of the reality of a computer. You can get away with not taking 482, but I don’t think you can get away from eventually having to learn its concepts, so might as well do em in school.
+
+489 is very interesting and will be very valuable to anyone working in networks. But, if you aren’t, I don’t think the info in it is practically useful.
+
+481 is (I think, I dropped the class after a bit) mostly stuff that can be replaced by internship or job experience.
+
+494 is an insane experience, and will eat up huge chunks of your life if you let it. It was also a great experience in meeting deadlines on a high quality software deliverable. I’m glad I took it, but I would call it optional unless you have an interest in video game dev, then I recommend it.
+
+484 and 490 IDK, but I have heard from an employee at Ocient (state of the art DB company, they hire heavily from UM) that 484 teaches largely antiquated database stuff. I can neither confirm or deny this personally.
+Not a CS major, but I did take Linear Algebra(back in 18 or 19). AVOID that class; by far the worst run course I’ve ever been in. From the consistently late grading to the lack of direction from any prof. Felt like a train wreck from beginning to end.
+Which linear algebra are you talking about?
+Have you considered SUGS
+How much you struggled with 203 (assuming 203 was actually new material for you) is a reasonable indicator of how much you will struggle with 376, so you can use that to inform your decision.
+[deleted]
+Taking EECS 376 && 485 right now, definitely doable and I was not the best at 203. I recommend discussion and OH, they help a lot with HW and exams; also where you can meet other people and maybe form a HW group.
+Death and taxes guaranteed
+I didn't take this at the same time as 482, but I can recommend [EECS 390](https://amirkamil.github.io/eecs398/) (Amir Kamil's 'Programming Paradigms' course). Workload is on the lighter side and I think it provides you with several new ways to think about programming (the biggest one being functional programming).
+Taking it with 493 right now and it's not too bad
+Honestly EECS 484 is somewhat complementary to 482 but if it's Honeyman then good luck lmao. I would say 493 as someone else mentioned. Honestly, the lower the workload, the better the combination with 482 lol.
+I’m taking 388 and 485 with it rn. Don’t recommend 485 concurrently with it but 388 is def a manageable combo
+[deleted]
+[deleted]
+Yep, it’s fine to do 312 without 217.
+
+ I recommend that u should not take 481 without any formal proof experiences, at least on the level of 217. 481 is way abstract. If really interested in logics, u may consider Phil 414. 
+
+But again, it also depends on how much time u could devote. I took Math 625 without prerequisite 597 and did extremely well, given my incredible amount of commitment time that semester.
+The reason you need 217 for 312 (and many many many of the other upper level math courses) is so you know (like really know) how to write a proof. 203 and 376 will not teach you how to write a proof at the same level.
+
+I took 481 last fall, great class, I would definitely not recommend it without significant experience with proof writing (I took it after about 4 semesters of proof based math), it gets very mathematically abstract very quickly.
+If you think you can handle and save yourself time and money by just taking 312, go ahead. 
+
+But you may find out that you actually needed the experience of understanding and working through 217, “building the muscle” to work the math problems. 
+
+Just take 217.  If it ends up being an easy class, well good. But it you take 312 right away and becomes a nightmare and you have to drop the class you’ve lost time and money. 
+
+Good luck. Regards.
+Wes Weimer, EECS 481 professor (highly recommend his course), said the following about the issue:
+
+&#x200B;
+
+"At a high level, I think the waitlist culture arises naturally from the policies in place, the constraints on classes, and students taking locally-optimal decisions. In that regard, it reads like a textbook combination of The Tragedy of the Commons ( [https://en.wikipedia.org/wiki/Tragedy\_of\_the\_commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) ) and the Prisoner's Dilemma ( [https://en.wikipedia.org/wiki/Prisoner%27s\_dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) ).
+
+Before delving into this, though, I want to separate out two issues. One would be "actual over-enrollment, where we admit 100 people to the major but only offer enough seats in classes for 50 to graduate". The second would be "heavy waitlisting, where we admit 100 people to the major and do offer 100 seats in classes, but each class has 40 people on the waitlist at the start of the semester".
+
+Professors and administrators are very concerned about the former -- the one where we admit people to the major but it is not possible to complete the major in four years. (It's particularly tricky for transfer students!) I have been at a school where the CS department "did not do the math correctly" and admitted too many people compared to course offerings -- that was not pretty, and there was much wailing and gnashing of teeth on all sides. Even beyond math mistakes, you can run into that issue if a professor gets sick or somesuch and doesn't end up available to teach a class the department was counting on. (Usually we have a bit of a buffer there, but what if two people get sick?) One solution to this would be major caps, which would be the subject of a different post, so I'll just summarize here by saying that they are, at best, controversial.
+
+However, when people talk about the waiting list culture here, it's usually the second issue. There are "officially" enough seats in electives for people to graduate, it's just very hard to get any particular elective, and at the start of the semester waiting lists are long.
+
+Concretely, for 481, this semester we started with154 enrolled and 58 on the waiting list -- that's basically one-third again the size of the class. Now we're at 153 enrolled, so in some sense "everyone who wanted to get in got in" ... just not early or in a timely manner.
+
+I make this arcane point because it's important to understand that the issue is not total course capacity per se, it's policies relating to waiting lists and queues.
+
+Even leaving aside enrollment and capacity issues, students are typically encouraged to sign up for multiple classes. For example, I've been a professor for many years now, including periods of time when we did not have high enrollment -- when classes might not fire, or when a 400-level elective might have 30-40 people.  In those years I would routinely tell all of my advisees: "You need to take one class to graduate. You should sign up for the two classes you might like the most, attend each one for the first week, and then drop the one you don't like." This maximizes the student's happiness compared to just guessing one course to take in advance and sticking with it. (There's a game theory notion here related to delaying irreversable moves, but we'll elide that for now.)
+
+I mention this because even without capacity, you can naturally end up with a situation where it makes sense for X students to sign up for 2\*X classes (or 3\*X, etc.). For each individual student, this is a locally optimal decision.
+
+Now, as capacity becomes more of an issue, the problem magnifies. If a class you currently want is at capacity, you could sign up for the waiting list ... but you're not guaranteed that anyone will drop. So if there are two classes you might like with waiting lists, you minimize risk by signing up for the waiting list for both, taking the first one you get in to, and then removing yourself from the waiting list for the other. Note that this is isomorphic to the situation above with the student just sitting in on two electives ... except that you now you're under even more pressure to do it. So once again it is easy student's locally-optimal decision to sign up for 2\*X classes (etc.) when only X classes are needed.
+
+If we could somehow magically communicate among all students, we could resolve this without the big waiting lists. Recall that in the problem setup, there are X seats available and students need X classes, so in theory everything is fine. The issue is that without magical global constraint solving, each student locally signs up for 2\*X classes ... hence the waiting lists.
+
+This is akin to the prisoner's dilemma because there is a globally optimal solution, but we're unlikely to take it, because our locally optimal solutions don't mutually lead to it.
+
+This is akin to the tragedy of the commons because there is a shared resource (e.g., oversubscribing via waiting lists) that we pay no price to consume.
+
+*> I’d bet Wes also love to solve this problem, if he could.*
+
+Interestingly enough, a number of solutions are known, they're just not really actionable.
+
+Much like with rush hour traffic and highway gridlock, for example, there is a superlinear relationship between the fraction of capacity that is being used and the delays experienced. A full digression into Queuing Theory is beyond the scope of this note ( [https://en.wikipedia.org/wiki/Queueing\_theory](https://en.wikipedia.org/wiki/Queueing_theory) ), but very informally, if we only had 80 people completing for 100 elective seats we would see 0 waitlisting issues, but at 90 we see 20 waitlisting issues and at 100 we see 50 waitlisting issues. So one solution would either be to dramatically increase capacity (hard) or to cut demand (e.g., with major caps, also hard).
+
+Interestingly enough, the reason I am teaching 481 back-to-back this semester and next semester (rather than the usual faculty maneuver of alternating graduate and undergraduate classes) is that I explicitly offered to help relieve elective pressure on students by teaching high-enrollment electives.
+
+Another solution would be to add some sort of cost or limit on wait listing. If you could only be on one waiting list at once, for example, the problem would diminish greatly. (Your immediate reaction is likely to be something like "no, that wouldn't help", but in this scenario *everyone else* also has the one-waiting-list-only limitation, so the waiting list numbers for all of the other classes evaporate, so you only need one to get the same effect you currently have. Remember, in all of these we're offering 100 seats and we have 100 demand.) However, while this reduces waiting list magnitudes, it also reduces student choice, etc., and it would basically be a huge non-starter.
+
+So departments tend to focus on increasing capacity -- hiring new professors and teaching more classes. There are at least two reasons why that is slow (from you perspective -- i.e., it takes years, and you're already gone by then). One is that hiring professors is tricky if we want you to have world-class instructors. For example, two software engineering professors we extended offers to last cycle (Denae Ford and Sarah Chasins) turned down our offers in favor of Berkeley and Microsoft Research instead. The second is that we're actually room-limited in many instances: that is, the fire code correctly won't let us cram more students into rooms, and it takes a while to construct new buildings.
+
+Anyway, all of this is a long-winded way of saying that the waiting list problem is not "surprising" in a mathematical or theoretical sense. It "falls out naturally" from the setup in the same manner as those explanations of traffic jams ( [https://www.youtube.com/watch?v=Q78Kb4uLAdA](https://www.youtube.com/watch?v=Q78Kb4uLAdA) ) -- it's a result of people making locally-reasonable decisions given the constraints available. Unfortunately, the flip side of that simplicity is there aren't really any good solutions (they all either require coordination among humans or additional resources). I wish I had something happier to say here."
+They know it's an issue and from what I've heard they've been hiring new professors at a higher rate than ever before to compensate. However, good professors are few and far between and the department doesn't want the quality of the courses to drop which is why they haven't like fixed it in a single hiring spree. The situation will gradually improve but for now we just have to deal with it. It sucks but that's the reality of things.
+
+(Some courses have been experimenting with virtual sections, like lecture recordings only, which is another bandaid that may end up being adopted across the department)
+
+edit: I also want to add that this is also happening because the school doesn't want to impose artificial limits for the number of people that can declare a major (see: university of washington), and the department has also (rightfully, imo) been resistant to adding additional grade requirements beyond what they have for 203+280 (which has also been made stricter as of last year)
+They need to cap the CS program at some point. It is crazy how BSI has an application system while CS doesn't.
+
+I understand and strongly support the philosophy of being able to study and pursue whatever you wish at Michigan, but it is sad to hear how so many of my friends can't take any upper levels as juniors in the program.
+It's only going to get worse. art.ai shows 755 students enrolled in 281 this term, the second highest ever after last fall.
+
+furthermore, eecs 280 broke 1000 students in the fall for the first time ever this semester, meaning the winter semester this academic year will probably have the largest enrollment in history (winter usually higher than fall)
+
+with michigan gaining more and more attention as a top CS school, I do not see this slowing. especially since we have no application (like uw) and less stringent requirements than schools like uc berkeley for declaration.
+
+in a bigger picture, the demand for cs majors will continue to grow. there is still an absolutely massive demand for cs majors which is [not projected to slow down](https://www.nu.edu/resources/are-computer-science-jobs-in-demand/)
+
+it's a pretty interesting optimization project. should the university try and keep finding lecturers for these classes or just cap enrollment? can they even find qualified lecturers fast enough? what are the downsides to having something like a 2,000 person eecs 280 class? can they have enough qualified IAs?
+Unfortunately this will be the norm if the CS department keeps taking more students without hiring more professors.
+First of all. CS & non-CS graduate level students should not be allowed to take undergraduate level coursework.
+I guesse we can talk about prisoners dillema and tradgedy of the commons but that would also apply to other departments. The reason it is so bad in eecs is because demand exeeds supply. The university needs to recognize that computer science is a far more valuable skill than sociology and start to direct resources appropriately. Just hire more eecs proffesors and teach more classes it's not that hard.
+Welp, I guess I have this to look forward to.  Freshman doing 280/203 this fall term.  I have courses for the next three years all planned out, but if this keeps up (it's going to get worse), I'm gonna need a lot more flexibility.
+This seems to be a problem nationwide as I've read a few articles about the same problem at other schools. There is really no easy solution (obviously), but I'm sure the department is working on it. It's not easy to hire strong staff like we already have, and it would make a bunch of people unhappy to create restrictions to the major. That being said, maybe they should up the difficulty of some of the intro classes to weed out people that are mostly looking for the cash grab aspect of cs? I don't have an answer but I'm definitely afraid of not taking what I want to take, especially if I'm paying gobs of money for it. 
+
+Maybe they could create online sections that could be mostly graded by students or something. A lot of people don't show up to lecture anyway :/
+I love how half of the solutions are: hire more professors, and give them job security, as if no one already thought of that. The reason why they can't hire more people is:
+
+ (a) they cannot match the money that industry provides without hiking the fees. But I am pretty sure everyone would be up in arms with rise in fees. Just to give an estimate (as an ML PhD student), the starting job in industry as research scientist is 290k$ with added benefits and stocks, in academia is 110k$ barely. Where does that extra money come from that should be there? Fees.
+
+(b) Limit the intake and make people apply to CS, but then everyone will complain about denial to access.
+
+(c) Dual-body problem is a real problem in college town everyone! Getting hired in academia is not easy (and it should not be, UMich should maintain its quality), and it is very unlikely your partner wants to do an academic job, or is hired at the same institute. 
+
+Why does UWash, NYU have less problems? They capped the intake and they have industries nearby that people collaborate with to earn more money and that their partners can go to.
+Why a virtual machine, why not dual boot?
+
+Anyway you aren't going to be working on enterprise level stuff here, I never ran into anything that took too long to compile 
+Why not just SSH into CAEN? That way you don't have to worry about matching software versions, slowdown from virtual machines, or compile time. It's worth knowing how to use vim or emacs via terminal. And you're going to need to use CAEN anyway, because you need to make sure your code runs properly before submitting it. CAEN is also mandatory in some of those classes (e.g. 470) because you'll be using expensive tools that you won't be able to run on your personal computer.
+
+If you really want to use a GUI text editor, you can pretty easily set up a git repo on both your laptop and CAEN account. Then you can do all your coding locally (useful if you don't always have a network connection) and have a CAEN SSH session where all you do is type "git pull" and "make". 
+I would say yes, it's enough.
+you should work in the BBB lab or UGLI basement as much as possible. I started doing a lot better in my eecs classes the more I worked in the lab. I caught many office hours while working there, learned things from other students, met other eecs students, which in turn helped me make friends with other eecs students. Working the lab can help you directly and indirectly in so many ways.
+The one you have the strongest interest in 

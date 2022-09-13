@@ -1,0 +1,17 @@
+It won't be fun but it is possible.
+Take 203 and 280 and see how you like it. That will give you a preview of what cs is like here
+It’s definitely possible. Python isn’t used until the upper levels so you’ll likely not even use it until senior year. I would recommend brushing up on cpp basics because 280 and 281 are taught in it, but you’ll likely do the following sequence:
+
+2022-2023
+Fa: 280/203
+Wi: 281/370/376
+
+2023-2024
+Fa: 2 upper levels
+Wi: 2 upper levels + capstone
+
+Of course, there are easier and more difficult ways around picking courses. For example, you could take 493 (UI) and 497 (human centered software) together and use the same project across both classes. Personally, I don’t find that fun , but 497 is a 2% workload course (check Atlas for workload breakdowns) and my buddy who is in it now said he’s spent around 15 hours on that class up to this point. So there definitely are options to make it easier on you. 
+
+I think the main thing is you have to love it. EECS is hard. The workloads are fairly heavy, especially for some classes like 482 (OS design), but from my experience the courses themselves are very interesting. Burnout is real, so be careful, but if you enjoy the content then you’ll have no issue at all in completing it in 2 years. Most people aim for 2 eecs courses a sem, so if worse comes to worst you can always take a spring sem or another fall. Taking another fall could be helpful to land another internship as well. Hope that helps!
+You could do econ major and CS minor. You can still get an internship/job as a software engineer as a minor and then you can finish up the Econ degree if u wanted
+You’re fine. Most CS transfers are doing the same, including me, however the typical graduating time is 2.5 years and not 2

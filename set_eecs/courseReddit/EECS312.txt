@@ -1,0 +1,43 @@
+Taking EECS 312 right now, conceptually somewhat complicated (large physics component) but very low workload compared to other EECS classes. Garmire is a really nice and reasonable professor and honestly kind of a genius.
+I am also taking EECS 312 right now with Garmire. And he is extremely friendly and generous. He is extremely willing to work with you and help as much as he can until you understand it. The labs are by far the most difficult part of the class. They would consistently take me at least 15 hours each. Learning the software can be tricky, the first couple labs are a good tutorial however it can still be difficult on the later labs. Like I said just ask and he will help you.
+
+I also took EECS 320. I took it last fall so the format was slightly strange as the lectures were held over zoom but he would play a recording of a lecture he recorded the previous day or so then he would answer any questions posted in the chat. The GSI that semester was incredibly helpful and explained the material well. My biggest takeaway was that class had the longest formulas I had ever seen in my life and to go along with that soooo many variables. 
+
+As for which you should I take I can't answer that but I will say it would be helpful to have 320 before 312 as the basis for 312 relies on 320. Now they do cover what you need to understand from 320 in the first couple weeks of 312 but you will most likely feel more confident if you took 320 prior. It is also important to note that all of 312 isn't like the beginning. I know several people that dropped the class after the first few lectures because they were intimidated by the material or weren't interested in it. So if 320 wasn't your favorite but you're really interested in 312 I would encourage you to stick it out past the first few lectures to really get a sense of what the class is about.
+I’m taking both this fall semester. Probably 312, but 270 and 312 are prerequisites for 427(VLSI design) a useful class that some biomedical engineering grad students take as well as ece students that want to go into chip/(complex circuit) design. Eecs 414 is probably a better option than those two because it introduces MEMS, the foundation in which bionanotechnology is based upon. Both 312 and 414 are prerequisites for another class bme grad students and nanotechnology ece students take called 425(integrated Microsystems lab). I myself am currently undecided on either to focus on computer hardware or biotech. But to answer your question, 312 is a better move than 270 if you can only take one of them
+I’m pulling an A in 281 right now, and I can honestly say that the class is not nearly as difficult as everyone says it is. You don’t need to study up anything for it unless you haven’t programmed in C++ in over a year. 280 level knowledge is more than enough to do well. The reason some people do bad in the class is because they procrastinate. If you start every project within a few days after the spec is released, do all the lab assignments yourself, and attend lecture, I guarantee you’ll get at the lowest a B+.
+For 312, I don't think studying over the break is necessary. But if you want to, look into diodes and MOSFET transistors and how they operate as solid-state devices. I remember the first lecture really rushing thru both these topics for which the entire EECS 320 is dedicated.
+I hated taking 312. The labs are so poorly written it's basically a part time job trying to understand and complete them. 216 and 270 aren't that bad. And I can't speak for 320's difficulty. 
+  
+If you want to take 312, you should put it off or later. The logic from 270 and understanding of the physics in 320 will help you tremendously if you want to take it.
+I'm Computer Engineering too. I took 312 last Fall with Blaauw. It's a pretty rough class. The lab assignments are simulating circuits in a software called Cadence and are pretty much a part time job. I didn't take EECS 320 prior so I think it might have helped to understand the material a lot better. Exam averages were in the 40's with a standard deviation of ~20
+I took 312 last semester. It was the hardest class I took here. Despite that, I actually enjoyed the class. The material was very interesting to me and I had a good group of friends that I worked with on all of the assignments.
+
+I would recommend taking it but you better be ready for how hard it's going to be. Try not to take it alongside other hard EECS classes and try to get as many people working together as possible and you'll be fine. Also there is basically no hope for you on the exams so just accept your fate when it comes to taking it. No matter how hard you study, you will not have enough time to finish the entire exam.
+I heard that EECS 478 is kinda boring. I haven't personally taken it though so ymmv
+
+EECS 427 _is_ 24/7 but I thought it was fun and getting your processor working at the end feels magical :)
+I have taken both of these.
+
+427 is a 24/7 job, but it does feel satisfying seeing a processor you made essentially by hand working at the end. However, it does require a bit of background on how transistors work and how they become logic gates (see its prereq eecs 312). But, if you have that background, are capable of sinking a lot of time into it, and have genuine interest in the topic, it is a good course.
+
+478 is all about how synthesis programs work and how they transform your verilog into a circuit and optimize it for performance. This also includes stuff like scheduling. I found the hw was reasonably difficult, never felt like it wasnt covered in class, and the programming projects were definitely a challenge but office hours was the main way i survived. But, the professor is most certainly boring in my opinion, which does not help it is a morning class. A lot of it is just him reading the slides but there are a few whiteboard drawings. But if youre interested in how these tools and their algorithms works, id say its a rewarding course.
+Yep, it’s fine to do 312 without 217.
+
+ I recommend that u should not take 481 without any formal proof experiences, at least on the level of 217. 481 is way abstract. If really interested in logics, u may consider Phil 414. 
+
+But again, it also depends on how much time u could devote. I took Math 625 without prerequisite 597 and did extremely well, given my incredible amount of commitment time that semester.
+The reason you need 217 for 312 (and many many many of the other upper level math courses) is so you know (like really know) how to write a proof. 203 and 376 will not teach you how to write a proof at the same level.
+
+I took 481 last fall, great class, I would definitely not recommend it without significant experience with proof writing (I took it after about 4 semesters of proof based math), it gets very mathematically abstract very quickly.
+If you think you can handle and save yourself time and money by just taking 312, go ahead. 
+
+But you may find out that you actually needed the experience of understanding and working through 217, “building the muscle” to work the math problems. 
+
+Just take 217.  If it ends up being an easy class, well good. But it you take 312 right away and becomes a nightmare and you have to drop the class you’ve lost time and money. 
+
+Good luck. Regards.
+Yes, 217 is a prereq for 412. It is enforced I think, so you might need approval for override.
+
+Have you taken any math courses at UM before? It tends to be pretty difficult and without you having strong mathematics background like self studying a lot or doing well in math competitions (going to USAMO, doing well on Putnam) I'd say you'd have a tough time in 412 without 217.
+I was in your shoes (wanted to take math 412 but never took math 217). The 412 professor told me to take 312 instead. I ended up switching to 312 and enjoyed the class. I was the only person in 312 who hadn't taken 217, but I still ended up doing fairly well since the class as a whole isn't that rigorous. 312 should be a pretty good intro to proofs.

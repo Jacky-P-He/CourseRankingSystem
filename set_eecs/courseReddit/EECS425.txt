@@ -1,0 +1,201 @@
+For EECS 370, you might wanna brush up on your C. Not crazy necessary tho
+For 217, just mentally prepare for how much work the class is.
+Dont order dominos
+Who do you have for 425?
+Heh... concurrently. CS jokes. 
+
+Well... 281 projects have a nasty way of eating up a ton of time. 370 projects are comparatively super simple, but some of the concepts can be weird if you haven't dealt with lower level details before (like if you haven't taken 270 I guess). I would probably recommend subbing in something lighter somewhere in that schedule if at all possible. Can't speak for circuits or math 425, but 281 is definitely something to take seriously esp. if you're going down the CS route. 
+Posted this in the other 425 thread, but ill copy it over
+
+
+>I'm currently in this class this semester with Professor Thelen. The workload is definitely manageable. For HW, there's one set of problems a week. The sets usually contain about 8-9 problems from the book and take 3-5 hours depending on how well you know the material. There's three exams, two "mid-terms" and a final. In terms of difficulty, I thought the first exam was pretty easy (although I'm a stats major, so my opinion of easy might not be yours). Our second exam is thursday, and the material is IMO a little bit harder than the first half of the class. I would certainly not call it a heavy workload though, its nothing compared to EECS 183 (not saying thats extremely heavy, but its the heaviest class I'm taking this semester.) I would definitely recommend Professor Thelen if he's teaching it again next semester. (Also, he's in the stats department).>         
+I took this exact schedule 2 years ago, with tech comm 300 as well. It was definitely a lot of work at 4 points of the year (each 281 project due date), but not nearly my busiest semester, and I still got the grades I wanted. It's probably still a good idea to try to substitute something else for one of the classes, but if you don't get to, it's not the end of the world by any means. Also don't set yourself up for an even worse junior/senior year on the account of concurrent 281/370 courses, because they will pale in comparison to major final project courses.
+281 and 370 together is a bad time. All the due dates fall at the same time and you'll be pulling out your hair from one or the other. I would drop 370 for something else. 
+You will be working almost all the time. Don't do it.
+
+
+
+All these threads about taking seven engineering, math, & stats course simultaneously are embarrassing to me, who attended a far less selective college.  
+
+All my course decisions were things like "I can't take an 8 am language class, so I guess I'm switching from French to German" and "I'm too lazy to memorize slides, so Art History is out."
+
+#UMproblems
+
+Take Math 425 with Carrie Hosman section 3 if you can 
+I haven't taken 412, but 426 is pretty theoretical and conceptually hard. 
+
+I took eecs 281+370+376 and stats 426 together last winter and I found the concept of 426 the hardest among all of my courses. If you are good at math and enjoy the theory you can go with 426; otherwise I would suggest taking 412 though it may have some overlap with 425.
+The focus of those two courses are entirely different. 426 is theory-focused while 412 is mostly applied. And yes, 426 is much more difficult than 412 from what I’ve heard. 
+
+Have you looked at 413? You might need to talk to an advisor to get permission to use it for requirement tho
+Just do 412, that schedule sounds crowded enough as is and I doubt recruiters will bat an eye.
+
+I did find the talk about estimators and bias useful (in 426) because I was also taking EECS 445 at the time but I think that was more just a happy coincidence.
+
+For reference I majored in CS + Fin Math and took math 425, 426, 525, 526. 425 and 426 can cross-list as stats although I’m not sure if that’s every year.
+Stats 412 imo. I was a data science major and this is a required course for the major anyways
+Dont do stats 250 it is ap statistics with R
+If you’re doing stats 426 (which you will need for the stats major), you can look into getting stats 250/412 waived. Completion of stats 425+426 counts for stats 412 for the data science major, and often gets stats 250 waived for the stats major.
+Super doable
+1. Yes that schedule is very doable, I had a similar one a few terms ago and it was pretty easy.
+2. Why 250 and 425? I would recommend just taking 412 if you plan on being a Compsci heavy DS student or 425+426 if you plan on being a stats heavy DS student.
+[deleted]
+280 isn't the worst as long as you make sure you give yourself enough time on the projects. That's how I failed project 3 :(. Project 5 was probably just as hard, but I actually started it on time and aced it. Not sure about the other classes though.
+That gonna be a tough schedule. 217 is said to be 15-20 hours of work on a weekly basis. 280 is also very demanding time-wise. 425 is less time-consuming but the material is not a walk in the park either
+Oops gotta spend all time studying I guess. Thanks!
+Any reason on taking 217 over 214?
+I’ve taken 413 and 281. This schedule looks fine to me
+
+413: annoying class tbh, it’s not “hard” but it has random busywork and they are so anal with grading it’s hard to get an A. Also it says applied but it’s a proof class. If you liked 217 and 412 (I did not) you will find it easy, otherwise it’s solidly mid tier workload (280 level). 
+
+
+281: Order of magnitude easier than its reputation. EECS 280 projects were really dumb imo, I hated them so much because the class moved way slower than their projects and I didn’t know what was happening in their header files at all most of the time. Only saving grace were fantastic 280 professors. In 281 Dr Paoletti releases project tutorials where he explains each step of the project (make sure you watch the full 1 hour video b4 starting each project). In 280 you also were required to use certain syntax because they were trying to teach you specific things, but in 281 they just want correct outputs. Labs match up with tests 1-1 in 281 as well so you basically barely need to study. Go to lectures in person btw, Darden and Paoletti are literally such fantastic professors I cannot plug them enough. 
+
+
+My advice for 281 projects is make sure you are really writing code like a software engineer. A lot of my friends who were better than me at 280 (I got a B in that class) took triple my time to complete 281 projects because of debugging. People get into the bad habit of writing long functions and no classes. I wrote 3-5 separate header files and classes for each project and an assload of 5-10 line functions that called each other, so it never took me very long to debug.
+I think STATS 413 really depends on the instructor. I took it with Yuekai, and here is the course website https://www-personal.umich.edu/~yuekai/stats-413/
+
+I liked his class, but only as a student who already likes math proofs. Otherwise the amount of linear algebra and other rigorous mathematics might be too much.
+
+Not sure about the other instructors though.
+I’m taking bio 172 right now, it’s a bit test heavy at least for me. Tests are most of your grade. For tests you have to know every small detail and it’s a bit hard and time consuming. I would hold off on that class if you don’t feel like u have the time.
+Not an answer, but how is STATS 425? I plan to do that next semester
+I would not recommend si 110. It is a lot of work for a fairly useless class
+You workload for next semester is probably a half, or at most two thirds, of this semester's. Stats 306 in every winter semester should be taught by Prof. Tewari. It's an easy A. You could check topics of the course on his website.
+If a class is cross listed it doesn’t matter what you register for it as, it will automatically count for both when they do your audit (you’ll be in front of an advisor while doing your major release and can tell them how you want things to count).  Biggest thing is you can only double-count one class between a major and minor so you should plan ahead on what you want to double-count.
+At the Stamps school (art school) you can double dip for major,minor and required credits. Not sure how it works for other parts of umich. 
+
+You can’t change a class once you’ve taken it, you would have to drop and re-enroll either before or during(friend in engineering had to do this for a class might be different in your major but I don’t think so)
+I was able to double count as many classes as I wanted in CoE.  As mentioned above, math minor counted for all flex techs in my CS major.
+So my data might be really outdated, but I think it's worth checking with your advisor. 
+
+I took math 425 (abroad in australia) and wanted to use it toward my EE major, CS major, and math minor. I ended up having to get a special override for EE, because I think they stopped accepting that crossover.
+
+I don't think I had any other restrictions limiting amount of crossover classes. There was a ton of double counting in the two majors, and the minor only needed a couple extra courses over the major requirements IIRC. 
+
+All that said, I graduated almost a decade ago, so it's worth checking with an advisor. (I'd probably go to your data science major advisor)
+If you have a natural aptitude for rigorous math, why not take 217?
+I've taken 203, 217, 451 and 412, i'd strongly recommend taking 412 first. In fact, it is a mandatory pre-req to take 217 or 412 first before 451. So going straight to 451 would be skipping two very important steps. It says you could get permission from the instructor, but the one time I attempted this for 490 it was denied.
+
+ 214 does very little to prepare one for the kind of proof writing required in 412 and 451. 203 provides slightly more prep, but I would still say it is a stretch.
+
+The only circumstance in which i'd reccomend 451 first is if you *really* want to acquire that content in particular, not just proof writing skills. IE if you anticipate using lots of derivates/integrals in your major, and specifically want to be able to prove things about them, then take 451 if you are prepared to do a lot of work.
+So long as your comfortable with writing rigorous proofs, you should be fine, if you are not, then it might be a bumpy ride. (Idk how much rigor is expected in 451 and 412, but I know that's the point of having 217 before either 451 or 412)
+412 should be easier than 451 in nature, but you need more algebra background such as 217/296 to do well in 412. Thus I'd recommend 451 over 412.
+As an economics major with a masters degree in Applied Statistics from UMich, I would definitely advise you to complete a CS degree as undergrad and DS as postgraduate. And this is coming from someone who is working as a data scientist at the moment.
+
+The applied statistics program that I attended was pretty much a combination of statistics and computer science - with a bit more emphasis on the “statistics” side.  With a CS degree and by following a DS postgraduate path I think you will find it very straightforward and you’ll just need to focus on the statistics part. On the other hand, if you do a DS undergrad I am not sure how easy it would be to transition to software engineering for example.
+
+TLDR: If you want flexibility go for CS undergrad and then you decide if you want to pursue a data scientist career which can be done either with a masters in statistics or by building your own projects (+ some luck)
+I would recommend going for cs and learning ds specific skills from doing projects on your own. Source: a Wayne state Econ major who taught himself data science basics and is applying those skills towards research projects and is even now getting paid by the a professor to scrape websites and news sites. 
+
+My biggest reasoning is that data science is evolving very quickly, and computer science will provide better long term fundamentals/theory to build on. Data science will be very useful and application heavy in short term, so not bad in getting job after college, just feel that everything you learn will be outdated in couple years, and that won’t happen (I don’t think) with what you learn in cs.
+I graduated in 2010 with a degree in IOE. Now I teach data science at a bootcamp, so that's where this advice is coming from.
+
+The junior DS market is absolutely flooded and tough to break into. This is due to bootcamps and now universities churning out DS undergrads. What I'm recommend is what you said in another comment:
+
+> CS major and Stats minor
+
+That's what I'd recommend. I'm seeing that companies greatly prefer to hire software engineers who know some statistics, as opposed to pure "data scientists". For example, Amazon has their Machine Learning University where they just train their existing software engineers in how to use machine learning.
+Are you South Korean?
+Also I’ve heard at UMich CS Major is more organized than DS. DS has several tech electives or requirements which aren’t offered every semester so it’s harder to schedule classes to complete the requirements of your major
+I’m a senior in CS, but as someone who’s spent a good amount of time looking for jobs in the industry, I haven’t personally seen many DS jobs that don’t require grad school. I’m open to correction from DS majors and professionals if I’m ill-informed, but that’s been my experience.
+At least for SWE, I just had a call with an Apple technical recruiter last week and she said companies will not care between DS or CS
+I would still recommend picking CS and doing an Applied Stats instead. 
+
+Data Science still sounds buzzwordy where companies don't really know what it is. CS has been around for decades. 
+
+For example, some job postings say "Computer Science" degree required, so HR or their auto-filter might ignore  your resume.
+형?
+Undergrad SI, going to grad school directly and the field is saturated IMO. You have to network like crazy and getting a DS job is challenging. For every 100 job applications, I get like 2,3 interviews. Some of my DS friends have similar ratios as well.  It is still possible to get DS internship but you have to search and spend a lot of time in it. Applying to top tech firms is challenging and many of them require PhDs. Getting a  job in a startup is easier. You also need to go a step above and specialize in a certain domain. I choose NLP. When it comes to applying for SWE jobs and DS jobs, most recruiters I have talked to most don't care. u/_BearHawk has an example for this.
+
+One of the things I have seen is students who do the traditional DS route are too weak when it comes to application. u/cauchycomplete has made some good points as to why. I have taken stats classes and worked as Data Scientist.  The stats classes are almost in the extremes. Some of the classes are way theoretical and some classes are too application-specific. The grad level classes in EECS and SI are way better.  I would suggest you take some grad classes. The CS curriculum will offer you way more leeway to do all this stuff. Specializing is key here.
+
+I had a very similar story to yours. I started as a CS student worked as an SWE for an internship, didn't truly enjoy the work. Shifted to data science. Focus on your classes, experience, and project. Try doing some projects for small businesses if you can.
+
+&#x200B;
+
+All the best! If you have any questions feel free to msg me.
+I don’t think a DS degree is favored that much more over CS. I have multiple friends majoring in DS that have gotten SWE internships and full-time roles (Amazon and CapitalOne off the top off my head).
+Graduated in 2019 as a DS graduate. When you're looking for your first job out of school, it's true that most AI/ML jobs will want a DS masters, but having a DS undergrad degree will serve you just as well as a CS degree, trust me. The fundamentals and all that stuff is very well covered in DS undergrad and you won't have to worry about lacking in that department. If you eventually want to do DS, keep on the path you're on.
+Major in CS, take a math minor. Nearly all entry level DS jobs ask for an advanced degree
+You can be SWE with DS.I interned as a SWE and got offers from a fintech and Microsoft with DS from umich.
+At umich ,the core of CS is same as DS except 370and 376.I took 370 but not 376.Also my electives were similar(481,485,445)to CS,with additional stats classes .Most of all,pay super attention to your Data Structures and Algorithm class,since that will be key to good SWE jobs after graduation.
+I tried to override 280 last semester (was a transfer student too) but it was under Professor Peter Chen (who has since been on leave since he was accused of sexual assault) so everybody trying to override this semester will probably have new questions and it’s a different process. Umich is really strict about you taking their version of data structures so don’t get your hopes up too much honestly. It’ll be an easy A.
+
+Just say that you’ve taken data structures and algorithms on your resume. You don’t need to specifically say 280 on it because most internships don’t care about class number and what matters is how you perform in the actual interview to prove that you actually know D&A 
+
+Apply apply apply. Have a polished resume, practice interpersonal skills and have a good elevator pitch. Year doesn’t matter as much as your ability to pitch yourself as a good candidate. There’s career fairs and resume workshops everywhere on campus, make sure to take advantage of your resources and you will be completely fine.
+Dang, I didn’t expect all the negativity about this course. Stats/math 425 is completely different than 250, 250 is statistics whereas 425 is probability. There’s very little, if any, overlap between the two courses. 425 was one of my favorite courses I took and the first half of the course is directly applicable to real life situations you encounter every day. If you’re interested in probability, I would definitely recommend taking it. It sounds like the poster before me is a high level stats/math grad student, which isn’t a bad thing, but probably a different perspective than your average undergrad. I preferred the course more applied than having to worry about proving every damn thing the entire way.
+(I was a two-time TA for MATH 425 and a three-time IA for EECS 545/445.  I graduated in 2017 but doubt things have changed much since then.)
+
+MATH 425 is a waste of time, run far far away.  The intended audience is finance majors with no real background in math.  The class is not proof-based and consists mostly of memorizing formulas.
+
+Since you've taken MATH 217 and Calc 3, you'll get much more out of MATH 525 instead.  It's proof-based and you'll learn how to think somewhat rigorously about probability.  It will also whet your appetite for measure theory (which you can learn more about in MATH 597/625 if you choose). 
+ MATH 525 would also be a great class to take concurrently with EECS 445, since you'll be able to see what you learn applied to solving real-world problems in ML.
+I take STATS 250 last semester and EECS445 this semester. I don't find anything required high-level stats here, 445 just needs 217 + some basic knowledge of normal distribution (pdf) and Bayesian.
+I didn't take stats 250 but did take math 425. It was an interesting class that I think I got value out of. Many people thought the first half of the class (combinatorics) was easy and the second half (probability distributions) difficult. I thought both were pretty hard (and I did fine in calc 4!) and had to work hard to pass. Granted I had class after a graveyard shift at work. I liked that it wasn't proof based.
+Stats 250 is actually a hard class now. I'd suggest taking stats 412 or ioe 265 instead
+445 Machine Learning - I had this class with Jacob Abernathy and Jia Deng. They each taught half the course. Abernathy is awesome, really nice guy. Jia Deng is pretty quiet, super focused, but he's not a bad instructor. Abernathy talks so damn fast though, on the lecture recordings I would slow down his voice. 
+
+Honestly, nobody in class knew what was going on. After the first midterm, we had a meltdown on Piazza. A ton of people dropped the class, and we spent the next week and a half just reviewing.  The class is very advanced. If you don't have STATS 425, 426, and Linear Algebra, do not even think about taking it. You will struggle A LOT. The class is VERY stats heavy. 
+
+I'm not sure if they made the class easier since when I took it. We were told that there wasn't a good introduction to machine learning book, and that this class is technically a graduate level class. Yes even though it's a 400 level class, that's just what the instructors said. I felt like I learned basically nothing in the course... which is sad and of course my own fault. A lot of the material didn't click --- I took this class BEFORE I took 426. And I took Linear Algebra and 425 like 3 years prior. So I forgot a bunch of stuff.
+
+However. I passed. Pretty much everybody passed. They curved the grades like the bullets in the movie Wanted with Angelina Jolie. Many of us were certain we would fail. But one of my friends even got TWO standard deviations below the mean on our exams, and he still got a B-. They were VERY generous with the grading scheme at the end. The homework and projects were hell though. Make sure you have a good team. 
+
+____________________________________
+
+EECS 484 - Database Management Systems. The class is "alright". The first half of the class is useful. You learn a lot of SQL. The second half of the class seems more of a waste. You don't use SQL anymore, and design a relational database. 
+
+The projects in the class are poorly written. There were so many versions of our spec because they kept making mistakes (the projects are reused from year to year apparently)... even until a few days before the project was due. But usually not too bad since you get a partner. Exams are hit or miss. Our first exam was really easy, while the final was a lot tougher. Workload is probably your average upper level EECS course, maybe a bit less. 
+____________________________________
+
+I don't think that either of these classes are bad. If they interest you then take them. But be wary of ML.
+
+
+
+
+
+They are not even similar what are your goals? If you want an easy upper level stay away from 445 at all costs. Since you're taking about workload the lightest ones I've seen were 388 and 485.
+Totally fine schedule unless ASIANLAN 115 is insanely difficult, which I find really unlikely.
+I personally just dropped Math 425 (only because I was also taking math 217, and that combination was... bad). It isn't that much work; webwork once a week, 3-4 written hws, 2 midterms, and a final.
+
+Make sure you grasp the contents or attend office hours as soon as you can if you don't, because it moves pretty fast. It's a decently theoretical class on discrete/continuous probability. I can't speak for the rest of the classes on your list, though. I haven't taken EECS 203, but knowing a bit about its curriculum, it should help you a lot with Math 425 (logic, basic set theory, any proof basics, etc.).
+280 will be a huggee time sink. Don't procrastinate, and jsut know that incase math is not your forte, may not want so much math
+Math 425 is super teacher dependent. Doubt 206 is going to be difficult based on my knowledge of covered material
+[deleted]
+If linear algebra sounds interesting to you, don't take 214. Take 217 instead. 
+I've taken MATH 417 (essentially the same as MATH 214) and MATH 425 (same as STATS 425). MATH 417 was fairly straight forward with little surprises. It was probably similar to MATH 115 in terms of workload, and maybe slightly more difficult due to proofs. 
+
+However, MATH 425 was far more difficult and surprising. A lot of people say MATH 425 is one of the easiest upper level math courses, but I would be very cautious of that statement. When I took it, I got this crazy math professor who made us do all kinds of difficult proofs, rather than simply plugging and chugging as many others have said. I thought it was more difficult than EECS 203, and some of the proofs were EECS 376 level difficult. 
+
+Really though, all you gotta do is research an easy professor for MATH 425 and you will probably be fine. Make sure you don't take it with [this guy](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1972927) like I did.
+[deleted]
+[deleted]
+Definitely take Math 425
+Try to find a good Math 425 professor too
+425 is strongly tailored toward students who are planning on taking the [actuarial exam](https://en.wikipedia.org/wiki/Actuarial_credentialing_and_exams#United_States).  I think the class does provide a good foundation in probability, but be prepared to have a lot of practice specific to an exam you are not going to take.
+I haven't taken 485 so I can't say for sure, but it sounds like you're gonna be pushed for time more than anything. 
+
+370 isnt very difficult, expecially if you've had 270 prior to it. The projects will take you 10 hours at most. 
+
+376 is pretty time consuming though. I've had friends who have dropped out of other time consuming classes because 376 took them so much time. 
+
+So if anyone else says 485 is a major time commitment, then I would consider other options, although it would still be a doable semester. 
+Shouldn't be too rough. I took EECS 370, EECS 485, Math 425, a philosophy course and techcom and it was a pretty standard workload. When I took Math 425, it was probably slightly less time consuming than when I took 376 because my 425 professor loved making us do proofs for the homework. 
+
+If you have good partners and partition the projects up, then you should be fine. But if you write all the code yourself, or if all 2/3 of you work on the code concurrently, then it will get rough if you also have 370/376 to do. 
+I've heard good things about the prof for next semester, but I know a nontrivial number of intelligent people who have failed that course. Why are you in such a rush to fill the stats requirement? I would honestly put it off a semester assuming you're not a senior. Stats 412 is incredibly easy. 
+This scares me. As EE major, can I take Math 425 for req instead? (next semester)
+It largely depends on the professor. I took it in 2008 with a stats professor and it was a breeze. One of my roommates took it in 2009 with a math professor and he said it was very difficult, probably because it was more theoretical in nature.
+
+I recommend researching the professor's background (department, RateMyProfessor, etc.) before enrolling in the class.
+I had a bad experience with that class. The professor I had was gone for the first 2 weeks and we had a replacement that they pulled out of a retirement home, we didn't get a syllabus until he got back, he sucked at teaching the material, which wasn't helped by his accent (French), and the homeworks and exams were hard to understand. I think his name was Michael Woodroofe, but I am not certain.
+I'm currently in this class this semester with Professor Thelen. The workload is definitely manageable. For HW, there's one set of problems a week. The sets usually contain about 8-9 problems from the book and take 3-5 hours depending on how well you know the material. There's three exams, two "mid-terms" and a final. In terms of difficulty, I thought the first exam was pretty easy (although I'm a stats major, so my opinion of easy might not be yours). Our second exam is thursday, and the material is IMO a little bit harder than the first half of the class. I would certainly not call it a heavy workload though, its nothing compared to EECS 183 (not saying thats extremely heavy, but its the heaviest class I'm taking this semester.) I would definitely recommend Professor Thelen if he's teaching it again next semester. (Also, he's in the stats department).
+Take section 003 with carrie hosman. Great professor, young (so knows how to teach to us and just not just showing proofs all day). no surprises on eams
+404 is an excellent course.  However, it is not considered a challenging course.  ME seems to be the exception, as most schools do not accept it as a viable graduate course, e.g., [(EECS, p. 5, pt 12)](http://www.eecs.umich.edu/eecs/graduate/ee/eeprogram_new.pdf) and [Aero](http://www.engin.umich.edu/aero/academics/grad/programs/mse).
+
+If grad school is your goal, then take the 451/452 sequence.  This sequence is a lot more work, but will open more doors.  
+I took Math 412, was pretty simple. Lots of matrix stuff and some transformations and studying algorithms, but actually a pretty laid back and interesting class, if advanced algebra is something you're into.
+I've never taken the class, nor am I a math major, but I've heard that 425 is one of the easiest upper level math/stats classes. 

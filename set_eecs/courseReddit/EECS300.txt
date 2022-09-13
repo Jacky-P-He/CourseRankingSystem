@@ -1,0 +1,339 @@
+im also in 280 as a junior and haven’t taken a “real” coding class ever before, we can do this!
+So there's a pro and a con to taking it when you have, and in the schedule you have. 
+The pro is that most people take eecs 280 as freshmen or sophomores. For many people this is one of the first hard class they've ever taken, and a lot of people I knew struggled a lot just putting in the consistent effort to avoid crunching on projects.
+I firmly believe that college gets more difficult each year, especially in EE. I was finding the new hardest class I had ever taken basically up through the end of my graduate school courses. The bonus is that you're over leveled in a sense. If you're an EE and you've taken courses like 230, 320, or 216 yet, i think that even if you struggle to get into a CS headspace, you'll have the work habits to get you through. 
+The con is that 280 as a course believes that it's the only hard course on your plate, because it's targeting freshmen and sophomores. It'll throw a couple of projects that are way more work than they need to be to teach the concepts (cough euchre cough) because it's trying to teach you about debugging large systems, which you already have a sense for if you've been in EE lab courses. This will likely be annoying when you're trying to put out fires in other courses, and you suddenly need to work on a eecs 280 project. 
+
+Don't know if that helps, but that was largely my experience taking eecs 280 at a later point in my college career.
+A few official course resources that I can recommend:
+
+- Sign up for coaching with one of our staff. This will give you a 1 on 1 connection with one of our staff who can help as a guide through the course. There's a link on eecs280.org.
+
+- The beginning of the term is rough for a lot of students. Setup issues can also be particularly frustrating and make it feel difficult to make progress. We've got setup clinics schedule this week in place of Tues-Fri labs. Feel free to stop by one for any questions related to your IDE or debugger. There's a listing of which sections support which environments on eecs280.org.
+
+- If you're interested in a refresher on C++ material, the ENGR 101 Runestone materials are available via engr101.org. the C++ Primer book is also not too bad.
+
+- Office hours, of course, for project support.
+If you have some time beforehand you can do a little preparation through online C++ materials, hopefully that can give you the confidence boost you need.
+Given your concerns, 18 units including EECS 280 + an RA appointment is really asking for trouble.  EECS 280 is a great class and you'll learn a lot.  But it's a lot of work even for students who feel comfortable with programming, especially once you hit the infamous Euchre project 3.  I would consider dropping something.  Twelve units is all it takes to be full time and 12 units of A's beats 18 with a bunch of B's and C's any day of the week.
+I’ve had a similar feeling — I took 280 almost two years after having to retake 183 and it terrified me. 
+
+I could have been a better student, but in the end 280 was the class that convinced me to switch my major (back to) CS. So while I was initially super afraid of it, it ended up being one of my fav classes at UM! 
+
+You mention struggling through ENGR 101. I think people who haven’t programmed before have an especially tough time in 101/183 because it’s an entirely new way of thinking, but by the time you’re in 280 you know a little bit more of what to expect and how to digest the information. I guess another way of putting this is that I think the learning curve flattens as you progress from 183 to 280 (and arguably from 280 to 281 as well).
+
+I’m going to echo what others have said and recommend that you lighten your load a little. 280 will NOT be fun if you’re an RA and taking 18 credits. Find yourself a partner who you work well with, start the projects early, and always always always ask questions even if you’re afraid of being embarrassed. 
+
+I had DeOrio who isnt teaching 280 rn, but I would occasionally watch Juett’s lectures and go to his OH. I can attest that he’s really good at teaching and cares a lot about the students (as my questions should have worn his patience thin but they didn’t lol).
+
+You’re an EE student so you’re definitely highly intelligent and know how to work hard, so I promise you you’ll be okay if you just take it one step at a time. 
+
+If you have any questions my DMs are open :)
+280 isn’t difficult at all. Start your projects as soon as they’re assigned and that’s really all you need to worry about. The tests cover pretty basic programming concepts.
+I can't aid you from the EE perceptive, but I am currently balancing Math 216 with 2 other engineering courses and my 300 level humanities
+
+I've taking all of the calcs at Umich, and this is by far (in my opinion) the most poorly run of all the core math classes. Physics 140 and Math 215 were both easier than this class.
+
+You're not alone, and this class is, from what I've seen/experienced by far the worst
+I remember being on the 216 copium. You tell yourself you're gonna do better on the final but the final has a lower average than the midterm in most years.
+The math from MATH 216 showed up in EECS 216. Idk who’s teaching EECS 216 nowadays, but when I took it with Finelli, Winnick still wrote most of the hw and exams and it was hard. 
+
+If you go down the signals and systems route you’ll be doing math/eecs 216 stuff for the rest of your degree. The circuits and semiconductor classes are conceptually different, but not as math intensive.
+
+Correction: some diff eq concepts still showed up in my circuits classes, but more as a derivation or “fact” than how a math class would approach it.
+I know soooo many people who bombed math 216. Don’t worry about your future prospects based on this one class. If you fail it this semester go take it at a community college over the summer and you’ll be right on track
+You should be fine. Out of the required classes only EECS 216 really uses DE. EECS 215 uses DE for like 1 week about 8 weeks in, and it's not really notable / the math from Math 216 isn't really useful there. EECS 230, 280, 301 don't use the math of Math 216. I can't speak for 200/300 but from what I have seen, 200/300 don't either.
+
+In terms of comparison between classes, EECS 216 is the one worth noting as it is challenging & mathematical for EE. The rest of the classes in EE shouldn't be as bad - but it depends person to person. 
+
+I have met a few people that have had difficulty with Math 216 if that makes you feel any better. It is a tough class. Sorry to hear about your exam score, hope you persevere & reflect on improvement over break.
+I was a BME, not EE, so our experiences will be different, but will say there is a fundamental disparity between 100- and 200-level "weeder"' courses and upper-level engineering courses. 
+
+Your experience in math 216 is similar to mine in math 215 and physics 240. I did poorly in those classes and was terrified that when I actually started the "real" upper level engineering classes that i wouldn't be able to keep up. But it wasn't the case in the end.
+
+In my experience, the pre-req courses are difficult because you have a barrage of difficult problem sets and exams that seem like they could cover more material than you have space in your brain for. You're in large lecture halls being taught by professors that don't want to be bothered with these low-level courses and not enouhh GSIs to meaningfully help the amount of struggling students they have to serve. 
+
+
+But for me, the 300- and 400-levels were difficult because they covered more complex topics in the first place, and the coursework was comparatively simpler. That's not to say it's easy, but the focus is more on communicating high-level ideas and not on drowning students in dozens of hours of derivations and proofs that they'll never remember after the semester. There are smaller classes, so the student to instructor ratio is more favorable, and the professors generally care more about these topics and aren't just in a rush to get the lecture over with. They can still be brutally difficult but in a way that feels more fair and accessible than 200-level math courses ever did.
+
+I fared far better in the upper-level courses compared to the pre-req ones and ended up graduating with honors. My advice, get real comfortable with Kahn Academy and similar external instruction sources and really really make a point to go to office hours if something doesn't make sense to you. You aren't the first engineer to absolutely bomb a test and you won't be the last. Take a breather and re-focus and know that the nature of your classes will change before too long.
+Every math class I’ve taken here has been infinitely harder than every EECS class I’ve taken.
+I’m a junior in EE and also took math 216 second semester sophomore year. It gets better. The 200 level classes you have to take are the worst it gets. Keep going and take it one assignment at a time
+EE '20 alumn here.
+
+**Good news** \- I remember getting < 40% on the Math 216 final and below-average scores on the other midterms and still passing with a B. Believe me, they curve like crazy in that course.
+
+**Bad news** \- Math 216 was probably one of the easier courses compared to EE major courses. EECS 216, EECS 301, EECS 311, and EECS 413 (just to name a few) were all much, much, much more difficult. Their weekly PSETs sometimes took over 10 hours.
+
+**Okay news** \- You'll grow and learn in college, and you'll learn to be satisfied with lower grades (compared to high school). Also, there's absolutely no shame in graduating after an extra year or taking fewer credits per semester. After passing the rudimentary courses, you'll genuinely want to chug on and you will (most likely) graduate and look back with a smile :)
+
+EDIT: Forgot to mention, I graduated in 3.5 years (with another STEM minor) despite doing god-awful in most of the intro math and physics course exams.
+if you dont need to take 270, then dont. i heard it is basically two classes. the lecture/exam portion and the lab portion.
+I did this semester, content overlaps somewhat during the beginning
+I took both 270 and 370 in Fall 20. It kinda depends if you want to take 270 as an FTE. There might be better options, but I did know a few CS people that were taking 270 as an FTE.
+
+It might make sense if you were interested in 470 or something that requires 270. 
+
+At least for the content, there is definitely overlap. "it might make sense to take it at the same time as 370 so I can double focus on computer hardware?"  -maybe, but I'm not sure if you necessarily need 270 though.
+Difficult but doable
+Yeah 370 will be a lot easier if u do that
+I have getsoian right now, she’s really nice and the class is v chill, highly recommend
+Idk if Kim Lewis is teaching but she’s solid
+I took EECS 281 370 376 MATH417 and 2 other small EECS courses last fall and I would tell you it is doable before final week. 370 hws take you like 0.5-1 day/hw and there are 6 hws. 370 projects take you like 1.5-2 days/project to code and debug, and there are 4 projects. 281 is really hard, but staffs are pretty generous to give hints and optimization tips, especially one of your instructors, Dr. P. It’s hard to estimate the time (sometimes I need 1 week to optimize on my own), but if you feel upset about your coding performance, staffs will help you a lot (Dr. P will optimize my code in 1 minute). I would recommend Prof. Chan’s 417. She is really nice and passionate, and her exams and grade are reasonable. Final week killed me at last. I have very limited time to review, which ruined my 376 exam, which is my last exam. So be cautious before doing this, you need to manage your time well and, most importantly, start your projects as soon as they release the spec
+That doesn’t sound too bad! I’m taking both of them, Math 214, a history class, and a couple one credit courses and I’ve managed to keep up so long as I start decently early on each project. Outside of class, I’m working a part time job and  put in several hours a week to university extracurriculars, so I think it matches up with your outside commitment time as well
+Since you’ve taken 270, 370 is an order of magnitude easier. Your schedule is still really hard though…
+As a fellow eecs major taking German I can say that the German department is one of the best at this school. Specifically Mary Gell is an amazing teacher and the German department is really good about working with individual students to help you personally learn and they care about every student. If you need extra time to work on any rusty knowledge they will work with you! Good luck
+I have not taken German 300 but I can tell you that Professor Gell is one of the best professors I've had at Michigan. She really cares about her students and is always happy to offer extra help; she did everything in her power to make sure everyone in my German 231 class succeeded in the course and finished with a good grade. I can't imagine you'll have any problems with the course.
+It's gonna suck but you can do it. It's critical that you get a good team together for 373. If you have to pull your team across the finish line by yourself you're gonna be in deep shit. With a team of reliable people and good time management you should be fine. 281 really isn't as bad as its often made out to be as long as you start the projects the day they're released and grind them out ASAP. Read every line of the spec multiple times and always check piazza when you have downtime.
+
+For reference, I took 473 and 482 plus techcom/eecs 496 and a PAT class. I had good teammates for 473 and 482 so it wasn't that bad. If I had had bad or just mediocre teammates for either of those I'd have been screwed.
+It is definitely not everyone but also not uncommon to take 200-300 levels as a freshman. The course numbers do not always correspond to their difficulty. I took an easy 300-level my first semester and it was, well, easy. 
+
+Math 217 does hit different tho. You should be prepared to dedicate significant amounts of time to it. Also FYI, Linalg has next to zero overlap with Calc BC contents.
+[deleted]
+you should just keep your current schedule, adding 217 will give you a pretty miserable workload
+I took 217 second semester freshman year. It is... a lot of work, but I thought it was a very fun class (math major tho so my opinion is biased, I guess). It is a trip, especially if it is your first exposure to abstract math.
+
+You will make friends in 217 if you make study groups (which you should do)! If you decide to take 217, I highly recommend taking the 1-credit course math 201 alongside it
+I took math 217 my first semester. It’s a hard class, but the instructors provide lots of help to make it doable (free weekly homework tutors, office hours, etc.). If you got a 5 on Calc BC and like math you should take it! If you’re nervous consider learning some of the content beforehand. 3blue1brown is a YouTube channel that has a good series on Linear Algebra, and you can always take a look at the textbook ahead of time.
+just so you know- phil 183 deals with statistics concepts. first half of course is decently easy but it definitely gets tougher in the second half.
+I mean no one here is going to tell you it’s an objectively good idea. People already advise against 281 and 370 at the same time but it’s doable, I took both at the same time and the project deadlines were stressful but I survived. I mean if you’re confident that you have a great work ethic you could probably take on more than most but you’ll likely be very busy all semester and if you ever let yourself get behind have an insanely hard time dealing with it. Is there another semester you could bundle classes to still graduate early? No need to make this hard semester harder if you could just make a future easy one a bit harder.
+Three EECS classes is doable, but it really all depends on your commitment to start early. EECS281 is difficult for a lot of students and EECS370 can be difficult as the material at times can seem dry. Project deadlines for EECS281 and EECS370 can overlap at times so juggling both can be a big struggle. My recommendations are to start early (of course) at the very least read the spec once and download the source code to your machine the day it releases, go to office hours frequently (professor office hours are especially helpful for 281 IIRC), and for 370 hammer those practice exams. When I took 370 the final was dense, particularly the last topic on virtual memory felt rushed so I guess just a heads up on that!
+
+Also maybe 285 wasn't there when I was at umich, but I would look to see if 285 counts towards the EECS upper-level requirements if that's why you're taking the class.
+Hey I took EECS 281, 285, 370 together last fall, along with Math 217. The only way I would consider a schedule like this is if you are very good already at CS projects and won’t get tired of them, because all of these CS classes will have you doing constant projects. But overall, if you have a lot of coding experience, it is probably doable. In fact, I found it nice because I was essentially spending most of my school time just writing code, which I love to do.
+
+EECS 285 was not very hard if you already have experience with Java, OOP, and UI dev. If you don’t have experience with these things, you might want to look elsewhere since you absolutely do not want to get behind on a CS project with this schedule (when you have 3 projects due with one week left you don’t want to have to put all your time into 285).
+
+Anyway, good luck
+You should go for it! The worst case scenario is that you realize early on that it's not doable and drop a class (which is totally fine and has no down side), but you might also find the load doable and not such a big deal. That could give you great confidence and momentum early on in your EECS career, which is something that I see as valuable. Either way, you shouldn't choose or not choose a a schedule because people say it's too much. We have no clue what you can handle, only you really know. IMO you just gotta do you, and you should probably go for it and take 285.
+[deleted]
+Math 214 isn’t totally awful, but it’s definitely more “math majory” than what your probably used to.  The textbook will be really helpful but it’s a chore to read.  Other than that, the class is not too bad, homework’s are ten questions per week straight out of the textbook, so it’s pretty easy to find help on the internet if you need it.  Definitely easier than 215, and probably easier than the other CoE math classes (I didn’t take them).  
+
+Don’t underestimate the projects though, those are real bitches.
+My first semester sophomore year I took: 270 281 216 and a humanities. Doing only the 3 of them should be doable.
+I had the first schedule (plus CLCIV 350) my sophomore year, 281 got tough at times but definitely doable.
+Yeah, even beyond EECS, TA/IA/GSI shortage is definitely something I’m anxious about looking out at the next academic year with the uni financially tightening up over covid19 and potentially needing to divi-up instruction staff hours between online and residential students 
+
+But I had a similar experience in 280 back in the day and it highkey decimated my morale for a while. GSI looked at my code, said something redundant, and walked off to the next person by the time I looked back to ask him for a more constructive answer. I got less than 60 seconds of attention after waiting ~3 hrs on my 3rd day of trying to get help. Coming from a small rural highschool and not really having much social infrastructure or friends in tech at the time, it just set a really brutal impression
+based username
+Hey I know it's frustrating that the student to staff ratio is bad and it's hard to get exactly the help you need. It's absolutely a problem in the department that needs addressing. I think it's important to remember that just as it's hard for many students to get help from one IA/GSI, it's also hard to get help many students as a single IA/GSI. (Most) staff aren't trying to give poor responses, but are trying their best. If it takes 3 days to get 5 minutes of office hours, if he spent 15 minutes on your questions, then it would've taken even longer for the staff to get to you.
+
+I'm not blaming you, but in the spirit of making the best of a bad situation: I've found that office hours are most helpful when you have a hyper-specific question. When I taught, it was incredibly difficult to give helpful advice when the student wasn't asking a specific question but just wanted general help with a problem/issue.
+
+If you want to direct (justifiable) frustration here, leadership within the department would be a more productive outlet. If you just want to vent that's cool too. I just really don't think it's helpful to direct frustration towards staff.
+I'm also in 370 and it's very frustrating especially since people get on the queue 10 times a day and get help for almost every time they're in the queue. I mean it makes sense because they spent more time into the queue, but it's also really annoying when you can tell they've been getting more help than other people. I took an L for the linker because the person told me to rewrite my entire structure when I had 6 hours left, but I'm keeping my chin up and hoping for a better grade in the future projects and exams. If you want a study buddy or need anything you can pm me :) We got this!
+Personally, each semester after Fall 2021 seems depressingly challenging to me. I think I would be incredibly stressed and unhappy the entire time. Maybe you're considerably more capable than I am though! I think if you want to try this it might make sense to *attempt* this schedule, and see if it is feasible for you. However, I'd do this with the understanding that there is an extremely high likelihood you'll have to drop some classes and stay for another semester or two. Don't feel like a failure if it becomes too much, because this plan seems extremely difficult.
+
+I will say if you go this route, you need to ensure you're properly gauging your ability to complete your semester's classes early on. You'll want to drop classes towards the beginning of the semester, before you get a W, and before your other grades suffer because you're committing lots of time to a class you're going to have to drop anyways.
+Everything after fall 2021 will be really tough, I wouldn't personally ever recommend 3 full fledged eecs courses in one semester. This schedule seems super challenging to me tbh.
+The 281/370/376 combo would be quite frankly soul crushing. Also you have to get special permission to register for 3 upper level EECS courses (the 2 ULCS + MDE semester) in one semester as far as I know and I think that’s only if you need it to graduate that semester.
+BSI alum here. I was in the same boat as your brother (LSA CS as backup plan if not admitted to BSI) when I applied.
+
+It sounds like he's already taken at least 2 of the 4 prerequisites (106 & 110/183). You haven't mentioned if he's taken STATS250 or 1st year writing course, so I would make sure he takes those two next semester to be eligible for applying.
+
+\- Presumably, he'll have two more courses left (assuming he's taking STATS250 + 1st year writing course this next semester) -- I would fill those up with CS requirements so he'd stay on track for CS if he doesn't get into BSI.
+
+\- IF he has already taken STATS250 and 1st year writing course, then I would just take mostly CS-requirement courses for the next semester, since he's knocked the prereqs out of the way. There's not much use in doing more than the BSI required prereqs, because if BSI doesn't work out, BSI classes are pretty specialized and probably won't be useful for his CS degree as his fallback option. The credits will kind of go to waste (in terms of fulfilling requirements, but they could be intellectually interesting courses to take as e.g. electives)
+
+\--------------
+
+As for core classes:
+
+\- Looks like 1 has changed when I took it, but you should expect to take the core classes within the 1st semester after being admitted into the BSI. The core classes are 206, 310, 339.. and 300 (internship studio). Not sure what's going on with the internship studio right now but if he gets in, the advisors will advise you on if/when to take that.
+
+\- During your second semester (junior year second semester) in the BSI, I'd try to get your requirements out of the way as quickly as possible (while maintaining a manageable-ish workload). As far as I understand, there's no requirements as to when you need to take what - other than, the capstone course in your last semester prior to graduation (I believe this one is only hosted in the winter).
+
+\- For your second semester (junior year second semester), I would take 301, 330, and MAYBE 425 (depends on how well you can handle multiple technical courses. If not well, maybe consider taking this course the following semester). I would fill the rest of your courses up with electives. \*\*Note, one hack that was HUGE for me was that I wised up and took graduate-level classes when I was in the BSI for my electives. I've found grad professors to be generally more chill and it makes for a good networking opportunity to be with people other than the ones in your BSI cohort. I was advised multiple times not to do it but I'm glad I listened to my gut because this was one of the best decisions I made during undergrad.
+
+\- For the semester following (your 3rd semester in the BSI), I would take 370 (since 330 is the prereq) and 425 if it's too much to handle in your second semester.
+
+\- 405 will be taken 1st semester of senior year and 485 will be taken last semester of senior year.
+
+Hope this helps!
+I’m in the BSI program and I’d recommend taking courses outside of SI if he’s already taken all those classes in SI.  It doesn’t hurt to have classes under your belt for another major in case you don’t get into BSI.  I took SI 339, SI 301, SI 310, SI 335 and SI 300 my first semester in BSI.  The only req available this semester for me is SI 330 and the rest will be electives.  Check whether the classes are offered in the fall and/or winter because it’s best to get the 300 core reqs finished.  You have to normal wait until your senior year to most of the 400 level reqs and the rest will be electives.
+https://www.si.umich.edu/programs/bachelor-science-information/curriculum
+
+So once he chooses a path he’ll need complete all those courses in addition to the core requirements.
+Take the prereqs
+
+UX Path - SI206, SI300, SI310, SI339, SI364, SI422, SI388, SI407, SI482, SI487
+
+IA Path - SI206, SI300, SI310, SI339, SI330, SI301, SI425, SI370, SI405, SI485
+
+You need a minimum of 45 SI Upper-Level Credits
+
+Take 5 classes in the first semester if your brother wants to graduate in 2years.
+I did IA path but 364 is an absolutely and notoriously a joke — it’s basically copy pasting code you’re given and using “find-and-replace” — super super easy. Even the exam is just that, but you can optionally do a final project instead of a final exam. I started a project and yeeted it since the exam was an open-book 90 minute easy A.
+Took 301 and it was easy, but I'm not an SI student so I'm not sure if it counts as an elective or something else
+As an EECS student, LMAOOO! 
+
+As someone that's taken SI classes, SI 360 is really easy.
+I think /u/TheZachster is pretty on point with his description of the time commitment. It's certainly about what the university guidance counselors will tell you. Personally I think it's a bit of an overestimate, but it's better to err on the side of caution. Some of it will depend on how well high school prepared you, and some of it will depend on the program you take, or how fast you learn, etc.
+
+Asking what majors are hardest is a difficult question to answer. Most of us have only ever experienced one of them in any true depth. This list isn't meant to insult or degrade any majors. There are ways to slip through the hardest majors without doing a lot of work, and there are ways to put a lot into an "easy" major. And none of that has anything to do with the worth of the degree or anyone's worth as a human being. That said, here's how I would rank them as far as amount of work needed to receive a degree:
+
+Hardest: Electrical, Chemical
+
+Harder: CompSci, Mechanical, Aero
+
+Hard: Most things not listed (although I'm sure I forgot to list many significant departments)
+
+Easy: Civil
+
+Easier: Environmental
+
+Easiest: IOE
+It really depends on what program you're interested in. I think the standard is 2-3 hours outside of class for each hour of inclass. So on a 16 credit courseload, you're looking at 65ish hours a week in total? So classes,studying, working, etc from 9am to 7 or 8pm with your weekend off for football. Certain weeks you'll have lots of work with projects and midterms, and some weeks you'll have less.
+Why not just take an extra semester? You indicated cost doesn’t matter. You’ll be working your whole life getting into the work force “6 months late” will mean very little.
+I don't think you'll have much luck with stats or math; I haven't heard of a recorded lecture for either.
+
+What EECS credits do you have? That'll affect what you can take.
+Look into online community college courses at Washtenaw or other places similar. Each school at UofM has slightly different rules, but humanities would be easy to transfer in from an online CC class, and be a lot cheaper. If you haven't done STATS 250, that would also likely be able to transfer in, but do your homework with the umich transfer equivalency website.
+So, you say that your cs career would suffer if you come during the summer and thus would rather take a class remotely. Is the converse option possible, i.e. you work remotely? And how much of a hit are you going to take? I cant presume too much because you already mentioned cost isn't an issue. It would definitely be easier just to go to school. 
+
+I'm not sure if you can take classes at cc at this point. Ccs generally have equivalents for lower divisional classes i.e. 200 series and lower, and what you want is an upper div class. I would definitely search around if classes are offered and if u of m takes them.
+
+I don't know of any summer courses that are recorded or dont take attendance. Spring/summer courses move at a faster pace and generally smaller than main semesters, so profs are less inclined to record since there are less people and more inclined to take attendance for the same reason.
+
+
+My opinion: take an extra semester if you cant school during s/s terms or just take the s/s courses here. Your plan has a low degree of tolerance, so you'll spend a lot of time talking to profs asking for their policies or requesting the special accommodations. 
+
+Assuming one or two do agree, that was a lot of time possibly working, since you're into that.
+I would say take some online classes through a CC (washtenaw has two online geology classes which transfer and are worth 8 credits combined; I took one of those classes with a CS internship and found it doable). I think your plan is, if not logistically impossible, extremely taxing, and would advise against it. Taking 4 classes over the summer is the equivalent to a full term of school work; imagine the semester you're doing right now on top of an internship.  
+
+
+If you are 12-24 credits short of graduating on time, I would advise a more measured approach. Take 1-2 community college classes over the summer this summer, take 18 credit semesters (which will be way easier than flying back on top of an internship), and also remember that you can take classes next summer (technically after you intend to graduate), and still walk/get a job. Most employers would not mind if you have a few credits to wrap up, and honestly if you wanted to take those classes at umich, they would probably hold a job for you for a few months.
+The stats classes offered over the summer are not typically recorded. 
+
+STATS 426 is arguably self-study-able using the textbook
+I know plenty of people in CS who took classes over the summer and did just fine, if you just use the extra time you’ll have to do a personal project or coding challenge and post some code to a github, most companies won’t bat an eye. Other than that, it’s hypothetically doable, although i wouldn’t recommend it. As someone who graduate a few years back, if money really is no issue, don’t rush through college, take the extra semester. You don’t need to rush in to the 8x5 life, it’ll be there just fine when you graduate.
+The new program still requires a solid state course, you just have about 4 or 5 courses to choose from to satisfy this requirement (320 being one of them). I know someone who took 200 last semester as a flex tech elective and he said he didn't find it that useful
+For me I feel like it's more useful to take another higher level elective, than design courses. I might be wrong, but I'm going with the older one.
+Can’t you just take EECS 320 as an upper level elective? I guess you should be asking yourself if you really want to take the design courses
+Just trying to revitalize this thread. I am in a similar situation as the OP. Any other people that have taken eecs 200 or 300 that want to give their opinion? Also, OP have you heard from anyone in person about eecs 200 and eecs 300? I am basically choosing between eecs 334 or eecs 270 (an upper level elective) and eecs 200/300, as I will also be taking eecs 320 with either the old or new program.
+This is not manageable. 281 and 370 together is hard enough on its own. 376 is a much harder version of 203, and 475 is no cakewalk either. I would not suggest taking these classes all together unless you plan on having less than no life outside of class.
+
+Seriously. 281 and 370 are both project based classes, where you do not learn the information for the projects until a week or so before they are due. This often leads to only a short period of time to do both projects at the same time! I am speaking from experience (A in 281, B+ 370), that you do not want to take these two classes together unless you have a strong friend group to work together with. (However I think these classes may be slightly different since I took them Fall 2013). 
+
+EECS 376 is the worst grade I've received in the EECS major, and I doubt you'll even make it into 475 considering without 281 and 376 you haven't taken that many credits here (its a tough class to enroll in).
+
+Change your schedule. I would NEVER recommend a full EECS schedule. 
+
+Mix some other requirements in with your EECS classes, try to max out only at two a semester if you can.
+281 and 370 is perfectly doable if you schedule your time wisely. However, I'm not sure I would recommend all four of those courses. Ultimately, it's going to come down to your own work ethic. 
+
+EDIT:
+
+in response to some of the other posts:
+
+The projects in 281 are not due every two weeks. I'm taking it this semester and we were given 2 weeks for the first project, 5 weeks for the second project, 3 weeks for the third project, and 3 weeks for the fourth project. Also, the medians for the first three projects were ~98, ~89, and ~75, so you are certainly not expected to get 95 on all the projects. And lastly, they don't wait one week before the due data to give you the information on the project. I've done all four projects and I knew all the necessary information the day the projects were assigned.
+
+I would say that the projects take about 15-25 hours to program, depending on your ability, which isn't much. It's not that the projects take a long time to complete. It's that if you use an inefficient data structure or an inefficient algorithm, then you may have to completely redo a project several times, resulting in spending 40+ hours programming during some weeks (this happened to me for Project 3). However, if you plan ahead and decide the right data structures & algorithms early, then I would say the projects, on average, take about 25-75% more time than EECS 280 project 3.
+
+That being said, I do agree with the consensus here. Do not take all four of those classes. Take 281 and 370 if you have a good work ethic (if you start the projects early, then you'll be fine). Take 281, 370, & 376 if you have a good work ethic *and* are naturally clever (the 376 problem sets are more like IQ tests that take 8-12 hours to complete, rather than testing your knowledge of the material). I don't think I know someone smart enough to take all four of those classes.
+
+I'm currently taking EECS 281, EECS 376, linear algebra, and a humanities class. This semester hasn't exactly been terrible, but I have above-average work ethic. I'd say you could handle a similar schedule if you start projects the day they're due. 
+Yeah you don't wanna do that. It's like breaking a tooth on a giant piece of jerky when you could just gnaw on it for a while and make the most of it. Maybe do 281/376 to not have project overlap (since 376 is just homework and exams - even though it's mind-melting theory stuff).
+It'll be pretty damn hard.
+I'm in EECS 270 right now, and the way that Professor Sakallah does it is that all lecture slide decks are posted online the first day of class. However, lecture recordings are only posted a week or so before the exam. I'm not sure if other professors will do it differently, but you'll definitely get lecture recording, just varies on when. And I'm an EE so I can't comment on other CS classes.
+Most courses post all their slides. The time at which they decide to post the slides, however, depends. Usually the slides for a given lecture will be posted a day before or the day of the lecture being given.  I have taken 270, and several 300 and 400 level courses and they all have posted slides. And recordings are almost always available. However, I have noticed EE courses tend not to post recordings (216, 230, 320 etc) whereas CS courses for the most part usually will post recordings (281, 370, 485, 482 etc).
+370 posts slides (you can find them all publicly available  [here](http://www.eecs.umich.edu/courses/eecs370/eecs370.w19/lectures/)). every eecs class i’ve ever taken (cs major) has had at least one lecture section recorded and the slides posted generally in advance.
+It is completely instructor dependent. I have had professors post them the way you would expect most of them to. I have also had professors who won't post anything at all.
+I took 156 with Krasny (looks like he's teaching 2 sections this fall). If you've taken Calc 2 before (AP classes/test), I'd definitely recommend it over taking 116. It's *applied* honors math, so there's more emphasis on things like series and approximations, pretty useful stuff. I think most of my class was engineering students when I took it. Krasny can be a little dry during lecture, but he's very helpful and grade pretty easily, I think the class averaged an A- or so.
+DO 156! Seriously. If you show up everyday you will get a passing grade, even if you suck. I regret the day I withdrew from that course because I was used to getting straight A's. Went the 115/116 215/216 route and got B's anyway :-/
+I took 116 then took math 217 (theoretical linear algebra). I cruised through 116  during spring term (double speed) without studying and got an A- but it would have been much more meaningful to do something like 156. Given that you are doing 280 and 203 you are prob very early in your experience. There isn't much reason to push super hard at this point I'd say unless you are confident 116 will be totally breezy. Tbh if you want a more intense cs related math experience 217 is where it's fucking at. Be warned shits hard though. 
+I had a friend that took Applied Honors Calc II. He said the class size was much smaller (around ~40ish kids? It was a smaller number along those lines). He seemed to enjoy the class and it didn't seem to cause him too much stress compared to other classes like Orgo 1. 
+If you like math, the course you really want to take is 217 instead of 214 for the Linear Algebra requirement. 156 is still applied stuff. 217 is the first real math class for those of us that weren't smart enough to do 295/296 our freshman year. Also, if you take 217, you'll come out of it really good at writing proofs so you won't be shit on by 376. 
+
+
+A lot of people already giving positive feedback on 156 to but I'll throw in my 2 cents anyway.
+
+I took 156 my first semester and loved it. It was a challenging, but fun and comprehensive introduction to math at Michigan. All the homework for my section was written and pretty hard, but because of the small class size it was really easy to get help from the professor and also other students. Take advantage of the study groups because I found that really helpful. The class covers some theoretical stuff, but we never got tested on it. There were quite a few CS and EE students in my class too, so there might be others taking 280/203 as well.
+[deleted]
+Take Math 295. It's easy. 
+116 isn't a hard class. It's just harshly graded, curved to a B-, the exams are not like most college calculus exams where you're given a 2 line problem and asked to compute things. If you are a good test taker, take 116 because the material is not hard - the tests are because there's so much hidden in the stories they make up for you, and the averages are usually pretty low - the final I took had an average of 42/100 because they set the exams to be tricky and you really need to know to cut through the bullshit. Highly standardized, pretty irritating if you don't have a good GSI (mine was stellar to say at LEAST so I ended up doing well) but take 156. I couldn't because I'm a math major and needed 217 done by the fall, so 116 was my natural option in the Winter. Looking at how you're leaning towards CS, take 156 because it is an engineering dominated class. For me, 116 was special because I built some of the best connections out of that class, found my mentor and a true passion for mathematics out of a lame, weed-out horror story of a class that has the reputation for the most failed class around. Everyone has different experiences, so take honors when you have the chance to.
+Math 156. As long as you do well on the homework (SLC study group is extremely helpful) and get above average on the exams, there is a high chance you will get an A.
+[deleted]
+That'll be fine. From what I heard 250 is a joke. 
+How many credits is that? I didn't go to lecture a lot and just watched the videos and did fine, but 280 and 216 are going to have quite the workload.
+I was an EE and had to take EECS 301, but my friends in CE/CS say that 250 was pretty easy.
+
+However, your schedule looks pretty tough. Get ready for a heavy semester.
+If you are CS, take 417 instead of 216. It will lighten up your course load a bit. I don't think 216 is the required one for CS, anyways
+Stats 250 is ridiculously easy- you'll be fine. 
+I didn't go to a single lecture, spent about an hour doing the weekly homeworks, and studied around 3-4 hours for each exam. Stats is, for the most part, one core concept in 5-6 different flavors. Super easy, super manageable.
+I had a very similar schedule to that a few semesters ago. It was something like stats250 math216 eecs280 and physics240/1. I had no problem with it. You should be fine.
+
+Regarding catching up with stats250, if you can add you'll be fine. I walked in with 0 stats experience, did basically no work, and walked out with an A. 
+Your stats 250 grade most likely will be determined from your final exam grade (80% exam, 20% HW). If that sounds like a good thing then the class will be really easy
+4.5 hours of class + ~2-3 hours a week for homework and prelab + 6 hours of studying before each of 3 exams.  The class ends up being about 8 hours of work per week.  You can make it even less if you don't care about getting an A.  I went to all the lectures because I know I wouldn't watch the videos if I didn't, but the lectures are far from necessary.  
+
+If you're comfortable with basic math it will be easy for you. 
+I'm actually in STATS 412 right now with Dr. Miller, who with some frequency mentions the difference. STATS 250 is much more applied and hands-on; STATS 412 is more of a math-stat course. In the former, I believe you'd be doing a lot of manipulation of data sets and using computer programs. In 412, there's more of a focus on the math behind it all, though it's not a very heavily math intensive course at all. No calculus necessary. The 412 midterm ended up with an average in the high 80s.
+CompSci BSchool dual degree here. Stats 250 is an absolute joke of a course. Attendance is not required, lectures are recorded, and the exams are cookie cutter exams from prior exams (which you are given to practice with). Taking 250 with 281 and 376 will be more than manageable.
+
+On the other hand, I rarely hear of people taking 412 as I feel it is considered slightly more difficult, and more geared towards people more interested in math than just completing the stats requirement.
+stats 412 you'll learn, stats 250 you probalby won't learn anything special from your high school days. You can also take stats 425 sometime down the line if you need math credit (Math 425 is 80% the same class as 412)
+take STATS 250. It's pretty easy and for the most part won't get in the way of the much more important EECS 281 and 376.
+
+Although to be honest, I wouldn't take 376 in the Fall. Prof. Yaoyun Shi is not good at teaching, he's a nice guy otherwise, he's just not good at teaching, and it'll probably be better to wait until the winter to take 376 with Martin Strauss.
+Do you want to learn stats? Take 412. Do you want a class to blow off? Take 250, but be warned that it wasn't designed for engineers. It was a waste of a semester for me and I now wish my stats knowledge was a little more robust. 
+Are you not required to take 412? CE's had to, maybe CSE is different but I thought the whole department had to.
+
+I think 412 is more valuable, but workload is an important consideration, however I would imagine the 2 are pretty similar work-wise just with different focuses.
+Isn't it true that usually the first two tests are hard, but the final exam is really easy?
+
+Does anyone have an opinion about the exams?
+
+For Stats 250, isn't it true that the first two exams are relatively hard, but the final is easy?
+
+The course load is easily manageable. 
+
+Of the professors that you've listed, I've only had classes with Dave Winn. Winn is probably one of my favorite professors here (Second to Bertacco in EECS); if you pay attention, then you should have a good time. He's quite enthusiastic and does some pretty sweet demonstrations in class. 
+
+For humanities, I took CLCIV 385 with Paolo Asso. It was a pretty relaxing class and didn't have too much work (Multiple choice exams and essays). This is a class you are required to attend due to iClicker participation grades.
+
+Abernathy is really good for 203
+Winn is great for 240. Nice catch there. 
+ratemyprofessor.com, fellow EECS major!
+
+I am taking 203 and 280 too! I heard 203 and Physics 240 are extremely difficult. 
+Winn is good for 240. Pay attention in class and actually work out the homework on your own (rather than looking up answers) and you should be fine. Knowing some multivariate calculus is helpful, but certainly not required. Knowing how to work with units and dimensional analysis is also very helpful and can save you on exams when doing sanity checks on your answers.
+
+Also, the "Intellectual Breadth" requirements actually don't require a "300 level humanities", just 3 credits of humanities and 3 credits of 300 level course work (not necessarily the same class).
+I know that 203 and 280 are normally taken at the same time, and typically it's not too heavy of a course load. Never had any of the profs that you've had, but I've heard good things about them. Good luck!
+Any of the PHIL courses taught by Sklar are good. He's fucking awesome.
+
+There are a few on the Philosophy of Science, the names and details change from year to year, but they explore the way we think about the universe around us and how our expanding scientific knowledge re-casts our views on reality. Good stuff. And some of that history is kind of good for an engineer to know.
+I did the 270/370/281 combo last semester. I didn't think it was too bad as a CE. 281 was by far the most work whereas 370 and 270 were both very manageable with good time management. I'd like to stress that time management is key here. 
+I too did a semester of 281/370/270. I actually enjoyed the semester a lot. There was one week of hell due to what was imo a poorly handled project on behalf of the 281 staff, but in general things went fine. Exams were a bitch because 270 and 370 exams were at the same time, and something like a day after 281. 
+I'll add that I'm doing the EECS 215+270 combo and it's not bad at all. One of my friends is doing that with 281, and he says it's kind of tough, but still manageable. I'd recommend going with the 270/370/281 combo, because a lot of upper level classes require 281 and 370.
+I don't think you should do STATS 250 because 3 math classes may get tedious fast. Also I used STATS 250 as a filler class with EECS 281 (really easy with pretty hard class). 
+
+If I were you right now, I would take EECS 203, Math 214, EECS 270. I don't know where your interests lie but the class is "intro to logic design" I really enjoyed the class and it counts for flex tech requirement. It helped me decide between CE and CS and also helped me a great deal with EECS 370 (some people will tell you it's not necessary but I found it useful). A lot of time is spent in lab in that class, so I think it's a good break from book work of the other two math classes.
+
+And of course you are free to tack on an IB class or not depending on how much you can handle. 
+
+I'm graduating CS-eng this year, just message me if you have any questions.
+1. What are IB credits? 
+2. If you plan on taking a super hard EECS class e.g. 381, then I suggest saving STATS250 as a filler and maybe even your 300lvl humanities (which you should definitely take pass/fail unless you're trying to boost your GPA). You'll be doing yourself a favor.
+Techcom 300 is a very light class. I spent no more than perhaps 1 hour for class and 1 hour for work per week. You will do things like build a resume the way they want you to, and work with a team on making a PowerPoint presentation. It's really easy and personally the hardest part for me was waking up early and getting to North campus for my class at 830 am. It won't make or break your schedule in difficulty so no harm in knocking it out now in my opinion. Good luck! 
+TC 300 with Fishtrom was more like 2-3 credits. He was a cool guy but that class was way too much work for the credit.
+
+Sounds like a doable schedule.
+Adding 270 to that schedule wouldn't be too difficult and probably preferable to adding crypto. 370 projects aren't too time consuming, 376 is give or take, but since it's a homework based class shouldn't be too time consuming either. mp300 and tc300 both have trivial amounts of work. I'd recommend adding 270 to that schedule overall.
+
+Haven't taken crypto, but have heard it to be a bit tedious of a class.
+I didn't know that you could take 370 before 270... Regardless, it shouldn't be too hard adding 270. I'd recommend taking a look at EECS 285 since it's only 2 credits.
+
+Also, cryptography is EECS 475 just fyi... and it isn't a walk in the park.
+Please post in https://www.reddit.com/r/uofm/comments/61eo5w/fall_2017_course_discussion/
+I took section 700 (I think it is called "Intro to Aerospace"? - the one where you build a blimp). I definitely can't say it's the easiest section - there is a large time commitment outside of lecture and lab, especially near the final competition. However, I found it relatively easy to do well academically in it. The exams are not difficult, and you are allowed to use as many notes as you can handle. The difficult parts are building your blimp and the tech. comm. 
+
+The main tech. comm. professor for the course is one of the hardest and most critical in all of the 100 courses, in my opinion. In retrospect, I am glad she was though, because I think I learned a lot about making good presentations and reports. There is another tech. comm. professor in the course, and he is super nice. He isn't much easier, but everyone loved him when I took it.
+
+In terms of the actual engineering component of the course - Prof. Washabaugh is one of the best professors you could ask for. He explains things really well, has great anecdotes for many of the things you learn in class, and puts a strong emphasis on the practicality of what you are learning. The equipment you use in the lab is also top-notch, and consists of stuff you might not get to touch until much later in your undergrad career.
+
+So again, it might not be what you are looking for in terms of difficulty, but most people I know who took it had a really great time doing it and learned a lot from it.
+If you are good at memorizing facts, and are a good partner, section 200, Design in the Real World, is a piece of cake. The memorization is for the two exams. It's not complicated memorization, just a lot of facts that you need to remember. Outside of the exams, you're basically guaranteed 87%-100% on the smaller assignments, and 90%-95% on the big, semester long project that counts towards 30% of your grade. Guaranteed for people that aren't lazy, know how to follow directions, and don't procrastinate like a mofo, that is. Your semester-long project can fail miserably and you can still get an A if you follow the design process really well.

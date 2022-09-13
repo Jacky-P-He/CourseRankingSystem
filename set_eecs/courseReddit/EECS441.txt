@@ -1,0 +1,81 @@
+Soloway is an ass, and has been an ass for as long as I've known anything about the man. When I was taking the CS Ethics course he literally tried to *bribe students into attending his lectures* by dangling a lottery for a free A in front of people who attended. In Ethics and Professionalism.
+
+I attended the first two lectures of 441 as a junior, and he'd fucked up the waitlist system so had overbooked the schedule. Rather than try to work anything out or make accommodations he simply cut all juniors from the class and left us to scramble for another class last minute. I ended up having to take an online class over the summer in order to graduate on time due to the scheduling conflicts.
+
+He approaches all of these situations the same way: Like he's faultless and a rockstar. He assumes that whatever he does, everyone else will just make way for him, and I guess since he has tenure he's right?
+I took this class years ago. Glad to see nothing has changed
+On the other side, 441 with Jamin is going really well. It's not my personal cup of tea, but we're hitting both programming and entrepreneurial processes. Labs are weird (not hard, but weird), but good class. So it isnt the course number that's the issue.
+I have serious daddy issues so I cry very easily when someone tells me off. Should I avoid this class? Or should I just cry and try to make him feel bad.
+When I took the class four years ago, it was pretty similar. It's definitely kind of annoying, but learning to play Soloway's game isn't that hard and it ends up being an easy A. Even though this class is light on technical workload, I found it was one of the better classes for preparing me for a real job. I think he purposely tries to push people out of their comfort zone. The way he does presentations has proven pretty valuable to me over the last few years when presenting to VPs at my company.
+Take 497 with Ringenberg instead :)
+Eh I personally think most of this stuff is overblown. Should we have fewer presentations? Yes. Should he be more clear on what he wants? Yes. But beyond that I think the class is fine. It does teach you what to consider when making an app and how to problem-solve development issues. And I don’t really think his lack of coding really matters, you’re supposed to do stuff on your own when it comes to implementing. Those are just my views though
+I also took this class a while ago. Does he still do the thing where everyone's grades are in a public google spreadsheet where names are "annonymized" but really they are just given numbers in alphabedical order? That felt a bit odd at the time, so hopefully that's changed...
+I’d push back and say I’ve found the class to be quite enjoyable. It feels personably and human in both good and bad ways. I haven’t heard soloway say an invalid criticism, while also grading very generously with him being 7 points over classmates for my group at least. He’s honestly tame compared to how I can imagine honest reactions to most project ideas are. I’ve heard maybe 2 with a niche use and the rest are worthless mine included. 
+
+His style works well around critically thinking about what went wrong in the presentation as opposed to having clear criteria. You don’t get graded at work, and soloway reflects that. 
+
+The bad human part is soloway is old, and it’s easy to forget how different his world was. But, the class feels super casual and conversational.
+Agree on all points, great summary of the course. However, I’d like to think that soloway is purposefully putting us through hell with the presentations to prepare us for real entrepreneurship. Whether right or wrong, I get the feeling that he purposefully critiques the presentations too harshly in order for students to experience negative feedback and resistance. This is just a personal and hopeful hypothesis, your points are still totally valid.
+You should email this to dean Alec Gallimore, Exceptionally worded review.
+Sounds fairly representative of how the business world interacts wuth the tech world tbh. I've was an IT/desktop engineer for some banks and hospitals prior to coming back to school. Constantly mutating never met expectations was par for the course. Although I certainly did not do app development in any of the tech areas like silicon Valley. Ymmv
+Having Jamin was fine. I rarely went to lecture, but got a lot of help from the GSIs in terms of actually learning course material and then would go back to rewatch specific things I needed extra time to learn. I felt that Jamin was always honest with my group and the expectations he set were clear -- when we went to him for OH, he was typically helpful and didn't run into too many issues. Not sure what Soloway is like, but personally, the Jamin experience was satisfactory.
+Same situation, seems weird that the sections are so different
+[deleted]
+It's a relatively small class. I believe each section starts with roughly 40 students. With 4 sections that means there are only 160 students total. That being said, I believe Soloway said this was a record year for drops that he's seen with 8 total between his two sections. I bet the number of drops will be lower this semester as students are likely more accepting of an in-person synchronous class format. Enough people may drop from all 4 sections to where you may be able to get in.
+[This](https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png) is a good resource for checking course waitlists.
+Yes
+I'm in Game Dev now. It's alright, the lectures are pretty much useless (they talk about high level game design principles but you aren't given anywhere near enough time to actually factor them into projects), and the professor left over the summer so it's being taught by GSIs. Whenever I go to lecture, it ends up devolving into watching a bunch of gameplay videos, which is kind of interesting until you realize that you just wasted 2+ hours on essentially nothing. The work itself is alright, it can be a lot of work depending on how ambitious your game ideas are, and the expectations aren't very clear. If you are really interested in game development, I'd say take it, because the work will be interesting then. In comparison, I've heard 441 is way less work but much more boring.
+
+Both mobile app development and game development can be self-taught (you basically have to teach yourself for both classes either way), so you won't really miss out by not taking one. As for taking both at the same time, you may have some difficulty since they try to keep spots open for people who still need to fulfill their MDE reqs. You should try contacting the instructors or the advising office.
+Game Design is pretty awful. It's a ton of code, but you don't actually learn anything useful. It's just a lot to wade through. 
+I took 441. I really liked the class. I had never done mobile app development before, but it gave me an opportunity to learn.
+
+The class is not technical AT ALL. You're required to learn and develop from the technical side completely on your own. The class is more about the entrepreneurial side, so a lot of people don't like that. Personally I really liked it and it was one of my favorite classes, and as someone working on a mobile app in industry now I can say it was the most useful class I ever took and I feel far more prepared for understanding both business and technical concepts around software inception and delivery.
+soloway is a fuckin bro
+441 actually doesn’t have programming assignments like the other upper level EECS classes. In fact, unless things have changed recently, you don’t have to make a mobile app at all for the class, you can make a web app if you want. The whole class is one semester long team project, and the homework assignments are just things like readings and presentations. 
+I've heard there's one easy professor and one hard one. It's a good MDE if you're taking a heavy load but not as informative as harder ones.
+Who’s teaching it?
+485 for web dev and database. You could take 484 too for database but it goes a lot more in depth in the second half of the semester that isnt all that useful. I'd also suggest 481 to learn more about software engineering in the industry, it will teach you more of the other skills/terms that are often necessary in industry.
+Uh re: SI339, took it in undergrad, about two winters ago, and it doesn’t go into much depth fullstackwise. You’ll learn a lot about HMTL, CSS, and web accessibility standards, but very very little JS and you won’t really touch any trendy in-demand frameworks employers want to see. That said, it’s a very easy lightweight and enjoyable intro to frontend and, after taking it, I was able to teach myself more JS and React pretty easily.
+
+SI364’ll get you building database-oriented webapps and doing more backendy shit on pythonic Django, but I felt like I didn’t exactly learn as much from that class as I wished I had.
+In the Data Science curriculum there is a course EECS 484 that is database management I believe. I haven't taken it yet but it could be worth a look into if you want to work with something like that.
+For a CE student I would say 482 is your best best from purely CS classes, but you appear to have already taken it. EECS 489 is also pretty good from what I've heard, as it is the successor to 482.
+
+I'm currently in EECS 441, and yeah most of the class is focused on entrepreneurship and your final project, with there being little to no real instruction wrt programming.
+
+Honestly I would say if you wanted to focus on a purely CS oriented programming class, then 485 is definitely your best bet since webdev is becoming absolutely huge and is an important skill for anyone to learn. Plus I believe it teaches a bit about networking, which should be useful for CE, especially since you stated you wanted to apply to full stack positions, which 485 is basically an introduction to (though I wouldnt advertise yourself as full stack unless you are super good at both front and back end). 
+
+You also mentioned learning about databases , which I  believe 485 teaches you the basics of (you definitely have to implement it, I just dont know how much they teach you and how much you just look up). Ofc 484 is specifically for database design, but I've heard mixed things about it mostly wrt to it being a more theoretixal course and 485 being good enough for most practical purposes.
+Echoing what many others have said already:
+
+SI 339: you learn about the web front end and how to make things look nice, but not really the back end.
+
+SI 364: You learn how to use Django (a web framework) and python for web back end stuff and basic front end stuff. Easy-going class, but you won't learn as much as you will in EECS 485.
+
+EECS 485: You learn how to use Flask (a web framework) and python for web back end stuff. There is a lot of conceptual overlap between this and SI 364, but you do a bit more here than in SI 364 and you learn about the bigger picture more as well. It is much harder, less hand-holdy, and there is a lot of self-directed learning, but the outcomes are better, I would say.
+
+If I had to recommend one of the three, I would go with EECS 485. Note though that if you have a lot of other hefty classes, adding this might be too much. Otherwise, go for it!
+485 is a must for learning full-stack and web development. Aside from that, I'd suggest 493 for learning front-end and general design principles -- on the surface, it doesn't sound particularly useful, but it's definitely got some merits to it and works well with 485. 
+
+441 is not going to teach you any programming, the expectation in that class is that you learn everything you need to in order to build your app on your own time.
+You should be fine. None of those individually are considered heavy. 
+Independent study does not count for ULCS. (It can count towards FlexTech if you're in engineering or general electives though.)
+
+The way independent study works is that you find a professor who agrees to supervise your independent study. You'd work with them to determine what the independent study entails and sign up for the section specific to that professor. Typically, you'd meet with the professor regularly over the semester, you do the agreed upon work (supposed to be 3-4 hours a week per credit), and they assign you a grade at the end.
+
+Supervising an independent study is basically unpaid work for a professor, so there would need to be some other motivating reason for them to agree to it, e.g. you're working on one of their research projects.
+You missed a 75 point assignment, you consider office hours to be "sucking up" and you're bitching on Reddit about your grade.  Nice.
+[deleted]
+I had Soloway for my senior design course and loved him.  I don't understand why they have him teaching EECS 183 given his background, but he was the most generous grader I had for 'real' courses at Michigan, and the class was uniquely similar to software engineering positions.
+
+While you might have an argument to a slightly higher grade, your problems as described feels mostly self inflicted.  When you have five assignments total, you can't afford to miss one of them and expect a good grade - if anything, I'd think you would have been hit far worse with most other professors.
+
+Complain further up the chain if you really want to pursue it.
+You skipped a 496 assignment and didn't bother to sign up to do a presentation to cover for it? That's on you, not Soloway. And as for how he graded the assignments, I definitely know people got 70s or 100s on certain ones.
+
+For reference, I got an 85 on all the assignments (save for the "75/75" on the questionnaire, and didn't do the business plan), did a presentation, and got an A-. I'm content with it. 
+Hey man, it'll all be OK. I got something for you:
+
+http://imgur.com/PUFcekB
+why not try hard instead of whining about how unfair he is. 

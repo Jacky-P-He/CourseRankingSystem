@@ -1,0 +1,138 @@
+Only thing I learned after taking 477 is that enjoying 376 =/= enjoying 477 content
+I enjoy math and 376, but algorithms taught me I definitely don't like algorithms.
+
+It's not terribly difficult. The median time-to-completion for homeworks when I took it F21 was 10-12 hours, and you had 2 weeks per assignment. So, expect to spend 5-6 hours on homework per week. The only other part of your grade is the exam.
+
+The course was taught pretty well when I took it, but I don't think any quality of instruction could have made the class more enjoyable for me. Time and time again, algorithms feels more like memorizing and applying pattern recognition skills -- use the same cute tricks over and over again, but maybe a bit more obfuscated each time.
+
+Also, a good chunk (maybe 2/5 or 3/5) of the course content is material already covered by 281/376: dynamic programming, divide and conquer, and hashing are all covered. The rest of the class is probably instructor dependent, but when I took it we went into advanced hashing algorithms, streaming algorithms, and graph/flow algorithms. Admittedly, some of the topics are pretty cool. Just not my favorite course.
+Its difficulty varies by professor. For my experience, it was very hard. I got A+ in 376 but had a hard time on most homework and exams of 477. There were some math and even honor math majors in the class, so even the exam was hard, the mean was still pretty  high.
+see how you stand compared to the rest of your peers. All classes are curved to some degree, because professors cant have no people getting an A in their course
+There's no curve guarantee. Not sure how things are with covid, but historically office hours were a great resource for homework help, so it's reasonable to say that most students do okay to well on homework, and exams are what bring people's grades down.
+I can answer for the first pair. MATH 416 tends to deal a lot with randomized algorithms, whereas 477 doesn’t deal with them much at all. The syllabus is pretty much consistent year to year with what Pettie does, which is a lot of graph theory. 416 often changed quite a bit.
+
+I took 477 and it was a fantastic class. I’ve heard good but not amazing things about 416.
+I took both. 416 seems to depend on the professor, but lady two offerings have been on randomized algorithms. We did not use CLRS for 416, but a book on randomized algorithms. The math was at a much higher level than 477 (much more rigorous) but also narrower in scope.
+I’m in 381 and 477 this semester. Unfortunately, Kieras has told us he is in fact done, and that 381 will more than likely cease to exist because:
+
+a.) No one wants to take on the insane workload associated with teaching the class
+
+b.) The class wouldn’t be the same without his hard core grading and dedication to the topics
+
+So, unfortunately you won’t be able to experience 381 (trust me it’s an experience). I think you should consider classes like EECS 482 and EECS 494 in place, not the same material as 381 but comparable in workload and almost equivalent in net knowledge taken away. Additionally I encourage you to visit the EECS 381 website and download all of Kieras’ handouts on the website’s “handouts” section. Just reading all of those will elevate your knowledge and make you a better programmer.
+
+As far as EECS 477, it’s a math class. No coding involved aside from pseudocode to express algorithms. It’s a pretty low workload class, but conceptually pretty difficult (google optimal binary search trees and Fibonacci heaps to get an idea of the material that’s studied). Personally, I’d say don’t take EECS 477 unless you enjoyed EECS 376 and MATH 217 (if you decided to take 217), it’s more along the lines of a lower workload version of those classes merged into one. If you like the “low level C++ stuff”, perhaps look into taking the programming languages or compilers course to get a deeper dive into how the guts of a language work.
+477 has nothing to do with low level C++. The amount of math is significant, but all the math you need is either completely taught in the class or reviewed briefly. It's 376 on steroids with a ton more creativity required.
+
+Additionally, 477 is not that useful for your average software engineer as the algorithms taught are fairly specialized or esoteric, and in general you aren't designing algorithms as an SWE anyway. That said, there are dynamic programming and graph problem units that may prove helpful for programming interviews, and having some cool algorithms to talk about can make interviews more interesting.
+
+Overall, I'd still highly recommend 477 if you're at all interested in algorithms and theory. It'll make you a better and more rigorous critical thinker, and I found it fun. It's nice to have a non coding ULCS as well because it can make your schedule seem lighter.
+Here's a poorly formatted old syllabus I found from 2011:
+
+DATE TOPICS READINGS, ASSIGNMENTS
+
+Th 1/6Introduction to Algorithms, efficiency, stable matching CLRS 1, 3
+
+Tu 1/11 Red-Black Trees, augmented data structs CLRS 12, 13, 14, HW1 assigned
+
+Th 1/13 Geometric algorithms for points and lines CLRS 33
+
+Tu 1/18 Geometric algorithms: convex hull, closest pt. CLRS 33
+
+Th 1/20 Divide & Conquer: master theorem CLRS 4, 9, HW1 due, HW2 assigned
+
+Tu 1/25 NO CLASS
+
+Th 1/27 NO CLASS
+
+Tu 2/1 Divide & Conquer: integer multiplication Lecture slides, CLRS 4, HW2 due
+
+Th 2/3 Divide & Conquer: van Emde Boas trees CLRS 20, HW3 assigned
+
+Tu 2/8 Geometric point location Lecture slides
+
+Th 2/10 Probability review, hashing, balls & bins CLRS 11, Appendix C
+
+Tu 2/15 Chain hashing, universal hash families CLRS 11, HW3 due
+
+Th 2/17 Cuckoo hashing Lecture slides, HW4 assigned
+
+Mon 2/21Applications of Hashing: Bloom filters, duplicate documents
+
+Tu 2/22String matching: Knuth-Morris-Pratt, Rabin-Karp CLRS 32
+
+Th 2/24 EXAM 1
+
+Tu 3/1 BREAK
+
+Th 3/3 BREAK
+
+Tu 3/8
+Dynamic programming: sequences and 
+alignments CLRS 15, HW4 due, HW5 assigned
+
+Th 3/10
+Dynamic programming: search trees and 
+scheduling CLRS 15
+
+Tu 3/15 Greedy algorithms CLRS 16
+
+Th 3/17 Graph Search: BFS, DFS, strong components CLRS 22, HW5 due, HW6 assigned
+
+Tu 3/22 Shortest Paths: Dijkstra's algorithm CLRS 24
+
+Th 3/24 Fibonacci Heaps CLRS 19
+
+Tu 3/29 Shortest paths: Bellman-Ford, Floyd-Warshall CLRS 24, 25, HW6 due, HW7 assigned
+
+Th 3/31Max Flow-Min Cut duality: Ford-Fulkerson 
+algorithm CLRS 26
+
+Tu 4/5 Maximum Flow algorithms & applications CLRS 26
+
+Th 4/7 Maximum Flow algorithms & applications CLRS 26, HW7 due
+
+Tu 4/12 NP-hardness, polynomial time reductions CLRS 34, HW8 assigned
+
+Th 4/14 NP-hardness, polynomial time reductions CLRS 34
+
+Mon 4/18 TBA
+
+Tu 4/19 TBA HW 8 due
+If you have a Facebook profile, you should join the Michigan group called "Computer Science Engineering". It is filled with current and former students, as well as some faculty, who will give you great advice. In fact, you can probably find many archived posts that will answer all of those questions.
+I would say that 477 was certainly worth my time. You're right that it covers a lot of topics already covered in other classes, but it does so in a way that exposes more of the depth behind the topics, and approaches many of them more formally than you've seen, especially the topics covered in 281.
+
+It's certainly not a mandatory course, but if you're interested in the theoretical side of CS I'd consider it. I took it with Prof. Compton, so I can't speak towards Prof. Pettie, but if you liked him before I'm sure he'll be fine.
+[deleted]
+Not great not terrible
+[deleted]
+[deleted]
+I've heard all kinds of good things about 388! I've never taken it myself but I hear from my other CS friends that it is a great class to take
+be aware that 477 is more of a theory course. There are no programming projects, and the breakdown of coursework for a grade is 30% homeworks, 30% midterm, 39% final, and 1% course evaluation. It's heavy on the proofs. If you enjoyed 376, 477 might interest you
+Software development != algorithms. From what I've heard, it sounds like 477 is a theoretical class and 388 is anything but. 
+PLEASE. For the love of God, please. DO. NOT. TAKE. 477.
+
+This is a warning for anyone who thinks they're interested in algorithms...DO NOT...I REPEAT...DO NOT TAKE 477. ESPECIALLY if Satan Pettie is teaching it.
+
+You have been warned. Seriously, don't do it.
+It depends on what position. If you're wanting to get onto the compiler team at Apple, then EECS 483 will be far more beneficial than 482. For game developing companies, EECS 494 will look better than 482. But in general, none of them make you more employable than the other. It all depends on what position you're interested in.
+486 Information Retrieval, 498 Distributed systems, and 445 Machine Learning
+Depends on the field. If you don't have a specific team you want to work for and you just want software development at a tech company, honestly I don't think any makes you specifically more "employable" other than EECS 482 as some UofM alumni who come to the career fair see that in high regards. Other than that, my suggestion would be:
+EECS 482 and EECS 381. 482 because multi-threading in many other universities is seen as a core topic in CS, and 381 because it establishes such a strong connection for the student and C++ that I feel much more confident and sure about CS interviews (as you can usually pick your own language for interviews as EECS 381 is known to be extremely C/C++ oriented).
+
+"Employable" really is kind of a strange term here, but just a last note that if you honestly just want employability, consider the "Introduction to Algorithms" course. It's proof-based, math-related, however solidifies your understanding of Big-O for more complex algorithms.
+
+Just my two cents, good luck!
+Just asked a CSE senior who I ran into, got this:
+
+1. It depends on what you're looking to do
+2. For interns, EECS 281 is far and away the most important
+3. EECS 381 is great for preparing you for interviews and generally turning you into a great programmer, EECS 482 (and to a lesser degree 489) are important to a lot of "famous" tech firms (apple, google, etc.)
+4. EECS 445, 492 (moreso 445) are great classes that help in a broader sense, since a lot of firms are moving towards a machine learning/AI focused direction. 
+They are very stingy with EECS classes transferring. They didn’t allow me to transfer a class very similar to 280. It’s very likely you’d have to retake these classes, unfortunately.
+Whether you're in LSA or CoE, you can get credit for EECS 370 and 376 based on the course equivalency list for your previous institution, but I've read that they do not allow upper level CS credit taken somewhere else. However it is possible to have an upper level transfer as "300-level department", which would be a flex-tech if you're in CoE, but unfortunately only general elective if you're in LSA. Of the 100-200-levels, I believe EECS 281 is the only one you cannot get credit for.
+
+I think even people who worked at tech companies before and want to get a CS degree still have to trudge through the required stuff and ULCS courses, even if they specialized in that (or higher level stuff) before. I wouldn't know of anyone testing their way out of that stuff tbh
+you definitely aren't going to be getting transfer credit for 281. i've seen it for 376 but never for an ULCS like 477
+ [http://apps.engin.umich.edu/equivalencies/](http://apps.engin.umich.edu/equivalencies/)
+The one you have the strongest interest in 

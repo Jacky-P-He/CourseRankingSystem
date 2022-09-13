@@ -1,0 +1,265 @@
+Had to drop 216 with a W on the transcript and take it again. I got a 27% on the second midterm. What I’ve learned: literally commit any practice exam they give you to memory. Do them until you can score a 100% on them without any notes. That will get you the problem solving techniques you need for the actual exams. Passed the second time with a B+
+To be honest, EECS 216 is really rough course, even with Winick being gone.
+EECS 216 was my favorite class so far and Prof Lafortune was my favorite professor. He did mention in the first day of class that the average grade was something like a B- or C+ if I’m not mistaken but that doesn’t really mean anything, as long as you study consistently every week and do the homework you’re gonna be fine. Mohammed (IA) and Ady (GSI) were a very good source of help and I highly recommend attending their office hours on a weekly basis. As long as you don’t let stuff pile up, you’re gonna be fine
+For the grade point, I think that’s pretty typical isn’t it? Most weeder type courses I’ve taken in EECS curved to the B-/B line
+This is the dramatic Indian boomer way of the prof letting you know he means business :/ 😂. Not that I support it, but it is what it is.
+Oh god is it Vijay
+Because he did that to us too - go to the other profs lectures if u value your sanity - he’s not a bad guy just…not a great prof
+
+216 was ass but I ended up loving the signal processing senior design so even if you hate the class the road doesn’t end there
+B- sounds low for an average but it depends on the professor. We had the same graph drawn years ago
+I think he’s just trying to be honest about what the workload is like :/ definitely use piazza because the GSIs are always on there ready to help
+That does seem excessive. I've taken orgo 1&2 which obviously have reputations for being extremely difficult, and in both of those classes my professors opened with something to the effect of "I'm sure lots of you are nervous about this class because you have heard that it can be difficult, but I want you to know that we are on your side and we will do everything in our power to help you succeed. If you study and practice well you will succeed." That seemed like a more balanced approach to preparing people for a hard class while also not being overly pessimistic.
+I remember it was tough when I took it a few years back, I can only imagine how it is now with the current situation. Keep your head up, there are definitely people in the class that do want you to succeed and learn!
+He did the same when i took the class. It was his 1st time teaching 216.
+Tbh i don't think he's trying to scare students. Honestly, 216 is a lot of work and the graph he shows in the class reflects that. Just like how CS professors tell you about 183, 280, and 281 difficulty level. I took EECS 560 last sem and my prof did something similar (Except a lot of grad classes are curved to A-).
+
+So don't let it intimidate you. Try to keep up with the material.
+
+Also, you can always attend different section if you don't understand his material. A lot of students from my section attended prof LaFortune's lecture because Vijay was not teaching well.
+Fuckers will keep doing this shit until students vote with their feet (i.e. tuition $$).
+I think it depends on the professor, and also the COVID protocols for the semester. I took 419 this fall with prof. Karni and lectures were not recorded.
+All you really need from M216 is laplace, and you shouldve learned that in late eecs 215? So I'd say its probably fine.
+Who’s teaching? Had the opposite reaction last semester. I figure it’s a very prof dependent experience.
+Which practice final did they give you? If it was the winter 2019 one I don't blame you, that final was fucked when I took it, they made it hard because people did well on the two midterms
+Same here. My main complaint is that the homework largely consists of straightforward computation problems, and then the exams have really bizarre questions with many potholes meant to trick/stump you.
+I fully support this rant. The labs, homework’s, and exams all feel so different and I feel like I’ve spent the most time on this class but still retain very little from lecture or working on the material.
+I completely agree with everything you’ve said. I’m happy to finally be done with this shitty class, because it has been nothing but a frustrating pain in the ass even before COVID.. I felt like the lectures failed to prepare me for the homework because he basically just copied his notes and MAYBE works out a simple problem from each topic, and then the exam was always so far from the homework that I felt unprepared all semester long.
+FUCK this class, I'm pretty confident I passed but damn was that class frustrating.  It wasn't a rewarding kind of hard like 370 or 280, it just wanted to drive me insane and it did
+You're preaching to the choir!
+If you’ve been selected as a grader, this is a question for the HR contact you were given. I think it’s like $13-15 / hour.
+It would be helpful to review calcs 1 and 2 to get comfortable with derivatives and integration. Signals is a lot already so you don't want to be struggling around the basic math. Laplace from diff eq is super useful as well as getting a good conceptual foundation with imaginary numbers.
+I believe it's generally considered a violation of the engineering honor code to share past exams that are not publicly available...
+I'm assuming it's Winick teaching this semester. If that's the case, then no. His own notes will be sufficient. There isn't really a book that follows the course material in the same order, which is why he's working on writing his own!
+This question is best served by asking engineering advising. Idk their number, but the number for newnan lsa advising is 734-764-0332. If you're lazy call them and ask to be transferred. 
+I took 460. It hits the ground running right away. If you're pretty familiar with LTI systems, feedback control (PID), and differential equations go for it
+Yeah, I have it with LaFortune.
+Imposter syndrome 101. Everyone is struggling unless ur like the .01% of genius students. Just because they are appear fine and dandy. They really aren’t, they have their own stresses and issues. They are just better at hiding it. Trust me on that. Also stop comparing yourself with others, you will never be satisfied. There will always be someone better and smarter than you out there in the world. So just work on yourself, ask for help if you are stuck on a concept, project or homework. ULCS or UL eecs courses aren’t that bad, the profs and IA help you succeed
+You should keep in mind that selection bias comes into play too. All the people who were REALLY good at coding probably had credit for/tested out of 183, for example. Having said this, your situation is nowhere as uncommon as you think. The transition to college is hard and you’ll have to figure out your own studying habits and set your own schedules etc. 
+
+Also, as a graduating cs senior this sem, let me tell you that depending on which courses you pick, your ULCS could be at a 280 level or easier ( I’m thinking 486, 481 and those easy ULCS). So don’t worry about it. You’ll be fine.
+Piazza is a great way to make you feel self conscious. I don’t even read through it, I just use the search bar. Every single time a project drops there will be one mofo who’s asks “Almost done with the project except this issue at the end” the very first day. 
+
+Office hours, although always crowded towards the due date of projects, are not crowded at all the first week a project drops. You can also go to ask conceptual questions. Office hours are almost always daily in ULCS classes.
+Niggas is tryhards in these classes bro dont worry about other people Fr. Your scores are good there’s no such thing as “keeping up with people”. Shit ain’t a competition we can all get a slice of the pie feel me
+So a couple of thoughts— 
+
+In terms of eecs 203, some people just straight up have an unfair advantage because of high school. A lot of the stuff being taught was already covered in my high school pre calculus class, so I and some other people from my hs who go here have been breezing thru eecs 203. 
+
+In terms of eecs 280, there are just so many cs kids here who’ve been coding since the ripe age of 5. This course is mostly meant to be a comprehensive introduction to programming and C++, so a lot of those peeps have an inherent advantage, having worked with the syntax and self taught a lot of the concepts we’re learning right now. 
+
+I think both of these things will be evened out as we enter upper level courses. People will no longer have as much prior experience. Best of luck to you! :)
+I consistently score at or below averages as a CS major. This is just my perspective, but I've come to terms with that I work really hard for these classes and of course I could be one of those kids who goes above and beyond to do better (always at office hours, starts everything when the spec comes out, super engaged in lecture, etc.) but I have decided that it's not worth it to me because I want a life outside of EECS. I think just shifting my mind set to be proud of myself for the work I'm putting in helped me a lot.
+
+In regards to Upper Level classes, I don't think it necessarily gets easier but I think there is a natural progression to being able to handle the imposter syndrome and stress better. I feel like I can take an EECS class with much more "grace" than in the past. And like someone else said, you can choose some electives that are less work and difficulty.
+I was above the average in my lower level classes, this trend continued in my upper level classes. So, you shouldn’t expect that upper levels will be any different.
+I know this is kind of late, but I am also a girl in CE who is also probably going to fail her classes for stupid reasons. Feel free to pm me
+Do they offer 498 GPU next term?
+FYI, I feel like EECS 491 made me as anxious as EECS 482. The only difference is that the duration of the anxiety can be shorter.
+The two other comments preceding me were clearly by people who didn't like 203. If you hate 203, then taking it with any class won't be a fun time because you'll hate 203. 
+
+
+I understand that mudge can be a bit of a shitshow, but just remember that 370 is pretty heavily curved. Not everyone gets it, but since you're a CE, i have faith that you'll be fine. I can't comment on the other two courses. 
+
+Do with this what you will. 
+Hard, but doable. 
+
+203 was hard as hell when I took it, but that was most likely Yaoyun Shi's doing. 
+
+216 - I've heard good things about Yagle. I had 216 with Winick - never, ever again. 
+
+320 - never took it, no comment. 
+
+370 - Mudge will be kind of a shitshow, but 370's probably the most tightly-run class in the department, in terms of the curriculum and how closely it's followed. Push comes to shove, get some people from previous semesters to explain things to you. 
+
+All in all - not the hardest courseload I've ever seen, but be prepared for some busy nights. 
+
+Also - have you tried running this schedule past Brehob yet? He'll tell you flat out whether or not this is a good idea. 
+I don't suggest taking 4 EECS classes. I did it once and it was awful and I needed to drop a class at the end of the day. Would not reccomend even for the most studious of students. 
+203 + 370 is alot alone... 
+Thanks for all your replies and the suggestions, I know that 4 EECS classes seems very hard, but these in particular are all at moderate load according to the department survey. I know what I am capable of, for example my third semester I took,
+
+MATH 215 (comparable to 203)
+
+EECS 215 (supposedly heavier than 216)
+
+PHYS 240 + 241 (lighter or same workload as 320)
+
+ME 211 (ton of work, 370 will be that or less)
+
+a student team I will drop
+
+and pulled a 3.6+ GPA in  this semester, with way more class hours than this coming one, so I'm not really worried. Brehob did tell me to drop one of these classes when I went to him, but I trusted in myself. Basically all I do is tailgate for a while for the football games, watch my soccer team every weekend and maybe go to a party once in a while with my roomates. My only concern is that I will be continuing my internship into the fall with like 15 hours a week, but I can quit that at any time.
+Lol 203 and 216,no 
+Ling 111. Class is an absolute joke.
+
+...also, a bit off topic, but why are you taking EECS 216? Winick-taught EECS 216 is an absolute nightmare of a class...if you have Yagle, class isn't supposed to be too bad though.
+I'd recommend something in the low-level History of Arts courses. Nothing too difficult, but interesting nonetheless. I had a lot of fun in 345 (medieval architecture), 392 (ancient roman villas), 292 (japanese art), and 100 (intro to history of art). You'll be doing a medium amount of reading and writing, nothing backbreaking though. There might be a museum trip thrown in for good measure. I did a minor in history of art and enjoyed it quite a bit.
+Im a philosophy minor and I would recommend any philosophy class below the 300 level they are all pretty easy and don't require to much effort if you understand the concepts which are pretty easy in those classes. I don't think those count for engineers though. So if those don't work I would check out phil 355 contemporary moral problems. I'm taking it in the winter and it looks conceptually pretty easy though I don't if there will be a lot of reading that you really need to do. But if your looking for a blow off class it might not be a good one as upper level philosophy classes can get sneekily difficult 
+I hated taking 312. The labs are so poorly written it's basically a part time job trying to understand and complete them. 216 and 270 aren't that bad. And I can't speak for 320's difficulty. 
+  
+If you want to take 312, you should put it off or later. The logic from 270 and understanding of the physics in 320 will help you tremendously if you want to take it.
+Nah it'll be a lot of work but its very doable. 281+370 is a very common combination. I did 281 + 370+ Math 214 + 6 other credits and it was fine. Get 370 done your sophomore year (I'm assuming you're a sophomore) so you have the option to do 482, 388, etc next year.
+EECS 281 + EECS 370 + Math 216 sets you up better in the long run, since EECS 482 (an important upper level EECS course many people take) and some other upper level EECS classes have both 281 and 370 as prereqs.
+
+Both schedules are doable but some find taking EECS 281 + EECS 370 at the same time to be moderately challenging.
+That was literally my class load last semester. It's doable. Watch out though, the new course coordinator for 216 is making the class harder. Last semester, we were the guinea pigs for the new curriculum.
+
+Would you say you have experience in programming / CS? Comfortably?
+I would strongly advice against it. Take 376 instead of 370 if you can because youre gonna have 3 projects due in the same time period, one in C one in C++ and one in matlab. Unless you want to watch your friends have fun every weekend while youre stuck working on 3 projects and 4 weekly problem sets I would get rid of 370. Its difficult to get into classes with 370 as prereq junior year anyway. It is still doable if youre a natural at math/programming but will take a lot of time.
+You'll definitely have a more difficult schedule later in college. In terms of difficulty it's pretty easy, but in terms of workload it's heavy. I recommend making a note of when the homework is due each week along with an estimate about how long each item will take. This will give you a better feel for how much time you can dedicate to non schoolwork. Also there's free tutoring for at least EECS 215 (thru HKN) and math 216 in the math lab. 
+
+All that being said, midterms and finals season are gonna be hell for you. Good luck! 
+I took ME 211, Math 216 and Physics 240 together and it was doable.  
+  
+ME 211 is hit or miss with homework depending on professor. One professor decides all the homework each semester so some semesters have harder homework. The semesters before and after mine had about 3-5 hours of homework a week while my semester many people spent 5-8 hours a week on the problem set because the professor (Dr Barber) chose harder problems. It got to the point where my professor (Winemann) would tell us beforehand that certain problems probably weren't graded and are harder than anything we can expect on exams. The material itself is very straightforward.  
+  
+Math 216 is about as much work as 215, probably even less. Outside of lecture its probably 3 hours of homework a week max. ME 235 also isn't a ton of homework (like 10 normal book problems a week). That being said, for previous semesters 235 was due thursdays, 211 fridays, and 216 friday night, so you have to really plan how to do your homework.    
+  
+I don't know much about EECS 215, but i hear it's not too hard, although 314 (or whatever it is most ME takes) is said to be a lot easier (I take it next semester).  
+  
+It's a lot of time spent in class, but none of those classes are the super time consuming classes of ME like the X50s and X95s.
+I wouldn't personally recommend taking 3 engineering courses and a math course in the same semester. But sometimes you have no choice. You can do it if you work hard but I hope you don't have any other obligations on your time. Girlfriend/boyfriend, student organizations, part time job, church group etc. all that is going to have to go on hiatus until the semester is over.
+You'll be busy, but none of that is all that complicated. The Math216 will be the biggest pain between the homeworks and the *travel* back and forth to Central Campus.
+
+Just keep on top of your homework and don't put it off to the last second.
+whew
+215 is not hard, just a lot of work. I've heard Ulaby is the best teacher for that (he wrote a great book for the course too), but there's other good ones as well.
+
+216 isn't bad either, but depending on your professor it could get very theory heavy. That being said, it's a very important course to take because it opens the door to some really cool classes. Also, Ulaby wrote a book for this course too, so concepts should be a lot easier to grasp than when I took it a while back. As far as I've heard, Grizzle is the best prof for this course. Yagle is also pretty good.
+215 - Go for Ulaby or Terry.  I had Ulaby and I thought it was awesome.
+
+216 - Go for Yagle, avoid Winick at all costs.  Not sure if Ulaby teaches this class but his books for 215/230 are top notch.  Winick doesn't use Ulaby's book his section is very proof/theory heavy.  I took it with Winick.  Huge mistake.
+
+To give some perspective, I generally get straight A's.  I had an A+ in 215 and a C+ in 216.
+Not particularly difficult, but it's a ton of work. 4 one hour lectures per week with pop quizzes plus 6 three hour labs over the course of the semester.  Homeworks take 3-4 hours a piece and you'll have two due every week.  It's way more work than is reasonable for a 4 credit class.  Avoid it if possible.  
+I didn't much care for 216 (to the extent that I dropped it) and found the material incredibly hard; but if you did well in 215 and Calc 2 and 3, I really can't say it would be hard for you. It was hard for me just because all of that was such a long time ago for me.
+EECS215 is a really well structured class, IMO. It's well taught, but not easy. I loved it.
+
+EECS216 was really difficult for me. I have As in all EECS classes except this one (B+). I've heard Ulaby is good. It's very useful material, I wish I would have understood it better.
+EECS 215- The class isn't particularly difficult, but it is rather time consuming. You typically have a couple of homework assignments a week, labs/reports every other week, and of course exams to study for; generally for the exams you will need to both read the book for conceptual understanding and grind out large numbers of problems for practice.
+
+EECS 216- Take with Yagle at all costs. Yagle's version of 216, from what I've heard, isn't particularly difficult (easier than 215 even). Avoid Winick if at all possible; I had 216 with Winick and the class is a nightmare. Tons of work, nigh impossible homework/exams...
+
+
+I took 215 last semester with Fred Terry and am taking 216 this semester with Stephane Lafortune. 
+I feel that the content in 215 was slightly more challenging and the stuff in 216 is definitely more interesting (for me at least). 
+
+I know Yagle is teaching 216 next semester and have heard he's really, really good. If either professor Lafortune or Grizzle is teaching it again, I can say that both of them are also great. Terry was pretty good for 215, albeit a little bit odd. As many people have said, avoid Winick, although I believe he is teaching 455 next semester (which is the reason I'm not taking it).
+
+As for workload, expect to spend on average 4 but up to 8 hours per week on homework and labs for 215. For 216, probably somewhere in the neighborhood of 4-6. 
+
+Homework/Labs are relentless/brutal IMHO. The exams are on easy side though. Ulaby
+Just got done with 215, not particularly hard (If you're decent at math). Although it is a lot of work. Homework due twice a week which keeps you busy. Exams are often easier and there is usually a problem or two from the book that appears.
+I had Ulaby and he was honestly one of the best professors I've ever had (he won't be teaching it in the fall although). After 215 I'm definitely going to continue taking EE courses (I'm a math major)
+
+I hear 216 is easier.  
+I can't aid you from the EE perceptive, but I am currently balancing Math 216 with 2 other engineering courses and my 300 level humanities
+
+I've taking all of the calcs at Umich, and this is by far (in my opinion) the most poorly run of all the core math classes. Physics 140 and Math 215 were both easier than this class.
+
+You're not alone, and this class is, from what I've seen/experienced by far the worst
+I remember being on the 216 copium. You tell yourself you're gonna do better on the final but the final has a lower average than the midterm in most years.
+The math from MATH 216 showed up in EECS 216. Idk who’s teaching EECS 216 nowadays, but when I took it with Finelli, Winnick still wrote most of the hw and exams and it was hard. 
+
+If you go down the signals and systems route you’ll be doing math/eecs 216 stuff for the rest of your degree. The circuits and semiconductor classes are conceptually different, but not as math intensive.
+
+Correction: some diff eq concepts still showed up in my circuits classes, but more as a derivation or “fact” than how a math class would approach it.
+I know soooo many people who bombed math 216. Don’t worry about your future prospects based on this one class. If you fail it this semester go take it at a community college over the summer and you’ll be right on track
+You should be fine. Out of the required classes only EECS 216 really uses DE. EECS 215 uses DE for like 1 week about 8 weeks in, and it's not really notable / the math from Math 216 isn't really useful there. EECS 230, 280, 301 don't use the math of Math 216. I can't speak for 200/300 but from what I have seen, 200/300 don't either.
+
+In terms of comparison between classes, EECS 216 is the one worth noting as it is challenging & mathematical for EE. The rest of the classes in EE shouldn't be as bad - but it depends person to person. 
+
+I have met a few people that have had difficulty with Math 216 if that makes you feel any better. It is a tough class. Sorry to hear about your exam score, hope you persevere & reflect on improvement over break.
+I was a BME, not EE, so our experiences will be different, but will say there is a fundamental disparity between 100- and 200-level "weeder"' courses and upper-level engineering courses. 
+
+Your experience in math 216 is similar to mine in math 215 and physics 240. I did poorly in those classes and was terrified that when I actually started the "real" upper level engineering classes that i wouldn't be able to keep up. But it wasn't the case in the end.
+
+In my experience, the pre-req courses are difficult because you have a barrage of difficult problem sets and exams that seem like they could cover more material than you have space in your brain for. You're in large lecture halls being taught by professors that don't want to be bothered with these low-level courses and not enouhh GSIs to meaningfully help the amount of struggling students they have to serve. 
+
+
+But for me, the 300- and 400-levels were difficult because they covered more complex topics in the first place, and the coursework was comparatively simpler. That's not to say it's easy, but the focus is more on communicating high-level ideas and not on drowning students in dozens of hours of derivations and proofs that they'll never remember after the semester. There are smaller classes, so the student to instructor ratio is more favorable, and the professors generally care more about these topics and aren't just in a rush to get the lecture over with. They can still be brutally difficult but in a way that feels more fair and accessible than 200-level math courses ever did.
+
+I fared far better in the upper-level courses compared to the pre-req ones and ended up graduating with honors. My advice, get real comfortable with Kahn Academy and similar external instruction sources and really really make a point to go to office hours if something doesn't make sense to you. You aren't the first engineer to absolutely bomb a test and you won't be the last. Take a breather and re-focus and know that the nature of your classes will change before too long.
+Every math class I’ve taken here has been infinitely harder than every EECS class I’ve taken.
+I’m a junior in EE and also took math 216 second semester sophomore year. It gets better. The 200 level classes you have to take are the worst it gets. Keep going and take it one assignment at a time
+EE '20 alumn here.
+
+**Good news** \- I remember getting < 40% on the Math 216 final and below-average scores on the other midterms and still passing with a B. Believe me, they curve like crazy in that course.
+
+**Bad news** \- Math 216 was probably one of the easier courses compared to EE major courses. EECS 216, EECS 301, EECS 311, and EECS 413 (just to name a few) were all much, much, much more difficult. Their weekly PSETs sometimes took over 10 hours.
+
+**Okay news** \- You'll grow and learn in college, and you'll learn to be satisfied with lower grades (compared to high school). Also, there's absolutely no shame in graduating after an extra year or taking fewer credits per semester. After passing the rudimentary courses, you'll genuinely want to chug on and you will (most likely) graduate and look back with a smile :)
+
+EDIT: Forgot to mention, I graduated in 3.5 years (with another STEM minor) despite doing god-awful in most of the intro math and physics course exams.
+Isn’t 215 an enforced prereq to 216?
+Ive never taken an eecs class but ima say fuck that
+Can't take 216 without 215
+i would say it’s a bad idea to do more than 2 eecs classes at once if there’s another option
+I think 215 is required for 216 which is good because this schedule will either kill you or your life
+I am doing EECS 215, 280, and 200, along with measily math. The hardest class I am taking is my math class. EECS 215 exam and hw policy is very generous and the class is well aimed at getting you to learn. EECS 280 will take a lot more time that expected, but is generally well suited to get you to the end goal with a pass. 200 is fun, but the instructors can be a bit funky
+I'd recommend adding 301 and tech-comm and splitting over 2 semesters, that's what I did last year and also took 203 (EE/CE double major). Assuming from 230 that you're EE I'd say take 200, 215, 280, and tech comm 300 one semester, then 216 301 and 230 the following semester. Those two schedules and something else small added to get to full-time enrollment would be challenging but doable, and allow you to start focusing on your upper level EE electives after.
+Yo ur missing EECS 203
+I don't think you can do that and even if you can, you definitely shouldn't 
+
+I'm debating whether or not 2 physics classes is too much... That many eecs classes would drive anyone off the deep end
+didn't take 200 or 230, but 215 and 280 along with one of those two is probably doable. I did 281 and 215 together with 7 credits of lighter classes (stats and econ) and it wasn't too bad of workload. Even if u could do 216 with those I wouldn't advise it, the hw in that class can be really time consuming
+Why?
+As someone currently taking EECS 201,203,215, and 270 it’s definitely an experience. I think you’re better off limiting it to two EECS classes per semester.
+Totally depends on how well you did in the other classes you’ve taken. If you’ve felt confident in EECS classes up until this point and found them straightforward then you can definitely take 3 or more EECS classes.
+
+I’m currently in 5 EECS classes and it’s a lot of work, but it’s definitely possible if that’s what you want to do.
+enroll in the classes, try it out, if you're having difficulties, drop a class? before the deadline ofc.
+have you taken math 215? 216 is about 10x worse. 
+(I’m currently taking 15 credits, 8 of which are eecs 203 and math 216, and it’s been a rough semester tbh)
+Math 216 is SHiT. Take it at WCC if you can. If you can't, any semester it gets put it will be complete ass. Luckily there is a fat curve. I didn't actually end up studying too much for the course overall but that was because it was so hard I decided it wasn't even worth my time trying to learn more than 60% of the content as I'd rather just pass and spend my energy elsewhere. Got a 67 but that was a B, for reference. The exam medians are on exam shop so that would be the score you want on the exams for a B (it's not very high, which indicates both how hard the class is and how well you might aim for).
+I've taken everything except 215 and theory 137. 280 and 216 and band is a solid workload. You could probably add theory 137 in pretty easily judging by the difficulty on Atlas. Having 215 might be a bridge too far (only take 2/3 of 280, 216, 215).
+Looking at your current position you can probably do both.
+288 and 200 should be fine. i might opt for aero 201 and 200 though. 205 is heavy work commitment, but doable.
+Got the minor while majoring in ME. The classes I needed for it were:
+
+Eecs 215 (circuit analysis)
+
+Eecs 216 (signals, the hardest class I took for the minor)
+
+Eecs 414 (MEMS devices)
+
+Eecs 460 (controls)
+
+Overall it was very manageable. Pro-tip for ME's: you can get almost all of these classes to double count for your major, so you only really need to take one extra class (216) to get the minor. Though a petition is required for 414 to double count, but it is pretty much automatically approved.
+Hi! I'm also in LSA. I'm majoring in neuroscience and minoring EE. The courses that I've taken were:
+
+EECS 215 (circuit analysis), EECS 216 (signals & systems)
+
+To complete the systems path, I'm gonna take these courses:
+
+EECS 351 (digital signal processing), EECS 461 (controls lab)
+
+Overall, I'd also agree that it's very manageable (so far anyway), and I'm just taking one EE course per semester. Just keep in mind that there are also prereq courses (math/EECS) that aren't listed on the EE minor document.
+Con: engr 151 isn’t being offered in winter 2022 according to atlas
+
+Pro: you have an easy decision to make
+
+:// I was in the same boat debating between 101 and 151, and then I checked atlas when winter 2022 classes were released
+Beyond just the material and workload of the class, I found you can make some great first-year friends in ENGR 151 since most people who take it are CS-bound (whereas ENGR 101 just has so many people taking the class). So if you are concerned about meeting people this class is a great way to do that
+Unfortunately, I don't know how to evaluate your programming skill through your AP score or diagnostic score, having never taken either. However, I did take ENGR 151 and thought it was really easy (but I was experienced coming in), and it seems that was the case for most people I knew with a decent amount of programming experience.
+
+The point is, I'd be careful about overestimating the amount of work you're saving with 101 instead. 151 is really just getting familiar with syntax and thinking logically. I don't think it starts getting serious for someone who's programmed before until at least 280, where data structures and algorithms start mattering.
+I enjoyed 151 as someone coming with little programming experience but with the aptitude for it. I think you'll get more out of it than 101, although it still might not be very much if you're already quite familiar with programming. The workload is fairly light either way.
+Taking 151 right now. Honestly I think if you have had any programming experience you’ll be completely fine. Workload is at most two hours a week for the lab imo
+You might also be able to go straight to EECS 280, there is a form to fill out and you basically describe relevant experience and upload documents (i.e. AP test score). I did this and if you feel reasonably confident with computer science it might be worthwhile. Talk to your advisor about it.
+215 is harder
+Having taken 215 and 216 in the same semester, I can definetively say that 216 is way harder. If I could redo it, I would take 215 at mich and do 216 at a CC. This is if you absolutely need both. Otherwise, just take 215. The teachers suck for 216, the course just got a rework this year, making it harder, and the homework/labs are unnecessarily hard. 215 is way more manageable, but you do need a good spatial understanding. At the end of the material in both classes is not bad, but 216s shitty design makes it way harder. 
+
+Also, for 215, take Serin Hong. Look at his rate my professor for more info. Hes insane.
+Sadly there’s no real way to know as it just depends on the person. Some people will get one really easily and hate the other, and others will be the reverse. 
+
+I’m taking 216 this semester and it’s alright for me, but if you don’t like 156, 216 does continue a lot of the topics and you have to be very solid with integration and integrating by parts.
+
+My best advice is try to learn a bit about each and figure out which one you personally think will make more sense to you, because it really is just dependent on the person.
+It definetely depends on the person, but I found 216 harder than 215. I think that calc 2 and calc 4 are similar, and calc 1 and calc 3 are similar. If you struggled with math 156 here (which gives you a much better workload and teaching environment than the nonhonors section), I would take 216 at a CC
+Hey, I was struggling with 156 too. Try to keep up with the content near the end, because the final wasn't bad at all if I recall.
+
+215 might be more useful to take earlier if you plan on taking Stats 412 or Math 217 (though 215 is only advisory for 217 I believe)
+Yes
+It looks a little rough but definitely doable with good time management

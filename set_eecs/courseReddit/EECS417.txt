@@ -1,0 +1,45 @@
+No bueno
+Replace 370 with 376
+not too bad
+[deleted]
+I took EECS 281 370 376 MATH417 and 2 other small EECS courses last fall and I would tell you it is doable before final week. 370 hws take you like 0.5-1 day/hw and there are 6 hws. 370 projects take you like 1.5-2 days/project to code and debug, and there are 4 projects. 281 is really hard, but staffs are pretty generous to give hints and optimization tips, especially one of your instructors, Dr. P. It’s hard to estimate the time (sometimes I need 1 week to optimize on my own), but if you feel upset about your coding performance, staffs will help you a lot (Dr. P will optimize my code in 1 minute). I would recommend Prof. Chan’s 417. She is really nice and passionate, and her exams and grade are reasonable. Final week killed me at last. I have very limited time to review, which ruined my 376 exam, which is my last exam. So be cautious before doing this, you need to manage your time well and, most importantly, start your projects as soon as they release the spec
+That doesn’t sound too bad! I’m taking both of them, Math 214, a history class, and a couple one credit courses and I’ve managed to keep up so long as I start decently early on each project. Outside of class, I’m working a part time job and  put in several hours a week to university extracurriculars, so I think it matches up with your outside commitment time as well
+Since you’ve taken 270, 370 is an order of magnitude easier. Your schedule is still really hard though…
+Usually the CS facebook group is more helpful with this stuff but if you want a tldr opinion it's easily doable. However if you are going into 388 without a partner you will be rolling the dice big time. Some 388 concepts depend on 370 knowledge but I think they cover stack pointers and stuff in 370 first anyway. One last thing I failed 214 because of one of the group projects and not studying for the the final, math 417 was much lighter work load and covered the requirement. 
+Everyone struggles with 203, don’t worry about that.
+
+I would recommend doing 370 before 388. 370 lectures tend to present information in a pretty confusing way, and you definitely want to have a strong grasp on 370 material before you get to 388. It’s possible the two classes would help clarify one another, but I’m definitely glad I took 370 first.
+
+I didn’t take 214 so I’m not much help there.
+
+I’d say if those three classes are the only three classes you’re taking, it shouldn’t be an issue. I’d be a little more wary of you took a fourth class but it’s definitely a reasonable schedule.
+I am currently taking 370 and 388 together, and it is fine. By the time 388 requires the concepts of 370, it will have already been taught.
+The main difference I would see is money. If you take less than 12 credits, you're a part time student, and the pay structure is different. I would figure out how much it costs to do it in different configurations.
+
+&#x200B;
+
+If money is no object to you, it's mostly about how you want to use your free time, and when you want to have it. You could take classes that you find interesting that are low stakes, put more time towards your out of school passions, or do more research. It's really a personal choice. Maybe free time matters more to you in the summer because you love hiking or maybe you'd rather have time to take an art class or film class in the winter. I don't think either one of them is "better" in any concrete way.
+217 sucks, it was 203 on steroids and just sucked. I hated it with the white hot passion of a thousand burning suns.
+
+270 is pretty cool but is not necessary for 370.
+MATH 419 is one of the most challenging yet rewarding classes I've taken at the university. My understanding is that it's more theoretical than 417.
+as far as 270 before 370, if you've taken Peter Chens' ENGR100 class I wouldn't bother. Even if you haven't, it's not entirely necessary from what I've been told. 
+If you just want to take a linear algebra class and pass, take 214. Also, I don't think it is worth it to take 270 before 370. I didn't and they go over the concepts decently well in 370.
+Take 270 if you want to understand how computers work.  If all you care about is writing code, you can probably skip 270.
+If you care to learn statistics/probability try Math 425. It's an easy class and fulfills your math reqs
+Does it have to have math in the title?
+
+If not, STATS 250 is a breeze
+well, I'd say that if you don't really enjoy math that you may want to think a bit more about transferring into CoE. Engineering courses tend to have quite a bit of math in them so if math is not something that you particularly enjoy, you might not enjoy Engineering.
+
+However, to answer your question, I don't really know of too many 'easy' Math classes, but I can tell you that MATH 216 is easier than MATH 215, and I know a lot of people in the College of Engineering that have taken 217. I would avoid MATH 425, it's cross listed as STATS 425 and is very poorly taught, or at least it was when I took it 2 years ago.
+
+What program in engineering are you looking to do? Since you've taken EECS 203 I'm assuming your looking into Electrical, Computer Engineering, or Computer Science, but if you want to do Computer Science you can take that through LSA and avoid having to transfer to CoE at all.
+[deleted]
+Stats might count, and stats 250 is pretty easy. 
+404 is an excellent course.  However, it is not considered a challenging course.  ME seems to be the exception, as most schools do not accept it as a viable graduate course, e.g., [(EECS, p. 5, pt 12)](http://www.eecs.umich.edu/eecs/graduate/ee/eeprogram_new.pdf) and [Aero](http://www.engin.umich.edu/aero/academics/grad/programs/mse).
+
+If grad school is your goal, then take the 451/452 sequence.  This sequence is a lot more work, but will open more doors.  
+I took Math 412, was pretty simple. Lots of matrix stuff and some transformations and studying algorithms, but actually a pretty laid back and interesting class, if advanced algebra is something you're into.
+I'm taking 482 right now and I HIGHLY recommend it. I honestly feel like it should be a required core class rather than an elective. Besides 281, this is the (seemingly) most useful and fun class I've taken.
+You could take 482/388/humanities next semester, then 381/math, and 485 with your senior design a year from now. You could then spend your last semester taking ML and other classes for fun, or maybe even graduate a semester early. 

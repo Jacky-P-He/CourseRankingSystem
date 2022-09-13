@@ -1,0 +1,329 @@
+There's some real world interacting with hardware experience in the 270 lab that I think is pretty beneficial for 373 in not getting totally blindsided by the labwork, although the hardware used is quite different. But if you're really passionate about doing a 373 project I'd say go for it.
+It's gonna suck but you can do it. It's critical that you get a good team together for 373. If you have to pull your team across the finish line by yourself you're gonna be in deep shit. With a team of reliable people and good time management you should be fine. 281 really isn't as bad as its often made out to be as long as you start the projects the day they're released and grind them out ASAP. Read every line of the spec multiple times and always check piazza when you have downtime.
+
+For reference, I took 473 and 482 plus techcom/eecs 496 and a PAT class. I had good teammates for 473 and 482 so it wasn't that bad. If I had had bad or just mediocre teammates for either of those I'd have been screwed.
+This last semester we were not able to do our own projects in 373, thanks to COVID. So the staff threw together a project that we all did individually and sent us the necessary parts to complete it. It was taking a STM evaluation boards, a Zumo chassis, a light sensor, distance sensor, and servo to setup a robot that would navigate obstacles and head toward a light source.
+
+In 373, they really just want you to understand the basic communication protocols (SPI, UART, I2C), how hardware and software interrupts work (priorities, how they are handled), setting up and using timers, generating PWM signals, and if a board has a FPGA being able to setup the things mentioned above using that. Probably the most important thing they want you to walk away with is the ability to read the spec sheet of a component and figure out how you communicate with it using your board.
+
+So any sort of project you can come up with that keeps it simple, but touches on most of the above will go a long ways towards showing competency in 373 material.
+So, I'll just say off the bat that 473 is pretty tough, and that if your background is not in ECE you will have an uphill battle ahead of you. It's a really fascinating class (easily one of my favorites) but it also very heavily builds on its prerequisites. Because the project is so central to the course and it is taught as an MDE, the project starts pretty early, which means you'll need to be fluent enough with the 373 material to start making high-level decisions about the design of your project from the very beginning (though lectures will start to help things like PCB design which won't need to be ready until midterm). I will say though that if you can make a link between your primary field and your project, it could make for a very interesting project!
+
+I think /u/Vessec has a good summary of the key takeaways from 373. I'm not sure what your advisor had in mind, but I would say the most important thing is being able to work with a microcontroller without using the Arduino IDE. That could be a dev board like the [Nucleo  F401RE](https://www.st.com/en/evaluation-tools/nucleo-f401re.html) used for the COVID-adjusted 373 projects last semester, or if you already had an Arduino you could program it [with another IDE and library set](https://www.eclipse.org/community/eclipse_newsletter/2017/april/article4.php) to get around the parts where Arduino holds your hand a bit too much. Memory-mapped I/O and using the microcontroller's internal registers are another important skill from 373 that demonstrate a good understanding of how things work in the microcontroller (even if they're often abstracted away by libraries of some kind). Also, if your main field is not ECE, you'll probably want to brush up on some EECS 215 circuit material as well. You can skate by without going into too much detail for many things, but it's good to know. 
+
+I wouldn't worry too much about FPGAs/Verilog if your goal is 473 - most groups don't use them. They have many applications, but in 373 I think they're more important as a teaching  tool for things like MMIO and timers. The same goes for assembly, even though the first few labs in 373 use it. In 473 you might look at a disassembled program while debugging or something but most of the programming happens in C/C++.
+[deleted]
+[removed]
+j
+[removed]
+j
+I took EECS 281 370 376 MATH417 and 2 other small EECS courses last fall and I would tell you it is doable before final week. 370 hws take you like 0.5-1 day/hw and there are 6 hws. 370 projects take you like 1.5-2 days/project to code and debug, and there are 4 projects. 281 is really hard, but staffs are pretty generous to give hints and optimization tips, especially one of your instructors, Dr. P. It’s hard to estimate the time (sometimes I need 1 week to optimize on my own), but if you feel upset about your coding performance, staffs will help you a lot (Dr. P will optimize my code in 1 minute). I would recommend Prof. Chan’s 417. She is really nice and passionate, and her exams and grade are reasonable. Final week killed me at last. I have very limited time to review, which ruined my 376 exam, which is my last exam. So be cautious before doing this, you need to manage your time well and, most importantly, start your projects as soon as they release the spec
+That doesn’t sound too bad! I’m taking both of them, Math 214, a history class, and a couple one credit courses and I’ve managed to keep up so long as I start decently early on each project. Outside of class, I’m working a part time job and  put in several hours a week to university extracurriculars, so I think it matches up with your outside commitment time as well
+Since you’ve taken 270, 370 is an order of magnitude easier. Your schedule is still really hard though…
+I would say that both those schedules are going to be pretty tough but relatively similar. Id say the main difference is that In 270 the labs are pretty tough, time consuming, and theres like 7 of them (if I remember right), but in 370 you get 4 projects which i found to be relatively easy if you understand the material. Some people might say that taking 270 first helps understand 370 but I didn’t really find that to be the case when I took it.
+If you are in CSE and would like to graduate with a CSE degree, then 370 is like your only choice…. I think you are required to take 370 in order to graduate. So good luck!
+Background: I've been teaching EECS 370 for a few semesters now.
+
+
+IMO students who take 270 before 370 generally do better and have a better understanding of the course material. It may be minute, but I think 370 is a much harder course if 370 is your first exposure to logic gates and binary numbers (This material is taught in 270). Having prior exposure is a big boon. 
+
+
+However, I do think 281, 370/270, and 376 is a pretty intense workload semester. Have you considered trying to do just 2 eecs courses and getting another required credit in like stats? Especially if you think you're a student who is more interested in low-level and hardware courses, taking 281 and 270/370 earlier is more important than taking 376. 
+
+I know when I was taking these courses, I personally scheduled it like the following and I think it worked out well:
+
+(Fall, 281, 270, + other req)
+
+(Winter, 370, 376, + other req)
+
+
+I also think EECS 201 is an excellent course, and should be a required course for the major.
+I took both last semester 270 was slightly higher workload than 370 but both were lighter than a class like 280. Probably something like the 203 workload.
+You’re not going to get embedded knowledge from LSA classes so you’re going to have to take the relevant ECE classes, but that means you’re going to need the relevant prerequisites, such as Physics 240 or calc 1-4
+Sure so about some of the classes you've listed:
+
+EECS 215 is like the first electrical engineering course. It really covers circuits and their analysis from an electrical standpoint (like volts and amps etc.) It requires Physics 240 as a co requisite/ pre requisite and is a circuit focus out of physics 240. It won't cover computer hardware at all, just electronic circuits. 
+
+EECS 270 is more like the first computer engineering course. It covers the building blocks of computers - abstracting away the physics. It is a hardware class. It is more on the logic gates level AND OR NOT, from 370. It has a small amount of overlap with 370. I know a few CS majors that took this course. 270 is required to take 373 (the embedded systems intro course) and 470. It's probably a better fit for you.
+
+You can also look at the classes that require 370, as those classes are bound to be hardware/architecture related. I've taken 482 and 373 out of that list, and 482 and 373 had a few concepts that overlapped / paired well with each other.
+EECS 373! You might be able to get out of the circuits (215) prereq or take it as a coreq if you're interested; 373 doesn't go too in depth on the electronics. 473 is the advanced embedded class which you could take if you like 373, but you should get all the intro knowledge you need to work on projects from 373 :)
+You can take over 18 credits with an override. Talk to your advisor
+You probably can't take it for less credits than it's worth but still get credits. You might be able to take a course not-for-credit, but otherwise you'd end up having to get advising to issue you an override and then pay the Overtime Student tuition rate, which you Google the specifics of if needed.
+485 has 2-3 person groups, not 4 person groups.
+[deleted]
+If a class still has a room number on it, does that mean it's in-person or that it hasn't been updated???
+
+Edit: okay. Some depts definitely have not updated yet
+Anybody know how we're supposed to know whether or not our class is remote or the department hasn't updated yet?
+What are the chances that Physics 136 will be remote?
+Although there's much more clearer information on which classes will be remote, hybrid, or in-person and when we will get to know individual statuses, how will we find out if a class is synchronous or asynchronous? For instance, can I schedule a discussion section for another class during the time of my ECON 101 lecture if the lecture will be recorded? Am I expected to attend all lectures live and only use recordings when I can't make it to class? How do I know which classes will be recorded and which won't? So many questions!
+I keep getting an alert saying I have a time conflict on my schedule but I can't figure out where. Any chance this is just due to some of my online classes not having set times yet?
+How is EECS 492?
+Is it confirmed that EECS 281 and MATH 214 will be online (or at least be accessible 100% online)?
+Where can I check to see if my classes are online or in-person? I know the deadline for departments to assign those tags to classes is August 7th, so I'm wondering if the process has already been started?
+Anybody know if MATH 214 will require “attendance” at the time of the lecture or will it all be recorded?
+If anyone has taken MCDB 310 in the winter, spring, or summer 2020, please let me know how it went online! need some input.
+Anyone have experience taking eecs 482 online last sem? Was it harder/easier/the same? Were there any major changes to the projects or exams after going remote?
+Is there a place to check if the section of a class you registered for is online? Do we need to change our section to one that’s online or will every section have an online format?
+I’m interested in taking a certain first-year seminar (section 002 of HISTART 194, to be specific), and the course guide shows that it has 9 open seats and that only 3 of them are enrollment management restricted seats. However, when I attempt to register for the class, I get an error message saying that all available seats are reserved and that I don’t meet the reserve capacity requirements. Anyone know what’s up?
+
+EDIT: Wolverine Access shows that there actually only 3 seats left (all enrollment management), so nevermind! Guess the course guide just doesn’t update very quickly or something
+Thoughts on taking EECS 445, 442, and 481 together? I’m going to be taking a few more credits that are relatively low workload.
+Do you guys think biochem and physics 135 together is manageable? Aside from that I'm taking biology 173
+
+Thanks!
+Has anyone heard anything about Ross classes being online or in person? I’m a transfer and can’t access that information yet.
+Is it frowned upon to email a professor to ask if they are teaching a specific course in the winter 2021? I need to take Econ 401 eventually, but want to have it with zamzow. Will he even know if he’s teaching it in the winter?
+If I use “swap” in wolverine access to change labs for eecs 183 but the lecture I want is full, will I be placed on the waitlist or keep my spot?
+Should I take STATS 250 or 280? 
+
+I have AP Stats credit for 180, but I'm okay with losing that if 250 is better. I see on Atlas that the 250 median grade is a B and 280's is an A-, but on Rate my Prof's and other Reddit posts about these classes, it seems 280 is much harder. I'm taking EECS 203, so I want to take the STATS class that's easier.
+I'm a junior and was looking to start learning a second language (Korean) since I fulfilled my language requirement with French. Now it says Korean is online (along with what seems like 90% of all language courses at UofM) and I'm wondering if I should just wait to do it in person because I feel like learning a language online is not as helpful as doing so in person/ I won't end up retaining a lot since the only person I can practice with is myself. What do you guys think?
+[deleted]
+LSA senior here, looking for recommendations for courses with relatively low course-loads/difficulty, that are 3-4 credit hours.  I have all my pre-reqs out of the way and I'm looking to take it easy at the end here.  Thanks.
+Incoming freshman in LSA – wondering about whether it's OK to take ECON 102 this fall and then take ECON 101 in the winter. I would normally take ECON 101 first, but the sections that actually fit my schedule have long waitlists (I'm also going remote so that limits the discussion sections further). In the case that I can't get off one of those waitlists is 102 -> 101 OK, despite 101 being an advisory prerequisite to 102?
+[deleted]
+Could anybody give any advice on what types of general classes to take as Pass/Fail? TIA
+Does anyone know what textbooks and such are required for STATS 250 and ANATOMY 403?
+
+When looking into it, it seems like the STATS 250 lab materials will be provided online anyways, but I don’t know if we need anything else for the class. For example, I don’t know if we have to also get a textbook for STATS 250.
+
+I couldn’t find any past syllabi for ANATOMY 403, so I have no idea what materials I need for that class either.
+
+I especially need to know if there are any materials that I can only buy on campus. I am going to leave the state with my parents soon since all my classes are online.
+ Will I be at an disadvantage If I take EECS 183 instead of ENGR 101 if I want to transfer to CoE
+Stupid question: where can you see whether classes are synchronous or asynchronous? I've looked on the course guide and wolverine access but I can't find anything.
+Has anyone taken ECON 310 (Money and Banking) with Dudek, ECON 396 (Topics in Macro) with Dudek, or ECON 412 with Blanco? How did you study for these courses? Any tips on how to succeed? Any advice is greatly appreciated! Thanks!
+If my class says “Distance due to COVID,” why does it say “TBA” for the room? It’s going to be an online class, right?
+Question for people who have taken Comp221 or Comp222: Was 221/222 a lot of projects and a lot of work outside of the lecture? (Can't see a syllabus on file) but since there isn't much access to computer labs anymore, do the classes require some expensive software that you need to get on your own computer? Can you take 222 without taking 221 and why? I Have decent music reading ability and am in orchestra just don't have much experience with composing.
+Will it be too demanding to take math115, and Stats 250 together?
+How hard would it be to take MCDB 310 and Physics 135/136 at the same time (alongside some psych/less intensive classes)? I’m trying to get A’s in both of them
+Does anyone know if Physics 236 will be synchronous or asynchronous?
+Is it a terrible idea to take Econ 402, Eecs 280, and Eecs 203 in the same semester?
+I’m taking math 115 but can’t find a syllabus or any course info (not even in canva). Is this normal?
+im a sophomore and I was wondering if it would be manageable to take MCDB 310, Biology 225, Physics 235, and Soc 302 together in a semester. How bad would this be? Am I setting myself up for failure? I already have taken other pre med “weeders” like Chem 210,215, Bio 171/172, Stats, etc and did well in them
+i'm taking stats 250, math 116, econ 102, and french 231 (im a sophomore btw). im afraid of having an unmanageable semester so im trying to decide if i should try to do both stats and calc 2 at the same time, and which one i should drop if taking both concurrently is a bad idea. for reference my areas of interest lie in econ or transferring to the college information/engineering with most of the prereqs already completed for both of those. just really insecure in my math ability, i guess...
+I have taken math 217 but haven't taken any analysis(e.g. math 297, 451). Is it feasible to take math 525? Thanks.
+Is it feasible to do all EECS 485 projects by myself? I'm finding P1 to be pretty easy, but I have prior experience with web dev and obviously the first project is usually the easiest.
+
+Thanks
+Any insights on SOC 315?
+
+If anyone can tell me about how the asynch format is going this semester lemme know
+What are some not hard upper-level math classes for a math minor? Not a big fan of proofs, I've finished the calc sequence but haven't taken any upper level
+Anyone have any insights about EECS 301? I've heard some bad things about it but the grade distribution doesn't seem too bad so not sure what to think
+Does anyone have any experience taking Biology 225 (Physiology) and Biology 305 (Genetics) at the same time? Is the courseload pretty difficult and would you recommend taking them separate semesters or are they manageable together?
+[deleted]
+I’m a rising sophomore and I plan to major in IOE and at least minor in CS. For the fall, I’m registered for IOE 202, IOE 265, IOE 373, MATH 214 and EECS 281. Will the workload be too much? I have some previous Python experience and I’ve done relatively well in 280 so I’m hoping 373 will be easy.
+[deleted]
+[deleted]
+Did they announce if foreign language classes online or in person yet?
+Thoughts on taking Math 214, EECS 281, and German 325+306. The two German courses are a total of 4 credits so this schedule is 12 credits.
+Does anyone know if the lab section of STATS 250 will be given online? I also have the same question for PHYSICS 236, the discussion section of CHEM 215, and the discussion section of MCDB 310. I know that the corresponding lecture sections of these classes are guaranteed to be online if student numbers exceed 45 according to LSA, but I’m unsure about the smaller sections, and I would like to take all of my classes online this year.
+My fywr is listed as ARR on Wednesdays (location to be arranged, i figure) and REMOTE on Fridays. Is this how the hybrid classes will be instructed? In person one day of the week and online for the other?
+2 Questions from a freshman: 
+
+1. How manageable is [this schedule](https://imgur.com/a/9S9FkkJ)? I've heard some say the workload is rather intense.
+2. Both labs for EECS 215 are closed. My advisor said that this was fine, but it's still concerning given that I'm already waitlisted for EECS 200. Is there still a decent chance I can get in?
+I'm a freshman going into LSA but planning to transfer to CoE.
+
+I know there's a list of prerequisite classes I need to complete, but do I need to get a certain level of social science and general credits to transfer also?
+ Hi! I'm going to be a freshman this fall at the College of Engineering (Major is computer science) and as my advising day is nearing, I'm deciding on which courses to choose.  
+So ideally, for the first term, I've been told I should pick an Eng course (either 100 or 101/151), a Math course (calc 1 Math 115), a science course (General chem or physics, I'll be taking chem) and an Intellectual Breadth or General Electives course (the EAC module in canvas highly recommends you to take Eng 110).
+
+  
+However, after a few hours of research and consulting with a senior at UMich, I've found out about **Major GPA**, which is the **average GPA of all the EECS courses** I'll take. I've been told that, when I'm looking for coop or internship opportunities in my second year, employers mainly check my **Major GPA,** not my overall GPA (**average GPA of all the courses I'll take**), which makes sense because they want to see how I performed in my CS tests, not in my History tests (if I took any). This leads me to believe that taking EECS 183 (an introductory cs course) instead of eng 100 or 101 is more effective as it will contribute to my major GPA (eng courses don't contribute to major GPA as far as I've been told) and will prepare me for EECS 280 for a future term. However, there is no mention of the EECS 183 course in the Engineering Advising Center-course module, only mentions of Eng 100, 101, Eng 151, and EECS 280 can be found.
+
+  
+So is taking EECS 183 the right choice for the first term, over ENG 100, 101, or even 151? Which course better prepares me for EECS 280? 
+
+  
+Also, I plan to do a minor in business so should I take Econ 101 instead of ENG 110? Or is ENG 110 important for first term engineering students? 
+
+  
+Ultimately, here's how my informed course selection looks like **EECS 183, Calc 1 (Math 115), General Chem (130, 125 and 126), and Econ 101**. That's 17 creds. Keep in mind I'm going to be doing my first term online-only, as I'm an international and the chances of me arriving in Ann-Arbor by August 31 are slim.
+
+  
+Any guidance or advice is highly appreciated, as I might be wrong. Thank you!
+Incoming freshman hoping to major in CS  CoE. Does this schedule look manageable for the first term? https://i.imgur.com/D6qPxkZ.jpg
+
+I’m coming in with a lot of AP credits so I’m able to get a head start on CS specific classes, but that might make things a bit harder.
+Has anyone taken ALA 125 before? Is it worth the two hours a week?
+  I'm registered for a Waitlist position for one of the sections for EECS 183 that I believe best works with my schedule. There are only a few other students who have been waitlisted prior to me. I was wondering the chances of me being accepted into this class and allowed to enroll and attend.
+[deleted]
+I'm planning on taking CHEM 352 in the fall. I took biochem last fall. Do I need to remember a whole lot from that to be successful?
+I received an email about how AP scores have been released, but I haven't found them. How do we check our AP exam scores on wolverine access? I've looked everywhere and haven't found it. My unofficial transcript also only shows the scores I sent for previous years.
+thoughts on educ 118 and psych 112?
+Hello! I’m a community college transfer student. I’m taking mostly Geography/history courses this fall and two have already announced that they will be remote. I’m curious to know if remote means there will be live lectures at the scheduled times classes were supposed to meet or if the class will be held in some other format? I’m assuming this is somewhat course specific, but just wondering what the overall feel for remote learning for these classes looks like. Any insight would be helpful! :)
+For anyone that took/is taking stats 250 over the summer, how would you say the difficulty and workload of the class is like online? I haven’t gotten any news about it in the fall but I’m assuming it’ll be online
+Is this schedule manageable as a CS-LSA sophomore? EECS 203, EECS 201, STATS 280, FIN 302, ANTHRCUL 101
+My current schedule is EECS 370, EECS 376, MATH 214, PHIL 183. I am debating dropping PHIL183 and taking EECS 485 instead as it's a really cool class. My only worry is that it may be too much work to do decent in all of my classes. Curious about how workload is for people who have done these classes or have insight
+[deleted]
+Hey everyone! 
+
+I was admitted into Ross for the fall and I am planning on pursuing a dual-degree in Data Science. I just have a few questions
+
+Could any DS majors share their schedules with me? 
+
+Does EECS 183 meet the 3-credit MSA and QR requirements even though it's a prerequisite? 
+
+Can an advanced technical elective be double-counted for my senior capstone?
+
+What Ross and DS credits can I double count because I'm so lost? 
+
+Would this be completable within 4 years? I have over 30 AP credits (Ross only allows 30) including Calc BC (I'll use my credit for Math 115/116 and just do Math 215) and Stats (does that help me?). 
+
+Thank you so much for your help!
+My EECS 445 discussion still has a room, but my EECS 485 lab is remote. Will there be remote EECS 445 discussions I can attend?
+Updated my schedule to add a class, now running 16 credits: https://i.imgur.com/6jr6UMF.jpg. Is it too much taking EECS 280 and ENGR 100 in the same term? My ENGR 100 section is 650, Gaming for the Greater Good.
+Does anyone have the lab manuals for the labs of EECS 216/230/311? I would like to see if these labs are worth paying for the in-person experience. So, do the labs need to be done in-person to get the most out of them, experience-wise?
+
+Also, if anyone has personal experience with these labs, please pm me if you can. How is the workload, complexity, physical circuit design versus coding, etc.
+
+Sorry if this post is vague. I did not want to make this post long. Please pm me for further details.
+What is the typical freshman year schedule/ courses for Ross students pursuing finance?
+
+Trying to make my schedule but have no idea what courses to select aside from the required ones for Ross. Looking for any recommendations. I also got a 5 on my AP Calc AB. I don't know if that means I can skip math or what math course to take. Please help :) Thanks!
+What is IOE 425 like? Taking it as a flex tech with 14 other credits (so 16 total). Kind of reluctant due to it being 2 hours twice a week online
+Hello, thanks in advance if anyone helps out. I have two questions.
+
+1. is there a way to possibly take a class without having done a pre req? I want to take bio 305, but have yet to take bio 171.
+2. if there is no work around for my question above, I will probs take bio 171 in the fall online. Does anyone know how that may be?
+
+Thanks again.
+Anyone taken Biomede/EECS 417?
+anybody know if labs are still in person? the schedule shows that all the classes are now remote but the labs are still showing up as in person. are they still figuring it out or are labs going to actually be in person? if so, can we still somehow ask to do the labs remotely?
+thoughts on eecs 320 or 434?
+more concerned with 320 but if anyone has insight on 434 that would be great
+Manageable choice of classes?
+
+ASTRO 104
+
+MATH 115
+
+PYSCH 111
+
+ENG 125
+
+UROP
+do you guys save or delete your eecs projects after the course? it might be good to look back at them but I don't want them to take up space
+What is override? Can someone explain how this works?
+Is chem 125/126/130 gen chem 1?
+Is my schedule too demanding?
+
+EECS 183
+
+COGSCI 200
+
+Math 115
+
+ASIANPAM 214
+I'm looking to take care of my Social Science distribution credits and I was wondering if anyone has gotten SS credit for Econ 401 (I see that 101/102 give credit for it but I'd rather do 401). For reference, I'm not majoring or minoring in econ so would it be possible to get distribution credit for 401?
+Any tips on how to succeed in Econ 401 with David Miller or Econ 412 with Julio Blanco? Would really like to get a head start on learning some material before the semester begins but don't know where to start. Any advice would be appreciated! Thanks.
+I am going remote and was wondering if I have to watch Econ 101 lectures live, or are they recorded so I can take another class during that time? (I'm aware that discussion section has to be done live, for obvious reasons).
+Is EECS 485, EECS 445, ECON 102 and EECS 399 manageable in one semester?
+Just snagged a spot in EECS 493. I'm taking 485 alongside it and I'm wondering about what others think about this combo (not in terms of do-ability but content-wise)? I've heard it's a blow-off class. Did anyone take it WN 20 and how did the group project part go?
+Anyone have experience with BME 221 labs?  Will they translate well to remote lab?
+guys i'm on waitlist pos 2 for an eecs 370 discussion. am i gonna get off it lol
+Has anyone taken CEE 265? I’m planning to  take it as a flex-tech in a high workload semester. The material seems relatively easy, but I’m a bit apprehensive of the B median curve  shown on Atlas.
+Also, could somebody recommend a well-received and interesting 3+ credit HU class? Thanks!!
+Chance getting off of Stats 412 Waitlist, I'm at 29 position on the waitlist?
+Anyone have experience/thoughts on SI 388 or SI 588?
+[deleted]
+Hello, I have some questions about EECS 496. Does it have recordings? And does it require attendance? I will be in a completely different time zone so I don’t want to take courses at around 2am...... Moreover, I am CS-Eng student and I haven’t taken my MDE course, which I plan to take in Winter 2021. Does anyone know whether I can take EECS496 before taking my MDE course?
+Hey! Have any of you taken Chem 440/Biophys 440? I haven't been able to find much info about the course/prof. The course average is an "A" but I wanted to know how the course was and if you all have any advice.
+Hello. I'm planning on taking ACC 471 by Prof. Drogt. However, I'm unsure whether to take it pass/fail or graded. FYI, I'm a senior in psych major.
+If anyone had taken the course before with Prof. Drogt, could someone please tell me how hard the class is, and possibly advise me on whether to take it pass/fail or not?
+Hi :) 
+
+Okay so I need some opinions (rising sophomore) if anyone has time and input. My current schedule is - 
+Chem 210H, Chem 211H, Spanish 231, and Chem 262. I am also in a research lab which is a time commitment in and of itself. Right now, I’m at 13 credits. My friend is taking History 375 (cross listed as women’s studies 375) aka History of Witchcraft, and I really want to take it with her. But that puts me at 17 credits. I heard Chem 262 is pretty time consuming plus there’s orgo. Does anyone have experience with history 375 or any input on what I should do? Thank you
+Does anyone who have taken stats 306 before know if the labs are mandatory?
+Does anyone if it would be manageable to take Bio 225, Physics 135, and Chem 215 at the same time? My fourth class would be Psych 111 and I'd be doing research as well.
+[deleted]
+Hi! I’m an incoming Freshman at LSA and I’m wondering if anyone has had experience taking chem 210/211 simultaneously with math 285 and can detail their experience with it; if it’s doable and if you would recommend it. Thanks
+What is Chem 261 like? Anyone ever take it?
+Hi everyone, I was wondering what the chances were of getting off the waitlist for English 124 being 3rd. Thank you.
+Any tips to prepare in advance for to301 at Ross?
+I'm taking CLCIV 101. If anyone took this class, can you tell me how it is?
+Has anyone taken EECS 402? Is this the graduate equivalent of 280?
+Has anyone worked a part time internship and done EECS 482 6 credit and another less time consuming EECS class? 
+I have the opportunity return to my internship in the fall to work around 20 hours a week that are flexible and remote. 
+Currently I plan on taking 482, 477, tech com 300, and an easy filler class plus part time internship. I already have a good group for 482 where all the members have strong coding and communication skills. Is this schedule doable?
+easiest ulwr??
+Anyone taken ECON 401 with David Miller? Any tips on how to prep for exams/what was the level of difficulty? I took ECON 402 first and got an A, so I'm wondering how 401 compares with 402.
+Would anyone that has taken ASIANLAN 216/217 (Second Year Hindi II) mind providing me with any coursework or assignments? 
+
+I am trying to place out of my language requirement with Hindi and I want to make sure that I know how to do this stuff.
+Currently #1 on waitlist for discussion section but should I take econ 101 with proulx this semester or just wait on it? Currently have astro 101, polscis 111 and 140, and history 101 and would need to drop astro for it. Wanna get it out of the way sooner than later but am looking at law school so gpa is big for me
+Anyone know if Matscie 250 online is asynchronous? I would like to take it but it doesn't fit my schedule.
+4th year, non-math major. Looking to take MATH 116 to refresh my math skills. Do these tend to open up in the first couple weeks or should I spend more time looking for different options? Thank u :DDD
+what do you think chem 125 will look like online? will we be simulating labs?
+[deleted]
+Anyone have experience taking STATS 451 the Bayesian course? How is the workload and the professor? Really need suggestion here. Thanks in advance!
+Will taking EECS 484 (Databases) without having taken a data structures course prove difficult? I have some previous programming experience with C++ and Java, but haven't taken a formal data structures class like EECS 281.
+I’m 7th on the waitlist for a Psych 230 disc session, since they’re all online what are the chances that I’d get off the waitlist/get an override into any of the disc sessions (I’m open to most of them but most of them are 5+ waitlisted). Not sure if it’s worth it to email about it
+I need to get into a CHEM 125 remote lab. I'm currently #1 on the waitlist, but there are plenty of available seats for the "in-person" sections. Should I just wait it out on the waitlist or switch to an "in-person" section now considering we'll probably be completely online like other schools?
+[deleted]
+For those who took ANTHRCUL 101, do u know if the required textbook, 18th edition, is the same as the previous versions? Do I have to get the latest edition, or will earlier ones suffice?
+is it fine to take eecs 370 and 376 this semester then take 281 next semester? for some reason i can't register for 281 even though i have both prerequisites and was able to sign up for 370 and 376. would a really long gap from 280 (took winter 2020) affect my performance in 281?
+If I'm in waitlist position 1 for an in-person math 115 what are the chances that I get into the class? Also if I don't get in any recommendations for an easier class to fulfill the requirement for international students to have at least one in person class?
+I'm 20th on the Stats 412 Waitlist, any chance of getting off the waitlist or no?
+I an taking Chinese 101, is the textbook Integrated Chinese available as a PDF i looked on l*b g*n and got something but it had a different cover.
+[deleted]
+I’m a transfer student so I’m wondering if my schedule will be too much this fall considering all these classes are online? It’s 17 credits, but I’ve taken 16 before (also university level) and it was fine
+
+English 124, WGS 220, biology 173, CHEM 216, physics 141, ASIANLAN 235
+Hey guys, any idea abt the workload and level of difficulty for TO450? Provided I’m majoring in stats but haven’t taken any excel courses. In addition, any 1-2 credit business courses recommend without any prerequisite to enroll? Much appreciated
+Hey guys I'm looking for a personal finance/accounting class that isn't too hard preferably 1-3 credits. I also wanted to ask if ES 212 aka entrepreneurial business basics was worth taking or not for those who have taken it.
+Has anyone taken Bio 192 (Accel Bio)? Any advice or recommendations? I took AP Bio and IB HL Bio in high school and I'm wondering if it'll be similar to those.
+I'm a high school senior interested in taking genetics (bio 305). I was thinking about this or microbiology, but microbio has a lot of waitlisted people so I don't think that's possible. However, I've heard 305 is very hard. Would it be too much for a high schooler? I know a few people in my school doing it, so I would have people to study with. Idk though.
+I just wanted to know if there are chats for individual courses or smith similar. Hopefully this fits in this thread.
+thoughts on the workload of taking both Math 215 and Chem 210/211 at the same time?
+Anyone take CLCIV 257 Ancient Law?
+How’s Spanish 232?
+Is there no chem 210 lab? I’m not signed up for it, but I am signed up for the lecture and discussion.
+Has anyone taken STATS 451 or 406? Interested in what material the courses cover
+Anyone taking eecs442 this fall?
+Is anyone taking COGSCI 445 and haven’t gotten any communications or been added to canvas? I haven’t gotten anything and I’m wondering if I’m the only one struggling to figure out what’s going on. Appreciate it!
+If I'm on waitlist position 7 for math 412, do I have any chance?
+For those who took 482 in the Spring Summer semester this summer, how was it? Spring summer was the first fully remote semester for 482. Were there difficulties such as OH wait time or something else?
+What is the difference between MATH 286 and 316? I know that 316 requires linear algebra knowledge but the content still looks very similar.
+EECS 484 vs 388. I know this question has been asked before but I both class have changed recently. Both classes seem interesting to me. I'd rather have straight forward projects so 484 seems appealing in that aspect. But how are 484 exams and homework?
+Would taking eecs 376 and eecs 370 together with 2 other humanities classes be an issue? How heavy is the workload?
+I know the first webinar isn't until Friday, but did they cancel Entr 407 for this term? I just enrolled 2 days ago, and am not sure if there is a canvas page associated with Entr 407, or do they just send the zoom links before each webinar? 
+
+Anyone who is enrolled in Entr 407 that can give some insight on what resources for the course they have access to right now?
+
+I tried getting in touch the the Center for Entrepreneurship, and haven't received any feedback on the course. Does anyone know who I am supposed to get in touch with?
+Anyone have the pdf for the polsci 160 book?
+I want to transfer to engineering and I have to take physics 140. Is it possible to do well in this class if I've only taken 1/3  of the calc1 class? I had to drop calc over the summer due to covid and cacl1 is advised for physics 140.
+Is it better to take EECS 481 after having internship or before having internship experience?
+
+Thanks in advance.
+I thought so, but looking at the course guide, it looks like all the lab seats are restricted to IOE majors or CoE undergrads. Contact the department and Professor Guzman to see if a waiver is a possibility after IOE students are accommodated. 
+
+That being said, I'm an IOE alum and I don't think it's a particularly awesome class. I'd be surprised if it was the best thing UMich offered on data processing. There may be alternatives in EECS, the School of Information, or Ross. 
+IOE 373. Data Processing
+Prerequisite: ENGR 101. (4 credits)
+Introduction to the systems organization and programming aspects of modern digital computers. Concepts of algorithms and data structure will be discussed with practical business applications
+
+Sounds like EECS 280/281 but maybe on the lighter. You could just take that instead.
+Why a virtual machine, why not dual boot?
+
+Anyway you aren't going to be working on enterprise level stuff here, I never ran into anything that took too long to compile 
+Why not just SSH into CAEN? That way you don't have to worry about matching software versions, slowdown from virtual machines, or compile time. It's worth knowing how to use vim or emacs via terminal. And you're going to need to use CAEN anyway, because you need to make sure your code runs properly before submitting it. CAEN is also mandatory in some of those classes (e.g. 470) because you'll be using expensive tools that you won't be able to run on your personal computer.
+
+If you really want to use a GUI text editor, you can pretty easily set up a git repo on both your laptop and CAEN account. Then you can do all your coding locally (useful if you don't always have a network connection) and have a CAEN SSH session where all you do is type "git pull" and "make". 
+I would say yes, it's enough.
+you should work in the BBB lab or UGLI basement as much as possible. I started doing a lot better in my eecs classes the more I worked in the lab. I caught many office hours while working there, learned things from other students, met other eecs students, which in turn helped me make friends with other eecs students. Working the lab can help you directly and indirectly in so many ways.
+If you can get a seat in IOE 202, it is not a hard class. It's an introductory 200-level course, and it's only seven weeks long.
+
+IOE 434 is one of the best classes I took in the department. Professor Sarter likes it when non-IOEs take the class, so she might give you permission to take it without completing the prerequisite course, IOE 333. I wouldn't call the workload light or heavy.
+
+IOE 436 would relate well to CS, but I haven't heard great things about Paul Green.
+
+IOE 425 is seven weeks long and isn't too bad of a workload. The instructor is polarizing, to say the least. (People love her or they hate her.)
+
+IOE 333 (Ergonomics) was popular with non-IOEs when Yili Liu used to teach it. I don't know anything about the new instructor. 

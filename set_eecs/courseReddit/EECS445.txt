@@ -1,0 +1,168 @@
+There is a lot of overlap between those two. If you are taking EECS 445 at the same time, then EECS 445 should be pretty easy since you would've seen most of the contents
+Idk if it’s doable but it is double
+I'd honestly avoid taking both EECS 445 & EECS 445 at the same time. Such a high concentration of 445 could tear a hole in our universe's fabric and open portals into other dimensions. Beware, for the multiverse is a concept about which we know frighteningly little.
+I imagine that eecs 445 plus  itself would have to be doable
+Yeah it’s so doable that I’m not sure if the registrar would allow you to register for those classes together.
+Doable
+I recommend against taking the same course twice in the same semester
+EECS 890
+Have you taken EECS 445? If you have, I’d say it’s about twice the amount of work as that
+The answer to all these questions: it’s up to you
+It depends. Both are pretty heavy in projects and homework, with 445 being a lot of practical applications of calculus and linear algebra and 485 being a lot of different material. I would say they are similar in time spent, with 445 being the more difficult of the two (unless you are really good at the math). It's possible to take both, just manage your time well and I would reocmmend having a good grasp of web development (flask, SQL, etc.) beforehand as well as all the math needed for 445. 
+
+Also 445 I recommend taking it with friends or forming a study group as it makes it so much easier to reasom through stuff. Similarly, 485 becomes a lot easier if your project partner and you are on the same page and both have knowledge of the subject.
+wdym by EECS 445 and 445?
+do you mean 445 and 485? I've done the same before that's why loll
+485 + 445 is kinda heavy imo. Not impossible to pull off, but avoid it if possible
+yes very
+Spoiler alert. Professor who teaches 442 didn’t even take calc3. The only thing I used that is from calc 3 is partial derivative because you need to understand the backward pass of neural networks. I believe this topic will be covered in both 442 and 445. However, partial derivative is very easy if you know how to do normal derivative. It’s not a tough topic that is going to get you. 
+
+My advice is, regardless which one you choose. Definitely brush up your linear algebra skills. Especially, how to manipulate matrix and vectors. Programming side, definitely pick up Python specifically Numpy, torch and matplotlib. You will be doing linear algebra in Numpy and Torch. Matplotlib is mainly use for visualization. It sounds unnecessary but being able to quickly visualize your dataset is so helpful when you debug your code.
+I’ve taken both and haven’t taken Calc 3. They are both manageable and don’t heavily rely on topics specific to Calc 3. There may have been small things here or there, but as long as you can take derivatives you are fine. Look into 492 as a more gentle and less mathy introduction to ML/AI(mainly ai). The biggest thing you should probably weigh is the time you can dedicate. 445 workload > 442 > 492. Even without a strong background in math, you can do well in any of these courses given the time and effort
+I took both of these classes but in separate semesters. 
+
+If you don’t have web dev experience and is a bit rusty on your stats/linear algebra, then I’d say each class by itself is easily equivalent to 281. 445 is a lot of theory and 485 is a lot of googling/busy work. 
+
+If you do have prior experience then they are not too bad I guess. 
+
+I would say take an easy 3rd class lol.
+It's possible yes, but not if you take 445 and 445 at the same time. Two much too handle.
+If you also have some internship experience, then 485 should be relatively easy.
+
+445, unless you have a math background, will be a lot of net new and require a bit of studying.
+
+If you've done neither, then if you got an A/A- in 280 and 281 and didn't struggle to much on the projects, it's doable.
+I'm in 445 right now and it's really great! I haven't taken 492 but from what I understand, it's a mostly theoretical class, while 445 has you do projects involving pytorch and sci kit learn and whatnot. I recommend 445
+EECS 445 is really rewarding and it’s medium workload. The professor is also really good and it’s the only class this semester where I actually look forward to going to the lecture in person. 
+
+I haven’t taken EECS 481 but it’s a really low workload class with little programming assignments and mostly just readings
+It’ll depend on your waitlist position.
+
+Also if I recall correctly, you can be on the waitlist for as many classes as you’d like. If you are worried that you won’t get off the waitlist, I’d recommend registering for both classes. That way if you don’t get off for one, you might get off for the other.
+I ended up staying on the waitlist for a month before they suddenly decided to take me off. Don't wait for the profs to do anything. Just sign up for another course instead
+Yeah I think 445 did. Idk the %
+You have to take a certain number of ULCS classes, and it is probably helpful to your chances of getting an ML-related internship or job to take 445, but otherwise it probably doesn’t matter too much which ones you take. 476 (Data Mining) is an ML-adjacent class and had a bit lower workload in my opinion, although it also wasn’t run as well as 445.
+Take what you want to take. Well it look good? Yeah ofc, but so do other ULCS (482, 491, etc)
+4 (roughly) bi-weekly hw assignments (25%) and 2 projects (20%), then a midterm (20%) and final (25%) plus short weekly open-note/unlimited time online quizzes (10%, full pts if you get at least 66% across them all)      
+
+even though you get 2 weeks to do most of the hw/projects (a couple you only get a week but they're shorter), I've been a dumbass and started most of them the last day or two and still been okay if I pulled an all-nighter, plus you get 3 late days for hw and 3 late days for projects so there's a nice bit of a buffer just in case
+
+i would say it's just mostly theory stuff and not so much application, to my disappointment, but it's still sorta interesting if that appeals to you
+[deleted]
+442 has a good amount of overlap with 445 esp with the neural networks stuff. 442 is much easier than 445 and still very useful.
+A little late to this thread but thought I would add my $0.02 as I took all three of these classes. I would say that 492 is a sort of survey/background info for the field of AI in general (ie you can think of 492 as a superset of 445). There is a lot of focus on classical AI methods and integrating 203 (Boolean algebra) and math 425 (probability) into AI. The class is still far less math than 445. 
+
+As others mentioned 442 has a good amount of overlap with 445 but will generally be a bit easier. 
+
+I would rank the difficulty of the classes as 445 >> 442 > 492 and usefulness as 445 > 442 > 492. 
+
+I personally found it worthwhile to take all three courses but thats because I plan on working in the ML field as a career (fingers crossed). Hope this was somewhat helpful!
+I'm friends with an IA for the class, I'll have him post the link here if it exists. They're def p helpful we started one for 370 this sem and it's gone p well so far
+second this, i would ask on piazza but they’re so strict about the posting policy
+545 is a great class. Highly recommend it. It’s not easy, but it’s very rewarding and you learn a lot in it. Possibly the big difference is that in 545, you might have the algorithm explained to you, and then might be asked to (1) derive the crucial step in it, (2) implement it in Python, and then (3) see how it performs on a provided dataset. Other classes might only ask you to do (2) and/or (3).
+I would assume the EECS version is a lot more theory and probably requires more math knowledge than the SI version considering SI 670 is applied machine learning (focusing on how to use machine learning in the real world; I get emails asking for real world datasets that the students can use for that course every few months) while EECS 445/545 is just machine learning and has warnings about making sure you have a strong foundation in linear algebra/probability before taking the course. You should be learning basically the same general ideas in both. I think the main difference would be how deep into the math and theory you go.
+
+It depends on if you care more about application or theory. Generally, SI focuses more on immediate real world application (skipping a lot of the theory or only giving you enough to do what you need but not doing a super deep dive) while EECS places much more emphasis on theory. Theoretically, you can get away with super good grades in all the SI ML related courses with zero college math or only one intro statistics course (doesn't mean no math abilities, just able to understand and learn the minimum required math on the spot). I would assume that is much more difficult to pull off with the EECS versions.
+
+SI tends to be very good at having an updated syllabus on their website [here](https://www.si.umich.edu/programs/courses) and EECS tends to have at least one older version of their courses on a website if you search for it. EECS might switch between matlab/python depending on professor, SI tries to do everything in python/keras if you care about language/tools. 
+
+EDIT: readability
+I took 445 last sem and can say that's it's a lot more theory heavy than the SI one (probably), I feel it helps you learn the concepts better but that's just personal opinion, if you've taken calc1-3 and linear (and 281) then I'd def try 445 if you like more theory heavy classes
+I took SI 670 last fall. It is a good class if you’re taking an ML class for the first time but like the other comments there’s not a lot of theory about ML that’s taught in this class, which is something that I now wish I had more knowledge about. One big critic from the students was that this class did not have any linear math or matrix math as is requirement but being knowledgeable in linear math was expected by the professor. Being from the CS background I had no issue with that but it was a hurdle for some
+How did you like EECS 445? How much work were the projects relative to the homework and understanding the material? Which other eecs classes have you taken and how does this compare?
+[deleted]
+I don’t know, I’m not an EECS student.
+They said it would be published tonight. If you're enrolled in the class it should show up automatically on Canvas. You can manually join the Piazza if you want. Right now the only post on there is someone asking this same question.
+You honestly don’t need to prepare much, the course is pretty self contained. You could freshen up on gradients and some basic linear algebra / properties of matrices if it’s been awhile since you’ve used them, but it’s not necessary to do well in the class. Learning a bit of Python will get you going faster on the projects, but again that’s not really necessary.
+I haven’t taken either yet, but do know that Stats 415 has Stats 413 as an enforced pre-req and is thus usually taken by Data Science majors. I have heard that 415 is much easier than 445 tho
+I've taken Stats 415 with Jeffrey Reiger last term and it was a great experience. Even though it was only his first time teaching it here, he was thoroughly prepared and always addresses each students individual concern about the class. He also curved class to median of A- making it much easier than 445 to obtain a good grade.
+
+Edit: I didn't take any other stats courses except 250, he listed all prereqs as advisory.
+I've taken both classes. If you are a CS major, I think it makes sense to take 445 because it probably aligns better with your requirements. In terms of the actual classes 445 is highly theoretical and 415 is mostly applied. I feel like 445 was more work, but I may also be biased because I dislike doing theoretical work. Both were curved to about an A-.
+
+In terms of content I think 445 covers neural networks and bayesian networks more, while 415 goes super in depth on trees.
+"If you haven't taken either of these classes [math 215] in some capacity, then I would strongly caution you against taking this course if you desire to get a solid grade. If you're just there to learn, it might be worth it. It is an incredibly math-heavy course. It may as well be a CS-flavored math course."
+
+Is what someone replied about in an EECS 445 thread earlier today. Did you look at that thread? 
+There are two very important units of study in 445 that rely heavily on conceptual understanding of multivariate calculus topics, and they are:
+
+1) SVMs.
+• The mathematical derivation for this ML model relies very heavily on an understanding of Lagrangians and the gradient, both topics from Calc III.  You will be tested and homeworked on your ability to do this type of math.
+
+2) Neural Networks
+• The notion of backpropagation, which is the whole reason that neural networks work, relies on an understanding of the gradient, and the homeworks/exams will require you to be able to compute gradients.
+
+If you have never even broached the subject of taking the gradient of a multivariate function, I imagine you will have a very difficult time truly understanding these two big units. Proceed with caution.
+Well damn
+Honestly linear algebra is probably the least of your concerns for 445. Toward the second half of the semester, you'll need a really solid statistics background (mainly probability). For the beginning, your best friend will probably be your Calc III knowledge, particularly computing gradients and understanding Lagrangians. This is what I struggled with the most, as I hadn't taken Calc III at Michigan and it had been over 2 years.
+
+The most linear algebra you will need is a firm understanding of matrices and matrix multiplication. In one lecture, it will be helpful to conceptually understand eigenvectors/values. Some advanced concepts are very briefly used, like the Jacobian or Hessian or whatnot.
+From my understanding (what I’ve heard from our peers), 545 is just 445 for grad students.
+You just need to know fairly basic matrix multiplication and a bit about eigenvalues/eigenvectors so if you're solid on proofs it shouldn't be an issue
+If you already took 295, then it is doable. To my knowledge, 217 covers almost the same material as the first half(ish) of 296. Just be sure to do a lot of practice problems so you retain the material.
+If you got past Math 295, you should be fine self studying enough linear algebra to understand 445 material. 
+The most important thing you need for EECS 445 is Bayesian statistics, although vector calculus and linear algebra are necessary to have some familiarity with as well.
+Did you take 296? because if so you're all set and there's not much preparation you'll need to do other than review. If not, you'll definitely be able to self study the linear required, from what I know you just to have a strong linear foundation to succeed in ML. 
+I'm like 96% sure that it's going to be an enforced prereq in the future.
+You can do it. I did, and I'm really not good at math at all (I only took Calc II at a community college lol).
+
+I'm pretty sure the people who took math 217/215/425 were just as confused as I was when the math was getting scary. It wasn't easy and sometime I felt that my lack of math chops stopped me from appreciating some of the concepts, but it was alright. 
+
+
+The math toolset you need in 445 has some pretty exotic things in it, but it is small and you re-use the same tools over and over. Eventually, you get the hang of it. Good luck! 
+445 Machine Learning - I had this class with Jacob Abernathy and Jia Deng. They each taught half the course. Abernathy is awesome, really nice guy. Jia Deng is pretty quiet, super focused, but he's not a bad instructor. Abernathy talks so damn fast though, on the lecture recordings I would slow down his voice. 
+
+Honestly, nobody in class knew what was going on. After the first midterm, we had a meltdown on Piazza. A ton of people dropped the class, and we spent the next week and a half just reviewing.  The class is very advanced. If you don't have STATS 425, 426, and Linear Algebra, do not even think about taking it. You will struggle A LOT. The class is VERY stats heavy. 
+
+I'm not sure if they made the class easier since when I took it. We were told that there wasn't a good introduction to machine learning book, and that this class is technically a graduate level class. Yes even though it's a 400 level class, that's just what the instructors said. I felt like I learned basically nothing in the course... which is sad and of course my own fault. A lot of the material didn't click --- I took this class BEFORE I took 426. And I took Linear Algebra and 425 like 3 years prior. So I forgot a bunch of stuff.
+
+However. I passed. Pretty much everybody passed. They curved the grades like the bullets in the movie Wanted with Angelina Jolie. Many of us were certain we would fail. But one of my friends even got TWO standard deviations below the mean on our exams, and he still got a B-. They were VERY generous with the grading scheme at the end. The homework and projects were hell though. Make sure you have a good team. 
+
+____________________________________
+
+EECS 484 - Database Management Systems. The class is "alright". The first half of the class is useful. You learn a lot of SQL. The second half of the class seems more of a waste. You don't use SQL anymore, and design a relational database. 
+
+The projects in the class are poorly written. There were so many versions of our spec because they kept making mistakes (the projects are reused from year to year apparently)... even until a few days before the project was due. But usually not too bad since you get a partner. Exams are hit or miss. Our first exam was really easy, while the final was a lot tougher. Workload is probably your average upper level EECS course, maybe a bit less. 
+____________________________________
+
+I don't think that either of these classes are bad. If they interest you then take them. But be wary of ML.
+
+
+
+
+
+They are not even similar what are your goals? If you want an easy upper level stay away from 445 at all costs. Since you're taking about workload the lightest ones I've seen were 388 and 485.
+I'm in it right now and shitty isn't exactly how I would describe it. 
+
+They assume that we came in knowing way more than we did. In reality, the prereqs for the class should be MATH217, MATH425, and MATH426. Like the overall quality of teaching aside from the fact that the teaching staff assumed everyone had a solid grasp on Math up through linear algebra, and advanced Stats knowledge, is actually pretty good. 
+
+
+Did you look at the Piazza bitch thread ~2 weeks ago? Most people said they didn't really understand wtf was going on.
+
+I've talked to numerous 545 students who took 445, they all said that 445 was harder than 545.
+
+And yeah, I'm in this semester, it sucks. 
+It doesn't change at all, but it gets a little better because you get used to it.
+
+What you've probably learned by now is that if you don't know matrix calculus, you are fucked. I don't know how they expect you to know it when it's not a prereq, but whatever. Just write down bullshit for the homeworks and they'll usually give you partial credit. For some of the questions, it just isn't worth trying to figure out how or why anything is the way it is.
+The instructors are working hard. But imo no matter how hard they work, it will be all for naught the way this classes material has been organized/designed. The class would have been better off jacking Stanford's notes and passing it off as their own. 
+
+Im honestly dreading the upcoming exam. For my first time I'm eecs, I'm actually fearing failure.  
+I would personally classify EECS 492 as an above-average difficulty class, or at least it was when I took it in Fall 2004. From what I recall the material was particularly dry and hard to relate to real-life situations because of the lack of programming assignments and projects. Hopefully they've improved it since then. 
+
+
+There will be some overlapping course material but for the most part these are two mutually independent classes.  I didn't take intro to ML (just took 545) but intro to art. intelligence was pretty disappointing.  A lot of very surface-level theory, almost no practical application.  That said though, the course material for intro to art. intelligence is a lot more relevant to artificial intelligence development than Advanced AI, which was a complete waste of time and tuition.
+I'm familiar with 592 and 545. It depends on the professor. If you get the wrong professor for 545, you end up doing tons of math and learn how to do certain kinds of math problems. 592, otoh, is actually interesting.
+They are changing the format this semester to a material presentation lecture section and a group work lecture section as an experiment. No one knows how the current course will really be like, and probably they will use what they learned from this semester and change it more for the next semester. 
+I *think* this is because there was kind of a feud between CSE and ECE over the ownership of EECS 545. I’m not sure which division of the department created it but for a while there were basically two different syllabuses (syllabi?) and they flipped back-and-forth between which division taught it. Faculty were perpetually unhappy with the topics chosen by that *other* division (welcome to academia: when the stakes are meaningless, the fights are enormous). 
+
+There was some additional drama because CSE didn’t even have enough qualified instructors to teach when it was their turn (leading to at least one disastrous semester), while ECE at one point made a kinda-weird push to own all things related to machine learning in the department (*“hey bro I heard you need electricity to run all your ML software so I put all your ML software in the electrical engineering department”*).
+
+Anyway I think the splitting of the class into two numbers was the agreed-upon solution to all of the above.
+Their numbers
+Nothing is different, I asked the same question to the professor teaching 553. 545 is taught by the CSE department and 553 by the ECE department. This is because the PhD students have to take the class with their respective departments.
+[deleted]
+Previously EECS 545 in the Fall was held by ECE, and by CSE in the Winter. They cover almost the same topics, but maybe the CSE one covers more topics and the ECE one has more maths. I heard that some sessions in the Fall used MATLAB instead of Python before, but not sure how is it now.
+Maybe it’s advisory and not enforced?
+I’m in this class this sem. He will require no prerequisite. I think it is a new version of CS231N, and it is well designed. The homework workload is high, some (A4) may even be higher than a 482 project. The grading curve is very good. More than 1/2 of the class will get an A or better.
+I'm in it this semester with no 445 and no previous ML experience. It's completely suitable for beginners, as the course content starts with very basic stuff, including teaching how to use pytorch, basic neural networks and stuff. I'm not sure about next semester's policy, but I didn't need any prerequisite to be enrolled in.

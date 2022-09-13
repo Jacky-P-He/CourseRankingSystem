@@ -1,0 +1,137 @@
+Not an EECS major but praying for you regardless
+Who’s the prof? It matters a lot
+First of all, I wish you the best of luck with this class! I took 492 last semester with Professor Emily Mower Provost, and if I remember correctly, she said that there is no curve in this class. Average on the midterm was a low 80 (mean of 82.07 and median of 83 with a standard deviation of 7.86). One thing that really helped me was posting on the “Search for Teammates” part of piazza to find a group of people to have occasional zoom calls with and go over general concepts for homework/exams. Best of luck!
+How did you end up doing in this class? I'm on the same boat and I took this class without knowing how hard the material can be and I'm not the strongest on logic and algorithms. The midterm is this week and I think I might actually fail this class
+Is this class very math intensive? Doesn't have linear algebra as a pre-req but is it assumed that you know the basics?
+I'm in 445 right now and it's really great! I haven't taken 492 but from what I understand, it's a mostly theoretical class, while 445 has you do projects involving pytorch and sci kit learn and whatnot. I recommend 445
+Don’t worry man nobody cares about the minutiae of CS curriculum 🤣. I liked 492 personally and I have not taken 388 but I’ve heard good things there as well. Take whichever topic interests you more (I will say 492 makes 445 piss easy if you plan on taking it later).
+388 is pretty fun!
+AI/ML is stupid as fuck imo would not recommend
+EECS 545 has become harder since wn 22, so I think EECS 551 is necessary for this course. Matrix algebra is extremely helpful in machine learning related field.
+
+Moreover, if I can enroll in EECS 592 as an undergrad, I won't choose 492.
+I’ve taken 445, 492, & 692, here’s my POV:
+
+492 will NOT help you with 545. 492 covers a lot of different AI algos lightly, whereas machine learning goes very in-depth in a small subset. In 492 we spent maybe 2 weeks on machine learning.
+
+You would get much more out of 551, and other classes to make sure that you have a strong foundation in matrix/linear algebra, and calculus. Hope this helps!
+I've heard them say there is no curve, but I haven't heard them say what the grade cutoffs are (or been able to find it on canvas). The average is in the low 80s, so maybe that is equivalent to a B+ in Atlas. Have they published what the grade cutoffs are anywhere?
+Topics can be confusing but nothing is too hard. Go to OH if you are lost. The class overall was pretty easy and there are only solo homeworks. There are no EECS projects and both lab+lec was recorded with no attendance
+Yes, lecture recordings are posted and there is no attendance for lecture/discussion this semester!
+I’m in 492 currently and both lectures and discussions are recorded, attendance optional. However the professor next semester is different so i’m not sure if that will stay the same
+[deleted]
+442 has a good amount of overlap with 445 esp with the neural networks stuff. 442 is much easier than 445 and still very useful.
+A little late to this thread but thought I would add my $0.02 as I took all three of these classes. I would say that 492 is a sort of survey/background info for the field of AI in general (ie you can think of 492 as a superset of 445). There is a lot of focus on classical AI methods and integrating 203 (Boolean algebra) and math 425 (probability) into AI. The class is still far less math than 445. 
+
+As others mentioned 442 has a good amount of overlap with 445 but will generally be a bit easier. 
+
+I would rank the difficulty of the classes as 445 >> 442 > 492 and usefulness as 445 > 442 > 492. 
+
+I personally found it worthwhile to take all three courses but thats because I plan on working in the ML field as a career (fingers crossed). Hope this was somewhat helpful!
+Check my last post about STATS 510 midterm. The fucking post-doc lecturer doesn't seem to know how to test. The exam is beyond the scope. RIP my grade 💔
+How did you end up doing on it? I'm in this class right now and terrified and it seems like they're keeping the same format of it being 80 mins with no grace period for document uploads. The material is also really hard for me and I'm scared I might actually fail this class
+We have a [schedule advising megathread](https://www.reddit.com/r/uofm/comments/gypdsf/megathread_incoming_student_course_selection/) for exactly stuff-like-this
+
+Edit, how tf does this have gold?
+492 can either be doable or a nightmare depending on your background. It gets a lot more math heavy around midterms -- but if you've got a strong background in linear algebra it shouldn't be much harder than the first half. From what I know the average grade isn't great, but it's probably due to a lot of students not having the prerequisite experience. I took MATH 420 and it was some work but doable. 
+When I took 492 w/ Durfee it was not curved much I don't think, especially compared to other EECS classes. I think part of the issue also is that the other theory heavy EECS classes I took were required (203, 376) wheras 492 is an elective. I think a lot of people who choose to take the class have strong math backgrounds or are actually math students. I ended up getting a C-, did terribly on everything, etc.
+I would personally classify EECS 492 as an above-average difficulty class, or at least it was when I took it in Fall 2004. From what I recall the material was particularly dry and hard to relate to real-life situations because of the lack of programming assignments and projects. Hopefully they've improved it since then. 
+
+
+There will be some overlapping course material but for the most part these are two mutually independent classes.  I didn't take intro to ML (just took 545) but intro to art. intelligence was pretty disappointing.  A lot of very surface-level theory, almost no practical application.  That said though, the course material for intro to art. intelligence is a lot more relevant to artificial intelligence development than Advanced AI, which was a complete waste of time and tuition.
+I'm familiar with 592 and 545. It depends on the professor. If you get the wrong professor for 545, you end up doing tons of math and learn how to do certain kinds of math problems. 592, otoh, is actually interesting.
+There's probably no difference. It'll likely be the same lecture for both.
+[deleted]
+492 with Provost and 475 with Fu are quite light. 
+Both are light on programming, 475 is more of a math class and had practically no programming with Fu.
+
+475 with Compton, I heard requires more work. Weekly homework proofs. Whereas, I Fu has like 4 homeworks. 
+You should drop eecs388 so I can get off the waitlist. 
+Everything I know about 475 is hearsay (however I'm taking it next semester), but I did recently take 492. 
+
+AI (at least as taught by Durfee) was interesting and all, but it definitely had a survey-course kind of feel. AI encompasses a huge amount of ...stuff, and it can seem like you're jumping around and not really sinking into anything because once you get the hang of it you're off to something completely different. If it's anything like last semester, it's not heavy on the programming side of things at all, but the homework assignments can be sorta nefarious in the way of laboriously writing out the progress of algorithms, proofs, and etc. 
+
+475 is also supposed to be pretty light on the programming side of things, being a more math-centric course. Apparently it is pretty neat, and Compton is supposed to be cool. Dunno who's teaching 492 in the fall. 
+
+Long story short, just pick one, you'll be fine. You're not getting yourself into any kind of serious horrorshow with those classes. 
+You don't really learn much in 475, tbh. You get a bunch of tools for solving some specific problems with no analysis for why things are the way they are. You cover a ton of topics, the homeworks are pretty easy and there's only like 3 of them, the exams are really easy, and the programming project, though fun, took our team like 8 total hours to complete for the month it was assigned.
+
+The staff was amazing, though. The class itself was really chill and quite interesting, just not very intensive or useful if you care about that sort of thing.
+Taking 15 credits when 4 of those credits are 381 is a bad, *bad* idea. If you really need to pad out your schedule, take some small 1-credit class like Astro 127.  
+  
+482 is a reasonably difficult class. It's not nearly on the same level of difficulty as 381, but it's probably the next-most-complicated ULCS class offered. There are 4 projects (1 solo, 3 group), and 2 exams. (No graded homework or anything else.) Start the projects early - debugging them is a huge pain in the ass.
+I took it and had a great time. Workload wasn't too bad, and the projects were decently interesting. The course content was more focused on just a few types of machine learning (unlike 445, which tried to cover a ton of different topics), and the types of ML covered are very useful.
+No
+Sound like a great question to ask the profs
+I’m pretty sure each of these classes only have one section but ik 442 records their lectures if you want to watch it asynchronously
+Personally, 490 Programming Languages was the most educational course I took at Michigan. I took it the second semester it was available so I'm sure it's been refined since then, as well. The best analogy for it was 490 is to learning a programming language what a linguistics course is to learning a foreign language. You learn about the patterns and underlying concepts of what a programming language is. Also you deal a lot with functional programming languages which changed my entire viewpoint of programming and has helped me tremendously with more modern languages that deal heavily with closures and that sort of thing. The coursework itself isn't too bad, the most difficult part of the course is understanding the concepts enough to be able to apply them. Without a good understanding of the concepts, the coursework is more difficult so focus on the concepts for sure. 
+
+Also 388 I found ridiculously fun because legal hacking is fun and the course is quite interesting. You also get to say "I'm in" a lot during the projects which is a big plus in my book. 
+I'm in EECS 482 and only after about a a month I would say that it's a very important class to take. A lot of ULCS courses are worth taking solely based on interest but here are some of the common ones that I've heard about:
+
+&#x200B;
+
+EECS 485 (Web Development) and EECS 388 (Computer Security), less common but related EECS 484 (Databases)
+
+Both are very commonly taken and are good intros to the subject as a jumping off point to learn more
+
+&#x200B;
+
+EECS 492 (AI) 
+
+I took this class and really enjoyed it, I felt like it barely scratched the surface but it was really interesting and not incredibly difficult if you have the right professor (I had Provost and she was great) and was a great intro to a lot of AI concepts I wouldn't have learned otherwise
+
+&#x200B;
+
+I have heard EECS 445 (ML) is very difficult but rewarding, very math heavy and maybe a good fit because I've heard it's a lot of Linear Algebra
+
+&#x200B;
+
+It all comes down to interest, but I would say those courses are probably the highlights, not including MDE classes, which is a whole other ballgame.
+I've taken 388 and am currently enrolled in 492, 485, and 493. Thoughts so far:
+
+388: Some very fun projects, as others have said. Workload isn't too bad either, but as far as real security I'm not sure how useful this is. They talk about old vulnerabilities, and while it's not realistic to make students find 0-day vulnerabilities in a course, I feel like there's definitely a reason it's considered an introductory class to security.
+
+493: If you don't know HTML, CSS, or Javascript, this is a pretty gentle introduction due to it being a light workload. However, I don't think anything it teaches would be difficult to learn on your own. This is mostly a filler class for people that need the credits and can't survive taking 2-3 harder courses at once.
+
+492: Maybe the worst course I've taken, though 370 is also just an all-around awful course. First homework is centered around some 281 concepts (pruning, BFS, DFS,) and the second unit looks to be a rehashing of 203 concepts. I know there's also a unit on machine learning (which is explored in-depth in 445,) so I'm not sure if there's really any material in this course you couldn't get somewhere else.
+
+485: Easily the best course I've taken so far. This is the only course I've taken where I feel like an employer might actually want me to do work similar to the work in the class. It's a smorgasbord of HTML, CSS, Python, Javascript, Bash, SQLite, and probably more that I haven't gotten into yet, but it's also surprisingly manageable and not conceptually difficult. It borrows concepts from many other classes and is a great branching point to start looking at other things you might want to know. Or if you're doing a CS minor, this is an outstanding course to take for breadth.
+If 381 is still offered by Kieras I'd say its required. No class helped me as much in regards to ramping up quickly and being successful in real industry job
+Wes Weimer's 481 is an absolutely outstanding course (but don't even consider taking it with any other instructor).  If you're also one of the few people that doesn't viscerally hate 376, you'd probably also enjoy 590 with him as well.
+EECS 388
+EECS 482 and the distributed systems 498 (looks like that's still one of the "unpredictably scheduled" sections though - it wasn't in WN16/FA16, was in both WN17 and FA17, and doesn't seem to be in WN18 or FA18) were both hard but enormously useful.
+
+388 was a cakewalk for me, but still a good thing to take for the people who hadn't been going to the weekly security reading group. Everyone should know at least a little security.
+Jazz 450. Meditation with Martha Travis. 
+
+Anyone taken 489 (Networks) or 491 (Distributed) ? Both require 482. Already graduated, just wanna know what I'm missing out on since those two were never available during my years
+That sounds like hell, why are you trying to do so many EECS courses at once?
+Any 3 EECS courses together is already pretty bad
+I took this three eecs classes together. 370 and 484 are doable. If you have a good bit of web dev experience, you can throw 485 in there. Otherwise, might be a lot to take on. 
+I'm going to piggy-back off this thread, because I don't want /r/uofm to be full of the same posts.
+
+Could I get some advice too, please?
+I'm thinking of either 484 + 485 + last semester of language + easy 1/2 minicredit
+or
+388 + 485 + last semester of language + easy 1/2minicredit
+
+Is there any differences in difficulty between 388/485 vs 484/485?
+Don't underestimate Stats 413 especially if it's with Yukai Sun again (which it probably will be). The class is extremely theoretical and the homeworks are almost entirely proof based. I did alright in Math 217 and EECS 203 so I don't think I'm that awful at theoretical math/proofs, but I pretty much can't finish any of the hw assignments without going to multiple office hour sessions.
+
+According to one of the GSIs, last semester the class was mostly Cs and Bs and very very few As. Our first exam had an average  72.5%, which is considered a C- under his planned grading scale (though I think he stated that he would likely lower the scale a bit).
+
+I actually do like the class quite a bit (a lot of people don't), but I really wish I took it in a lighter semester.
+Depends, on how focused you are and your work ethic. 
+
+If you consistently get atleast an A- among your EECS and math classes, then you should be fine. 
+
+Be prepared to work on homework and projects 7 days a week for several hours.
+485 is not hard or very time consuming unless you're really focused on killing the exams. 370 and 484 are a bit more but also a level easier / less time consuming than 281. I'd personally try and spread these into 2 semesters but I think you could handle 3/4 if you don't take any other class.
+[deleted]
+Definitely take Math 425
+Try to find a good Math 425 professor too
+425 is strongly tailored toward students who are planning on taking the [actuarial exam](https://en.wikipedia.org/wiki/Actuarial_credentialing_and_exams#United_States).  I think the class does provide a good foundation in probability, but be prepared to have a lot of practice specific to an exam you are not going to take.
+[deleted]
+I would say not a lot. From a practical and industry perspective, what jobs you have access to really does not hinge that much on what major is on your resume. If you care about something, and you do your best to pursue classes in it, and teach yourself, and push yourself then any job is open to you. I didn't even have 'CS major' on my resume until relatively recently (I'm a music/cs dual degree) and still got to work at some awesome places, but a lot of employers were way more interested in what I was teaching myself and doing projects in myself than what classes I had taken, or what my major actually was. Besides I'm guessing its still early in your college career. Figure out what classes you enjoy, and follow those. Try something new, see if it suits you. Ignore people who tell you that you'll never be able to work as a developer if you don't have a strictly cs degree. I work with lots of devs who have degrees in everything from cs to math to applied stats, even some in liberal arts kinds of things, all doing dev outside of their field. Also CS LSA is just as good as CS Eng from a job prospects point of view. Lack of math is a bit of a handicap sometimes, but even if you want to do more math involved cs (ml stuff), its not that much of hurdle.
+It depends. I know people who study cog sci and are working the same jobs as people who studied comp sci. I also know those who study cog sci and don't have the same jobs as those who studied comp sci. It really depends on what you want to do. For SWE though, I think you have a better bet with comp sci as some people might not know what classes cog sci entails. (It's also not as popular of a major, similar to data science.) It's safer to study computer science if you want to be a SWE.

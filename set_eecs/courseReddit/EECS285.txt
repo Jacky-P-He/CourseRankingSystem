@@ -1,0 +1,94 @@
+I mean no one here is going to tell you it’s an objectively good idea. People already advise against 281 and 370 at the same time but it’s doable, I took both at the same time and the project deadlines were stressful but I survived. I mean if you’re confident that you have a great work ethic you could probably take on more than most but you’ll likely be very busy all semester and if you ever let yourself get behind have an insanely hard time dealing with it. Is there another semester you could bundle classes to still graduate early? No need to make this hard semester harder if you could just make a future easy one a bit harder.
+Three EECS classes is doable, but it really all depends on your commitment to start early. EECS281 is difficult for a lot of students and EECS370 can be difficult as the material at times can seem dry. Project deadlines for EECS281 and EECS370 can overlap at times so juggling both can be a big struggle. My recommendations are to start early (of course) at the very least read the spec once and download the source code to your machine the day it releases, go to office hours frequently (professor office hours are especially helpful for 281 IIRC), and for 370 hammer those practice exams. When I took 370 the final was dense, particularly the last topic on virtual memory felt rushed so I guess just a heads up on that!
+
+Also maybe 285 wasn't there when I was at umich, but I would look to see if 285 counts towards the EECS upper-level requirements if that's why you're taking the class.
+Hey I took EECS 281, 285, 370 together last fall, along with Math 217. The only way I would consider a schedule like this is if you are very good already at CS projects and won’t get tired of them, because all of these CS classes will have you doing constant projects. But overall, if you have a lot of coding experience, it is probably doable. In fact, I found it nice because I was essentially spending most of my school time just writing code, which I love to do.
+
+EECS 285 was not very hard if you already have experience with Java, OOP, and UI dev. If you don’t have experience with these things, you might want to look elsewhere since you absolutely do not want to get behind on a CS project with this schedule (when you have 3 projects due with one week left you don’t want to have to put all your time into 285).
+
+Anyway, good luck
+You should go for it! The worst case scenario is that you realize early on that it's not doable and drop a class (which is totally fine and has no down side), but you might also find the load doable and not such a big deal. That could give you great confidence and momentum early on in your EECS career, which is something that I see as valuable. Either way, you shouldn't choose or not choose a a schedule because people say it's too much. We have no clue what you can handle, only you really know. IMO you just gotta do you, and you should probably go for it and take 285.
+[deleted]
+The projects have been the same for a few years, but some felt way more time consuming for a 2 credit class imo (esp projects 3-4, maybe 2 as well).
+
+Kind of inconvenient around exam times tbh, but at least the course has no exams itself, just in class pop quizzes when I took it. The projects are generally slightly easier than EECS 280, but in Java (minus euchre).
+
+However those 17 credits sound like a lot. Especially with 370 and 388 both being project based courses, there will probably be some crunch times in the semester where you have to give up some coursework to make time, and the logical option being 285, it'll probably just be unnecessary stress if you don't need the flex-tech credit that semester. You can always download the projects from the site and work on them on your own time if you really want to learn Java later on.
+
+If you can graduate without packing your fall semester to 17 credits, I'd say don't worry about the headache, but you know yourself best though.
+To address your last few questions:
+
+If you're an experienced programmer, you can actually take a diagnostic to get into EECS 280 as a first term freshman. To do so, you need to email the EECS department. I'd double check with your advisor on this one, but I know people who did this. Also, if you have the math credits, you can also register for EECS 203, which, if you can also get into 280 at the for fall, sets you way far ahead of most CS freshmen. Lastly, EECS 285 is just an extra fun class that doesn't really count for anything besides learning an extra language (Java for F18). So it shouldn't be your main backup. If you really can't get into any CS related courses, I'd recommend taking some of the LSA reqs (like humanities, social sci, etc), and squeeze in 285 if you have too few credits.
+
+And no, LSA kids can't take ENGR 101. Plus, even if you could, I actually think 183 prepares you for 280 a lot better than 101. 
+From my experience, it wasn't too bad, I think only one of the 4 classes I wanted to take were full (the replacement one I took was still awesome) but they were really different kinds of classes and I was a transfer so it was probably later than yours will be.
+
+I hope it all works out, but I totally recommend having lots of backups!  
+Back in the day it was but I’ve been gone a while. 
+
+My first semester I had terrible schedule due to late orientation. It got better from there
+No, they don't really do that. The CS department gets swamped with requests to skip certain requirements, so they tend to be pretty hardline about rejecting these (it is possible in some circumstances to skip requirements, but they do not make it easy and they will make it sound impossible).
+
+If you have experience with C++ (not just Java) and a good understanding of 280 concepts (pointers, references, classes, inheritance in C++, along with structures like arrays, linked lists, memory, etc.) then you can consider skipping 280.
+
+There are two obstacles: one, you need the credit for 280. Two, unless you can *use* this credit to get into 281, it won't actually help you. Therefore, you'll need to talk to David Paoletti to see if he'll grant enrollment permission for you. 
+Ask an advisor, it's literally their job to know these things
+No.
+
+EECS 285 is not an equivalent for 280.
+
+You are required to have a 2.5 GPA among EECS 203, 280 and Calc 1,2
+
+If you for example had AP Calc credit for Calc1-2, then the GPA  required will be among EECS 203 and 280. So you need at least a C+ and B- to earn a 2.5 GPA for the prereqs to declare. 
+This wouldn’t be possible. From a practical standpoint, the difficulty/workload of AP CS A wasn’t even *close* to comparable to EECS 280 - it just wouldn’t be a fair comparison. 
+
+There is a way you can skip EECS 183 and go straight to 280 though, by passing some C++ tests I think. They don’t like to advertise it and you have to take the initiative to try and get straight into 280, although it would be worth it if you can do it. 
+Beyond the general consensus that it's not possible (APCS and EECS 280 are not at all equivalent), why bother? You don't get anything for declaring as far as I know (I'm in CoE so maybe CS-LSA has some benefit) other than being able to enroll in upper level CS classes with restricted enrollment, but you can't get into those classes without basic prerequisites like 280 anyway.
+280 is a prereq to 281... So I highly doubt it. It doesn't make sense to take both at once
+I'm pretty sure 280 is a prerequisite for 281. Taking it concurrently, if that's possible, sounds like a horrible idea.
+You're going to have to take ENGR 100. Every CoE freshman has to take it. 
+
+I checked the UM Engineering transfer credit database for Joliet college and I see how you got confused. Joliet's CIS 130 transfers as 100-level *departmental credit* under the ENGR "department." That's not the same thing as getting credit for the course ENGR 100.  
+Well as others have said, no you can't take 280 and 281 together, as 280 is a prerequisite for 281 (and a pretty mandatory one at that). Assuming that you are coming in with the credits you say you are coming in with (I'm surprised to hear Michigan is allowing you to take an online course for ENGR 100 credit, but if you've heard otherwise from the College of Engineering, then believe them over me), here would be some suggestions from me: get some of those non CS courses done and out of the way, You've got MATH 215 and 216 to take yet, as well as all of your CHEM courses, Plus 12 credits of Intellectual Breadth courses left to take, and there's tech electives to take as well. 
+
+By my count and consulting the CS-ENG requirements, you'll have 95 credits to get when you enter Michigan, which makes for 19 credits a semester if you plan on graduating in 2 and a half years. I would strongly recommend against this. Michigan CS-Eng is extremely rigorous, more rigorous than you'd even imagine. The minimum amount of time I'd recommend to get these credits is 3 years, but 3 and a half would be preferable.
+Thanks everyone, given the answers what useful class could I take other than eecs280, math 216, math 214. I don't want to take eecs270 because Im taking EECS 203 and I believe it's a sufficient foundation for eecs370. thanks for the help!!
+[deleted]
+Yea I came in with 24 credits and am on track to graduate with a masters in 4 years. We've got a program which lets you double count credits for the masters and undergrad, otherwise I'd be 8 credits short. 
+Also, I see that you have EECS 285 credit (from AP CS I assume). You can try to test out of ENGR 101, the intro to programming course. That way, you can start of with EECS 280 (programming and data structures) instead of ENGR 101 during your first semester here.
+Why do you want to graduate in 3 years taking classes in the summers?
+
+
+In my opinion you'd miss out on invaluable internships this way.
+How many credits would you come in with? I'm on track to graduate in 3 years and I came in with those classes done and 45 credits overall, and all happened to be able to fulfill graduation requirements.  Didn't and won't need to take summer classes unless I fail a class.  For reference I'm in CSE.
+There should be a main thread about easy classes.
+I took a class on  Japanese art history with kevin carr and it was pretty fun. I skimmed the weekly reading and wrote the final paper the night before and got an A. I think he really appreciated the amount I participated in class discussions as most people were too shy to speak up. 
+[deleted]
+I'm also an EECS student (EE tho not CS) who took 217 because I'm a math minor, and I think all that really needs to be said is that 217 is, to this day, the heaviest workload class I've taken. If you don't want to spend 20 hours a week (or more) on your math class, don't take 217.  
+  
+Now, to be clear, I'm not trying to scare you off - I did fine in the class, and certain aspects of it did help prepare me for the upper-level math courses I took to complete my minor. There's also nonzero odds you will like the content of the class way more than me, or maybe you'll hate the IBL format way less. Just be aware that it *earns* its incredibly high workload score on ATLAS.
+I'm doing 214 and my girlfriend is doing 217 currently. My workload has across the semester been consistently much less than hers. 214 is pretty much passable if you can plug and chug on exams and do well on homework. 217 looks like a nightmare.
+Look into robotics 101 to get a math 214 equiv for CS! That’s what I’m doing and really happy with the class. Staff is really nice and supportive, and probably not as much work as a math class here
+Shouldn't you take 286?
+I think that'll be very difficult. Don't expect to do as well in each class as you could have if taken with a lighter load. That being said, with discipline and if you really want to make it happen, I'd say give it a shot and drop one at week 3 if you need to.
+
+Having taken Math 285, I will say be prepared to work very hard -- it is a very difficult class, especially if you have little prior formal proof experience. 280 and 370 are fairly straight forward imo but only if you keep up with them and respect them.
+Currently taking 280 with 285 & 3 other classes. Definitely doable, if you're willing to work. Right now, 285 is sitting at a max of 5 hours of work per week, and 280 is probably 12-15 a week. 
+
+217 is harder than 285. If it's something you need, consider taking 286 (Honors' Diff Eq) winter semester, since it's usually not offered in Fall. If you have other questions, feel free to ask/PM me
+If you work hard 281 and 370 are super doable together. I know some people taking MATH 217 or EECS 376 with 281 and 370 and they have been *very* busy this semester. I can tell you that people *totally* overhype the 281 and 370 combo, it's really not that bad. However...I think adding Calc III with 370 or 281 would be hard as fuck. I've never taken calc III, but I doubt I could have handled calc II with 281 and 370 gracefully. 
+Is there a reason you want to take 285 and not 215? just curious. If you're on an EECS track the honors math variant shouldn't help you much, and you're going to need the time to work on EECS 281. I have a friend in Math 285, and while I wouldn't say it's one of the hardest classes at Michigan it definitely will test you if you don't have a knowledge of proofs. 
+281 is hard as shit
+As others have said, there is no "JavaScript class"'; it's probably more worthwhile to learn it yourself anyway.
+ 
+However, there are a few great Internet-themed classes in EECS: 382 Internet-Scale Computing, and 485 Web Databases. While neither of these teaches JS, you'll be able to use it on their fairly open-ended projects if you want. I took EECS 382 last year, and my final project was very heavy in JS. I'm taking 485 this coming semester and intend to use JS quite a bit for the projects.
+If you're looking for web experience I would take web DB. You have to create websites and stuff, but pretty much all you learn will be self taught.
+You will find that courses for particular languages are usually not the best use of your time.
+You can learn the javascripts over teh intarwebs.  There are more than enough resources including, but not limited to, w3schools, stackoverflow, google...c'mon this isn't rocket science
+Although many people do feel like should be possible to do 281 with 203 concurrently, an appeal is very unlikely to succeed. Due to the high enrollment demand, they strictly enforce the prereqs.
+They hard enforce the 281 requirements. Next to impossible to get a waiver. 
+They won't give you an exception. If you want you can take EECS398 computing for computer scientists which is a 1 credit tech elective to help you remember 280 concepts.
+They more than likely will not give you an exception. 
+
+As for 285, I didn't take it myself, but from my friends' and others' experience be aware that the last project will take quite a bit more time than you'd expect for a 2 credit class. 
+im 99% sure 285 is a fall only class. 

@@ -1,0 +1,28 @@
+I would say it’s less than the 4cr 482, but still a significant amount of work - you can’t blow it off. The 6cr is not that much more than 4cr for 482.
+Do they offer 498 GPU next term?
+FYI, I feel like EECS 491 made me as anxious as EECS 482. The only difference is that the duration of the anxiety can be shorter.
+Not as far as I know. It’s relatively intuitive to learn on your own, in my opinion. You could reimplement the 280 or 281 projects in Go and that would probably be a good introduction.
+EECS 388 had a project in Go last semester.
+One of the features is efficient concurrency for golang. Take 482
+491 will be taught in the winter
+Eecs 388 had a go project and I managed to get a go internship from that experience
+- I wouldn't say 483 had a ton of "useful" information, but it certainly had very fun projects. How useful the content is depends on what field you're going into, I think. Compilers are a big subfield, and I'm sure compiler knowledge doesn't hurt for systems related work, but it's pretty much totally useless for web development.    
+- I've heard 484 mostly can either be self learned, or is covered in 485 (probably the most useful upper level class imo unless somebody plans on never touching web systems).   
+- 489 has solid projects (making a proxy server, router, a new protocol), and there's a lot of information, but it's all very disjoint and not very problem-solving esque (like 482). I don't think it'd be difficult to learn the material by yourself, but the content is honestly extremely dry. Not sure if that's a pro or con for taking a class vs self teaching (probably depends on the individual). There's also some overlap with 485 regarding TCP.  
+- 490 has a lot of good information that's easily applicable to a lot of areas of programming, but I personally felt that the class had too much theory for my personal taste. Probably a preference thing, especially since I don't care for functional/logical programming. When I took it with Kamil, there was also some overlap in project content with 483 (where I felt that the 483 projects were much more interesting).     
+- 493 apparently is relatively self-teachable.
+Older grad here, and 481 is the only of them that I personally took, but looking them up, I'd still recommend 481 most strongly. I think software engineering principles apply to everything you do, and was the most valuable course I had when working on medium to large scale development projects. It deals with meta issues of projects, and how to apply formal engineering principles to systems, rather than just knowing how to code. That knowledge can make you stand out from colleagues who haven't studied those principles.
+
+Something like 483 compiler design is an interesting, fun topic, and doesn't hurt to know, but it's a bit esoteric, and I think for most people it's knowledge they won't directly use. Just for comparison, I think with 482, even if you never go on to design operating systems, it still teaches issues about operating systems that are broadly applicable and good to know about. I don't have the same sense with 483.
+
+367 autonomous robotics sounds fun, and useful for *certain* projects and industries, but might be non-useful if you happen to work in areas that don't involve hardware or robotics.
+
+484 database management systems sounds boring, but databases are such a common element in many projects that I'd think it would be quite generally useful. SQL may be completely omitted from the rest of a CS/CE curriculum, and it's good to have a working understanding of it.
+
+Somewhat similar with 489 networking...that's an element of so many types of systems, although your exposure to socket programming from 482 is probably enough to get you started on whatever you'd need to learn for a project in practice. The projects sound like applying different protocols to the same basic ideas. Useful but maybe not so critical.
+
+493 UI development, while it's a broadly useful topic, I feel like that's an area where you can do just fine without a course on it. Like a person with good common sense and visual design skills would probably still be better at UI design than somebody lacking those attributes who did take a course in it.
+EECS 485 is really good as well if you haven't taken it.
+I’m in 440 Search Engine Design rn for my MDE and it’s a great class. The project seems like it will be lots of fun (early stages so far) and working in a team of 6 is a different but useful dynamic to work in compared to other EECS classes.
+482 is a must they say, i’m in 490 rn and it’s really good but kinda mathy in a good way, 388 is pretty fun and very useful so far
+490 is way more useful in real life than most classes. Databases and PL are probably the most useful skills to making you an effective software engineer

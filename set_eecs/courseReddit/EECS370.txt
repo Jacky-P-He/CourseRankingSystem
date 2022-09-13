@@ -1,0 +1,289 @@
+I found it very hard and boring but it is generously curved. It’s a litmus test class to determine if you actually care about hardware (I learned that I don’t lmao)
+If you're interested in hardware and low-level software, you'll probably find the content interesting. Projects are on the easier side compared to other EECS classes. How the class is run and the exams depend HEAVILY on the current profs.
+Projects are easy compared to other classes. When I took it the median of every project was 100%.
+Kind of a boring class tbh
+Exams are ultra hard everything else is easy in that class
+Taking it rn, thought I failed the midterm but did fine, projects are ez and fairly short, content is interesting (I’m into lower level stuff) but only 1 of 3 instructors (the class is divided into 3 parts) was good
+Great class, very fun, amazing course staff - when I took it. Heard they really screwed people over since then so who knows
+worst class at umich imo
+I liked project 3, and I think that the projects are generally easier than other EECS classes. The HW and Exams can be hard if you're not keeping up with lectures though.
+The projects are fine, it's just the exams that are generally absolutely miserable, and they're the only part which rly determines your grade
+Given how challenging I find it to enjoy any of this material, this feels like the hardest eecs class I’ve ever taken. I never want to look at another cpu datapath again in my life.
+Typing this as I look at my half finished hw that's due in 20 mins 🤣 thank God for the drop.
+Isn’t that shit 1%? I did like 50-80% on most of them and studied them for the exam. 
+
+These EECS classes are crazy if they think I’ll spend 10 hours on 1% of my grade.
+To be honest, A+ students will also find it challenging. Many problems actually come from past exams. You will get familiar with them only after you do a lot of practice exams.
+somewhat unrelated, but how does the difficulty of eecs 370 compare to that of eecs 270?
+The data says that the median grade is B+ and you will only need to be in the top 40% to get A- and above. Hence, albeit the materials might be challenging, I wouldn’t assess the relative difficulty of this class according to people on this subreddit, as they have their confirmation biases (people who complain more on here when they aren’t doing well).
+
+If you have an uniquename account, [check out this website](https://atlas.ai.umich.edu/course/EECS%20370/)
+Yeah it’s a hard CS class, make sure you learn the concepts well
+To my knowledge, they haven't said what the cutoffs are for letter grades. How do you even know you need a 90 on the final to get a B+? Either way, I would stay in the class if I were you or at least email the course staff.
+I heard for SUGS. You can actually take 270 instead of 370. So it’s a either 281/370 B+ or 281/270 B+. However, I am not an advisor myself. But that’s what I heard. This is for CSE. I don’t know what your major is. But, maybe you can stick with 370 for now? If you didn’t get B+, take 270 to get into SUGS? Of course, this will be more challenging than dropping 370 for now and take it again next semester. But I think if you are gonna spend money and time twice. Why don’t you make the most use of it?
+I had around 98% average on the projects, and like really low average on the hw (forgot to do them), and like a 60% on the midterm and 60% or so on the final and ended up with a B+
+Do what you want to do, but I would stick it out.
+Why would you drop this far into the course. You can still take the course again and get the grade for SUGS. If you drop it now it will also be on your transcript that you dropped
+
+Edit: also the curve can also be generous. What was the average on the exam? If you got at or above the average you should be good to get a B+ as your projects and homework grades are high as it is
+honestly, this is one of those situations where only you can tell what’s best for you. from experience… the 370 final sucked but i know people who did really well on it though so a 90 is definitely possible. it depends how much time you wanna put in to studying for the final and how important SUGS is to you
+I was just accepted into the CSE SUGS program (as of last week) which B’s in 281 and 370. I would just try your best and focus on keeping a strong GPA overall! Good luck!
+I personally cannot imagine putting in that kind of effort for a B+.  I understand you have different goals, but I’m putting in just enough effort to pass. The diminishing returns on the effort is just too great. It’s a waste of my valuable and limited life.
+Welp maybe you shouldn’t attend graduate school if you are struggling this much with 370.
+I'm in Zhu's class right now and he's great
+For 370, the class is essentially split into 3 parts during the semester. Prof austin taught the first 1/3 for my section, he was good but a lot of his explanations could use work. However, the GSI that’s teaching the current part (Lauren Biernacki) is amazing. Really great at explaining concepts well while keeping things concise. Can’t really give any recommendations (sorry 😅), but this has been my experience so far.
+mark brehob is amazing for 376
+Kamil is good for EECS 376
+Tang is very, very clear for 370. She's the only instructor that insists on writing annotations on slides by hand to guide you through concepts and examples.
+Really enjoyed Narayanasamy for 370 and Kamil for 376 both were clear and always answering questions
+Both these classes are very conceptually challenging. Most important thing is to understand 100% of lecture content by the time you get to the next lecture. Use office hours religiously.
+
+I personally found Kamil’s lecture notes more useful than lectures themselves for 376. I would honestly recommend skipping lectures for this class if you aren’t gaining anything from them. 376 is all about practice-practice-practice.
+Watch Beaumont recordings for 370, you’ll be much better off!
+Last fall I watched Satish & Amir’s lectures. Both are pretty good for me, especially Satish. 376 with Amir will have a reasonable exam, but 370 with Satish & Tang will have a very hard final exam.
+Narayanasamy one of the clearest and best lecturers in EECS he breaks everything down so it's easily digestible, also a super nice guy who really cares about students.
+Satish and lingjia both really good! The 3rd guy is new to 370 but they split up what lectures they teach so you might have to go watch a certain profs lectures regardless
+if you dont need to take 270, then dont. i heard it is basically two classes. the lecture/exam portion and the lab portion.
+I did this semester, content overlaps somewhat during the beginning
+I took both 270 and 370 in Fall 20. It kinda depends if you want to take 270 as an FTE. There might be better options, but I did know a few CS people that were taking 270 as an FTE.
+
+It might make sense if you were interested in 470 or something that requires 270. 
+
+At least for the content, there is definitely overlap. "it might make sense to take it at the same time as 370 so I can double focus on computer hardware?"  -maybe, but I'm not sure if you necessarily need 270 though.
+Difficult but doable
+Yeah 370 will be a lot easier if u do that
+Nope! You’ll be let in, they always open spots
+Nope! You’ll always get in :)
+painful, but doable
+i did 370 + 485 + stats 250 + mini courses and i barely had any free time. for reference, i found 370 pretty interesting and easy but there was still a lot of busy work (hw and proj) and i struggled p hard through 485 bc that was my first ever ulcs and we had to learn a lot of the stuff on our own by googling it. 376 was def more work than stats 250 + mini courses combined since i suck at discrete math so i would’ve never done that combination but it’s really up to how comfortable u are with those classes
+Three years from now I'm expecting an email that there's yet another change to Q6
+I didn't answer over half of it lol. My soul has been reaped--now it's time to bomb 485 😁
+Bro was writing the exam while we were taking it 💀
+I feel like they gave Young King Daniel an Adderall and told him to write the hardest exam he possibly could within one hour.
+oh thank god this post is here, I was worried I was alone.
+lul, wtf was that exam
+f who made this exam, most absurd one ever
+I have never felt more confident going into an EECS exam than this one. I felt like I understood the material thouroughly and was doing well on all the practice tests, but this exam just immediately crushed my spirits.
+yea what was that
+I just have one question.
+
+WHY?
+[I have a Question ](https://youtu.be/ZtjFsQBuJWw)
+Here we see the EECS students in their natural habitat, participating in their semi-annual ritual of getting destroyed by the EECS 370 exam. All is right.
+[deleted]
+That exam felt like they just wanted us to fail. It was so different from all the practice exams and pretty much everything we did in the class. I made a big effort to learn all the material and had been getting good homework/project scores and a decent midterm score but I walked out of the final feeling like I got a 0. I’m not sure how they expected us to know how to do any of that
+It's so discouraging to try and understand the material properly and then take an exam like that. It feels like they designed this exam with the intention for us to all fail which is sad.
+problem 6 was limping by the end lmao, like do they not proofread at all??
+Would it be unacceptable for me to write a critical Piazza post calling out the professors for that disaster of an exam? I'm a 5th year student in two of the most difficult majors at this school (CS and ME), have taken dozens of exams and have never had an exam so tone deaf. I feel like someone should say something and I'm out of here soon so I don't mind being the one to do it lol. Obviously I wouldn't say anything hostile, but man do they need a wake up call.
+n! harder than midterm
+Ahhh this post takes me back lmao
+Take the hardest cs exam at Stamps auditorium with such small table😭
+Final exam of that difficultly and variation from lecture material was absolutely uncalled for. Testing us on a “new pipeline” does not reflect how well we understand the pipeline we were taught. It just makes us all stress tf out realizing we have to adjust everything we know in about 1min if we’re going to have enough time to answer during a final. I understand that in “the real world” things won’t be model-like, but we are taking an exam not designing solutions for a company. How are we ever meant to feel confident in our ability to creatively solve new problems if we are never afforded the opportunity to succeed with the baseline. I feel like every question was specially tailored to make us feel less and less confident throughout the exam. Do the exam writers have a background in psychology? Maybe that should be a requirement. I took this class in Spring 21 as well and that class only covered about 1/2 of the material we did this semester. It is really unfair that a bunch of students got to pass 370 without going through what we just did. I would love to see the staff address and accept responsibility for taking their jobs way too seriously. My other theory is that they are overwhelmed with enrollment demand exceeding supply, so their solution is to just weed out 2/3 of the population via mental warfare. Did 370 even read the new plan for CSE “rebuilding trust” with students and accommodating the demand for instruction and student concerns about instruction quality? P.s. nothing bad happens to your reputation if your exams correctly reflect your lecture material.
+Unironically, appreciate the criticism.
+[deleted]
+I got a 90ish on the midterm in < 2 hours. Today I barely finished in 3 (I have extra time).
+Hey guys I took this class in 2014, and I'm a developer now, but both 281 and 376 were easier for me (This was actually my lowest grade out of all the CS classes I took, and I aced all the projects just didn't do to great on the exams) I would say this class is much more geared towards computer engineering than programming. Definitely useful stuff in there though.
+Honestly, fuck Daniel. I was in 370 with him and his piazza posts were unbearable :)
+I did 281, 370, and 376 in 1 semester too. If you did well on all the midterms and this is the first test to really got you so far, that's pretty good.
+It was kinda predictable given you had like 3 of the worst professors in EECS.
+281370386 is an ass ton of midterms, I’d hate to see your schedule, can’t imagine having 300 million exams
+I'm sorry you feel that way. The class is going to be curved, so that's the good news :)
+Death
+
+Taxes
+
+EECS exam reddit posts
+A kind reference to response to [370 mid](https://www.reddit.com/r/uofm/comments/qi20ll/370_midterm/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+"a short antidote about your experience" lol I need an antidote after that exam to cure my depression
+the big sad
+Slept 2 hours total before the exam and it felt so much better than the midterm XD
+Ouch 😪
+[deleted]
+FWIW I'm not in the class, just a former 370 student who found this drama on reddit. I'm sure you're stressed out and it's not fun to have people flame your department and demand the final to be waived.  You are a person too, with exams and your own struggles.      
+
+But your response was one of the most appalling and unprofessional things I've ever seen an instructor write. I'm glad you're taking this as a life lesson, but honestly, I hope it's more than just that.    
+
+I hope you understand exactly why people are so offended, and that you look back on your comment and feel incredible remorse and regret. You went ahead and made assumptions and invalidated the struggles of hundreds of students in an incredibly rude way.   
+
+I also hope you're given the chance to give an apology on piazza or discord, with more than just a "I apologize if I offended anybody".    
+
+Best of luck to the 370 department in sorting out this fiasco, I'm sure all of the instructors are trying their best to make this work.
+I know people, me included, are insulting you. I don’t speak for anyone else but personally my insults are entirely geared at your statements on privilege. 
+
+I heard that you are a fantastic teacher and I’m sure you’re not a terrible person in real life. Your points aside from what you said about privilege are valid.
+
+That said, what you said about privilege is truly insensitive and terrible. If you don’t understand why I’m happy to elaborate further on that. I sincerely hope you take back what you said and apologise. It was completely uncalled for.
+I went to your discussion many times, and you are a great teacher! I really appreciate all the work you put into the course
+I’m sorry that ppl were doxing you in the other post.
+🍿
+[removed]
+[removed]
+I can help, though it’s been 2 years since I’ve taken it. I’m an IA for another EECS class though so I do have some experience teaching
+I took it last term if youre interested
+Reach out to the staff if you’re having issues /need help :)
+485 really teaches you to not rely on lectures to give you all the info you need to complete the project (aka Google is your best friend forever). 370 is also a decent amount of work if you want a good grade (edge cases are a bitch in this class). 481 is a lot easier workload and the material isn't the hardest to understand, however the final project can take a decent amount of your time depending on what you do. IMO don't do all 3 together, but it is technically doable
+From my experience, there is a huge conceptual gap between 281 the the rest of the upper-level courses. Before 281, you have been focusing on algorithm and optimization, but for most of the upper level courses, performance isn’t the focus, and the learning style shifts a lot from “you do what you learn in class” to “google the solution yourself.” That said, I think doing eecs 485 as your first upper level is definitely a good choice, as it introduces a wide range of ideas that you will come across latter on in your CS education, but it does have a significant workload. I heard 481 is relatively easy, but still it is a upper-level and I don’t know if jumping into two upper level + 370 is a good idea. So, I would suggest you take 370 and 485 together, and just choose other non-major classes that you need to graduate.
+Sorry you're not having the best experience in 370 ATM, let us know if we can do anything to help you :)
+I mean no one here is going to tell you it’s an objectively good idea. People already advise against 281 and 370 at the same time but it’s doable, I took both at the same time and the project deadlines were stressful but I survived. I mean if you’re confident that you have a great work ethic you could probably take on more than most but you’ll likely be very busy all semester and if you ever let yourself get behind have an insanely hard time dealing with it. Is there another semester you could bundle classes to still graduate early? No need to make this hard semester harder if you could just make a future easy one a bit harder.
+Three EECS classes is doable, but it really all depends on your commitment to start early. EECS281 is difficult for a lot of students and EECS370 can be difficult as the material at times can seem dry. Project deadlines for EECS281 and EECS370 can overlap at times so juggling both can be a big struggle. My recommendations are to start early (of course) at the very least read the spec once and download the source code to your machine the day it releases, go to office hours frequently (professor office hours are especially helpful for 281 IIRC), and for 370 hammer those practice exams. When I took 370 the final was dense, particularly the last topic on virtual memory felt rushed so I guess just a heads up on that!
+
+Also maybe 285 wasn't there when I was at umich, but I would look to see if 285 counts towards the EECS upper-level requirements if that's why you're taking the class.
+Hey I took EECS 281, 285, 370 together last fall, along with Math 217. The only way I would consider a schedule like this is if you are very good already at CS projects and won’t get tired of them, because all of these CS classes will have you doing constant projects. But overall, if you have a lot of coding experience, it is probably doable. In fact, I found it nice because I was essentially spending most of my school time just writing code, which I love to do.
+
+EECS 285 was not very hard if you already have experience with Java, OOP, and UI dev. If you don’t have experience with these things, you might want to look elsewhere since you absolutely do not want to get behind on a CS project with this schedule (when you have 3 projects due with one week left you don’t want to have to put all your time into 285).
+
+Anyway, good luck
+You should go for it! The worst case scenario is that you realize early on that it's not doable and drop a class (which is totally fine and has no down side), but you might also find the load doable and not such a big deal. That could give you great confidence and momentum early on in your EECS career, which is something that I see as valuable. Either way, you shouldn't choose or not choose a a schedule because people say it's too much. We have no clue what you can handle, only you really know. IMO you just gotta do you, and you should probably go for it and take 285.
+[deleted]
+I'm sorry to hear about that! It completely sucks walking away from an exam that felt absolutely brutal. I truly feel for you, and hope the second half of the class gets better :) (fyi, the second half of 370 tends to the be the half the students prefer since it's more relevant to CS stuff and not *as* low-level)
+
+To address your question about disregarding this stuff moving forward, the honest answer (that I am now free to give) is you really can forget *most* (not all) of what 370 taught you about assembly instructions/execution if you don't really care about low-level stuff. Having a general familiarity with what assembly language is and how it differs from high-level programming languages is important as this stuff tends to come up again and again later on, but remembering the nitty-gritty details of how a multi-cycle processor functions, what caller/callee saving is, the specifics of the object files and how they're used in linking, all that is probably never going to become relevant again for you.
+
+Now, if you do plan on taking classes/pursuing work with compilers or operating systems or something like that, then this stuff I just mentioned is important. If you're more focused on really high level stuff then you probably won't ever see a multi-cycle/pipeline processor ever again.
+
+I'd say by just going through 370 you have what knowledge you need to move forward. Just because you did bad on one question that is designed to be hard doesn't necessarily mean you didn't understand the core material well enough. If there's one thing you take away from this Reddit comment, it's this point.
+I think I speak for almost all the students taking the course rn when I say we all fucked up the midterm. That was brutal. Don’t worry too much. The class is curved a ton
+Yea, the midterm was hard man.
+I truly did really on the midterm. I got a little bit over one standard deviation below the median. Now I just sorta lose all the faith. If I score above the median or sth on the final, is it still possible for me to get a B or something?
+This is the way
+10000% the hardest exam ever at umich
+early bruh moment
+
+update: couldn't finish the exam had to guess on two questions, guess im not taking 482 :DDD
+Got fucked as expected 😎
+Ah, the semi annual “EECS exam bad” posts return again 😞
+Seeing how you guys did the exam, do you guys have tips for the next batch of future eecs naysayers?
+Just finished the 270 exam and oh boy did I fail that. Hardest exam I ever took
+[removed]
+j
+Just going to assume this is Hershal  
+  
+Dude I was TERRIFIED when I still had half of the scrollbar left with half an hour left  
+  
+Thank goodness that was mostly because the second-to-last question was ABSURDLY long in terms of screen real estate rather than only being halfway done with the exam
+Bruh what was that hershal
+Guys, that was <BAD> <🙃>  
+Like if you agree
+This sub makes me so incredibly thankful that I am not an EECS major. That’s coming from a MechE major. Your department is just on another level with some of these classes
+Can I ask yalls no offense but like what crack were you smoking when you made that exam? I need that shit in my life rn
+Funny how i thought i was doing well in the class until 3 minutes ago
+Nice try IRS
+This was a long fucking exam
+<sad> <😢>
+Curve gods
+Cache me failing
+Guys, I am <SAD> < 😢 >
+
+Like if you agree
+Guys, that was <not fun> <😩>
+
+Like if you agree
+Ah yes, the semesterly EECS 370 midterm post. So glad I'm on the EE half of EECS. Solidarity though :(
+This class, particularly with the asynchronous distribution of lecture, has gone miserably. That is all.
+I hope 6% of you are stupider than I just felt bc I really don't want to take this class again
+Okay so there is a post for every single EECS midterm every semester, starting to feel like it’s a problem with how they’re written tbh...
+Sad story be told, I spent most of the day finishing project 2l instead of studying. Was unfortunate.
+rip my grade
+Compared to EECS 203 where I literally guessed on every question this midterm was surprisingly doable.
+
+But still
+
+# B R U H
+bruh
+creeper
+Lmao you guys are so fucking stupid this was by far one of the easier midterms I took this year, at least I know the curve's about to be good :)
+This is a regularly asked question that is apt for a subreddit search. In short, it's a pretty common combination. 281 and 370 project deadlines tend to overlap though, which is mostly what people complain about.
+It's more sensible to pair 281 with 376, since 376 doesn't have projects.
+Yea if you search, you'll find opinions easily. I guess I'll be nice and say it here again. deadlines for both class projects are very similar so you could face trouble. That said, I managed just fine because I rushed through 370, then did 281. Didn't think its too much of an issue - deadlines are always awkward to be honest
+I did it. It was a tough semester, but doable. And the project deadlines do NOT overlap at all - they are actually a bit apart from each other when I took it. Idk why everyone says that.
+
+However, 376 and 281 do overlap more conceptually, so there is a benefit to doing those two together. You'll be fine if you do 281 and 370 though
+If you feel confident in EECS coursework, 339 should be the lightest load of your courses. The main time commitment is the end of semester project, which shouldn’t take too long.
+The workload for SI 339 is much lower than the other 3 classes and is by far the easiest class in that list. It's basically just intro front end web dev with html/css/js/jquery and making sure you know how to make accessible websites (using wave/axe). The biggest assignment in that class is a project near the end of the semester that a lot of people use as an excuse to make a personal website (which you should have if you don't have one already). I personally spent more time choosing colors than writing code for that project.
+
+281 and 370 tend to have due dates very close to each other and both are project based. 281 + 376 is usually a better combo than 281 + 370. I don't think adding SI 339 is a big deal as long as you're not trying to do all 4 at once.
+I’d say it’s fine if you did 281, 376, 339 and either nothing else or a very light course. I would not do 370 instead of 376 - 281 and 370 together already get *very* hectic, and you wouldn’t want a third project based course on top of that
+Every time someone posts about an EECS exam take a shot.
+Classic
+Fucking multi-cycle Datapaths straight up still look like hieroglyphics to me
+might fuck around and change my major now tbh
+i thought a long was 4 bytes ripppp
+This post happens nearly every semester lol
+Lol I remember that class from last semester. Bad times...
+It's a ritual we must all go through
+(>’-‘)> take my partial credit energy
+maybe I'm crazy, but 370 wasn't overly difficult, especially after 270.
+
+I didn't like my teacher, and didn't go to class all that often, but I still liked the content.
+Low key thought I did well on it Anna oop
+Ah yes. 
+
+The class that I've literally never used at any point in my internships / work except for knowing how caches work which I coulda learnt from wikipedia. 
+
+have fun!
+Can we Eecs students as a community stop making these low effort posts? Every time one of the required classes has a test one of these pops up regardless of the difficulty. We all realize when the average is designed to be in the 60-70s it feels bad walking out but the curve will save, it always does.
+I'm enjoying the projects so far but lots of lecture concepts are going over my head. I feel like I understand 5% of the material from the last 4 lectures.
+Is Brehob teaching? You really need to be caught up with the lectures and (mostly) understand them. Exams are also nearly identical to past exams and your homework.
+If it makes you feel any better, project 2 is by far the hardest one. You’ll do much better on the last 2
+I feel this. I've just binged so many lectures over the past week and I cant figure out linker. Im gonna take a late day on it to see if I can do it tn
+If you're really stressed about it, feel free to join the discord server if you haven't already ([https://discord.gg/jDWYs5](https://discord.gg/jDWYs5)).  We'll be going over 2c in detail tomorrow so everybody can get full points (plus the 2z bonus points, hopefully) by next Tuesday.
+
+This goes for anybody, btw, not just op.  We have a surprisingly active server.
+I am feeling similarly. We can do it though!
+the quarterly eecs 370 exam post: at least some things never change
+Pretty sure that's standard for EECS 370.
+I've been waiting for this Reddit post
+Yeah, whole 2nd half of the class for me kinda sucked. Combination of lack of motivation/not being able to get in person help really got me. Went from looking at an A- to praying I pass. I feel like even with my lack of understanding of the material, though, the final was just super hard. I don't think there was a single question that was simple or followed the format of previous questions I've seen on other exams so I was just lost trying to put it all together in time.
+The final was fucked up
+Same here. It’s hard to pace yourself on a webpage, I didn’t even get to half of it unfortunately. From A to P in 2 hours :)
+https://imgur.com/a/F7P7Taw
+I’m just tryna pass now. Why’d they try to destroy us
+I didn’t expect to do well at all but I’m still disappointed
+Lololololol reminds me of when my friend and I got our exam scores 3 years ago. I'd done worse than him on every single freaking midterm. He checked his final exam grade before I had a chance to and told me he'd gotten a 32%. I was so scared of what I'd gotten and couldn't believe it when I saw I'd gotten a 40%. XD Both of us got a B- for the class hahahahaha
+This final destroys all
+They graded so harshly
+I literally didn’t know how to do 2 questions so that was fun
+I made such a stupid mistake that cost me 10 points. 281 can be much worse.
+370 does ~no python, it's all in C.  
+That being said, it's taught really well remotely!
+EECS 388 isn't exclusively Python, but they do use it frequently for projects.
+Big F in the chat
+Pray for the curve boys, pray for the curve.
+
+They can't fail all of us.
+I swear we see this post every semester.
+that shit hurted
+took me by surprise
+# F
+I'm surprised, usually the midterm isn't bad in 370, I think the average for my class was a B last fall. It's the final that destroys your will to live. I wonder if they're making cs classes more difficult in general because it's becoming such a popular major.
+Professor calamitus needs to die.
+Protip - practice exams often contain material that will not be on the exam, and material on the exam will often not be on the practice. I'd almost say that stuff on the exam tends to be stuff NOT from practice exams, or hw. They want to hit you with new stuff in the exam.
+RIP
+[deleted]
+How well you did in 370 is definitely not representative of how well you’re gonna do in 482! If the topics in 482 interest you, and you put in the time that 482 requires of you, it’s gonna be okay. 
+
+The projects and exams are nothing like 370’s, and neither are the topics (only overlap is virtual memory, but virtual memory makes so much more sense in 482 once you start actually applying the ideas in your code and project). TBH 281 is more representative of what 482 is gonna be like than 370.
+
+When I took 370 I had no clue what the fuck I was doing with virtual memory. I went to office hours the day before the homework was due, basically copied down every answer from the IA explaining everything, and went into the exam accepting that I was gonna get that question wrong. (And even I ended up IAing for 370 for 3 semesters, and doing well in 482 lol)
+
+TL:DR I wouldn’t sweat it, as long as you know 482 is gonna take a lot work and you’re willing to put in the work. (Work doesn’t necessarily mean difficult by the way).
+I think you need to take a step back and think about what you are asking of yourself. It seems like you're expecting too much and it's hurting your self-esteem and mental health.
+
+>I feel very guilty for not having good academic performance
+
+Guilty to whom? Guilty by what code? Are you trying to prove something to someone? Are there external parties that have very high expectations of you?
+
+In the EECS environment, it can be very easy to forget that you came to college to learn (and probably also to get a degree so you can more easily start your career). No part of that requires that you be as good as everybody else by any sort of grade standard. If you're failing, that's one thing, but it doesn't sound like you are (you got mean / below mean, so maybe you're getting Cs in the worst case). As the age-old adage goes: Cs get degrees.
+
+For what it's worth: I'm a GSI for 482. It can be a lot to take in for those who don't have a solid footing coming in. I see a lot of students fumble through the projects trying different things until it works, because they have little practice in debugging their own programs to the level required by these projects. It's a great class for confident students to take. The staff does hold lots of office hours, and we want to help you understand the concepts and projects, but you're often jockeying for time with many other students in OH. This does not mean that other students don't succeed; the vast majority of students in the class end up doing well on the projects by the end.
+
+My personal recommendation, if you have such flexibility, is to consider pushing back 482 until you feel you have gained a more solid footing in EECS, which you surely will soon if you feel you haven't yet. I recommend this because the less effort you spend frantically trying to achieve some grade in 482, the more of the content you will probably internalize and take away. 482 offers some of the most useful knowledge for soon-to-be software engineers. In fact, I'd say that 482 and 481 are, imo, the two most valuable courses to take if you want to improve as a software engineer. Also 485, but mainly because of the specific languages and frameworks it introduces you to.
+
+If you don't have such flexibility, then take 482, and don't be afraid. Know that you almost certainly have what it takes to pass the class, or even to get an A. Know that you have 12 staff members who are here to help you through it.
+
+No matter what, remember that you were accepted to Michigan, and you're studying among the Leaders and Best. It's not meant to be easy. Take care of yourself, enjoy your holiday, and know that no grade or GPA defines who you are.
+Try to take easy classes alongside 482 to balance out the gpa, that's what I'm doing. Also, I've heard that 482 exams are based off the projects, so they're probably easier than 370 exams (not sure though, I'm also taking 482 next semester).
+Don’t take 482 then. You don’t have to
+Piazza is your friend. I had to use it a lot in 370; the vast majority of the time any question I had was already asked and answered
+There's a long post on Piazza explaining one of the homework problems if you're stuck on that, it also clears up a lot of things about virtual memory. Office hours are pretty helpful (if you can get in lmao). Try reaching out to the people in your discussion pod, see what they're thinking.
+Go and sit in office hours and absorb all the information. I remember that the last homework had so much random stuff that I never saw before and same for the exam practice problems. Make sure you understand how to do everything or at least know what the approach is for the final

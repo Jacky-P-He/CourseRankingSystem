@@ -1,0 +1,36 @@
+https://i.imgur.com/vN6QjB3.jpg
+
+https://i.imgur.com/fZI1p4Y.jpg
+
+https://i.imgur.com/TMKTJwW.jpg
+
+https://i.imgur.com/NTfgA1P.jpg
+
+I’m in the class right now. Seems like a fun class. There is a lot of math involved though.
+It's a pretty good course, you'll learn a lot of cool and useful stuff, particularly how to use Simulink effectively, and the professor is great
+I think it depends on the professor, and also the COVID protocols for the semester. I took 419 this fall with prof. Karni and lectures were not recorded.
+"If you haven't taken either of these classes [math 215] in some capacity, then I would strongly caution you against taking this course if you desire to get a solid grade. If you're just there to learn, it might be worth it. It is an incredibly math-heavy course. It may as well be a CS-flavored math course."
+
+Is what someone replied about in an EECS 445 thread earlier today. Did you look at that thread? 
+There are two very important units of study in 445 that rely heavily on conceptual understanding of multivariate calculus topics, and they are:
+
+1) SVMs.
+• The mathematical derivation for this ML model relies very heavily on an understanding of Lagrangians and the gradient, both topics from Calc III.  You will be tested and homeworked on your ability to do this type of math.
+
+2) Neural Networks
+• The notion of backpropagation, which is the whole reason that neural networks work, relies on an understanding of the gradient, and the homeworks/exams will require you to be able to compute gradients.
+
+If you have never even broached the subject of taking the gradient of a multivariate function, I imagine you will have a very difficult time truly understanding these two big units. Proceed with caution.
+Well damn
+217 sucks, it was 203 on steroids and just sucked. I hated it with the white hot passion of a thousand burning suns.
+
+270 is pretty cool but is not necessary for 370.
+MATH 419 is one of the most challenging yet rewarding classes I've taken at the university. My understanding is that it's more theoretical than 417.
+as far as 270 before 370, if you've taken Peter Chens' ENGR100 class I wouldn't bother. Even if you haven't, it's not entirely necessary from what I've been told. 
+If you just want to take a linear algebra class and pass, take 214. Also, I don't think it is worth it to take 270 before 370. I didn't and they go over the concepts decently well in 370.
+Take 270 if you want to understand how computers work.  If all you care about is writing code, you can probably skip 270.
+If you care to learn statistics/probability try Math 425. It's an easy class and fulfills your math reqs
+404 is an excellent course.  However, it is not considered a challenging course.  ME seems to be the exception, as most schools do not accept it as a viable graduate course, e.g., [(EECS, p. 5, pt 12)](http://www.eecs.umich.edu/eecs/graduate/ee/eeprogram_new.pdf) and [Aero](http://www.engin.umich.edu/aero/academics/grad/programs/mse).
+
+If grad school is your goal, then take the 451/452 sequence.  This sequence is a lot more work, but will open more doors.  
+I took Math 412, was pretty simple. Lots of matrix stuff and some transformations and studying algorithms, but actually a pretty laid back and interesting class, if advanced algebra is something you're into.

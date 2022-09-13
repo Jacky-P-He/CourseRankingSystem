@@ -1,0 +1,229 @@
+4 projects, 5 HW, Midterm+Final. Final isn’t cumulative, overall the course is like an EECS 10-20% workload. I am currently in the course, so my answer may change slightly after the course is done. Of the 3 projects I’ve done, they have taken anywhere from 4-20 hours of pair work. The homework usually takes around 2-5 hours of pair work (can have 1 partner HW and Proj). I’d definitely say it’s doable over a summer. You may have a less fun time if you do it alone/partner doesn’t do much work. *(this is my experience as a graduating senior with ~10 ULCS courses taken)
+Currently in 484, definitely learnt a lot becuz I am a stats major who don’t have much coding experience. I have to pick up Java, JavaScript and Mongodb on my own. The learning curve at the beginning was quite daunting for me tbh. But because of this steep learning process, I feel like i absorb a ton of knowledge and learn programming language I would never take up.
+
+——
+Edited 
+
+I feel like if you want to pick up new Prog languages or go over Java 484 is definitely worthy trying. But if you have a good command of SQL and Java don’t take it, take 485. Also, partner is critical throughout 484. A bad partner can ruin your learning experience. Like me, I feel bad for my partner. He had to teach me a lot in every hw and project 😂I learnt a lot becuz of it
+First 3 projects have been easy. Homeworks are not too bad either. Exam is fair. I do not know what people mean when they say the class is badly organized
+[deleted]
+The only thing they share is SQL and databases. 484 goes into depth about SQL commands while 485 is very basic
+If you intend to work with databases in your job one day, I would definitely recommend taking 484. The first half of the course teaches you SQL commands, schema/relational database design, and database redundancy normalization. The second half covers NoSQL and how a database system actually works under the hood with joins, unions, queries, etc. While database backend is not as useful for industry, it is still very interesting.
+
+TLDR; After taking 485 followed by 484, I realized I did not learn nearly enough SQL in 485 to say I am proficient on my resume. If you have any interest in backend development, strong SQL skills are essential.
+I am in 484 and 485 right now. It is very manageable. Between 484 and 485, you will gain many skills if you haven’t already learned them before including: Python, HTML, CSS, JavaScript, React, Bash, Hadoop, SQL, MongoDB, and Java. I don’t know about 388.
+388 is a better class in general imo, and it’s fine without 370. Also would pair nicely with 485.
+
+With 388 you either love it or hate it. It was my favorite class I’ve ever taken here
+This one is pretty much down to personal preference I’d say. Take whatever interests you more.
+
+>	I’ve heard super mixed things about 484 and the way that class is run but I also know it’s a pretty important class to take since you learn a lot of critical skills.
+
+I mean, it depends on what you wanna do out of college. For the average CS undergrad, I’d very much disagree that there are a lot of “critical skills” learned in 484 - it’s mostly just SQL stuff that you can learn fairly easily via online tutorials, and after that it’s all about how DBMS’s are implemented which isn’t super relevant for your typical SWE grad.
+
+*Might be worth taking this with a grain of salt since I took the class with Leach who is no longer teaching here.
+484 has a good professor this semester, I’d recommend taking it. You can technically learn the content on your own but I personally found SQL very awkward and unlike normal programming languages. SQL online resources also suck donkey balls compared to other languages and is simultaneously expected knowledge for data scientists.
+why not eecs 445 instead of stat 415？
+There’s nothing that can be done about it now right? How does a 90.7 without any exam curves turn into a B+
+They curve down?????? Wtf????
+When I took eecs 388 back in the day they curved a 93.8 down to an A-. Still salty about it 4 years later.
+They curve down in an EECS class??
+Are both canvas and wolverine access grades curved down?
+
+Edit: I've had a couple classes where my Canvas letter grade was lower than my actual grade on wolverine access and was just wondering if this was the case for you guys.
+Also why don't they curve the exams individually instead of the whole course?
+When I took 484 (a long time ago), the problem was that it was way too easy.   Everyone who got an A had a perfect score.  I remember being pissed after getting an A- because I missed a multiple choice question or two on the final.
+My raw grade before the final was 90.6%. Got an 85.5% raw overall grade on Canvas after the final, i got a 67% and the average of the final was 68.8%. B- reported on transcript, I literally don't understand how I can go from A- to B-, what a bunch of bullshit. How is a failing exam average not curved at all!! All they care about is the people on the edge of failing the class, like dude my GPA is still important to me!!!
+
+Anyone know where I can file a complaint for this, this shit is actually important to me.
+I was signed up for it next semester. I’m dropping it now
+Bro, I’m not in EECS and I don’t know what this class is and I still felt the need to vote. So… maybe not a reliable poll.
+To be honest EECS 484 has been the most relevant class I took for my career. I’m a software engineer working in UI space (react). Many companies use db storage for telemetry and test data and having 484 will definitely set you apart in your ability to process that data and make it useful.
+I think a reddit poll is a good deciding factor 😼
+Based on the grading policy instructors used last semester, and the fact they curved down grades at first and make piazza inactive immediately after announcing final grade threshold, DON’T take it.
+plz drop 484 im on the waitlist
+484. Database is one of the foundations of software development
+388. Teaches how about computer security and you learn web languages, SQL, Python. I’ve heard 484 is interesting but I don’t think it’s too hard to learn about databases in your own.
+I thought 484 was one of the most useful ULCS courses I’ve taken. Can’t speak for 388 as I’ve never taken it, but databases are a strong foundation for backend programming, and while 485 briefly covers SQL, it does not cover nearly enough to say you are proficient in SQL/databases.
+I took EECS 388. It was not a great class. Honeyman is cool, but just not a great lecturer unfortunatley. Halderman is great. Tbh I know there are only projects in 388 but they took me forever and I really struggled with them.
+
+TLDR:
+
+388 is meh. I wouldn’t take it.
+https://atlas.ai.umich.edu/course/EECS%20484/
+https://atlas.ai.umich.edu/course/EECS%20485/
+
+looks like 485 is a lot more work, but has a slightly higher median grade
+
+I've taken 485 and can attest a lot of the work takes time and can be conceptually kinda difficult, but haven't taken 484 so idk
+484 is definitely easier but I heard bad things about the class and the professor so ¯\\_(ツ)_/¯
+I highly recommend 484 over 485! I personally found the 485 projects long and kinda confusing. It takes me days to finish a 485 project but only a couple hours to do 484. Also 484 doesn’t have hidden test cases like 485 so you won’t get surprised by your final grade. 484 does have hw while 485 doesn’t, but I think it’s still less work overall. Plus I found the 484 exams easier but maybe that’s bc I liked the concepts taught in 484 more
+Haven't taken 484 (taking it next semester though) but if you want the easier class I think 484 is a lower workload. If you have experience in Python / JavaScript / HTML then 485 won't be as hard, but I had to learn all these languages while taking it and that definitely added to the difficulty
+If you are DS major and do not want that much workload I definitely recommend 484, as it has has much less workload than 485 and easier project/hw. Although 484’s lectures are not good(not well organized), but you do not really need to go to the lecture to do well in this class(most people don’t go).
+Took it with Leach who isn’t at UM anymore but it was pretty much your typical ULCS workload for me. A few moderately difficult projects, nothing too crazy. I had to sketch up basic diagrams every now and then.
+You need to provide more information on what's important to you. Would you rather be interested in the projects and course material? What else are you taking? What "mixed reviews" have you heard?
+
+My personal recommendation is 388 all the way, but I can't be sure that that's a good recommendation given your circumstances.
+I have never taken 388, but I have taken 484. If I would have known what 484 is about, I might take 388. However, maybe I would have different opinion if I would have taken 388.
+
+But, in 484, you learn about how database work. You will not be learning much on how to use them. If 484 is still the same as I took it, you will learn about the concept and theories that go into making a database. Like you will learn about different type of transactions, normalization, etc. you will gain better understanding on how a database work basically.
+
+Maybe 388 has more hands on. So if I would given the option to go back in time and choose, I might go with 388
+That sounds like hell, why are you trying to do so many EECS courses at once?
+Any 3 EECS courses together is already pretty bad
+I took this three eecs classes together. 370 and 484 are doable. If you have a good bit of web dev experience, you can throw 485 in there. Otherwise, might be a lot to take on. 
+I'm going to piggy-back off this thread, because I don't want /r/uofm to be full of the same posts.
+
+Could I get some advice too, please?
+I'm thinking of either 484 + 485 + last semester of language + easy 1/2 minicredit
+or
+388 + 485 + last semester of language + easy 1/2minicredit
+
+Is there any differences in difficulty between 388/485 vs 484/485?
+Don't underestimate Stats 413 especially if it's with Yukai Sun again (which it probably will be). The class is extremely theoretical and the homeworks are almost entirely proof based. I did alright in Math 217 and EECS 203 so I don't think I'm that awful at theoretical math/proofs, but I pretty much can't finish any of the hw assignments without going to multiple office hour sessions.
+
+According to one of the GSIs, last semester the class was mostly Cs and Bs and very very few As. Our first exam had an average  72.5%, which is considered a C- under his planned grading scale (though I think he stated that he would likely lower the scale a bit).
+
+I actually do like the class quite a bit (a lot of people don't), but I really wish I took it in a lighter semester.
+Depends, on how focused you are and your work ethic. 
+
+If you consistently get atleast an A- among your EECS and math classes, then you should be fine. 
+
+Be prepared to work on homework and projects 7 days a week for several hours.
+485 is not hard or very time consuming unless you're really focused on killing the exams. 370 and 484 are a bit more but also a level easier / less time consuming than 281. I'd personally try and spread these into 2 semesters but I think you could handle 3/4 if you don't take any other class.
+445 Machine Learning - I had this class with Jacob Abernathy and Jia Deng. They each taught half the course. Abernathy is awesome, really nice guy. Jia Deng is pretty quiet, super focused, but he's not a bad instructor. Abernathy talks so damn fast though, on the lecture recordings I would slow down his voice. 
+
+Honestly, nobody in class knew what was going on. After the first midterm, we had a meltdown on Piazza. A ton of people dropped the class, and we spent the next week and a half just reviewing.  The class is very advanced. If you don't have STATS 425, 426, and Linear Algebra, do not even think about taking it. You will struggle A LOT. The class is VERY stats heavy. 
+
+I'm not sure if they made the class easier since when I took it. We were told that there wasn't a good introduction to machine learning book, and that this class is technically a graduate level class. Yes even though it's a 400 level class, that's just what the instructors said. I felt like I learned basically nothing in the course... which is sad and of course my own fault. A lot of the material didn't click --- I took this class BEFORE I took 426. And I took Linear Algebra and 425 like 3 years prior. So I forgot a bunch of stuff.
+
+However. I passed. Pretty much everybody passed. They curved the grades like the bullets in the movie Wanted with Angelina Jolie. Many of us were certain we would fail. But one of my friends even got TWO standard deviations below the mean on our exams, and he still got a B-. They were VERY generous with the grading scheme at the end. The homework and projects were hell though. Make sure you have a good team. 
+
+____________________________________
+
+EECS 484 - Database Management Systems. The class is "alright". The first half of the class is useful. You learn a lot of SQL. The second half of the class seems more of a waste. You don't use SQL anymore, and design a relational database. 
+
+The projects in the class are poorly written. There were so many versions of our spec because they kept making mistakes (the projects are reused from year to year apparently)... even until a few days before the project was due. But usually not too bad since you get a partner. Exams are hit or miss. Our first exam was really easy, while the final was a lot tougher. Workload is probably your average upper level EECS course, maybe a bit less. 
+____________________________________
+
+I don't think that either of these classes are bad. If they interest you then take them. But be wary of ML.
+
+
+
+
+
+They are not even similar what are your goals? If you want an easy upper level stay away from 445 at all costs. Since you're taking about workload the lightest ones I've seen were 388 and 485.
+So I had this class in winter 2017, and it was by far one of the worst run classes I've taken at the university.  Professors weren't very good and GSI's were little to no help on everything from trying to get a better understanding of the course material to project help.  Some of the material covered in the course is quite outdated and should really be replaced. If you want a database class that'll teach you 3 weeks of query stuff and nothing else really applicable after that then go for it. Otherwise, I would strongly suggest 485 as you use the only applicable part of 484 in it, in a realistic setting and it has projects that apply to real world concepts and every day interactions. Best of luck friend.
+You spend one month learning actual database things, and 3 months learning to write your own RDBMS. Not super useful. Awful organization of class and projects. 
+If you want to know how databases work and get a feel for what's going on, the theory, etc. and generally appreciate things from the perspective of someone trying to understand what's going on with traditional databases, it's good.
+
+If you want to learn how to do cool things with them, maybe not so cool. It's a class for learning about databases and how they work. It's not a class for learning how to use database systems and it doesn't include hash-based lookup decentralized flat cloud noSQL stores. I enjoyed it, but I'm a grad student CS nerd. I can see how it would have been annoying.
+Don't know, but I want to do databases stuff, so I'm taking it this fall. Both of my 485 teammates took it and they said it was helpful...
+484 is a bit easier but 485 is a much better class. 
+
+The only professors available for 485 are Jagadish and DeOrio. Honestly I thought Jagadish was done with that class, but of a surprise to see he's still teaching it. 
+Honestly, 484 is a bad class. I took both 484 and 485. They are "supposed" to be tied together, but they are largely separate. 
+
+484 is unnecessarily tedious, though an easy class. It's material is pretty outdated, as most companies don't take the time to plan out databases in proper notation, someone just scribbles it down. Even if you understand the content, the projects just are boring and annoying.
+
+485 was one of my favorite classes taken at the school and really shows you how to actually build something out of class. It is useful to any web developer, and gives you some exposure to some of the more obvious web development out there. Learn this material well enough and you could land a job as a full-stack engineer, which is key in startups. Even if you don't plan to go to a startup, the web dev is extremely useful.
+
+In the end, however, when looking for credits to fill - 484 is a good source of upper level cs that won't be too hard on you. Still expect your typical EECS coursework.
+I'm taking it next semester. From what I've heard, lectures will be recorded and all but one project can be partnered or you can do them all yourself...
+I'm kinda considering taking it in the fall, but I haven't heard good things about the course in general. I heard mixed things about Jagadish for 485.
+EECS 484 is one of if not the worst EECS course I've taken and that includes the semester of 376 I took where they failed like 1/4 the class. 
+
+Take literally anything else. 
+1. I didn't find the class to be very useful. You don't need to prepare before taking the course, though knowing basic SQL before you start will make your life easier.
+
+2. The exams are hit and miss, and the projects aren't especially difficult. You can get blindsided by a bad grade though because the project requirements aren't always very clearly defined.
+
+3. You will be using SQL, Java, and C++.
+I found that the most useful part of the course was understanding the principles and costs of the indexing schemes you might use in a database. I have actually applied that knowledge.
+
+For the projects, you def. need to go to office hours to make sure you're not doing the wrong thing.
+
+It really depends on if you think you'll need knowledge of databases. If you think you'll merely need to occasionally interface with them, it's maybe not a big deal and you could pick up what you need as you go. I found a structured course like that to be helpful because I actually do a lot of work with a complex database now.
+I want to say there's a limit for how many classes you can overlap for multiple majors/minors but I'm not positive. I would definitely look into the admin side of things/talk to an advisor if you're able to! 
+also if this is your last semester... do you really want to take 2 extra courses that you might not enjoy? you can always put the skills you've learned from other DS courses on your resume without having completed the major.
+Sounds like free real estate to me. 281 and 484/485 are very useful classes anyways
+I would honestly say it’s overkill. The classes you have left to take are very hard (especially if you don’t like/are rusty with programming). It is my opinion that your current combination of majors is already very marketable, and you are better off taking some other math/stats electives that interest you, or unrelated classes that will help you develop some soft skills (public speaking etc.)
+There is a maximum of only double counting. So only for two degrees
+I was able to pick up a major in interdisciplinary physics by only adding one more class to my astronomy major, so these sorts of deals can happen. if the extra classes are interesting to you and you have the time, might as well (check with advisors first).
+I’m in a similar position of not super liking 280 and being scared of 281. I’m a sophomore tho and I like stats a lot - just haven’t taken anything beyond 250. I think I want to do DS or stats or maybe CS, but leaning more to DS or stats. What do you recommend taking Stats wise? Also, do you have any advice on what to major in? I’m so confused and my advisor has been of no help
+Are you becoming an actuary? If you are then don’t bother.
+Do not do cs minor if you end up taking 281. A major is just better than a minor. 
+
+If you are talking with Roger, I think that he will recommend you to complete DS major, if it does not ruin your GPA.  You will send out a better signal and be competitive in the market. As you may have already known, SOA will replace the IFM exam by a coding exam of analytics starting this Nov (though the main goal is to increase exam fees..). But more coding work and data analysis just seems to be an inevitable trend in the next few decades.
+Could you replace the Actualarian Math with Data Science? Would help you more in the long run
+I think it depends on the workload of your research work. You can try this at the beginning of the spring semester, and if the workload is too much, you can drop some classes.
+I think it depends on the workload of your research work. You can try this at the beginning of the spring semester, and if the workload is too much, you can drop some classes.
+- I wouldn't say 483 had a ton of "useful" information, but it certainly had very fun projects. How useful the content is depends on what field you're going into, I think. Compilers are a big subfield, and I'm sure compiler knowledge doesn't hurt for systems related work, but it's pretty much totally useless for web development.    
+- I've heard 484 mostly can either be self learned, or is covered in 485 (probably the most useful upper level class imo unless somebody plans on never touching web systems).   
+- 489 has solid projects (making a proxy server, router, a new protocol), and there's a lot of information, but it's all very disjoint and not very problem-solving esque (like 482). I don't think it'd be difficult to learn the material by yourself, but the content is honestly extremely dry. Not sure if that's a pro or con for taking a class vs self teaching (probably depends on the individual). There's also some overlap with 485 regarding TCP.  
+- 490 has a lot of good information that's easily applicable to a lot of areas of programming, but I personally felt that the class had too much theory for my personal taste. Probably a preference thing, especially since I don't care for functional/logical programming. When I took it with Kamil, there was also some overlap in project content with 483 (where I felt that the 483 projects were much more interesting).     
+- 493 apparently is relatively self-teachable.
+Older grad here, and 481 is the only of them that I personally took, but looking them up, I'd still recommend 481 most strongly. I think software engineering principles apply to everything you do, and was the most valuable course I had when working on medium to large scale development projects. It deals with meta issues of projects, and how to apply formal engineering principles to systems, rather than just knowing how to code. That knowledge can make you stand out from colleagues who haven't studied those principles.
+
+Something like 483 compiler design is an interesting, fun topic, and doesn't hurt to know, but it's a bit esoteric, and I think for most people it's knowledge they won't directly use. Just for comparison, I think with 482, even if you never go on to design operating systems, it still teaches issues about operating systems that are broadly applicable and good to know about. I don't have the same sense with 483.
+
+367 autonomous robotics sounds fun, and useful for *certain* projects and industries, but might be non-useful if you happen to work in areas that don't involve hardware or robotics.
+
+484 database management systems sounds boring, but databases are such a common element in many projects that I'd think it would be quite generally useful. SQL may be completely omitted from the rest of a CS/CE curriculum, and it's good to have a working understanding of it.
+
+Somewhat similar with 489 networking...that's an element of so many types of systems, although your exposure to socket programming from 482 is probably enough to get you started on whatever you'd need to learn for a project in practice. The projects sound like applying different protocols to the same basic ideas. Useful but maybe not so critical.
+
+493 UI development, while it's a broadly useful topic, I feel like that's an area where you can do just fine without a course on it. Like a person with good common sense and visual design skills would probably still be better at UI design than somebody lacking those attributes who did take a course in it.
+EECS 485 is really good as well if you haven't taken it.
+I’m in 440 Search Engine Design rn for my MDE and it’s a great class. The project seems like it will be lots of fun (early stages so far) and working in a team of 6 is a different but useful dynamic to work in compared to other EECS classes.
+482 is a must they say, i’m in 490 rn and it’s really good but kinda mathy in a good way, 388 is pretty fun and very useful so far
+490 is way more useful in real life than most classes. Databases and PL are probably the most useful skills to making you an effective software engineer
+442 is easier, better content for future applications has much better staff and accommodations in general. I’m in it right now and the staff has given us a total of 288 penalty-free late hours (translating to 12 late days) for the 6 assignments we have total in the class
+I'm in 442 right now and like the other commenter said the staff has been very accommodating, but I've heard from past students that different staff teach the course differently so not sure if this will still be the case with a different professor.
+Didn't take 484 but 442 workload and overall class quality depends on who is teaching. I am disappointed I took this course when I did because I've heard better things about the other professors. I feel like I only learned a very surface level understanding of CV and the lectures were often convoluted and didn't build upon each other. We had weekly long homework assignments with little support in OH and other avenues. Who is teaching in fall?
+484 has 4 late days for each project and it is pretty light
+442 is much better than 484
+FYI, Information Retrieval is only offered during the Winter semester, so you may need to look for another easy ULCS if you want to graduate next December.
+I’m currently taking it with 494, id say it’s doable. You’re going to have a lot of work, so just make sure you can manage your time well. There’s a bit of a learning curve with the homework, but if you find a good study group and go to office hours you’ll probably be okay
+484 is light. Do 481, 484, 497
+is information retrieval actually easy? I was planning to take 493 (user interface dev) as an "easy" ULCS but don't know if workload has changed recently
+485 is a very popular class, so if you'll be in sophomore standing by credits, I'd say there's almost no chance you get in. For reference, Atlas says 80% of people start the class as seniors, 15% as juniors, and 5% as master's students (these are credit standings so you don't need to be a senior to have senior standing if you have enough credits, etc.).
+Not sure ab 495 but 484 shouldn’t be bad. Even if you get on waitlist you will likely get off for 484 at least in my experience
+485 will use Python, Javascript and MySQL with some CSS
+For STATS 413 and 415 you will use R to program which has its own language. The labs for these classes are based around using R as well and should teach you everything you need to know. If you know C++ though it is pretty similar and easy to pickup especially if you use RStudio.
+484 is SQL, Java, MongoDB
+415 is Python or R
+As a class of 2017 Stats Major, that concentration pretty much used R and R alone in any computational stuff.
+> eecs 484
+
+> in the spring 
+
+I don’t think eecs 484 is offered in the spring?
+Hey I transferred as a Junior as well! I was able to take my ULWR and then petition to waive my FYWR (which got approved) so that's a valid route to take if you want to not take a FYWR class if you don't need the credits. 
+Taking it closer to 203 will probably help. You'll likely thank yourself later for getting it out of the way. Plus, next semester, you'll have higher priority for registration than you did this semester, so waitlists will be slightly less likely for the classes you want to take.
+EECS 484 is okay, but most of the useful database content can be learned when you actually need it. I'd recommend sticking with 376 for now. 484 probably isn't a good use of a ULCS
+Independent study does not count for ULCS. (It can count towards FlexTech if you're in engineering or general electives though.)
+
+The way independent study works is that you find a professor who agrees to supervise your independent study. You'd work with them to determine what the independent study entails and sign up for the section specific to that professor. Typically, you'd meet with the professor regularly over the semester, you do the agreed upon work (supposed to be 3-4 hours a week per credit), and they assign you a grade at the end.
+
+Supervising an independent study is basically unpaid work for a professor, so there would need to be some other motivating reason for them to agree to it, e.g. you're working on one of their research projects.
+482 is certainly valuable if you want low level knowledge. 490 is not that practical but still interesting if you want to dive into Rust/OCaml.
+I don’t really see how you are behind. You only need 4 ulcs to graduate + mde. You could probably take all those courses if you really wanted to. 
+484 + 485 + 481, 482 + 489, 490 + 494. You’d only have one semester with 3 Eecs.
+You could probably take 485 and 489 together in one semester. 482 is also a good class, but I recommend taking it either by itself or with a relatively low workload EECS class on that list
+I would call 485 and 482 must-take if you want to become a GOOD software engineer/CS researcher, unless you already know web/systems principles from other sources.
+
+485 is an amazingly wide overview of every part of the web stack, and it can serve as your one and only web dev class.
+
+Some people want to avoid 482 because it’s quite hard, but I really think it’s critical to understanding a full picture of the reality of a computer. You can get away with not taking 482, but I don’t think you can get away from eventually having to learn its concepts, so might as well do em in school.
+
+489 is very interesting and will be very valuable to anyone working in networks. But, if you aren’t, I don’t think the info in it is practically useful.
+
+481 is (I think, I dropped the class after a bit) mostly stuff that can be replaced by internship or job experience.
+
+494 is an insane experience, and will eat up huge chunks of your life if you let it. It was also a great experience in meeting deadlines on a high quality software deliverable. I’m glad I took it, but I would call it optional unless you have an interest in video game dev, then I recommend it.
+
+484 and 490 IDK, but I have heard from an employee at Ocient (state of the art DB company, they hire heavily from UM) that 484 teaches largely antiquated database stuff. I can neither confirm or deny this personally.
+Not a CS major, but I did take Linear Algebra(back in 18 or 19). AVOID that class; by far the worst run course I’ve ever been in. From the consistently late grading to the lack of direction from any prof. Felt like a train wreck from beginning to end.
+Which linear algebra are you talking about?
+Have you considered SUGS

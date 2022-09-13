@@ -1,0 +1,109 @@
+I’ve been a GSI for both. 570 is about 3/4 the work of 470. 470 is about understanding exactly how out-of-order processors work and gives you some hands-on experience using real design tools (Synopsys, etc). Useful if you want to do computer architecture in industry or academia since anything more powerful than a smartwatch is using an OoO processor these days.
+
+570 is more of a research-oriented class where the lectures follow seminal papers in computer architecture, with emphasis on topics like multicore, multithreading, locking, sequential consistency, on-chip networks, etc. Project is much more open-ended. Was originally designed for people who want to do computer architecture research and have taken 470, but also useful for people doing systems research.
+(Disclaimer: I took EECS470 in 2014, then EECS570 in 2016, and graduated shortly afterwards. Things may have changed by now.)
+
+TL;DR: 570 is comparable to other 500-level classes in terms of difficulty, and is definitely easier than 470.
+
+As another commenter pointed out, 500-level EECS courses work very differently: They are usually geared toward reading a bunch of research papers and then writing your own. 570 is no different.
+
+Like many other 500-level classes, EECS570 is split into two distinct parts, and part 1 operates like a regular class with the following workload (at the time):
+
+* Read about 4 research papers per week and take ~5 minute online quizzes on each.
+* Two projects that take up a reasonable amount of time.
+* I believe there was a midterm but my memory is hazy. Assume there is one? :P
+
+And like many other 500-level classes, part two consists of the following:
+
+* You pick a topic to write a research paper in.
+* No assigned workload, just write the research paper.
+* Lectures end. Lecture time becomes office hours for your research paper.
+
+So yeah, the latter half of the class is a “void” with only one goal: giving you the time and space to write a paper.
+
+Overall, I would rate 570’s workload as “slightly above average” for a 500-level class. In terms of workload, it doesn’t really feel like a direct continuation of 470, rather more like “just another 500-level course but with more paper reading”. You do not have to worry about it being a nightmare like 470 imo.
+In 570 right now, took 470 last semester. 
+
+Less work than 470, more emphasis on computer architecture instead of micro architecture. 470 specifically teaches you what makes up the microarchitecture for an OoO processor, in the context of running programs on just 1 processor.
+
+In 570 you learn what needs to happen at an architectural level to make sure you can use multiple CPUs together. There is less emphasis on specific structures found inside the CPU and more emphasis on how multiple CPUs will communicate to work together. 
+
+Instead of learning about specific micro architectures (R10k or P7 style content) you spend more time learning how processors communicate with each other at a higher level (MESI protocol style content)
+EECS 500 courses are beasts of their own... you will almost certaintly need to spend more time on the 500-level class.
+I'm pretty sure CPS would get involved for child abuse, don't do that to yourself unless those are legit the only 2 classes you are taking. 
+
+I took 482 6 credit last sem and it was an ungodly amount of work
+Currently in 470, seems like a bit less work than 6 credit 482. 
+
+" I know these classes are known to be on the hard side" These are the 2 hardest CS classes an undergrad can take BTW
+These classes are not even on the same scale as 485, each alone is like 3x the workload of 485. I genuinely do not think this is doable if these are the credits you are taking.
+
+
+Edit: actually if you’re a frat pledge master you can find some cracked CS student who is down absolutely terrible and just make him do all the work and invite him to parties lmao
+Also 485 isn’t even comparable to these, 482 and 470 feel comparable to 445 in terms of difficulty (not workload)
+When I took it last year, a student asked the professor if this would be a good idea. The professor said that it would not be a good idea. 
+
+&#x200B;
+
+Just for reference, in 470, there were days when my group and I spent over 10 hours trying to catch bugs and designing tricky pieces of hardware. 427 is supposedly more time consuming, so I wouldn't try both at the same time
+I am also thinking about this...
+Don't have any advice, but i'd love to form a group with some students!
+Pair program every line of the project and be very careful with what you write. Take the time to plan and diagram out your processor and think through edge cases as you write. Cannot stress this enough, the absolute best way to screw yourself over is to rush through writing the code. Debugging the project will be orders of magnitude harder than debugging a 281 project, for example, so writing clean code is crucial. 
+
+Also, get proficient at debugging with the waveform tool early on.
+
+Try to be mindful of your critical path when planning, too. The way the tools do layout is such that reducing your clock period at the end by trimming the critical path is generally not going to be very effective.
+IMO the most important thing to understand is the "proper" way to write combinational and sequential logic in verilog. I've heard staff members complain very often that students write verilog like C which is simply bad practice. The class is definitely a lot of work but successful students arent successful because they found some secret by doing all the work ahead of time. The work the professors and GSIs ask you to do (while sometimes tedious) is designed to give you the skills to succeed if you complete them fully and understand them. 470 is an interesting class because the bar for passing is pretty much the same as the bar for success; a correct project that meets their minimum requirements will get you an A. The exams are not designed like 281/370 BS. They're a lot more about discussing what decisions engineers make to create good systems and simulating some of the complex topics.
+He's actually pretty bad. Nice enough guy, but consistently messes up examples and takes a while to work through everything because he doesn't seem like he knows what he's talking about.
+I got an A on his 270 class, and he sucks a lot, one of the worst professors I have had, if not the worst, at UM. I dunno how his research goes or other aspects about him, but as a teacher, he is really bad.
+[deleted]
+In 370 right now. Like others have said, he's a nice person one on one, but he doesn't care about teaching and it really shows (especially when he's the only professor for the whole class).
+I never took a course by him, but I hear he's terrible. So much so that students in his 483 course in winter 2012 made a parody Twitter account for him. There is some gold on that feed...
+
+www.twitter.com/T_Mudge
+I have never heard a positive nor neutral comment about Mudge. I'm in 370 with him now. Do not do it.
+I'm in EECS 370 with him as one of the 3 instructors who rotate teaching lecture, but whenever I walk in and see he is teaching I walk right out because he's an awful teacher and I know I'm wasting my time there
+Yeah should be fine unless your MDP project is nuts. 470 is a lot of work, but certainly shouldn't be un-doable!
+I think so considering EECS 388 is low-moderate workload and 496/497 and busywork/low workload but I guess how much time u spend on MDP project depends on your project but overall looks very doable
+Yes, looks doable
+Have a similar question, hope someone answers
+You’re not going to get embedded knowledge from LSA classes so you’re going to have to take the relevant ECE classes, but that means you’re going to need the relevant prerequisites, such as Physics 240 or calc 1-4
+Sure so about some of the classes you've listed:
+
+EECS 215 is like the first electrical engineering course. It really covers circuits and their analysis from an electrical standpoint (like volts and amps etc.) It requires Physics 240 as a co requisite/ pre requisite and is a circuit focus out of physics 240. It won't cover computer hardware at all, just electronic circuits. 
+
+EECS 270 is more like the first computer engineering course. It covers the building blocks of computers - abstracting away the physics. It is a hardware class. It is more on the logic gates level AND OR NOT, from 370. It has a small amount of overlap with 370. I know a few CS majors that took this course. 270 is required to take 373 (the embedded systems intro course) and 470. It's probably a better fit for you.
+
+You can also look at the classes that require 370, as those classes are bound to be hardware/architecture related. I've taken 482 and 373 out of that list, and 482 and 373 had a few concepts that overlapped / paired well with each other.
+EECS 373! You might be able to get out of the circuits (215) prereq or take it as a coreq if you're interested; 373 doesn't go too in depth on the electronics. 473 is the advanced embedded class which you could take if you like 373, but you should get all the intro knowledge you need to work on projects from 373 :)
+Adderall
+I hear EECS 482, 467, and 470 are pretty easy.  
+Cocaine. Caffeine patches. Nicotine. 
+
+There's basically no class that goes well with it.
+I'm in a similar situation, I'm planning on taking it next term as well.  I filled out my schedule with some flex techs and IB classes.  As far as EECS classes go, 376 is the de facto suggestion to take with 381, there isn't really another class that goes well with it.
+Not much else if you can swing it.  
+
+Stick with EECS 381. You'll regret it right up until your first technical interview. 
+Are you a CS or CE? 
+Hm.. I'm CS but from LSA.  Looks like this is going to be a rough semester ^^''
+1. 497 is the required tech comm for CS and 496 is the required tech comm for CE. Don't know specifically what is different about the courses but the different degrees want different tech comms.
+2. 494 is a really good class if you have a interest in games. It's a great class to build a game portfolio and Professor Gibson knows what he is talking about and has a really expansive network that he uses to help support his students. However, be aware that if you want to do game dev or design in the future you have to make games outside of class too.
+3. Don't know too much about other upper level classes but I know a lot of people like to take and a lot of companies like to see that you have taken 482. Just be aware that it's a lot of work.
+1. not much. The technclcm classes I took were for the most part a joke. As long as you know how to write a decent paper/resume, you will have no problem.
+
+2. they are all good. Just pick something that you want to explore and go for it. I did the mobile MDE, which was interesting.
+
+3. if you liked 485, also look at 484. They are similar but different enough to be interesting. I also took AI, 492 I think, which was good. all depends on what you like. 
+[deleted]
+1) TCHNCLCM 497 is about writing documents for helping you be able to communicate your ideas to others, whereas EECS 496 is about professionalism and deals a lot with personal finance, copyright, patent, and trademark law, ethics, and business. Both are required to graduate if your are CSE (EE and CE have to take 496 as well, but I think they have a different TCHNCLCM course). Both have important things to learn, but they are both exceedingly boring, and the work that you have to do is tedious and annoying, but not hard. I don't know who's teaching it in the fall, but 496 is currently being taught by Professor Laird, who makes what would be a mind numbingly boring 2 hour lecture into a slightly less mind numbingly boring 2 hour lecture.
+
+2) 494 is a great class providing you are interested in making games. Professor Gibson is very knowledgeable about the games industry and the game design process, and he is well connected in the industry as well. However, the class is a bit of work, and if you aren't prepared to do that work, the class won't go well for you. But if you are prepared to do the work, then the class will be great. 
+Why a virtual machine, why not dual boot?
+
+Anyway you aren't going to be working on enterprise level stuff here, I never ran into anything that took too long to compile 
+Why not just SSH into CAEN? That way you don't have to worry about matching software versions, slowdown from virtual machines, or compile time. It's worth knowing how to use vim or emacs via terminal. And you're going to need to use CAEN anyway, because you need to make sure your code runs properly before submitting it. CAEN is also mandatory in some of those classes (e.g. 470) because you'll be using expensive tools that you won't be able to run on your personal computer.
+
+If you really want to use a GUI text editor, you can pretty easily set up a git repo on both your laptop and CAEN account. Then you can do all your coding locally (useful if you don't always have a network connection) and have a CAEN SSH session where all you do is type "git pull" and "make". 
+I would say yes, it's enough.
+you should work in the BBB lab or UGLI basement as much as possible. I started doing a lot better in my eecs classes the more I worked in the lab. I caught many office hours while working there, learned things from other students, met other eecs students, which in turn helped me make friends with other eecs students. Working the lab can help you directly and indirectly in so many ways.

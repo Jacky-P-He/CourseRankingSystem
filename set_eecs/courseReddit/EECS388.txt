@@ -1,0 +1,180 @@
+Don’t worry man nobody cares about the minutiae of CS curriculum 🤣. I liked 492 personally and I have not taken 388 but I’ve heard good things there as well. Take whichever topic interests you more (I will say 492 makes 445 piss easy if you plan on taking it later).
+388 is pretty fun!
+AI/ML is stupid as fuck imo would not recommend
+~~You would need to get special permission to add 485.~~ I would not recommend it although it might be doable IF you have prior web dev experience, AND if you choose a very straightforward 497 project
+I am in 484 and 485 right now. It is very manageable. Between 484 and 485, you will gain many skills if you haven’t already learned them before including: Python, HTML, CSS, JavaScript, React, Bash, Hadoop, SQL, MongoDB, and Java. I don’t know about 388.
+388 is a better class in general imo, and it’s fine without 370. Also would pair nicely with 485.
+
+With 388 you either love it or hate it. It was my favorite class I’ve ever taken here
+This one is pretty much down to personal preference I’d say. Take whatever interests you more.
+
+>	I’ve heard super mixed things about 484 and the way that class is run but I also know it’s a pretty important class to take since you learn a lot of critical skills.
+
+I mean, it depends on what you wanna do out of college. For the average CS undergrad, I’d very much disagree that there are a lot of “critical skills” learned in 484 - it’s mostly just SQL stuff that you can learn fairly easily via online tutorials, and after that it’s all about how DBMS’s are implemented which isn’t super relevant for your typical SWE grad.
+
+*Might be worth taking this with a grain of salt since I took the class with Leach who is no longer teaching here.
+484 has a good professor this semester, I’d recommend taking it. You can technically learn the content on your own but I personally found SQL very awkward and unlike normal programming languages. SQL online resources also suck donkey balls compared to other languages and is simultaneously expected knowledge for data scientists.
+why not eecs 445 instead of stat 415？
+I took EECS 388. It was not a great class. Honeyman is cool, but just not a great lecturer unfortunatley. Halderman is great. Tbh I know there are only projects in 388 but they took me forever and I really struggled with them.
+
+TLDR:
+
+388 is meh. I wouldn’t take it.
+plz drop 484 im on the waitlist
+484. Database is one of the foundations of software development
+388. Teaches how about computer security and you learn web languages, SQL, Python. I’ve heard 484 is interesting but I don’t think it’s too hard to learn about databases in your own.
+I thought 484 was one of the most useful ULCS courses I’ve taken. Can’t speak for 388 as I’ve never taken it, but databases are a strong foundation for backend programming, and while 485 briefly covers SQL, it does not cover nearly enough to say you are proficient in SQL/databases.
+There always is; the class is good, but is known for having a relatively difficult final that is hard to prepare for, with projects that range from amazing to average
+Are you talking about enrollment or physical seats? All but the remote section appear to be full. The loose attendance policy has led to many people just watching the lecture videos instead of coming in person.
+There were a lot of students on the waitlist, so the prof opened up a virtual section to admit all of them
+I love eecs because everytime there's a final someone makes this exact post lmao
+"AES won't be on the final" my ass
+If 388 staff can de-anonymize Tor you think they can de-anonymize Reddit??
+[deleted]
+F
+It's always like this! You'll do fine!
+Dude that was so fun, Please let me do again!
+Same as last semester? They're happy with a sub 50% average, I'm sorry you had to endure but know it happens in this class every semester and it's going to be ok
+Hey guys, Leslie here. I think that exam was extremely manageable as long as you have that Bad Dog Mentality.
+
+Remember, talking about the exam is an honor code violation!!!
+The recommendation for 370 comes solely from project 4. You'll be working fairly extensively with lower-level concepts such as the stack, a more granular look at control flow, registers and calling conventions, and x86 assembly. 370 covers all of these in some detail with the exception of x86 (it uses mostly an academic instruction set called LC2K, as well as a bit of Arm, but having the ability to look at assembly at all is a decently large leap), and having that experience is most definitely helpful.
+
+That said, most of the project's underpinnings are based on freely-available external sources (nobody is reinventing the wheel here) such as [Smashing the Stack for Fun and Profit](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf), which can be used as a bit of a crash course into the theory behind what's happening in the project (as well as some, well, massive hints for the project 😉). The staff also (in my perhaps slightly-biased opinion!) spend quite a bit of time on bringing everybody up to speed from wherever you're at—some people are definitely multiple semesters out from having taken 370 when they take the course—though the goal of 388 isn't to teach assembly from first principles. If you aren't able to make it into 370 and are motivated enough to spend a bit of time looking at resources ahead of time and proactively toy around with `gdb` a bit to let it soak in a bit, I don't think that's it's a reason to not take the class; at the end of the day, it's just one project. (and if you are able to make it into 370 and take it concurrently, you'll have covered all the relevant material by the time you make it to the project.)
+You’ll be fine, the stuff you need to know for 388 is easily learnable as it comes, or you might know a lot of it already. Also you’ll probably get into 370, almost everyone gets into classes like that. In that case, 370 will have covered what you need to know well before you need it for 388.
+
+Side note: you’ll (probably) love 388. Such a good class. Definitely my favorite class I’ve ever taken, they put so much effort into it
+Not needed, just helpful. It's only used for project 4. They go over everything that you need to know to piece it together yourself. There are also a lot of youtube videos and websites that teach what you need to know. I didn't take 370 and figured out most of the tasks for that project on my own despite having no experience in anything that low level. It just took a little more experimentation. If they still allow partners, having one that did take 370 can be helpful for that project but it's definitely not necessary. 388 office hours were extremely helpful too.
+You'll be fine, they're completely different subjects.
+370 does ~no python, it's all in C.  
+That being said, it's taught really well remotely!
+EECS 388 isn't exclusively Python, but they do use it frequently for projects.
+LOL we also took an L on this project because of another class (was it 482??). I’ve heard the curve is generous so you should be fine, pretty much no one fails 388 so as long as we do decently on the final and project 5 it shouldn’t be fatal. Use a weighted average grade calculator if you’re terribly worried, predict your p4/5 and final score and see what you’re at, chances are with the curve you’ll pass.
+Contact your professor and ask if you can get an extension. Just explain the situation, and see if they are willing to help out. The worst they say is "no".
+You need to provide more information on what's important to you. Would you rather be interested in the projects and course material? What else are you taking? What "mixed reviews" have you heard?
+
+My personal recommendation is 388 all the way, but I can't be sure that that's a good recommendation given your circumstances.
+I have never taken 388, but I have taken 484. If I would have known what 484 is about, I might take 388. However, maybe I would have different opinion if I would have taken 388.
+
+But, in 484, you learn about how database work. You will not be learning much on how to use them. If 484 is still the same as I took it, you will learn about the concept and theories that go into making a database. Like you will learn about different type of transactions, normalization, etc. you will gain better understanding on how a database work basically.
+
+Maybe 388 has more hands on. So if I would given the option to go back in time and choose, I might go with 388
+They are mandatory, they make you fill out a Google form during class to get attendance credit.  You should be able to attend a different section if there is room.  You could probably also leave early but that depends on if your GSI gives the link to the form at the beginning or end of class (all sections I attended gave it at the beginning).
+If you think you will be good with just the slides you can just get the link from a friend and fill from your phone.
+My advice is to just Google/youtube it as you go. They gloss over the tools and how to use them so there's not really one good source to teach yourself from
+[OWASP](https://owasp.org/)
+
+[Security StackExchange](https://security.stackexchange.com/)
+
+The [Security Now](https://www.grc.com/securitynow.htm) podcast is great if you’ve got some time over break.  
+
+Bruce Schneier’s [blog](https://www.schneier.com/)
+
+Other top schools have open sites similar to eecs388.org that are decent sources. But my best suggestion is to just become a good Googler. 
+
+The great thing about CS topics in general is that pretty much everything is documented and searchable, there’s really no need for physical textbooks on computing topics anymore with the internet. 
+Make sure you go into 388 with a group of people you work with well who approach things a little differently. The most important thing in that class is being able to work out riddles. You'll have a tough time if you're trying to work everything out on your own.
+The slides are generally pretty good, but if you have Honeyman then the lectures themselves won't teach you much. Focus mostly on getting a general overview of the material in lecture and then understand the stuff covered in projects/hw/discussion really well. Go to Steve's discussion if at all possible, he is worlds better than every other discussion leader.
+
+You don't need to know most of the nitty gritty details that they cover for the projects or the final if you can just Google things as you need them. I got an A in the class without any extra material other than Google. IIRC, the class is curved so the median is an A-. The final was brutal, but the median was like a 55% so you don't need to get it all right to do well.
+Usually the CS facebook group is more helpful with this stuff but if you want a tldr opinion it's easily doable. However if you are going into 388 without a partner you will be rolling the dice big time. Some 388 concepts depend on 370 knowledge but I think they cover stack pointers and stuff in 370 first anyway. One last thing I failed 214 because of one of the group projects and not studying for the the final, math 417 was much lighter work load and covered the requirement. 
+Everyone struggles with 203, don’t worry about that.
+
+I would recommend doing 370 before 388. 370 lectures tend to present information in a pretty confusing way, and you definitely want to have a strong grasp on 370 material before you get to 388. It’s possible the two classes would help clarify one another, but I’m definitely glad I took 370 first.
+
+I didn’t take 214 so I’m not much help there.
+
+I’d say if those three classes are the only three classes you’re taking, it shouldn’t be an issue. I’d be a little more wary of you took a fourth class but it’s definitely a reasonable schedule.
+I am currently taking 370 and 388 together, and it is fine. By the time 388 requires the concepts of 370, it will have already been taught.
+You shouldn't take 381 senior year if you need it to graduate, as the pass rate isn't great. But if you plan on taking more than 4 ULCS, you won't need to worry about that and just take the classes when you'd prefer. You could do 492 (AI) and getting further on the AI track now and then taking 381 later. Regardless, 381 and 388 should be doable depending on the rest of your schedule.
+Unless CSE is different from CE, those tracks are just suggestions of courses that go together coherently. They don't have any administrative significance as far as I'm aware.
+
+To answer your question, that would be as good a pairing as one could hope for.
+if you dont do more than 12 credits you might be fine
+Which part of the course is giving you most trouble because it has distinct 4 or 5 parts each of which could be supplemented by different resources?
+I've heard all kinds of good things about 388! I've never taken it myself but I hear from my other CS friends that it is a great class to take
+be aware that 477 is more of a theory course. There are no programming projects, and the breakdown of coursework for a grade is 30% homeworks, 30% midterm, 39% final, and 1% course evaluation. It's heavy on the proofs. If you enjoyed 376, 477 might interest you
+Software development != algorithms. From what I've heard, it sounds like 477 is a theoretical class and 388 is anything but. 
+PLEASE. For the love of God, please. DO. NOT. TAKE. 477.
+
+This is a warning for anyone who thinks they're interested in algorithms...DO NOT...I REPEAT...DO NOT TAKE 477. ESPECIALLY if Satan Pettie is teaching it.
+
+You have been warned. Seriously, don't do it.
+388 is recorded but you only get access if you provide a doctors note or something official to show why you missed class. 485 is recorded. And as always with any other eecs class you can go to any lecture discussion etc.
+[let me guide you ](http://https://www.eecs.umich.edu/eecs/undergraduate/computer-science//?q=https://www.eecs.umich.edu/eecs/undergraduate/computer-science/)
+[let me guide you ](http://www.eecs.umich.edu/eecs/undergraduate/computer-science//?q=https://www.eecs.umich.edu/eecs/undergraduate/computer-science/)
+Pretty generous when I took it last year. I think the average grade was a B+, the averages on all the assignments were pretty high too. 
+[let me guide you ](http://https://www.eecs.umich.edu/eecs/undergraduate/computer-science//?q=https://www.eecs.umich.edu/eecs/undergraduate/computer-science/)
+[let me guide you ](http://www.eecs.umich.edu/eecs/undergraduate/computer-science//?q=https://www.eecs.umich.edu/eecs/undergraduate/computer-science/)
+They will not care, and they will more than likely never know unless you explicitly tell them that you took 12 credits anyways. Usually when you submit transcripts it’s just to prove your degree/enrollment at a university rather than to check your grades.
+
+edit: It might even be more beneficial to NOT take these classes and do things on your own time/around campus to develop yourself as a person and explore your interests. Employers would much rather have someone with diverse experiences and viewpoints than someone who *might* be *marginally* better than other candidates due to some EECS elective
+Employers don’t care and they don’t even look at your transcript past your GPA.
+Take the minimum credits.  If you can graduate by taking 12, go for it.  Part of my responsibility in my job is hiring Mechanical Engineers.  We look at GPA but not what your schedule looked like.  The key to getting a job is experience, not just in the field but any way you can build experience. Most interviews will contain a portion where they want you to describe, with examples how you've handled certain situations.  We just had some great answers in the last interview and it was from situations outside what they would see in these jobs.  Your whole life is a learning experience, if you take 12 hours and can join a club or something that interests you, that's more important then taking a class that has no real meaning or value to you.
+I took 12-14 credits every semester my last couple years in order to make more time for extracurriculars related to my career path and those ECs were way more important to getting a job than taking more credits. Employers usually just use your transcript to verify that you actually graduated
+No one will look or care. Just do fairly well and graduate. It’s probably worse to take too many credits and do worse in your classes that semester because of the load.
+How would they know?
+Slightly different take on this than all the other comments: 
+
+You are going to college at Michigan fam. There are so many insanely interesting classes taught by highly regarded faculty here. Where else in life would you have the chance to interact with talents of this caliber that is this diverse. Go surf the course guide and I guarantee you will find something. Take those P/F if you want, all the benefits without the workload, don’t miss out on it. You will still have plenty of time to do clubs or extracurriculares 
+
+Most electives I’ve taken here have been really eye-opening
+Have you considered adding a minor and/or applying to SUGS?
+I’m an engineering manager that hires for my own team’s needs. I couldn’t care less if you took 12 or 16 credits. I would much prefer you be involved in extracurriculars related to your major or the job you’re applying for. Career-related extracurricular experience is far more valuable than classroom experience. I also look for candidates that have had work experiences over the summers.
+It wouldn't hurt to take chill non-CS courses that are 3 credits or less, even if you don't need anymore electives. You're paying all this money for the opportunity to take classes, not for a degree. You might as well milk the most you can out of this university.
+*Fewer than*
+Bro I’m literally taking a total of four credits rn, just save yourself the money and relax for your last couple semesters
+No one will care about your courseload.  They will care what courses you took, what grades you got, and that you actually learned the material well enough you could do it if they hired you.  Twelve units is the minimum to be full time and 12 units of A's beats 16 with a mix of B's and C's any day of the week.
+Yeah should be fine unless your MDP project is nuts. 470 is a lot of work, but certainly shouldn't be un-doable!
+I think so considering EECS 388 is low-moderate workload and 496/497 and busywork/low workload but I guess how much time u spend on MDP project depends on your project but overall looks very doable
+Yes, looks doable
+The projects have been the same for a few years, but some felt way more time consuming for a 2 credit class imo (esp projects 3-4, maybe 2 as well).
+
+Kind of inconvenient around exam times tbh, but at least the course has no exams itself, just in class pop quizzes when I took it. The projects are generally slightly easier than EECS 280, but in Java (minus euchre).
+
+However those 17 credits sound like a lot. Especially with 370 and 388 both being project based courses, there will probably be some crunch times in the semester where you have to give up some coursework to make time, and the logical option being 285, it'll probably just be unnecessary stress if you don't need the flex-tech credit that semester. You can always download the projects from the site and work on them on your own time if you really want to learn Java later on.
+
+If you can graduate without packing your fall semester to 17 credits, I'd say don't worry about the headache, but you know yourself best though.
+Yes, I'm pretty sure you can do that with no issues, though it might be worth calling the CSE advising office so you can be absolutely sure.
+
+However, I'd like to also point out that 388 isn't really Python heavy at all. You do parts of some projects in Python, but if you're looking for solid experience in Python, IMO 388 isn't a class that will get you that. You need to teach yourself any Python you end up using in the class, since they don't go into depth about it. This is just my 2 cents though - class is interesting on paper, but rather surface-level in the concepts it covers.
+Consider doing an audit instead. No risk whatsoever and basically the exact use case you're doing
+You can. I know a few people who have done it.
+SI 206
+Yes you can, it would count as general elective credit.
+You can do this. For ULCS classes other than 388, be aware that this means you are taking a seat that someone else might have used towards their graduation requirements. Since most classes post their lectures and maybe the projects publicly anyways, participating in the course without being enrolled can be an option.
+You could look at your Canvas grade without the final and then just add 0 for the final grade (I think it was worth like 25% of the grade). I believe they changed the grade cutoffs slightly but for the most part it was standard.
+Same here but with engr 101
+In you appointment to declare your major, you'll just be signing a physical piece of paper, which will then get processed by an administrator and entered into wolverine access. It will probably take a day or two for the changes to take effect. You should talk to your adviser during your declaration meeting about this, they should know exactly how long it will take and might be able to get you an immediate override. You could also email the course coordinator and see if they are willing to get you an override.
+I would recommend making your semester very light. I have a friend who has a friend who took both EECS 482 and then took EECS 381. He withdrew from 381 in the first couple of weeks due to the intense workload. So if you truly want to take 381, then I suggest taking the lightest workload possible, perhaps two four unit classes for pass/fail.
+that's exactly what i'd do, id have 381 plus two easy four credit classes. but i'm not sure if that would still be a miserable semester or if it would be manageable/comparable to the semester when i took 482
+183 is a pre req to 270, so I'm not sure if you can take the two at the same time. I think you definitely want some programming background before taking 270. 
+
+Also if you're planning on doing CS, keep in mind that 270 is not required and does not help THAT much in taking 370. If you are debating CE, 270 is required.
+
+Finally, 388 requires 281. The only major courses before 281 are 183, 203, and 280. The quicker you get to 281, the better. 281 allows you to take most upper levels classes. 
+
+Here's the LSA program guide, if you haven't seen it! http://cs.lsa.umich.edu/wp-content/uploads/2016/07/16_17_cs_lsa.pdf
+
+Feel free to message me if you want to! I took Engin 101 instead of 183, but I can help with other course planning!
+Please post in https://www.reddit.com/r/uofm/comments/61eo5w/fall_2017_course_discussion/
+I think EECS 475 (Intro to Cryptography) doesn't require EECS 281, but it's not offered next semester.
+
+EECS 388 requires 281.
+
+Otherwise, that schedule seems doable. Just watch out for those 270 labs! They can take a while to complete (especially the last one).
+I don't think it would be possible to pass all those classes if taken together, unless you've got a history of taking 2 semester's worth of classes at once :-P
+
+482 is a beast of a class. Most people arrange their semester so that it can be their primary focus. I know a lot of people who took 482 with 376. That's a good combo because 376 doesn't have big projects. 
+
+388 is a really fun class! I'd recommend not taking it with 482 so that you've got time to enjoy it. Also, the nature the projects for both classes make it hard to impossible to catch on projects of you start late, largely because you'll never be able to get help. Whoever they have teaching it will be great I'm sure, but if you can hold out for Alex Halderman, he's worth it. (I'm graduated so I'm not familiar with the schedule and who's teaching what).
+
+I didn't take 475 so I can't comment on it. 376 is basically a math class unless it's way different then when I took it.
+
+Lecture attendance is crucial for both 482 and 388, as lectures are really the only way to access the material.
+I've taken 475 (with Compton) but not 388. 475 covers cryptographic theory, so there will be a significant amount of math involved. I remember spending at least 2 weeks on a crash course in abstract algebra (groups, rings, and fields) before covering how RSA and ECC are constructed based on various algebraic structures. You'll get a pretty good idea of the mathematical logic behind why cryptography works overall. In addition to the asymmetric cryptography, the class also covers symmetric cryptography, cryptographic hashing, and random number generation. There was a project where we implemented an elliptic curve cryptosystem.
+
+From what I've heard about 388, you'll probably spend 1 week maybe 2 on cryptographic theory, and then it's a lot of actual computer vulnerability and exploit analysis. Not focused so much on theory as applications. I don't think 475 and 388 actually overlap very much at all.
+
+On the whole, probably not a great idea to take all 4 of those classes together unless you literally have nothing else going on in your life. 482 has a very heavy workload, 376 and 475 are both math heavy, and if you're not great at algebra (the advanced, abstract variety), homeworks will take quite some time, and 388 has regular projects to work on as well.
+I’d bank on 6-8 hours with your partner.

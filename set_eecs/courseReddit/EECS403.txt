@@ -1,0 +1,38 @@
+201 has good git and other fun useful stuff, 1 credit. there’s a software engineering course with prof Leach, 481 , 4 credits, does git and versions and good practice stuff i’ve heard. 490 is a no for sure, it’s a programming languages course which explores the topic through the functional language OCaml. 402, 403 i haven’t heard of
+I believe 403 is taught alongside EECS 281, which is an incredibly well-taught class for learning CS concepts and C++. If you have the background for that I'd highly recommend it, since it will directly help with object oriented programming and exceptions. Like others said, 201 goes more directly into things like Git, so if you can audit it that could be helpful.
+EECS 381 was legendary for this, but unfortunately I don't think they'll ever bring the course back... keep an eye out though. I think professor Kieras' notes will make a good read for you though, check them out at this site http://umich.edu/~eecs381/
+
+Nevertheless, I've heard good things about EECS 201!
+EECS 201 - Computer Science Pragmatics
+EECS 381 was the best class for object oriented programming and writing good c++, but unfortunately it's gone now. The [website](http://umich.edu/~eecs381/) is still up, with many excellent handouts. I imagine it also covered exception handling.
+
+&#x200B;
+
+[EECS 280](https://eecs280staff.github.io/notes/23_Exceptions.html?highlight=exceptions) covers exception handling briefly, but not much.
+
+&#x200B;
+
+As far as version management, git, github, and other logistical/tools based things, I'd strongly recommend eecs 201. It's a 1 credit course (though I'd say it's higher than a 1 credit workload), but it covers all sorts of things, it's very useful. There's a [website](https://www.eecs.umich.edu/courses/eecs201/) as well, take a look to see if you'd like it.
+
+&#x200B;
+
+There's also eecs 481 as was mentioned, which covers a lot of software engineering concepts, though not necessarily the things you mentioned. I bet you'll never guess what's next... that's right, there's a [website](https://dijkstra.eecs.umich.edu/kleach/eecs481/w21/index.php).
+
+&#x200B;
+
+EECS 403 is the same as EECS 281 (I'm an IA for it). It goes deep into algorithms and how data structures work, but doesn't cover Object Oriented Programming specifically. You can choose to make your programs object oriented if you want, or you don't have to, so if that's something you're looking for specifically, 403 might not be for you. It is a good course if you want more experience in C++ or want to learn how to write some more difficult programs. (there's no website unfortunately lol).
+
+&#x200B;
+
+I don't know anything about EECS 402, but EECS 490, as others have mentioned, is probably not what you're looking for.
+201 sounds like what you're looking for.  
+
+I wouldn't recommend 490 as is with Cyrus Omar as it's more theoretical. I'd probably look into the old EECS 490 which is now sometimes offered as a special topics: https://amirkamil.github.io/eecs398/syllabus.html which I've heard good things about and should be more applicable/approachable than the current 490.
+[deleted]
+If linear algebra sounds interesting to you, don't take 214. Take 217 instead. 
+I've taken MATH 417 (essentially the same as MATH 214) and MATH 425 (same as STATS 425). MATH 417 was fairly straight forward with little surprises. It was probably similar to MATH 115 in terms of workload, and maybe slightly more difficult due to proofs. 
+
+However, MATH 425 was far more difficult and surprising. A lot of people say MATH 425 is one of the easiest upper level math courses, but I would be very cautious of that statement. When I took it, I got this crazy math professor who made us do all kinds of difficult proofs, rather than simply plugging and chugging as many others have said. I thought it was more difficult than EECS 203, and some of the proofs were EECS 376 level difficult. 
+
+Really though, all you gotta do is research an easy professor for MATH 425 and you will probably be fine. Make sure you don't take it with [this guy](http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1972927) like I did.
+[deleted]

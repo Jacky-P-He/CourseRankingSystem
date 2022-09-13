@@ -1,0 +1,11 @@
+Dang, I didn’t expect all the negativity about this course. Stats/math 425 is completely different than 250, 250 is statistics whereas 425 is probability. There’s very little, if any, overlap between the two courses. 425 was one of my favorite courses I took and the first half of the course is directly applicable to real life situations you encounter every day. If you’re interested in probability, I would definitely recommend taking it. It sounds like the poster before me is a high level stats/math grad student, which isn’t a bad thing, but probably a different perspective than your average undergrad. I preferred the course more applied than having to worry about proving every damn thing the entire way.
+(I was a two-time TA for MATH 425 and a three-time IA for EECS 545/445.  I graduated in 2017 but doubt things have changed much since then.)
+
+MATH 425 is a waste of time, run far far away.  The intended audience is finance majors with no real background in math.  The class is not proof-based and consists mostly of memorizing formulas.
+
+Since you've taken MATH 217 and Calc 3, you'll get much more out of MATH 525 instead.  It's proof-based and you'll learn how to think somewhat rigorously about probability.  It will also whet your appetite for measure theory (which you can learn more about in MATH 597/625 if you choose). 
+ MATH 525 would also be a great class to take concurrently with EECS 445, since you'll be able to see what you learn applied to solving real-world problems in ML.
+I take STATS 250 last semester and EECS445 this semester. I don't find anything required high-level stats here, 445 just needs 217 + some basic knowledge of normal distribution (pdf) and Bayesian.
+I didn't take stats 250 but did take math 425. It was an interesting class that I think I got value out of. Many people thought the first half of the class (combinatorics) was easy and the second half (probability distributions) difficult. I thought both were pretty hard (and I did fine in calc 4!) and had to work hard to pass. Granted I had class after a graveyard shift at work. I liked that it wasn't proof based.
+Stats 250 is actually a hard class now. I'd suggest taking stats 412 or ioe 265 instead
+I've never taken the class, nor am I a math major, but I've heard that 425 is one of the easiest upper level math/stats classes. 

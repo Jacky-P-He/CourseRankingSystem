@@ -1,0 +1,224 @@
+I took it with him last fall. People either love him or hate him. I found that he explained material very well and I learned a lot from the class. However, he can be blunt and it can come off as mean. His exams were graded harshly and you could lose a substantial amount of points if your answers were not exactly like the rubric’s. I personally found him to be one of the more understanding and accommodating professors I had during fall when a personal situation emerged.
+Personally I have the mindset that you can do well in any class regardless of the prof but his policies are terrible. Exam grading was bad, curving people down, not transparent about expectations, etc. my biggest issue was with how he handled late days (well we Didn’t have any) so you had the opportunity to spend an extra week after the due date to get 80% of your points back BUT if you took the 6 credit version you couldn’t use those days for that part of the project. He basically made EECS 482 hell for 6 credit students : more work, less time.
+
+I’m sure he’s a good guy but my god that was legit the worst way to run a class
+You learn the most at OH
+I'm also worried...I am not looking forward to the final.
+They do play an essential role but I assume you are talking about Brian Noble. Most complaints about him were that he talked about himself too much, which definitely is true, but he still did a great job teaching the curriculum. I dont think there is a significant enough difference to wait a semester for baris and manos although I hear amazing things about them. 
+
+The real beef of the class are the projects anyways so I would not delay taking this class for the prof.
+is next semester’s lecturer not good?
+Just use rate my professor
+I'm pretty sure CPS would get involved for child abuse, don't do that to yourself unless those are legit the only 2 classes you are taking. 
+
+I took 482 6 credit last sem and it was an ungodly amount of work
+Currently in 470, seems like a bit less work than 6 credit 482. 
+
+" I know these classes are known to be on the hard side" These are the 2 hardest CS classes an undergrad can take BTW
+These classes are not even on the same scale as 485, each alone is like 3x the workload of 485. I genuinely do not think this is doable if these are the credits you are taking.
+
+
+Edit: actually if you’re a frat pledge master you can find some cracked CS student who is down absolutely terrible and just make him do all the work and invite him to parties lmao
+Also 485 isn’t even comparable to these, 482 and 470 feel comparable to 445 in terms of difficulty (not workload)
+It's a combination of a few things. I've noticed a few moments in lectures where a student asks for a topic explained more in-depth, but he says he doesn't think it's important and moves on. Combined with a lot of the personal anecdotes he makes during lectures, I think this rubs a lot of students the wrong way. I also know a lot of students (me included) who were upset about how the midterm, which consisted of conceptual essay questions, was graded. There was at least one question that you were marked down on if you didn't think of the specific bug he was thinking of, even if your answer was plausible. Additionally, the grading rubric often required specific 'buzzwords,' such as needing to explicitly use the word "locality" in one of the questions to get full points. For a class that is supposed to be conceptually deep, it's disappointing to see that kind of grading. All in all, it hasn't been an awful experience, but it unfortunately seems like he's the type of professor that doesn't take student concerns into account.
+Every lecture in 482:  
+
+
+Folks,   
+
+
+<While at CMU..... >, There are <some antidote that might relate to the topic at hand> , my advisor once said <repeat same phrase again>, I can't go into that issue that everyone is having until next semester, <Are there any questions anyone has until this point "oh that's too much to cover right now, we can't talk about that>.   
+
+
+With care,
+
+\-b
+Here's my take as someone currently in it:
+
+Lecture: I haven't attended or really watched the recordings much, generally just go through the slideshows. As for the comments on the CMU/personal anecdotes, I can't speak much to it but I can see where they are coming from as the recorded lectures often have large skip periods between slides (implying he is staying on that slide for a long time either talking about it or something else). 
+
+Projects: IMO I've liked the projects so far but I do agree with others that non of the course staff knowing anything about the test cases is a red flag. Going to OH has rarely been actually helpful for my group outside of getting a better conceptual understanding as they aren't able to look at what we *could* be doing wrong. However, they have been decently generous with the bonus submissions this semester which has been nice. 
+
+Exam: I feel like I'm the outlier in this thread in thinking that the exam overall wasn't that terrible. Yeah the buzzwords thing is a bit wack because they were a bit stringent on giving points when you only *alluded* to the term rather than the actual term. As for the content, in all honesty if you completed and understood each project completely leading up to the midterm, a lot of the questions were testing your understanding of things you had to do in the projects (locks/CVs and their various workings). If people disagree more in depth, I'd be happy to discuss it more (either here or in DMs if worried about honor code in some way)
+Bruh Noble doesn't even tell the TAs how the project infrastructure works and they can't see the test cases either. It's the blind leading the blind. The course shouldn't be dependent on an alcoholic and a guy who is in jail.
+The worst instructor I’ve ever seen at Michigan.
+What is RMP?
+Hey there-- I know a good bit about EECS 494 (and you may learn more at eecs494.com)
+
+The two courses are typically regarded as having a similar (fairly heavy) workload, and this is backed up quantitatively by [the EECS workload surveys](https://ece.engin.umich.edu/academics/course-information/ug-workload-survey/). EECS 494 has been reducing its workload / time requirement every semester via various tweaks and balancing patches-- it is designed to require no more than 12 hours of outside effort per week, in line with CSE guidelines (though poor project management or design pattern decisions often cause teams to overshoot).
+
+Students who find game development enjoyable often report time going by very quickly, lightening the perceived workload. Feel free to DM me with any specific questions.
+I thought 482 6 credit was one of the heaviest courses an eecs undegrad can take. So 494 will be lighter, but as for how much lighter, not sure.
+Extremely good
+im about to drop so one extra spot for u
+They do their best to get as many people in the class off the waitlist. The churn that 482 experiences is definitely stronger than most classes, but you might have to wait a little bit for others to drop before you officially get in.
+I'm 14th...extremely nervous
+yo did you end up getting in?
+I think it depends on how rough it would be for you and how badly you want to learn OS.
+
+Have you been doing well in your EECS courses so far? Do you feel like a larger workload would make life hell or would you be fine?
+
+Speaking from experience, it's totally possible to achieve a great job and high TC without 482 on your resume. At the same time, I've heard the info is valuable and if you think you can handle it then it may be worthwhile. 
+
+I opted to take lower workload ULCS courses and absolutely thrived on the additional free time. Life got significantly better than it had been the last two years. It was the right choice for me, but an individual one and your situation could easily differ. I agree that it wouldn't hurt to try it out first.
+I didn’t take 482 and I’m chillin with my software engineer job that has a slightly above average salary in the city where my job is.
+If you can graduate without it, I don't see the problem. You could always add it, see how difficult it is, and then do an early drop if you don't have the time.
+I think it’s a great course to take if you can, but it’s not the end of the world if you don’t. I think it really depends on what you’re interests are within SWE. 
+
+If you already know you want to be doing full stack development, UX design or something focused that isn’t in the area of operating systems or systems design, then the class won’t offer you much value in terms of gaining additional skills for that particular area. 
+
+However, I still think it’s an interesting class that if you are able to accommodate, regardless of what career speciality, you should take. As others have mentioned, you do feel very accomplished at the end of 482. But that doesn’t mean you can’t be a good developer if you don’t take 482. There are plenty of other opportunities and ways you can continue to grow and develop your skills through other classes here or side projects etc. 
+
+A Michigan C.S degree is one of the most rigorous in the country with or without 482. Be proud of the the fact you’ve made it this far. 
+
+TLDR: If you can take it, take it. If not no need to feel bad
+I'd say it's probably one of the most valuable classes upper-level CS classes to take if software engineering is sub-discipline of computer science you're focusing on. But if software engineering isn't your focus, maybe it's not worth the time and effort.
+
+In terms of difficulty, it's certainly higher than average, but it's by no means a monster. As long as you follow good practice, the projects aren't unnecessarily challenging. If you try to do things the quick and dirty way, ironically you'll spend much more time trying to get it working. Just don't be afraid to throw away most (or all) of the code you've written so far.
+
+But to bring it back around, you certainly can be an excellent software engineer without taking it. If you don't want to take it, don't feel pressured.
+Truthfully if you have your sights on any popular tech company or startup, they would without a doubt expect you to have the knowledge from topics in that course. Even if you pass all the interviews and get the job, it’s immediately obvious who on your team knows things from 482 from those who don’t when concepts come up. 
+
+Not to say you can’t learn on the job but as someone who’s been working in the industry for about 1.5 years after graduating, I’ve found it very difficult to learn new things and produce work in my role. I would say bite the bullet in college and you’ll rise above the rest who don’t.
+I think you should consider whether or not the material in the course would be valuable for you to learn, before worrying about whether or not you're up to challenge yourself. If you're not interested in the material, or it won't be useful in the job you're hoping to get, there are plenty of other ways to challenge yourself.
+I got a job at a big tech company without taking 482. I don't think it's the most important thing ever.
+Well, as you probably know, UM is famous for OS. So you can imagine how valuable this course is in every aspect of your CS career. Hey, you'll be working with your computer a LOT in your work I suppose, and it's always a benefit that one understands their tool. But if you have other plans for your career and you know you will not be working in this specific field (for example, if you want to work in theoretical CS), or your schedule is tight, then it's totally fine to not take 482.
+Take this for what it’s worth: I think it’s an extremely important class. Not for the concepts but for the amount of skills you learn. This is the first EECS class that I was like fuck I have no Idea what I’m doing—and it was a great thing. I learned so much and feel confident for once at a SWE. It’s not for everyone though (not trying to say this about you or anyone, but there is a certain level of skill/mental fortitude you need to pass the class). It’s a huge grind, but you gain so much from it that I think it’s nearly essential. I don’t think You need it for your resume rather it’s there to test your skills and help you develop them
+If you think you can handle the workload which is known to be heavier than that of other EECS courses, then 482 is definitely one of the most practical and helpful electives to take for a career in software engineering.
+
+Concepts like multithreading and non-determinism do come up in industry when building scalable applications with concurrent users. I also think the 482 content is super interesting (but I also enjoyed 370). People do tend to overstate the difficulty of getting through 482, as they make the class pretty hard to fail. However, getting a good grade in the class isn’t easy and the exams can be pretty unforgiving. 
+
+My ultimate recommendation would be take 482 if you’ve set your schedule up around it with easier classes and you enjoyed the content that came up in 370. It’s a very well run class that will only help you in your career in the long run.
+Same question here. I originally plan to take 482 next semester but due to some accident (forgot to add the class when got the override) I am now at the very back of the waitlist. I will do an internship next summer and I'm worrying that I would perform bad in the internship if the knowledge of 482 is critical.
+YMMV but from my experience the 6 credit portion for P2 was probably the hardest of all the 6 credit portions for the projects. The P3 and P4 6 credit portions were more in line with the “20% more work” mantra.
+I'm reaching out in behalf of a friend who doesn't use reddit. He's in 482 (6-credit version) and he's looking for a team as well.
+
+&#x200B;
+
+Here's his contact info if anyone is still looking for a partner
+
+Phone: +1 321 314 6526
+
+Email: romedina@umich.edu
+Currently in 482, did 485 in the past. IMO no, they don't exactly have simultaneous due dates as 485 I remember being ~2 weeks per project while 482 is about 3. However, each class requires a large amount of time commitment and I wouldn't recommend taking both at once (though I would recommend taking both classes at some point)
+Currently in both these classes. 482 project 3 was due the day after 485 project 4 was due, making these quite hard that week.
+I am in both currently and can tell you the project due dates for this semester. IMO the project due dates are pretty close together especially since p1 for 482 comes out so late.
+
+EECS 485:
+
+* p1: 9/12
+* p2: 9/26
+* p3: 10/17
+* p4: 11/14
+* p5: 12/5  
+
+
+EECS 482:
+
+* p1: 9/28
+* p2: 10/22
+* p3: 11/15
+* p4: 12/10
+Yeah, they reuse them. No one knows what the original source code for them is though since the guy who made them is in jail 😱😱
+Yeah
+I was only ever able to find the book split into 4 parts as pdfs. I have them in a git repo, if you send me your username I can add you to it.
+I did this (297 + 482 (6cred) + stats 412 + IA work). It's doable, but I would not recommend it. 297 is 3 psets a week, and it can be extremely heavy. 482 is also no joke, and can be very heavy, especially if your group isn't good. I can't stop you from trying this, but I will let you know that if you go through with it, you'll probably not get as much out of each individual class as you would have by taking them in separate semesters unless you're extremely diligent
+[https://www.reddit.com/r/uofm/comments/qsm2kq/is\_eecs\_482\_worth\_taking/](https://www.reddit.com/r/uofm/comments/qsm2kq/is_eecs_482_worth_taking/)
+
+[https://www.reddit.com/r/uofm/comments/qs3xm4/what\_are\_the\_most\_useful\_eecs\_classes/](https://www.reddit.com/r/uofm/comments/qs3xm4/what_are_the_most_useful_eecs_classes/)
+It will make you a better software engineer, but the concepts aren't something you can't learn on the job.
+honestly if you already have a job lined up, I'm not sure I would do that to myself
+It’s just pain but it’ll make u a p good CS student. Try to find a good group to work with though
+I would say it depends on what field you want to go into. If you will be doing any systems programming or maybe even embedded systems it would be useful, but if you’re not interested in those topics you could skip it. I honestly think it’s overhyped by a lot of EECS people. You get a basic understanding of vital OS concepts, but most modern OSs are extremely complex so you’re left with little applicable experience. I will say that it tests your limits as a programmer, designer, and critical thinker, so you will definitely improve in those areas. 
+
+Like another person said, you can learn the material elsewhere. The most important concept in the class is writing safe concurrent programs (multithreading), which is really not all that difficult, especially in modern languages such as rust and go. The class is very stressful and takes a TON of time too. If I was in your shoes, I probably wouldn’t take it.
+Yes
+Hot take from an EECS grad: 482 is a great class but once you start working you don’t stop until you retire. Take the time you have left in college and have some fun. You’ll have plenty of time in the workforce to stress about class. You won’t have the unique college experience again.
+
+I am glad to have been graduated and I love my job but I do miss some of the aspects of college I’ll never have again. Take your last semester and take some classes to learn about topics you’ll never be able to do again pass fail. 
+
+Also if you want to learn the university of Wisconsin has their entire OS course published online.
+I had the same debate last semester and I chose to take it. I don’t regret it but if I were you and it was my last semester then I wouldn’t. If you haven’t taken 481 yet take that
+I think a lot of people make it seem harder than it actually is. Yeah, it's more challenging than your average ULCS class, but it's by no means an outlier.
+I didn't take this at the same time as 482, but I can recommend [EECS 390](https://amirkamil.github.io/eecs398/) (Amir Kamil's 'Programming Paradigms' course). Workload is on the lighter side and I think it provides you with several new ways to think about programming (the biggest one being functional programming).
+Taking it with 493 right now and it's not too bad
+Honestly EECS 484 is somewhat complementary to 482 but if it's Honeyman then good luck lmao. I would say 493 as someone else mentioned. Honestly, the lower the workload, the better the combination with 482 lol.
+I’m taking 388 and 485 with it rn. Don’t recommend 485 concurrently with it but 388 is def a manageable combo
+If you don't like 370 you probably won't like 482
+I personally didn’t find 370 material to be that engaging but found 482 to be quite interesting. But like taco said I would recommend it regardless.
+just take it it’s important stuff to understand and makes you a overall better programmer
+It’s a great class but really hard. I really liked 370 (liked it more than 482). If you like the cache and VM topics from 370 you’ll like 482
+The difference is that the projects have more criteria you have to meet.
+
+For example, project 2 is to implement your own thread library. In the 4 credit class, the library only has to work on a single-core CPU, but in the 6 credit version, it has to work on a multi-core CPU.
+P2 core took our group like 25 hours, the extra 2 credits was like 15 hours so I'd say it's not that bad
+Besides what the other commenter mentioned, they could also give different questions on the midterm/final. Not sure if they’ve ever done that though.
+Just take the 6 credit version. The difference in the projects, at least when I took it (first semester it was offered) was negligible, and in fact most of us felt guilty for the 4 credit students that they weren’t getting 6 credits because it was so similar. You’ll also be better prepared for the exams.
+better than if you were #4 but worse than if you were #2
+Guaranteed. Start buying books...joking but yeah
+I've heard it's important if you want to work on infra/system level jobs. It doesn't directly help general SWE interviews since they only ask for leetcode.
+You could audit the course
+Start the projects the day they come out and (basically) work on them non stop until they're complete. Be on a good team, and prepare to spend 70+ hours per project. It's an incredible class and well worth the extreme difficulty.
+Absolutely start the projects early. I know every programming class says this, but you will absolutely hate yourself if you don’t start early.  
+
+One of the differences I found between 482 and other coding classes is that the projects are hard in a different way. I found other programming class projects boiled down to just throwing more hours at the project working on code until it was complete, but for 482, the code generally isn’t difficult, rather it’s  the conceptual planning that is difficult. The projects have large ideas that take time to wrap your head around and plan on how to do everything. Most of the projects you will spend a majority of the time planning. You can’t just throw more hours into “just coding” a project because if you planned your project long or didn’t account for a particular implementation case, all your previous code could be useless and require you to rewrite large portions of code or otherwise just take the L on missing points.
+
+That being said, I’d highly recommend to read the spec, sketch out your projects organization (methods, data structures, algorithm procedure) literally on paper, re read the spec, sketch out everything again, discuss it with your partner, and then go to office hours to review your approach to the project. Go to OH early in the project cycle (when it’s easier on the instructors to sit with you for a while), and actively work with the instructor to ask questions about implementations issues, approaches, potential problems, etc. Do not go to OH and ask them to review your plan and sit back, instead walk them through your approach and your reasoning for it (you want to respect their aid and show that you are working on the problem, not asking them for the solution).
+
+Also, stay on top of lectures, if you get behind it is hell to catch up for the projects and exams.
+
+I found the exams to be difficult because they throw a lot at you with not a lot of time. My best advice for the exams is to really understand what the question is asking you to do (I.e. kernel code vs application code) and write down as much as you can for your approach in every question (within reason) so that you can leave plenty for graders to give you partial credit for attempting problems.
+
+Because it’s so important, again, start early on the projects. Not starting early is my biggest regret (and cause of stress) with this class.
+The projects are hard, but not unreasonably hard. If you want to be prepared you can just glance over how these things work:
+
+Threads,
+Monitors,
+Virtual Memory,
+Unix File Systems
+
+But this is not necessary. Project one you make a threading library. Project two you make a virtual memory pager. Project three you make a network secure Unix file server. Most of your trouble will come from unfamiliarity debugging and working with multithreaded code. It's honestly a great class, and you will be glad you took it when you're in industry. Make sure you take the "advanced version" too, tbh I don't understand why they make it optional. As always, just make sure you start projects on day one. You'll do great!
+Just took 482 last winter. It's by far the most informative (and most difficult) EECS course I've taken. I know there are plenty of horror stories out there, but it's definitely worth it if you're willing to put in the time and effort to complete the course. 
+
+The biggest piece of advice like everyone else said, is to **start projects early and have good and reliable teammates**!
+
+I'd argue the best way to initially set yourself up for success in 482 is to find individuals who are willing to work as much if not more than you are and motivate you to keep going. There will likely be points where you feel so stuck or like you have no idea what you're doing, but that's why it's so important to have people to help take you out of that slump and get you back on track.
+
+As far as the projects go, try to come up with as thorough of a design as you can (document your thoughts and potential design patterns) before you start coding, and get it reviewed in office hours if possible. I'm not sure how office hours will work now that things are back in person, but when things were online, my team was usually waiting anywhere between 1-3 hours in the OH queue. When the projects are first assigned, OH wait times will be short compared to when the project deadlines are nearing. Take advantage of the early access to the course staff (482 had the best EECS course staff I've worked with by far). They are always looking for ways they can help you without giving you the answers.
+
+For locating bugs in projects, the first thing anyone will tell you is to write good test cases. In other classes you can probably get away writing decent test cases, but 482 will really require you to write test cases that well, cover every case. You will come across concepts like non-determinism, in which your program will potentially behave differently each time you run it. If your test suite is not comprehensive enough, you might fail to catch a non-deterministic issue and you'll be left wondering why you're failing lots of cases on the autograder. It might also be useful to use different command line tools available like gcov, perf, gdb, etc.. but test cases would be the best way to go to pinpoint specific issues.
+
+Something a lot of people overlook in 482 is the exams, because we spend so much time on projects. The exams are pretty difficult. Keeping up with lectures and asking clarifying questions in office hours will be your friend in getting good scores on the exams.
+
+If you have any other questions or concerns about the class feel free to message and i'd be happy to help. Good luck!
+What are the horror stories you have heard?  I took it back in 07 and it was one of my favorite EECS classes but I also liked 381.  I think it really depends on what areas interest you and the professor teaching the course.
+
+Ive been a systems programmer since I graduated but a lot of things have changed at UofM since then
+Good luck in there.
+Btw as a note the Piazza will have a "search for partners" form
+I definitely dont think you were in danger of failing the class when you went into the final. While -.5stdev isnt great it’s definitely in pass range. As others have said, hand grading is a big chance for points back; the AG isnt the final determiner.
+That exam was brutal man, I think we all got blasted
+[deleted]
+You’ll have plenty of time to find partners when class starts btw. But I think the people that respond here might be super eager to start it so maybe they will be good teammates 🤔
+Wondering how to choose the 6 credit version? When I try to register, it appeared I cannot choose the number of credits I want to register.
+Learn about concurrency - important for performance, efficiency, multi-tasking.
+
+482 is the bridge to understand the relationship between hardware and software.
+
+You can see material from Winter 2018 at https://web.eecs.umich.edu/~harshavm/eecs482/
+482 teaches about concurrency and systems and will really help you understand how programs and computers work beyond just the basic code you write. In my opinion, you will be hard pressed to find any cutting edge SWE position today that is not in someway dealing with concurrency; many other classes at umich will cover concurrency (485, 494, 484, 489) though usually only in a special scenario and with much less depth than 482.
+You can see material from Winter 2018 at  [https://web.eecs.umich.edu/\~harshavm/eecs482/](https://web.eecs.umich.edu/~harshavm/eecs482/) 
+
+Lots of slides, project specs, and more stuff on there.
+Are you a math/stats major? If not I would reccomend Math 214 , Math 217 has a pretty intense workload and it can be challenging for people with no background at proofs or abstract math.
+That seems absolutely miserable unless you're amazing at math, which makes it still miserable. 482 is higher workload than 281 from what I hear, and 217 might be too (unsure, but it's tons of work)
+Religion
+[OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+Start familiarizing yourself with multi-threaded programming. Might be some good playlists on YouTube on this topic. 
+
+The unrequired textbook for the course is Operating Systems: Principles and Practice. I think you can access it online via the Michigan library site. Multi-threaded topics can be found in chapter 5 and parts of chapters 4 and 6.
+
+Make sure you're very comfortable with developing C++ programs from scratch. Make sure you're comfortable with git. Learning Makefiles will be helpful. All compilation and testing will need to be done on CAEN. Maybe set up your development environment to prepare for this.
+If you can work your way through the command line and makefiles, your testing becomes a lot easier. We wrote scripts that automatically added test files to our makefile and bash scripts that ran tests infinitely to try and test through the non-determinism.
+Whiskey
+Have fun!

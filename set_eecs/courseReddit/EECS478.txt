@@ -1,0 +1,36 @@
+I heard that EECS 478 is kinda boring. I haven't personally taken it though so ymmv
+
+EECS 427 _is_ 24/7 but I thought it was fun and getting your processor working at the end feels magical :)
+I have taken both of these.
+
+427 is a 24/7 job, but it does feel satisfying seeing a processor you made essentially by hand working at the end. However, it does require a bit of background on how transistors work and how they become logic gates (see its prereq eecs 312). But, if you have that background, are capable of sinking a lot of time into it, and have genuine interest in the topic, it is a good course.
+
+478 is all about how synthesis programs work and how they transform your verilog into a circuit and optimize it for performance. This also includes stuff like scheduling. I found the hw was reasonably difficult, never felt like it wasnt covered in class, and the programming projects were definitely a challenge but office hours was the main way i survived. But, the professor is most certainly boring in my opinion, which does not help it is a morning class. A lot of it is just him reading the slides but there are a few whiteboard drawings. But if youre interested in how these tools and their algorithms works, id say its a rewarding course.
+https://art.ai.umich.edu/course/EECS%20478/
+
+A- is apparently the median for the class. I dunno about the projects. 
+
+I would ask the Computer Science Engineering facebook group for more details
+489 is nowhere near as time consuming as 482. Although I'm probably not yet best judge on this. I took 482 when it was 6 credits jammed into 4.
+
+But for me 489's projects were like 4/9 the amount of time as 482.
+I haven't taken 478 personally, but I have several friends who have. It's not supposed to be a particularly difficult class.
+
+On the other hand I don't see how you'd be able to do well optimizing and synthesizing logical circuits without some basic knowledge of 270 (logic gates, Boolean algebra). So I guess it comes down to what you mean by "almost none". 
+I took 478 last semester with professor hayes.  The lecture and office hours were useless, but i learned a lot about logic synthesis and minimization through the assignments.  We wrote one project that parsed boolean logic and built a tree structure to represent it and another project we wrote created .BLIF files representing logic structures and had to be able to detect equivalent circuits.  If youve taken eecs 270, its mostly the boolean logic, low level gates, and k-map type minimization.  So if you liked those, youll be fine in 478.  I dont know much about the other one.
+Not really helpful, but I'm in your exact situation. You're a CSE grad student?
+
+There may also be 473 - Advanced Embedded Systems. But no news yet.
+
+I'm told 583 is pretty straightforward. It's taught like a grad class, for what that's worth.
+478 is the "go-to" hardware class for CSE grad students outside of hardware -- it's considered to be much easier than the alternatives, and relatively straight forward. I took it with Markov; there were quasi-weekly homeworks about 2-4 hrs in length, and 3 programming "projects" 8-12 hrs in length.
+Run while you can! (No, I don't know anything helpful)
+
+
+What are 483 & 478 called?
+EECS 478 has an equivalent in Sweden - Royal Institution Tech.
+
+Besides, I dont think there is anything else that would transfer as ULCS unless you petition to the EECS department.
+
+http://apps.engin.umich.edu/equivalencies/
+Some IPE study abroad programs may have a few upper level EECS classes available for transfer back to UM. It's rare though. It's hard to find even classes like 281 and 370 that UM would accept for transfer credit.

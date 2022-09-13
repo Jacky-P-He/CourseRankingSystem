@@ -1,0 +1,101 @@
+Lmao you will be fine, those three combined is still less than 482.
+Ngl i don’t think taking the 3 easiest  EECS classes at the same time Is a good Idea. I’d highly recommend taking something else instead of 481 or 493 (like 485, 445, 470, 482). I think you’ll get a lot out of it but it’s still ur call.
+if u can afford it (graduate on time), then replace it. But I'm guessing if u didnt have a choice, then you wouldn't be asking.
+I took 497 last semester. The lectures were able to be watched asynchronously and you just had to submit short summaries via a Google form for each one. Super good class. We had an exam, but it was a take home canvas one that was open for us to do any time in like a 3 day window. 
+
+If Ringenberg is still teaching it you could probably email him on if any of that can be expected to change
+[deleted]
+The latest lecture talks about the exam format
+I heard from a friend it’s easy af, just talking how different lecture stuff would apply to your project
+I think it depends on the workload of your research work. You can try this at the beginning of the spring semester, and if the workload is too much, you can drop some classes.
+I think it depends on the workload of your research work. You can try this at the beginning of the spring semester, and if the workload is too much, you can drop some classes.
+EECS 497 involves you building a project with your group and going through the entire product life cycle, which includes things like UI/UX design and other non-development/coding tasks. The amount of time you put into your project is completely up to you. I took it in F21 and my group put the bare minimum in - I’d estimate less than 2 hours a week (didn’t go to lecture and filled out the summary forms instead)
+You do not have to take them at the same time, its just encouraged.
+I did not take them together and it barely mattered. In fact, I may have been better off than others, as many people’s MDE projects were lagging behind TC 497’s coursework, so they had to make stuff up.
+This sub greatly downplays the difficulty and time needed for 370. It’s a tough class and I found it more difficult than 281. Yes the projects are short, but this lulled me into a false sense of security and as a result I was unable to finish projects 2L and 4. I also spent 8 hours on the homeworks just to get like 50s on them so just don’t underestimate 370
+The projects in 485 are very time-consuming and you'll spend a lot of time Googling to figure out how to do stuff that wasn't explained very well in the assignments or lectures.
+Here is my 2 cents: it's all about what you want to take from the courses, I think that workload is manageable but ymmv depending how much you want to focus on GPA or the classes. I did CSE for my undergrad and went pretty hard on technical electives and stuff and had a bad GPA but I learnt a ton.
+Can't speak on the rest but EECS 442 is relatively low workload. 2-6 hours a week. However, the final project is a lot of work especially if you choose something challenging, maybe 10-25 hours at the end of the term depending on what you pick.
+EECS 496 is 1-2 hours of work per week, TCHNCLCM 497 is 1-2 hours of work per week, 497 is what you make of it (could be 2 hr/wk, could be 10+ like in my case). I suspect since you have many classes which aren’t so time intensive (can’t say anything about CEE), the most difficult part will be keeping track of all the different deadlines. But from the EECS + MDE side, it’s very manageable. I did the same 3 (497/497/496) and spent 15 hours per week total between all 3 every week, others were spending as little as 6-7.
+I did EECS 485 + EECS 496 + EECS 497 + THCNLCM 496 this semester (12 credits). 
+
+From my experience, 442 was less work than 485. If usually spend about 2-4 hours a week on 442. 
+
+496 was just one mandatory seminar each week and then 5 assignments over the course of the semester that took about an hour each. Final was easy and there was also a pretty quick final writing project thing.
+
+497 was a bit of work. Probably did on average 2 hours a week between all of the coding and documentation.
+
+Tech comm was like 30 minutes of work averaged over the semester.
+
+I havent taken CEE so I'm unsure there.
+
+Amd I think thr piano class will be just fine on top of it.
+
+The biggest thing that I'd be worried with is the amount of classes you're taking is high (6 classes). You'll have to be on top of every deadline and you'll have a lot of assignments due at the same time.
+
+Other than that, your schedule is probably reasonable
+I do not believe the 494 attendance policy will be in place next semester.
+I’m also trying to take this combination next semester, what’s the likelihood of getting off the waitlist for 494?
+~~You would need to get special permission to add 485.~~ I would not recommend it although it might be doable IF you have prior web dev experience, AND if you choose a very straightforward 497 project
+I wouldn't be too hard on yourself-- EECS 485 is [widely regarded as a moderately high-workload course](https://docs.google.com/spreadsheets/d/1OjPj0SsK_5Yg99mOrZhF64LmDf50gfiWcW7ceQHdxDk/edit#gid=0) (2.54 / 4).
+
+&#x200B;
+
+* EECS 486 is regarded as being a bit lighter weight (1.24 / 4)
+* Likewise with EECS 497 (1.17 / 4)
+* EECS 494 (my course) is high-workload (3.45 / 4), though this may vary based on your team composition and interest in game development (those who enjoy the work don't feel as much of the time burden). You may learn more about the course at [eecs494.com](https://eecs494.com), view some sample projects, and determine whether the time investment will be worth your while.
+
+This schedule sounds challenging-but-doable to me. You'll want to get feedback from additional sources. DM me if you have any specific questions about 494.
+It won't be fun but it is possible.
+Take 203 and 280 and see how you like it. That will give you a preview of what cs is like here
+It’s definitely possible. Python isn’t used until the upper levels so you’ll likely not even use it until senior year. I would recommend brushing up on cpp basics because 280 and 281 are taught in it, but you’ll likely do the following sequence:
+
+2022-2023
+Fa: 280/203
+Wi: 281/370/376
+
+2023-2024
+Fa: 2 upper levels
+Wi: 2 upper levels + capstone
+
+Of course, there are easier and more difficult ways around picking courses. For example, you could take 493 (UI) and 497 (human centered software) together and use the same project across both classes. Personally, I don’t find that fun , but 497 is a 2% workload course (check Atlas for workload breakdowns) and my buddy who is in it now said he’s spent around 15 hours on that class up to this point. So there definitely are options to make it easier on you. 
+
+I think the main thing is you have to love it. EECS is hard. The workloads are fairly heavy, especially for some classes like 482 (OS design), but from my experience the courses themselves are very interesting. Burnout is real, so be careful, but if you enjoy the content then you’ll have no issue at all in completing it in 2 years. Most people aim for 2 eecs courses a sem, so if worse comes to worst you can always take a spring sem or another fall. Taking another fall could be helpful to land another internship as well. Hope that helps!
+You could do econ major and CS minor. You can still get an internship/job as a software engineer as a minor and then you can finish up the Econ degree if u wanted
+You’re fine. Most CS transfers are doing the same, including me, however the typical graduating time is 2.5 years and not 2
+EECS 497 is what you make of it - if you want damn near 0 work you can spend like 40 hours total throughout the entire semester and get an easy A. However, I was in a very intensive group and we decided to pick a difficult project so we spent maybe 5-7 hours per week. So if you’re looking for a class you can blow off and get MDE credits for, do EECS 497 and pick a very, VERY chill group.
+I found eecs 481 pretty straightforward overall.
+
+Eecs 493 is okay, but there’s been a lot of weird stuff happening this semester (kinda disorganized)
+
+Haven’t taken a capstone yet but heard mobile app development is easy
+Eecs 442 computer vision 
+
+No exams, just 6 HW assignments and a final project.
+
+The material was super interesting and the lectures explained a lot of fun concepts. Easily my favorite ULCS that I've taken.
+EECS 496 can be taken whenever, TCH 496/497 needs to be taken with or after your MDE (497 is CS focused). EECS 497 or “Human Centered Design” should be the lowest workload mde
+Personally, each semester after Fall 2021 seems depressingly challenging to me. I think I would be incredibly stressed and unhappy the entire time. Maybe you're considerably more capable than I am though! I think if you want to try this it might make sense to *attempt* this schedule, and see if it is feasible for you. However, I'd do this with the understanding that there is an extremely high likelihood you'll have to drop some classes and stay for another semester or two. Don't feel like a failure if it becomes too much, because this plan seems extremely difficult.
+
+I will say if you go this route, you need to ensure you're properly gauging your ability to complete your semester's classes early on. You'll want to drop classes towards the beginning of the semester, before you get a W, and before your other grades suffer because you're committing lots of time to a class you're going to have to drop anyways.
+Everything after fall 2021 will be really tough, I wouldn't personally ever recommend 3 full fledged eecs courses in one semester. This schedule seems super challenging to me tbh.
+The 281/370/376 combo would be quite frankly soul crushing. Also you have to get special permission to register for 3 upper level EECS courses (the 2 ULCS + MDE semester) in one semester as far as I know and I think that’s only if you need it to graduate that semester.
+I'm in Game Dev now. It's alright, the lectures are pretty much useless (they talk about high level game design principles but you aren't given anywhere near enough time to actually factor them into projects), and the professor left over the summer so it's being taught by GSIs. Whenever I go to lecture, it ends up devolving into watching a bunch of gameplay videos, which is kind of interesting until you realize that you just wasted 2+ hours on essentially nothing. The work itself is alright, it can be a lot of work depending on how ambitious your game ideas are, and the expectations aren't very clear. If you are really interested in game development, I'd say take it, because the work will be interesting then. In comparison, I've heard 441 is way less work but much more boring.
+
+Both mobile app development and game development can be self-taught (you basically have to teach yourself for both classes either way), so you won't really miss out by not taking one. As for taking both at the same time, you may have some difficulty since they try to keep spots open for people who still need to fulfill their MDE reqs. You should try contacting the instructors or the advising office.
+Game Design is pretty awful. It's a ton of code, but you don't actually learn anything useful. It's just a lot to wade through. 
+I took 441. I really liked the class. I had never done mobile app development before, but it gave me an opportunity to learn.
+
+The class is not technical AT ALL. You're required to learn and develop from the technical side completely on your own. The class is more about the entrepreneurial side, so a lot of people don't like that. Personally I really liked it and it was one of my favorite classes, and as someone working on a mobile app in industry now I can say it was the most useful class I ever took and I feel far more prepared for understanding both business and technical concepts around software inception and delivery.
+1. 497 is the required tech comm for CS and 496 is the required tech comm for CE. Don't know specifically what is different about the courses but the different degrees want different tech comms.
+2. 494 is a really good class if you have a interest in games. It's a great class to build a game portfolio and Professor Gibson knows what he is talking about and has a really expansive network that he uses to help support his students. However, be aware that if you want to do game dev or design in the future you have to make games outside of class too.
+3. Don't know too much about other upper level classes but I know a lot of people like to take and a lot of companies like to see that you have taken 482. Just be aware that it's a lot of work.
+1. not much. The technclcm classes I took were for the most part a joke. As long as you know how to write a decent paper/resume, you will have no problem.
+
+2. they are all good. Just pick something that you want to explore and go for it. I did the mobile MDE, which was interesting.
+
+3. if you liked 485, also look at 484. They are similar but different enough to be interesting. I also took AI, 492 I think, which was good. all depends on what you like. 
+[deleted]
+1) TCHNCLCM 497 is about writing documents for helping you be able to communicate your ideas to others, whereas EECS 496 is about professionalism and deals a lot with personal finance, copyright, patent, and trademark law, ethics, and business. Both are required to graduate if your are CSE (EE and CE have to take 496 as well, but I think they have a different TCHNCLCM course). Both have important things to learn, but they are both exceedingly boring, and the work that you have to do is tedious and annoying, but not hard. I don't know who's teaching it in the fall, but 496 is currently being taught by Professor Laird, who makes what would be a mind numbingly boring 2 hour lecture into a slightly less mind numbingly boring 2 hour lecture.
+
+2) 494 is a great class providing you are interested in making games. Professor Gibson is very knowledgeable about the games industry and the game design process, and he is well connected in the industry as well. However, the class is a bit of work, and if you aren't prepared to do that work, the class won't go well for you. But if you are prepared to do the work, then the class will be great. 

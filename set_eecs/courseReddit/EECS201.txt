@@ -1,0 +1,123 @@
+I would say that both those schedules are going to be pretty tough but relatively similar. Id say the main difference is that In 270 the labs are pretty tough, time consuming, and theres like 7 of them (if I remember right), but in 370 you get 4 projects which i found to be relatively easy if you understand the material. Some people might say that taking 270 first helps understand 370 but I didn’t really find that to be the case when I took it.
+If you are in CSE and would like to graduate with a CSE degree, then 370 is like your only choice…. I think you are required to take 370 in order to graduate. So good luck!
+Background: I've been teaching EECS 370 for a few semesters now.
+
+
+IMO students who take 270 before 370 generally do better and have a better understanding of the course material. It may be minute, but I think 370 is a much harder course if 370 is your first exposure to logic gates and binary numbers (This material is taught in 270). Having prior exposure is a big boon. 
+
+
+However, I do think 281, 370/270, and 376 is a pretty intense workload semester. Have you considered trying to do just 2 eecs courses and getting another required credit in like stats? Especially if you think you're a student who is more interested in low-level and hardware courses, taking 281 and 270/370 earlier is more important than taking 376. 
+
+I know when I was taking these courses, I personally scheduled it like the following and I think it worked out well:
+
+(Fall, 281, 270, + other req)
+
+(Winter, 370, 376, + other req)
+
+
+I also think EECS 201 is an excellent course, and should be a required course for the major.
+I took both last semester 270 was slightly higher workload than 370 but both were lighter than a class like 280. Probably something like the 203 workload.
+Very informative and well-written post, thanks for sharing.
+As a math GSI, thanks for this post and I really agree the department needs to make changes. Especially workload in the intro courses -- I honestly feel bad for my students having to juggle so many different kinds of assignments (watching Canvas videos, reading the textbook, quizzes, exams, masteries, webwork, team HW, etc...) It's a lot even for us to handle all the course components, and when first-time GSIs are given minimal training while simultaneously being overworked, it's not a good situation for them or for students.
+Applied Math grad here. I think one of the first problems with GSIs is that they’re probably so good at math that they didn’t do normal college calculus. They probably did a track similar to the UMich 195/196/295/296 track where they’re proving calculus not doing calculus problems. 
+
+The best possible GSIs for Math 115/116 are probably other department GSIs like Engineering, Econ, Stats, etc. who took those classes and might actually have used calculus in the last 5-6 years. 
+
+Additionally, the Math department needs to stop using assistant professors (aka untenured, but tenure-track) for upper-level courses. Teaching does not help them achieve tenure, which means their incentives are not aligned with their students doing well. Time they spend teaching is time not spent on research, which will help them earn tenure. It’s not fair to them or the students to make them teach.
+Also for 115/116 attendance counts too. That's not a bad policy since going to class is important, but I'm starting to have this feeling that if they removed the mandatory attendance, only 1/2 of the people would attend the lectures just because of how ineffective they are.
+
+&#x200B;
+
+I'm in Math 215 and I didn't attend lectures for 3 weeks. Only relying on textbooks and self-learning. Turns out, I got 10% better than the class average for exam 1.
+Thanks for this amazing writeup.  I graduated in 2017 and agree with everything you say about the program.  I'm glad to hear there is now an internal push to make things better.
+
+I started as a non-honors math major and quickly became aware of the department's rigid caste system.  (I wasn't even aware of the honors track at first, or of how much better it was -- meaning I never even had a chance to enter!)  The honors students are fed with a silver spoon and everyone else is left completely in the dark.  
+
+I had basically zero guidance choosing courses, even with regular advising appointments.  At the time I enjoyed being able to pick-and-choose whichever courses sounded interesting, but looking back I realize what a disservice that care-free approach did to my education.  I didn't learn a lick of abstract algebra until my third year.  I had no idea what my "unknown unknowns" were.
+
+The undergraduate-level classes I did take were, for the most part, disappointing and taught by professors whose enthusiasm for teaching had long left them.  Expectations on students were quite low and for the most part I didn't feel challenged at all my first 2 years.  There were two notable exceptions:  Prof. Uribe for Math 451 and Prof. Montgomery for Math 354.  I'm incredibly thankful to both of them for showing me what a joy math can be.  I also heard great things about the IBL version of Math 490 but never had the chance to take it myself.
+
+The course schedule is full of landmines.  The workload and curriculum can change wildly by semester and by professor.  Even worse, the department makes no distinction between 1) courses intended for math majors and 2) courses intended to be taken by science / engineering / cs majors.  The worst course I can remember is a PDEs course (Math 454) taught by a biology professor who had no business teaching math majors.
+
+By my third year, I started to realize how behind I was compared to the honors track and decided to push myself harder to catch up.  It was far too late for me to switch to the honors sequence (and, I was off-cycle -- not every class in the sequence is offered every semester).  But, I started taking graduate-level courses (starting with 597).  I was woefully unprepared, but I took on the challenge and finally felt like I was learning something new.  Best decision I made during my time there.
+
+What changes would I like to see?
+
+* I think basically every math major should take a version of the honors sequence in their first 2-3 years, at maybe 50-75% of the usual pace.  The material covered is extremely important for *all* math majors, and it's a tragedy that they don't use that curriculum for everyone.  However, from what I heard the breakneck speed of 295/296/395/396 takes quite a mental toll on the average honors student.  The professors seem to encourage a toxic competitive atmosphere in the honors courses too.  (As a result I felt very unwelcome in the Nesbitt room as someone who didn't suffer through the honors sequence.)
+
+* There should be more thought put into the order of courses.  The problem with the a-la-carte style of course selection is that professors can't make *any* assumptions about what students will know coming in to the class.  So, the first 3-4 weeks of the semester was often a review.  There's no chance for knowledge to compound itself over 4 years when students are able to take classes in any order.
+
+* Realistically 215/216 is a waste of time.  Math majors should jump straight to Math 451 instead of memorizing integral / derivative rules before even properly seeing integrals / derivatives defined.
+
+* Math 217 should be the ONLY intro-level linear algebra course offered by the department.  I was a TA for EECS 445, and the students who came in having taken Math 214/215 were just as skilled at linear algebra as those who had never taken a course.
+
+Feel free to DM me if you think the perspective of a recent-ish graduate might be helpful.  It was only in grad school (CS) that I realized how big the gaps in my education were.
+You should also bring up the fact that the intro math sequence is absolutely integral for a lot in non majors. In aerospace, Calc 3 and Diff Eq are essential, but me and many others are having trouble because we dont have a very good understanding of them.
+Do you think GSI's are cognizant of the situation? One of my close friends is a GSI and he says he's not particularly tough on students, and that they're all doing pretty well. 
+
+I do wonder if there's a possibility he's out of touch given that he came into undergrad skipping a ton of courses and getting to Grad courses before too long, so he clearly does not understand what it feels like to be an intro student. He's told me that he just doesn't want people to fail (and have to retake the course), but doesn't personally care whether students learn anything. He said this half in jest but...
+Thank you for this. I took pre-calc and calc at Michigan and no class has ever made me question my own intelligence than Michigan math. So much time and effort to get Cs with little help from my GSIs. All of that in the shadows of my physicist father who couldn’t fathom why I was so bad at math.
+
+Math doesn’t have to suck, thanks for trying to point that out.
+I remember really not understanding calc 3 and 4 until I had application of it in fluid dynamics. And the funny thing is that in those classes, you aren't even really doing much calculus. You see the concepts or an equation written in a familiar form and go "ahhhh, thats what all that calc 3 stuff I never really learned is used for". The math labs could have been helpful, but youre so focused on just getting them done in the alloted time in the lab that you dont really have time to ponder why things happen, just have time to ask a question to make sure you dont fall behind the pace of everyone else.
+i am one of the dumber honors math students and I like the program
+I graduated in 2019 so things may have changed since I took 115/116, but workload was only part of it. And honestly a small part of it. My Arabic and computer science classes were 3x the work but half as hard. I think you are severely underestimating the fact that every GSI is different and every section is different. Some don't speak English very well, some just aren't good teachers, and others (like mine) constantly said things like "this concept won't be on the test so we won't cover it", then have that concept show up on the test. There were alot of classes at UMICH that had "heavy workload" and was hard because it was alot of work. Calc 115/116 weren't those classes. It was hard because of poor organization and poor instruction.
+I’m a prospective math major and I have a few questions.
+
+Well the first thing is I’m actually firstly a CS major, so keep that in mind. Anyway, I’m not doing the normal sequence at UMich because I have up to 215 in transfer credit, and I was planning on doing 217 next summer, hopefully. If I take 297, would I then get access to all the honors math? Should I? Or should I just do normal pure math at this point, and take whatever harder classes I want/can?
+I'm an alum, and 115 was a class that turned me off of math. It took me YEARS to rediscover a love for math after that shitshow.
+
+I took AP Calc in highschool and got a 4. I did not get credit and had to retake Calc 1, where I got a C. I got an email from my GSI telling me I had a great mind for math and that I should consider pursuing it further. I was an A and B student and screenshotted the email thinking it was a joke. 
+
+Just some personal experience that I think jives well with what you posted.
+I’m an honors math (295-396) alumnus, and I want to encourage any prospective students who may be interested in theoretical math to take the sequence. Surviving that sequence was more difficult than getting a PhD, but I learned so much, I developed skills which will stay with me for the rest of my life, and I made my best friends in college in the sequence.
+I took 295 in the fall of my freshman year (2017) because I was considering a math major. I had taken some math classes at Saginaw Valley State University when I was in high school, and they never really gave much homework. I came to undergrad with the idea that most classes would just be a few exams; I was totally unprepared to have any homework, let alone 295's amount. I went to the Bagel Sundays and I spent a good amount of time (around 10-15 hours each week) on homework, but I just wasn't getting it done. I asked Dr. Debacker for some advice, and he said "You need to get the homework done." So, I dropped the class.
+
+A few years later, I took 217 in a spring semester. At that point, I had been through the ringer with my chem major, and I was used to selling my soul for a semester. I documented how long I was spending on the assignments, and it worked out to be a little under 25 hours a week. I got an A+. 
+
+UMich Math is great if you're willing to sell your soul to it, but it's a jealous mistress.
+I graduated with the honors math major + a masters through CUGS in 2020 (class number 41!) and took the full honors sequence, plus a few graduate classes. I'm currently pursuing my PhD in math at a top program I love, so the TLDR of my rant is that everything worked out in the end.
+
+I wholeheartedly agree with your assessment; it feels concise yet somehow complete. I will say that your point about professors picking a few "golden children" from the honors math sequence and putting them up on a pedestal 100% does happen. The system is very hierarchical; I got some more opportunities handed my way (an REU for example) since I took the honors sequence in full; those would be harder to get if you didn't do this.
+
+&#x200B;
+
+On the other hand, there were a number of honors math kids (people who, for the most part, were quite a bit smarter and worked harder than I did) that got spoon-fed opportunities. A good chunk of undergraduate awards and scholarships, for example, are purely a favoritism game played by certain faculty. I knew of someone (who is a great mathematician! I don't want to take away from them) who won an award in field A (say, Analysis) without having taken a single class in field A outside of the honors sequence, doing any research in the field, or particular caring about the field at all. They just happened to be in the good graces of a certain professor, who nominated/gave them the award, as well as the stipend associated with it. I can think of at least 6 other examples off the top of my head where someone received an award/opportunity/recommendation over other candidates for similar reasons (or lack thereof), but I don't want to disparage anyone and/or make the response so pointed that people could figure out they were mentioned. As someone who has graded 295 you are particularly aware of this; that's one of the most coveted grading roles in the department (high pay + high hours) and you clearly earned it, but you probably did get on the good side of Stephen/Sarah. For what it's worth, of all the people I've seen grading the honors sequence, they are currently getting their PhDs at UChicago, Stanford (x3), Berkeley, UIC (x2), Harvard, Princeton, or work at facebook/google, so you are in good company.
+
+&#x200B;
+
+The point is that there is certainly favoritism within the department, and one does need to "play the game" (do volunteering things, math circles, interact with certain professors, etc.) to get ahead and get these opportunities, honors math or not. There is also a culture of being "volun-told" to do something, due the "implication" that not doing so might reflect poorly on your chances of getting a rec letter for graduate school from the person asking a "favor" of you. I know of someone who had to be at the math building by 6:30AM on a Saturday with 12 hours notice, just because they were asked to by a professor and couldn't feel like they could say no.
+
+As you mentioned, Sexism is pretty common as well. I know of an instance where a group of undergrads were invited on a whim to a graduate student welcome dinner within the department. They were invited to answer questions about what it was like to study math at Michigan and comment on their experiences as undergrads. That group of undergrads consisted entirely of underclassman, female honors math majors (the 4-5 of them consisted of 80% of the women fitting that description, I should add). I wonder why they specifically were invited? Perhaps they should have been warned that they'd be tokenized for "appearances".
+
+&#x200B;
+
+This is not to take away from the academic quality of the department, though: I have been on the receiving end of at least a little bit of this "pointed focus" towards future graduate students, and the honors math sequence (as well as a number of the professors in the department) prepared me for graduate school more than any other life experience I've had. I have had wonderful experiences with a number of professors, and honestly credit a couple of them for getting me into graduate school at all. I just think that these sort of things should have been fixed (if they haven't already; a lot happens in 1-2 years), and I'm sad I didn't do much to shine a light to this while I was an undergrad (honors math does keep you busy, as you know). I wish you and the next generation of math kids the best, though, and hope the climate committee can get fleshed out over the next few years.
+It's interesting that so many professors don't seem all that interested in teaching. Besides those studying teaching itself, I can't really think of a field that should be more interested in pedagogy. Math teachers so often struggle to communicate the field's ideas to students, from kindergarten all the way to college. 
+
+I hope you're successful in addressing this problem in our math department.
+TL:DR - it doesn’t. It’s an indifferent machine run by a elite committee of dicks.
+[deleted]
+>The (non-financial, undergrad portion) math department is intentionally designed to find students talented in pure math, filter them into extremely difficult and time-consuming classes, and build extremely talented grad students to send to other schools. It is extremely extremely effective at this. It is awful at most everything else.
+
+Then they need to get the fuck out of the business of calling themselves an academic institution that is for the purpose of teaching students... They need a complete rebranding to what they actually are: a group of researchers that administer exams!
+
+&#x200B;
+
+Also thank you a lot for your insights and work within the department to try and correct these blatant problems. It takes people like you to facilitate this type of change and absolute power to you for helping to push/lead the charge!
+I graduated with an undergrad in math (non honors) and tend to agree with you. I will say though that being a part of the Douglas Houghton Scholars program for calc 1 and calc 2 which provided an extra IBL element to classes made the experience far better. I wish this option was made available to more students
+Math 215 is taught *very* poorly as well. I find I am always more focused on getting assignments in (especially the written homework which takes many hours) rather than actually learning and acquiring a solid understanding of the concepts. The assignments I feel actually take away from the class rather than add to it.
+
+It's such a shame because I am actually interested in learning the material, but it really really seems like the class is simply not meant for actual learning. This is extremely disappointing to me as this is one of the top universities in the US and we pay a *lot* of money to go here.
+[deleted]
+After two years here I suspected the Math Department was run by outright fascists.
+
+Nice to know that they don't actually hate ALL human beings, just those who aren't math majors /s
+
+In all seriousness, I am glad that changes are being made. Nonetheless, I struggle to stomach the fact that for years the faculty has been designing courses that many students outside their departments are forced to take with goal of making the process of learning math so Darwinian that they can ensure any inferior graduate candidates have been weeded out. That is disgusting and misguided as all hell IMO, but I guess for a lot of the faculty we are just the revenue stream to fund their research, not actual human beings with hopes and dreams and passions beyond Calculus.
+Great class, yes. Worthwhile and low-stakes.
+I took it the semester after I took EECS 203 and really enjoyed it. There is overlap in the material, but I still think the practice made me better at proofs. It’s nice to work with people in a relaxed environment with help from the math students/faculty (I took this online in W21, I’m sure the in person experience would be even better). I’ll note that you don’t need to be signed up for the class to participate, so if you’re worried about commitment, you might consider showing up when you can and not actually registering for the class.
+I wish they had something like this before I took 217. I heard it’s supposed to help with proof writing/proofs in general. If you plan to take upper level math courses, I’d recommend it
+Take it. I enjoyed it and learnt a lot. I won’t say it enhanced my passion but it definitely made taking more rigorous upper level math courses seem more achievable. (I have never taken 217 which is advisory prerequisites for all of them mainly due to proof-writing)
+It’s credit/no credit, and if you do a bit work, you will get credit. Seem to be a good deal.
+can anyone tell me what do u do in class? r there exams?

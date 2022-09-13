@@ -1,0 +1,204 @@
+Python is extremely easy to learn, you will be more than fine.
+
+That being said, 442 might be difficult to get into (assuming u are a rising junior). It usually is one of the first classes to fill up when add/drop starts
+I am in it right now. If it is your only ULCS of the term it should be fine for someone of your python level. I am struggling just because I am taking two other ULCS courses, and 442 takes a backseat. It really isn't that much work compared to other ULCS.
+I’m in the same boat and would also like to know lol
+442 is easier, better content for future applications has much better staff and accommodations in general. I’m in it right now and the staff has given us a total of 288 penalty-free late hours (translating to 12 late days) for the 6 assignments we have total in the class
+I'm in 442 right now and like the other commenter said the staff has been very accommodating, but I've heard from past students that different staff teach the course differently so not sure if this will still be the case with a different professor.
+Didn't take 484 but 442 workload and overall class quality depends on who is teaching. I am disappointed I took this course when I did because I've heard better things about the other professors. I feel like I only learned a very surface level understanding of CV and the lectures were often convoluted and didn't build upon each other. We had weekly long homework assignments with little support in OH and other avenues. Who is teaching in fall?
+484 has 4 late days for each project and it is pretty light
+442 is much better than 484
+HW2 took me about 12 hours I think.
+Honestly, the coding part is easy. It’s the report that took me a while. I spend couple hours doing code for hw2. But report took me almost entire day…
+Did you sign up for the study groups? I think they just sent the groups out today. There's also a GroupMe that might be helpful to join: https://groupme.com/join\_group/84184666/vZWe7eGt
+It could change next semester, but according to [the EECS 481 website:](https://web.eecs.umich.edu/~weimerw/481/)  
+> **"Live, in-person attendance at the lectures is required** (unless you believe you have been exposed to COVID, etc., as above) and significantly contributes to the participation portion of the course grade."
+For EECS 442 your attendance isn't tracked.
+[deleted]
+442 has a good amount of overlap with 445 esp with the neural networks stuff. 442 is much easier than 445 and still very useful.
+A little late to this thread but thought I would add my $0.02 as I took all three of these classes. I would say that 492 is a sort of survey/background info for the field of AI in general (ie you can think of 492 as a superset of 445). There is a lot of focus on classical AI methods and integrating 203 (Boolean algebra) and math 425 (probability) into AI. The class is still far less math than 445. 
+
+As others mentioned 442 has a good amount of overlap with 445 but will generally be a bit easier. 
+
+I would rank the difficulty of the classes as 445 >> 442 > 492 and usefulness as 445 > 442 > 492. 
+
+I personally found it worthwhile to take all three courses but thats because I plan on working in the ML field as a career (fingers crossed). Hope this was somewhat helpful!
+I'm in it right now. If you know linear algebra it's extremely doable. Homework tends to be not very time consuming overall, and the project is very flexible.
+It’ll depend on your waitlist position.
+
+Also if I recall correctly, you can be on the waitlist for as many classes as you’d like. If you are worried that you won’t get off the waitlist, I’d recommend registering for both classes. That way if you don’t get off for one, you might get off for the other.
+I ended up staying on the waitlist for a month before they suddenly decided to take me off. Don't wait for the profs to do anything. Just sign up for another course instead
+if you dont need to take 270, then dont. i heard it is basically two classes. the lecture/exam portion and the lab portion.
+I did this semester, content overlaps somewhat during the beginning
+I took both 270 and 370 in Fall 20. It kinda depends if you want to take 270 as an FTE. There might be better options, but I did know a few CS people that were taking 270 as an FTE.
+
+It might make sense if you were interested in 470 or something that requires 270. 
+
+At least for the content, there is definitely overlap. "it might make sense to take it at the same time as 370 so I can double focus on computer hardware?"  -maybe, but I'm not sure if you necessarily need 270 though.
+Difficult but doable
+Yeah 370 will be a lot easier if u do that
+I'm also an EECS student (EE tho not CS) who took 217 because I'm a math minor, and I think all that really needs to be said is that 217 is, to this day, the heaviest workload class I've taken. If you don't want to spend 20 hours a week (or more) on your math class, don't take 217.  
+  
+Now, to be clear, I'm not trying to scare you off - I did fine in the class, and certain aspects of it did help prepare me for the upper-level math courses I took to complete my minor. There's also nonzero odds you will like the content of the class way more than me, or maybe you'll hate the IBL format way less. Just be aware that it *earns* its incredibly high workload score on ATLAS.
+I'm doing 214 and my girlfriend is doing 217 currently. My workload has across the semester been consistently much less than hers. 214 is pretty much passable if you can plug and chug on exams and do well on homework. 217 looks like a nightmare.
+Look into robotics 101 to get a math 214 equiv for CS! That’s what I’m doing and really happy with the class. Staff is really nice and supportive, and probably not as much work as a math class here
+Shouldn't you take 286?
+STATS: 406, 413, 507 
+
+EECS: 476, 484
+STATS 306/406 if you have not taken a course in R  
+STATS 413 for a more in depth understanding of linear regression
+Not super data science focused, but EECS 485 has some data science aspects to it, and prepares you pretty well from a practical perspective for a data science job (having worked in DS for a couple years now).
+
+Stats 413 made me miserable.
+Definitely EECS 484 if you haven't learned SQL before.
+eecs 484
+Can't speak on the rest but EECS 442 is relatively low workload. 2-6 hours a week. However, the final project is a lot of work especially if you choose something challenging, maybe 10-25 hours at the end of the term depending on what you pick.
+EECS 496 is 1-2 hours of work per week, TCHNCLCM 497 is 1-2 hours of work per week, 497 is what you make of it (could be 2 hr/wk, could be 10+ like in my case). I suspect since you have many classes which aren’t so time intensive (can’t say anything about CEE), the most difficult part will be keeping track of all the different deadlines. But from the EECS + MDE side, it’s very manageable. I did the same 3 (497/497/496) and spent 15 hours per week total between all 3 every week, others were spending as little as 6-7.
+I did EECS 485 + EECS 496 + EECS 497 + THCNLCM 496 this semester (12 credits). 
+
+From my experience, 442 was less work than 485. If usually spend about 2-4 hours a week on 442. 
+
+496 was just one mandatory seminar each week and then 5 assignments over the course of the semester that took about an hour each. Final was easy and there was also a pretty quick final writing project thing.
+
+497 was a bit of work. Probably did on average 2 hours a week between all of the coding and documentation.
+
+Tech comm was like 30 minutes of work averaged over the semester.
+
+I havent taken CEE so I'm unsure there.
+
+Amd I think thr piano class will be just fine on top of it.
+
+The biggest thing that I'd be worried with is the amount of classes you're taking is high (6 classes). You'll have to be on top of every deadline and you'll have a lot of assignments due at the same time.
+
+Other than that, your schedule is probably reasonable
+I took it and had a great time. Workload wasn't too bad, and the projects were decently interesting. The course content was more focused on just a few types of machine learning (unlike 445, which tried to cover a ton of different topics), and the types of ML covered are very useful.
+No
+Sound like a great question to ask the profs
+I’m pretty sure each of these classes only have one section but ik 442 records their lectures if you want to watch it asynchronously
+Spoiler alert. Professor who teaches 442 didn’t even take calc3. The only thing I used that is from calc 3 is partial derivative because you need to understand the backward pass of neural networks. I believe this topic will be covered in both 442 and 445. However, partial derivative is very easy if you know how to do normal derivative. It’s not a tough topic that is going to get you. 
+
+My advice is, regardless which one you choose. Definitely brush up your linear algebra skills. Especially, how to manipulate matrix and vectors. Programming side, definitely pick up Python specifically Numpy, torch and matplotlib. You will be doing linear algebra in Numpy and Torch. Matplotlib is mainly use for visualization. It sounds unnecessary but being able to quickly visualize your dataset is so helpful when you debug your code.
+I’ve taken both and haven’t taken Calc 3. They are both manageable and don’t heavily rely on topics specific to Calc 3. There may have been small things here or there, but as long as you can take derivatives you are fine. Look into 492 as a more gentle and less mathy introduction to ML/AI(mainly ai). The biggest thing you should probably weigh is the time you can dedicate. 445 workload > 442 > 492. Even without a strong background in math, you can do well in any of these courses given the time and effort
+I transferred to UM from WCC after completing most of an associate's degree. Larry David for MTH 197 is the way to go with Linear Algebra there! He's the course coordinator and was also a personal mentor for me; he really enjoys the subject and loves teaching it. I really enjoyed the Linear Algebra course and found it easy to pick up and teach myself when I wanted to get ahead. 
+
+Registration for the course is very simple and you should have no problems if you've already taken calc (it's not a prereq itself, but having taken those classes you'll have what you need).
+
+You can't beat the cost of WCC, and the transfer is easy for UM. I hear a lot of people talk about how some of their credits didn't transfer in weird ways, but every single one of mine (58) transferred without a problem, including Linear Algebra. Just be sure to not take the purely online course, take the virtual classroom. I don't believe online math classes transfer to UM, but the virtual classroom ones will. Double check!
+
+Best of luck!
+I wouldn't assume you get a "lower" standard of education outside UofM. I transferred from WCC, and on the whole, I've been much more satisfied with my academic experience at WCC than here.
+
+It might not be a fair comparison in some areas given the circumstances imposed by the pandemic, but here are the primary differences I've found between WCC and UofM:
+
+\- WCC blows the pants off of UofM for online instruction and support
+
+\- Difficulty of class material and quality instruction is dependent on the class and instructor as always, but I've been more satisfied WCC instructors than UofM instructors. RateMyProfessors is key, and part-time instructors can be risky -- I've had extremely good and extremely poor experiences with part-time instructors without much in between.
+
+\- IME, equivalent classes aren't more rigorous or difficult at UofM, but UofM loves making you beat a dead horse with busywork whereas courses at WCC generally prescribe less coursework without sacrificing learning outcomes
+
+All this being said, linear algebra has been on my list of courses I'd like to take as well, and I haven't been able to find a good instructor for it at WCC as of yet. If you see a section taught by Mohammed Abella, snag a seat ASAP.
+
+Let me know if you have any questions or want to run an instructor's name by me; I'm pretty familiar with most of their STEM instructors and some of their humanities instructors.
+Curse Equivalency database is a resource that allows you to identify which courses at other universities/colleges are accepted at UM (and specifically CoE) as many frequently transferred courses: https://apps.engin.umich.edu/equivalencies/. The coverage of schools in Michigan is complete or nearly complete, and pretty comprehensive for other US schools.
+If you need Math 217 specifically, it's apparently incredibly difficult to transfer from anywhere. As someone who is in zoom Math 217, I wholeheartedly regret taking it this semester. If you're just in it for the computational side, it seems that it's kinda all the same most places, so if you can transfer it, I would just do it.
+You could give me your 442 spot :\^)
+
+In all seriousness Piazza is probably your safest bet. Obviously it’s hit or miss but so is any other way of finding a partner.
+Depending on how close you are to fulfilling the distribution requirements of the two schools, your best option would probably be to transfer to LSA. 
+
+“Double major” = completing two majors within the same school/college. You only have to complete that schools distribution requirements. You only get one diploma I believe. 
+
+“Dual degree” = completing two separate majors in two diff schools (like LSA and CoE). Have to complete both schools distribution requiremts, and you get two diplomas. 
+It's prob gonna be pretty hard to add the major unless you have a lot of the LSA distributions already down. Since CogSci is in LSA, you need to satisfy both school's requirements, though there is some overlap you can do such as chem and physics counting towards LSA NS. You should also be able to get the FYWR exempt, but if you don't have foreign language thats at least another 16 credits right there.   
+
+You can also only have 3 classes or 12 credits overlap between the 2 majors core classes, which could be 281, 376, and 445 for you.  
+
+For some reason, I'm attempting this as well so feel free to ask additional questions, I came in with a decent amount of credits but I'm still looking at a 9th semester.
+The one you have the strongest interest in 
+Maybe it’s advisory and not enforced?
+I’m in this class this sem. He will require no prerequisite. I think it is a new version of CS231N, and it is well designed. The homework workload is high, some (A4) may even be higher than a 482 project. The grading curve is very good. More than 1/2 of the class will get an A or better.
+I'm in it this semester with no 445 and no previous ML experience. It's completely suitable for beginners, as the course content starts with very basic stuff, including teaching how to use pytorch, basic neural networks and stuff. I'm not sure about next semester's policy, but I didn't need any prerequisite to be enrolled in.
+How much you struggled with 203 (assuming 203 was actually new material for you) is a reasonable indicator of how much you will struggle with 376, so you can use that to inform your decision.
+[deleted]
+Taking EECS 376 && 485 right now, definitely doable and I was not the best at 203. I recommend discussion and OH, they help a lot with HW and exams; also where you can meet other people and maybe form a HW group.
+Death and taxes guaranteed
+Wes Weimer, EECS 481 professor (highly recommend his course), said the following about the issue:
+
+&#x200B;
+
+"At a high level, I think the waitlist culture arises naturally from the policies in place, the constraints on classes, and students taking locally-optimal decisions. In that regard, it reads like a textbook combination of The Tragedy of the Commons ( [https://en.wikipedia.org/wiki/Tragedy\_of\_the\_commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) ) and the Prisoner's Dilemma ( [https://en.wikipedia.org/wiki/Prisoner%27s\_dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) ).
+
+Before delving into this, though, I want to separate out two issues. One would be "actual over-enrollment, where we admit 100 people to the major but only offer enough seats in classes for 50 to graduate". The second would be "heavy waitlisting, where we admit 100 people to the major and do offer 100 seats in classes, but each class has 40 people on the waitlist at the start of the semester".
+
+Professors and administrators are very concerned about the former -- the one where we admit people to the major but it is not possible to complete the major in four years. (It's particularly tricky for transfer students!) I have been at a school where the CS department "did not do the math correctly" and admitted too many people compared to course offerings -- that was not pretty, and there was much wailing and gnashing of teeth on all sides. Even beyond math mistakes, you can run into that issue if a professor gets sick or somesuch and doesn't end up available to teach a class the department was counting on. (Usually we have a bit of a buffer there, but what if two people get sick?) One solution to this would be major caps, which would be the subject of a different post, so I'll just summarize here by saying that they are, at best, controversial.
+
+However, when people talk about the waiting list culture here, it's usually the second issue. There are "officially" enough seats in electives for people to graduate, it's just very hard to get any particular elective, and at the start of the semester waiting lists are long.
+
+Concretely, for 481, this semester we started with154 enrolled and 58 on the waiting list -- that's basically one-third again the size of the class. Now we're at 153 enrolled, so in some sense "everyone who wanted to get in got in" ... just not early or in a timely manner.
+
+I make this arcane point because it's important to understand that the issue is not total course capacity per se, it's policies relating to waiting lists and queues.
+
+Even leaving aside enrollment and capacity issues, students are typically encouraged to sign up for multiple classes. For example, I've been a professor for many years now, including periods of time when we did not have high enrollment -- when classes might not fire, or when a 400-level elective might have 30-40 people.  In those years I would routinely tell all of my advisees: "You need to take one class to graduate. You should sign up for the two classes you might like the most, attend each one for the first week, and then drop the one you don't like." This maximizes the student's happiness compared to just guessing one course to take in advance and sticking with it. (There's a game theory notion here related to delaying irreversable moves, but we'll elide that for now.)
+
+I mention this because even without capacity, you can naturally end up with a situation where it makes sense for X students to sign up for 2\*X classes (or 3\*X, etc.). For each individual student, this is a locally optimal decision.
+
+Now, as capacity becomes more of an issue, the problem magnifies. If a class you currently want is at capacity, you could sign up for the waiting list ... but you're not guaranteed that anyone will drop. So if there are two classes you might like with waiting lists, you minimize risk by signing up for the waiting list for both, taking the first one you get in to, and then removing yourself from the waiting list for the other. Note that this is isomorphic to the situation above with the student just sitting in on two electives ... except that you now you're under even more pressure to do it. So once again it is easy student's locally-optimal decision to sign up for 2\*X classes (etc.) when only X classes are needed.
+
+If we could somehow magically communicate among all students, we could resolve this without the big waiting lists. Recall that in the problem setup, there are X seats available and students need X classes, so in theory everything is fine. The issue is that without magical global constraint solving, each student locally signs up for 2\*X classes ... hence the waiting lists.
+
+This is akin to the prisoner's dilemma because there is a globally optimal solution, but we're unlikely to take it, because our locally optimal solutions don't mutually lead to it.
+
+This is akin to the tragedy of the commons because there is a shared resource (e.g., oversubscribing via waiting lists) that we pay no price to consume.
+
+*> I’d bet Wes also love to solve this problem, if he could.*
+
+Interestingly enough, a number of solutions are known, they're just not really actionable.
+
+Much like with rush hour traffic and highway gridlock, for example, there is a superlinear relationship between the fraction of capacity that is being used and the delays experienced. A full digression into Queuing Theory is beyond the scope of this note ( [https://en.wikipedia.org/wiki/Queueing\_theory](https://en.wikipedia.org/wiki/Queueing_theory) ), but very informally, if we only had 80 people completing for 100 elective seats we would see 0 waitlisting issues, but at 90 we see 20 waitlisting issues and at 100 we see 50 waitlisting issues. So one solution would either be to dramatically increase capacity (hard) or to cut demand (e.g., with major caps, also hard).
+
+Interestingly enough, the reason I am teaching 481 back-to-back this semester and next semester (rather than the usual faculty maneuver of alternating graduate and undergraduate classes) is that I explicitly offered to help relieve elective pressure on students by teaching high-enrollment electives.
+
+Another solution would be to add some sort of cost or limit on wait listing. If you could only be on one waiting list at once, for example, the problem would diminish greatly. (Your immediate reaction is likely to be something like "no, that wouldn't help", but in this scenario *everyone else* also has the one-waiting-list-only limitation, so the waiting list numbers for all of the other classes evaporate, so you only need one to get the same effect you currently have. Remember, in all of these we're offering 100 seats and we have 100 demand.) However, while this reduces waiting list magnitudes, it also reduces student choice, etc., and it would basically be a huge non-starter.
+
+So departments tend to focus on increasing capacity -- hiring new professors and teaching more classes. There are at least two reasons why that is slow (from you perspective -- i.e., it takes years, and you're already gone by then). One is that hiring professors is tricky if we want you to have world-class instructors. For example, two software engineering professors we extended offers to last cycle (Denae Ford and Sarah Chasins) turned down our offers in favor of Berkeley and Microsoft Research instead. The second is that we're actually room-limited in many instances: that is, the fire code correctly won't let us cram more students into rooms, and it takes a while to construct new buildings.
+
+Anyway, all of this is a long-winded way of saying that the waiting list problem is not "surprising" in a mathematical or theoretical sense. It "falls out naturally" from the setup in the same manner as those explanations of traffic jams ( [https://www.youtube.com/watch?v=Q78Kb4uLAdA](https://www.youtube.com/watch?v=Q78Kb4uLAdA) ) -- it's a result of people making locally-reasonable decisions given the constraints available. Unfortunately, the flip side of that simplicity is there aren't really any good solutions (they all either require coordination among humans or additional resources). I wish I had something happier to say here."
+They know it's an issue and from what I've heard they've been hiring new professors at a higher rate than ever before to compensate. However, good professors are few and far between and the department doesn't want the quality of the courses to drop which is why they haven't like fixed it in a single hiring spree. The situation will gradually improve but for now we just have to deal with it. It sucks but that's the reality of things.
+
+(Some courses have been experimenting with virtual sections, like lecture recordings only, which is another bandaid that may end up being adopted across the department)
+
+edit: I also want to add that this is also happening because the school doesn't want to impose artificial limits for the number of people that can declare a major (see: university of washington), and the department has also (rightfully, imo) been resistant to adding additional grade requirements beyond what they have for 203+280 (which has also been made stricter as of last year)
+They need to cap the CS program at some point. It is crazy how BSI has an application system while CS doesn't.
+
+I understand and strongly support the philosophy of being able to study and pursue whatever you wish at Michigan, but it is sad to hear how so many of my friends can't take any upper levels as juniors in the program.
+It's only going to get worse. art.ai shows 755 students enrolled in 281 this term, the second highest ever after last fall.
+
+furthermore, eecs 280 broke 1000 students in the fall for the first time ever this semester, meaning the winter semester this academic year will probably have the largest enrollment in history (winter usually higher than fall)
+
+with michigan gaining more and more attention as a top CS school, I do not see this slowing. especially since we have no application (like uw) and less stringent requirements than schools like uc berkeley for declaration.
+
+in a bigger picture, the demand for cs majors will continue to grow. there is still an absolutely massive demand for cs majors which is [not projected to slow down](https://www.nu.edu/resources/are-computer-science-jobs-in-demand/)
+
+it's a pretty interesting optimization project. should the university try and keep finding lecturers for these classes or just cap enrollment? can they even find qualified lecturers fast enough? what are the downsides to having something like a 2,000 person eecs 280 class? can they have enough qualified IAs?
+Unfortunately this will be the norm if the CS department keeps taking more students without hiring more professors.
+First of all. CS & non-CS graduate level students should not be allowed to take undergraduate level coursework.
+I guesse we can talk about prisoners dillema and tradgedy of the commons but that would also apply to other departments. The reason it is so bad in eecs is because demand exeeds supply. The university needs to recognize that computer science is a far more valuable skill than sociology and start to direct resources appropriately. Just hire more eecs proffesors and teach more classes it's not that hard.
+Welp, I guess I have this to look forward to.  Freshman doing 280/203 this fall term.  I have courses for the next three years all planned out, but if this keeps up (it's going to get worse), I'm gonna need a lot more flexibility.
+This seems to be a problem nationwide as I've read a few articles about the same problem at other schools. There is really no easy solution (obviously), but I'm sure the department is working on it. It's not easy to hire strong staff like we already have, and it would make a bunch of people unhappy to create restrictions to the major. That being said, maybe they should up the difficulty of some of the intro classes to weed out people that are mostly looking for the cash grab aspect of cs? I don't have an answer but I'm definitely afraid of not taking what I want to take, especially if I'm paying gobs of money for it. 
+
+Maybe they could create online sections that could be mostly graded by students or something. A lot of people don't show up to lecture anyway :/
+I love how half of the solutions are: hire more professors, and give them job security, as if no one already thought of that. The reason why they can't hire more people is:
+
+ (a) they cannot match the money that industry provides without hiking the fees. But I am pretty sure everyone would be up in arms with rise in fees. Just to give an estimate (as an ML PhD student), the starting job in industry as research scientist is 290k$ with added benefits and stocks, in academia is 110k$ barely. Where does that extra money come from that should be there? Fees.
+
+(b) Limit the intake and make people apply to CS, but then everyone will complain about denial to access.
+
+(c) Dual-body problem is a real problem in college town everyone! Getting hired in academia is not easy (and it should not be, UMich should maintain its quality), and it is very unlikely your partner wants to do an academic job, or is hired at the same institute. 
+
+Why does UWash, NYU have less problems? They capped the intake and they have industries nearby that people collaborate with to earn more money and that their partners can go to.
+What are your reasons for the Ling Minor?
+I'm also a junior in CS who declared a linguistics minor a while ago!  I'm a big fan, personally.  Linguistics classes are super easy (and interesting!), and help fill up your intellectual breadth requirements (assuming you're in CSE).  If you like linguistics, I would highly recommend it.
+Unless you have a good reason or very strong interest, this is a waste. 
+If you're interested in it, take it. You should look into taking EECS 595 if you haven't already.
+Do it! When you're paying the same amount in tuition for 12 credits as you would for 18, you might as well get the most out of college and take more credits (maybe not 18, but 16 instead of 12). Take a minor in a subject you are highly interested in. Worst case, you get the best level of education reasonably possible on a certain topic.

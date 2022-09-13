@@ -1,0 +1,14 @@
+I’ve taken 413 and 281. This schedule looks fine to me
+
+413: annoying class tbh, it’s not “hard” but it has random busywork and they are so anal with grading it’s hard to get an A. Also it says applied but it’s a proof class. If you liked 217 and 412 (I did not) you will find it easy, otherwise it’s solidly mid tier workload (280 level). 
+
+
+281: Order of magnitude easier than its reputation. EECS 280 projects were really dumb imo, I hated them so much because the class moved way slower than their projects and I didn’t know what was happening in their header files at all most of the time. Only saving grace were fantastic 280 professors. In 281 Dr Paoletti releases project tutorials where he explains each step of the project (make sure you watch the full 1 hour video b4 starting each project). In 280 you also were required to use certain syntax because they were trying to teach you specific things, but in 281 they just want correct outputs. Labs match up with tests 1-1 in 281 as well so you basically barely need to study. Go to lectures in person btw, Darden and Paoletti are literally such fantastic professors I cannot plug them enough. 
+
+
+My advice for 281 projects is make sure you are really writing code like a software engineer. A lot of my friends who were better than me at 280 (I got a B in that class) took triple my time to complete 281 projects because of debugging. People get into the bad habit of writing long functions and no classes. I wrote 3-5 separate header files and classes for each project and an assload of 5-10 line functions that called each other, so it never took me very long to debug.
+I think STATS 413 really depends on the instructor. I took it with Yuekai, and here is the course website https://www-personal.umich.edu/~yuekai/stats-413/
+
+I liked his class, but only as a student who already likes math proofs. Otherwise the amount of linear algebra and other rigorous mathematics might be too much.
+
+Not sure about the other instructors though.

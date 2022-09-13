@@ -1,0 +1,277 @@
+If you looked over the questions and thought they were simple, then you probably do understand the material. Tests screw a lot of smart people over. As for SUGS, there are plenty of great master's programs out there so SUGS can go sug an egg.
+Not bad at all
+isn’t the SUGS program an overall GPA requirement
+I can tell is very stressful for you.  Sorry you're going through this.  But even if you don't qualify for SUGS, you can still apply for the regular master's program.  Good luck.
+It’s absolutely not bad, I got a C for when I took 281, and still ended up with an internship at amazon. 
+
+You’ll find that the upper levels are much more interesting which will make them easier! I relate as a poor test taker, and some upper levels are all project based (442 computer vision was when I took it). 
+
+TL;DR: You’ll be okay, even if you’re ineligible for SUGGS you can apply for the standard masters, and since you’re at UMich you’ll be able to get a job at nearly any company you want
+I got a C and I’m doing just fine. I practiced the material a lot after the class to get more comfortable with it. Leetcode is your friend. A B is pretty solid.
+I'm sorry SUGS fell thorugh, but try to be proud of just getting through 281 with a B! That's friggin huge!
+“281 is actually not that hard tbh. The projects are extremely hard to optimize, but it’s always a good idea to seek for help from Dr. P and other stuffs. In order to get help from Dr. P, I often wait in the Google Meet half an hour before the office hour starts. For the exam, I did almost all the practice exercises. I also got an A+ for 281. Although needs tons of hard work, but it’s not that impossible”
+Welp at least you tried, you don’t need any a masters in most cases anyway
+does anyone know if the B+ 281 requirement is also if you took it during COVID and made it a P?
+You can still apply to ECE SUGS https://ece.engin.umich.edu/academics/graduate-programs/prospective-grad-students/graduate-school-for-u-m-ug-students/sugs/
+And why does no one respond on piazza 😒
+281 IA here- trust me when I say that we feel just as bad that you all can't get help. There's just so many students trying to join office hours. I see the queue fill up to 40+ people the moment it opens and there's just no feasible way for me to help most of them. I've been trying to think of ways to help the issue that aren't just adding more staff (which would be good but obviously isn't something I can do), so if you have any suggestions feel free to drop them. Good luck on the project!
+I agree. I understand that there are a lot of students and the IA's are working really hard to help more people, but failing to join office hours makes me feel that I'm doing this all alone.
+
+As a side note, I think you can go to IA's during/after labs (which is far less crowded than office hour queues) so that they can see your code. That seems like a better shot.
+Honestly the hover over the button while you wait for the JavaScript to do a soft refresh/open the queue method is your best bet.
+Code a bot, will be a nice side project too.
+If you really need help, I'm semi-free. Just finished
+Honestly, I felt like project 1 was the hardest because there was overhead associated with understanding how to code in the class. In terms of pure conceptual difficulty I'd say it went P3 > P2 > P1 > P4, with P3 being the most complex.
+took 281 in spring,missed first day of class, second day i go professor says next project1 due in 4 days 😂
+Most people would say that project 2 part b is the hardest and project 4 is the easiest. For me 1 was the hardest since it took a while to adjust to dealing with time and memory issues like you mentioned.
+
+For me:
+1 > 2b > 3 > 2a > 4
+You’re gonna get different answers. For me it was (from hardest to easiest) 2A > 1 > 3 > 4 > 2B
+3>2b>2A>1>4
+Personally, I’d say p1 > p3 > p2 > p4
+Can I take a life insurance policy on you with me being the beneficiary?
+Terrrrrrible. I’d recommend choosing one of these as a minimum competency class (probably 376 since that’s the easiest to hit). Grind the other two, blow one off basically.
+Ah yeah the suicide trio, lovely. 
+
+I have heard that it is doable, but you should 100% use the summer to pretty much teach yourself everything
+I did it. My general advice is to start reviewing your final exams as early as possible. If you start early on every projects and seek for help as early as possible for 281 projects (they will help you to optimize your code), this plan is definitely doable.
+Curious as to why you need to do 376 in the same semester as 281? Are you planning on doing an upper level that requires 376? If not, I would pair 376 in a later semester with a ULCS.
+Don’t put yourself through that.
+What language this is already a difficult schedule, the language choice matters.
+It's actually not the worst pairing, 376 is mostly theory and a little mathy and 281+370 is very project heavy. It's very much a case of if you struggle in one it can bring you down in all 3 if you try to compensate by devoting a lot of your time though. I assume the language is a throwaway or is easy though.
+This is a joke post right
+I'm doing it rn and I know a few people did this.
+One thing we have in common is all people I know doing this schedule have learned data structure&algorithm (maybe not in cpp but we definitely learned 80% of 281 before)
+And, just talking about myself. Although I've learned 281 before and basically spent 0 time except for doing lab/projects on this course, I basically get killed by this freaking schedule.
+I'm bad at math so 376 is just another torture and in 370 you've got tons of new things to learn.
+I took these three the same time just because I need to graduate on time as a transfer---trust me if you by any chance can do something like summer term to adjust your schedule.
+DO NOT TAKE THESE TOGETHER
+“doable”，reference to a group of SJTU Students
+I did a very similar schedule and it was ass. I feel healthier now that I'm not taking nearly as difficult classes now
+don't do it
+Right now I’m taking 281 370 and Japanese at the moment alongside a part time job. It’s not that bad, but I wouldn’t stack 376 on top of my schedule for the sake of my sanity and free time.
+LMAO are you in the t/q/d server? I had some guesses as to who you are but idk after seeing post history. for schedule, I did 270 + 281 + 301 + 376 + urop and it honestly wasn't bad, did 477 + 482 + 484 + humanities another term and it probably wouldn't have been that bad if I wasn't playing genshin 24/7. no exp with 281 + 370 but 370 projects are pretty straightforward, so don't think it will be as bad as people say and it should definitely be manageable
+It's VERY challenging, but doable if you can focus on just classes for that term.
+Sweet Neptune
+bro u gon die
+
+source: me
+I've got a few friends who have done that. Make sure that
+
+1) You know most of the data structures stuff in 281 before you take 281, and the only time you need to spend on 281 is the projects. Some of my friends say that taking 370 concurrently with 281 will help you understand optimization techniques better.
+
+2) You should be comfortable with proofs (preferrably having taken a proof based math course) to not struggle with 376. I am a maths student so that's fine by me, but I know a lot of smart & hardworking EECS only students who find 376 torturing. It's also okay if you're not familiar with proofs, but just don't panick when you understand the material but can't do the problems/don't understand the material at all. Talk to people who are good at it, read expositions you understand, and you're all good. 
+
+3) I don't know much about 370, but I heard the deadline of its projects is the same as 281. With that said, these projects are nothing compared to 281 projects.
+Just take 376 and 281, it’s way more manageable and you’re still on the same track.
+I would not do it unless you are the type to start projects immediately when they’re released and finish them way before the deadline.
+
+I tried that combo and it went badly to say the least. 281+376 is a lot more comfortable, especially if you’re an excellent test taker 376 shouldn’t be all that bad for you
+I did this last semester and basically had  0 breaks because they always had their projects due the same day. It was manageable even though I also had physics 240 with it. If you don't start your projects early enough you will suffer. 
+
+Person who recommended doing 376 and 281 at the same time has the right idea, and unless if you want to do one of the ULCS courses over computer architecture you shouldn't require 370 for any major classes.
+I’m doing 281 and 370 at the same time rn along with another Eecs class and it’s pretty easy as long as you start the projects as soon as they come out.
+I’m taking 281 with 370 now and a total of 18 credits. Honestly, I think people scared me more than necessary. 
+
+While you do need to plan out your time, if you start 281 at least a week before projects are due and go to proffice hours for help, you’ll be fine. For 370, go to office hours once or twice to walk through your approach to the project, and they’ll help you figure it out pretty quickly. 
+
+If you’re good at exams, eecs 281 is not too bad and 370’s exams are more difficult, but I don’t think that my ability to study for the 370 exam was really impacted by 281 in a way it wouldn’t have been otherwise. I’d say go for it if you’re willing to start early and go to office hours!
+I like the dedication man
+281 and 370. 370 is required for a lot of important ULCS classes (388 470 482 491) whereas 376 isn’t
+281 & 376 have some overlap (Big O, algorithms, etc.) but they’re different enough beyond that. That being said, the course staff tries to structure the courses so they cooperate well together.
+
+281 & 370 are more project based classes which require incredible time management. 376 is more-so a busy work type of course that is more “difficult” than time consuming. 250 has changed I’m sure since I took it, so I don’t know what kind of class it is now. It was basically a ton of busy work when I took it.
+
+In terms of workload, I found this to be the order:
+281 > 370 > 250 = 376
+
+In terms of difficulty, I found this to be the order:
+376 >> 281 > 370 >> 250
+
+But I also found the actual material of 250 to be incredibly easy. Many students find it very challenging and spend a ton of time at office hours and on the assignments. If you don’t like statistics (or don’t have Gunderson as your instructor) I’d advise against taking it with 281 since that would be 2 very time-intensive courses.
+Don’t do it.
+the prophecies have foretold the truest cs student would come…
+
+but realistically you could probably do it but you’d hate your life and not get as much as you could out of it. they’re all pretty hard and together they will consume all of your time. I think 281 and 370 is a good pairing cause there’s some stuff in 281 that 376 goes more in depth into but will be more approachable.
+Slow death
+this is known as the suicide trio for a reason
+Do it 100%, and most people here giving it bad reviews likely didn't even attempt it. The challenging of the combo is not that you need to learn information at a fast rate, the challenge is that you need to be able to produce (projects, homeworks, labs, test scores) at a fast pace. In other words, people fail at this combo because of bad time management tactics, not because they aren't smart enough for it.
+
+I'm not that smart, and I did this combo in 1 semester (in addition to some other classes), with relatively little stress. There are days (weeks perhaps) where it will be seemingly overwhelming, but if you are thoughtful about how you schedule yourself it is totally doable. A trick I used was to attack either the 281 or 370 projects right when they come out, finish them, and then switch to the next. Working on both simultaneously didn't work well for me. If you can find a trick or 2 to avoid getting overwhelmed, this would be a fine semester
+
+Additionally if you make it through this combo in 1 semester, the remainder of your time at UMich will be chill (basically guaranteed), since this is one of the toughest combos out there. It's a tough combo and not for the faint of heart, but totally doable.
+Why do you want to do them all together? Do you need to do so to graduate on time?
+I did this and it was doable. 370 and 376 don't have a lot of work; if you are already familiar with data structure and algorithms through leetcode, 281 can be chill. But I strongly recommend against this if you are at the same time looking for jobs.
+PHIL 340 is awesome, it's CS relevant topics (AI) from a philosophy/ethics perspective, and if you're in engineering it'll fill your upper level humanities requirement. Super low workload and interesting topics
+ASIAN 230: Intro to Buddhism is super chill (grades just based on exams that are mostly direct from readings). Prof. Lopez is the best professor I’ve had here hands down.
+
+Doesn’t matter if you are interested in Buddhism or not, his lectures are riveting
+I’m taking these exact classes next semester!! lmaoo
+Dtats 250 isn't as hard now if you're taking Miller especially, wholesome class. Are you LSA? Could you take some of those requirements?
+I’m taking 281/370 next semester. I’ve heard the same thing about that combo having similar deadlines, but most people I know who took both said it’s not that big of a deal and you should be starting your projects early anyways.
+
+Also, Atlas lists that more students take 370 with 281 rather than the 281/376 combo. Overall, I don’t think it’s that big of a deal either way.
+It’s better to take it with 376. It’s what i’m doing this semester and it’s manageable. 281 requires you to meet speed and memory requirements, so it’s more likely that you’ll be making submissions on the last day compared to 280 (ignoring the fact that most people procrastinate and work at the last minute anyway), so the deadline overlap would make it worse.
+Don't underestimate the deadline overlap unless you start your work the instant it's assigned. If you procrastinate like a normal student you will suffer.
+Yes
+Sounds good to me should be a breeze
+There are a lot of these kind of questions... people usually dont take more than 3 technical classes. If you do, then you'll be swamped. It's up to you whether you want to put yourself through that.
+You could probably try emailing [Dr. Paoletti](https://eecs.engin.umich.edu/people/paoletti-david-robert/), he’s been teaching the class for a while so he would probably know best.
+If someone finds out please let me know!  Same situation here.
+If the answer is no, a sublet for spring term shouldn’t cost multiple thousands. You should be able to find something much cheaper than normal rent. Obviously you need to pay for food too. But you don’t need to pay full dorm + meal plan costs.
+ Nah it’s in person
+you can send an email to eecs281admin@umich.edu instead because Dr.P will not receive any email directly sent from a student.
+I emailed 281 admin team for the similar question and got back from Dr. Paoletti yesterday. Basically the class will be instructed in person for (lab and exams) and in person/remote/recorded for lectures. And Dr. Paoletti specifically said that there is no online exam accommodations for students that are not physically presented in Ann Arbor during the summer.
+Not reasonable, just focus on 281.
+See https://www.reddit.com/r/uofm/comments/tdmxm0/taking_eecs281_and_eecs217_in_spring/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+I took MATH 217 with EECS 281 last spring and it was doable but very time consuming and I would recommend just focusing on 281. If you need more credits for financial aid I would knock out some general reqs for the college you go to.
+[deleted]
+I’m confused, are you a transfer student?
+Bruh
+Yeah that should be fine. That's very similar to my planned schedule next semester actually haha
+I took EECS 281 370 376 MATH417 and 2 other small EECS courses last fall and I would tell you it is doable before final week. 370 hws take you like 0.5-1 day/hw and there are 6 hws. 370 projects take you like 1.5-2 days/project to code and debug, and there are 4 projects. 281 is really hard, but staffs are pretty generous to give hints and optimization tips, especially one of your instructors, Dr. P. It’s hard to estimate the time (sometimes I need 1 week to optimize on my own), but if you feel upset about your coding performance, staffs will help you a lot (Dr. P will optimize my code in 1 minute). I would recommend Prof. Chan’s 417. She is really nice and passionate, and her exams and grade are reasonable. Final week killed me at last. I have very limited time to review, which ruined my 376 exam, which is my last exam. So be cautious before doing this, you need to manage your time well and, most importantly, start your projects as soon as they release the spec
+That doesn’t sound too bad! I’m taking both of them, Math 214, a history class, and a couple one credit courses and I’ve managed to keep up so long as I start decently early on each project. Outside of class, I’m working a part time job and  put in several hours a week to university extracurriculars, so I think it matches up with your outside commitment time as well
+Since you’ve taken 270, 370 is an order of magnitude easier. Your schedule is still really hard though…
+I took it last spring and tbh i would just have that be ur full time job for like 6 weeks. The first project is due within like 5 days of the class starting, but if you really put the time, you’ll learn a lot and get ahead in classes. Would recommend if you can commit to it :)
+I hope you have enough redbull.
+You can definitely do well. Just don’t plan on having a job or taking another class. It can really be that bad at times.
+Average is 70s
+They don’t really curve. They only curve the minimum passing threshold.
+Exam avg is usually quite high, around 75. No curve if you’re above 80 essentially
+Yes....
+
+Do calc 3 in summer semester or something
+Calc 3 at WCC is not a significant time commitment by umich standards if that helps, I transferred from there and took in one spring/summer semester Calc 3, Business Statistics, Intro C++ (eecs 183 equivalent), another business class and a film class (total 18-19 credits) while working full-time doing construction (combination of evening and online classes). Your experience might be different but that's how it was for me. WCC most classes are not split up spring/summer half semesters it's like one whole semester
+My IA for 280 said people usually either take 376 right after 203 with 281 since the content is similar, or they save it until close to the end of their schedule since it’s a harder class.
+
+I’m taking it with 281 right now and I think it’s a good combo; you get a taste of dynamic programming and algorithms before 281 gets to it.
+I’m taking 281 and 370 together and it isn’t that bad, especially if you start the projects early. I recommend doing this combination because it unlocks more upper level CS classes.
+Shoulda added a third option in the poll just to see results since I’m wondering the same thing for fall
+Unless the other class is a total blow off class (like you plan on spending about 30 min on it each week) or you are at a consistent leetcode medium in 1 hr or less level. Otherwise I wouldn’t recommend.
+You literally have work everyday, manageable but very fast paced
+I lost a lot of hair taking 281 with another class in spring 2020. But 2020 was a particularly difficult year anyways so idk. It’s at least doable
+Adding on to my last comment, here’s the [course schedule](https://docs.google.com/spreadsheets/d/1WB25XRF0XTL5HOgDNSinp4cHZN_pxxpetD_qj-PboqQ/edit) from last spring.
+
+You need a minimum of 75% on labs, 55% on projects and 50% on exams to pass
+I’d take physics next semester, do 203 280 this sem. You don’t “need “ 281 but it’s really useful
+You CAN get an internship without 281 if you self study, but it’s going to be harder. Nearly every technical  question I’ve been asked in an interview has been on material from 281/280. If I were you, I would take it as soon as possible.
+Besides the interview part of taking 280/281, remember that a lot of the CS curriculum is locked behind 281, which is locked behind 280 as well. Getting 203/280 done now means you can get 281 done next semester, leaving you time to take more upper level classes (which I enjoyed more than some lower level classes at least)
+This is one of the biggest myths perpetuated by /r/uofm. People think the floodgates will open once you complete EECS 281. In reality, not much changes. You might be considered slightly more, but that's it. People say this because they hate having competition. There are freshmen and sophomore that do get internships prior to EECS 281. Usually, they have some functional webapp, android, or ios app to showcase.
+You can definitely self study and get an internship without 281. I landed a FAANG internship my junior year before taking 281.
+Definitely not! I landed one freshman year by applying to internships dedicated to students with less experience (STEP, FBU, etc.) Also, leetcode and self studying helped a lot!
+for what its worth -- i found it way easier to learn through 281 than self studying. all internships ask the same sort of questions and 281 labs/exams drill you on these kinda problems. like others have said its definitely possible but youre gonna be spending a lot of time self learning while applying + managing your other course load, may as well kill two birds with one stone
+When hiring, I used completion of 281 as a filter, but not a complete filter.  If the candidate could demonstrate/assure that they had the knowledge, I would consider granting an interview.
+Oh is that why people say 281 is important? I have never gone to career fairs maybe the recruiters there place emphasis on it
+I got an internship at Google google with just 280. I completed 203 by internship time but not by interview time.
+I’m also a CE who has taken 280 but not 281 and I got a software internship for this summer so it’s definitely not required. I didn’t do a ton of outside studying but I’m sure 281 would’ve been helpful for some of the technical questions I had to answer.
+I mean take my advice with a huge grain of salt but I’m a freshman sans even 280 and I’ve still gotten a good handful of interviews so far. 
+
+If you haven’t had 280/1 yet, then try and “make up” for it with ECs and other experience that show you can do it.
+
+If you can actually perform, then the hard part is just getting past resume screening, which based on my purely individual experience so far is definitely possible. Also, the limiting factor is probably just gonna be graduation year.
+
+Moreover, I don’t think most places are gonna care enough to find the differences between 280/281
+You *can*, but take 281 for internships. It'll really help.
+yes
+Dr. P for sure. Darden is also good.
+They’re all pretty solid honestly, 280 and 281 have some of the best profs in the whole department
+Dr. P
+paoletti 1000%
+485 really teaches you to not rely on lectures to give you all the info you need to complete the project (aka Google is your best friend forever). 370 is also a decent amount of work if you want a good grade (edge cases are a bitch in this class). 481 is a lot easier workload and the material isn't the hardest to understand, however the final project can take a decent amount of your time depending on what you do. IMO don't do all 3 together, but it is technically doable
+From my experience, there is a huge conceptual gap between 281 the the rest of the upper-level courses. Before 281, you have been focusing on algorithm and optimization, but for most of the upper level courses, performance isn’t the focus, and the learning style shifts a lot from “you do what you learn in class” to “google the solution yourself.” That said, I think doing eecs 485 as your first upper level is definitely a good choice, as it introduces a wide range of ideas that you will come across latter on in your CS education, but it does have a significant workload. I heard 481 is relatively easy, but still it is a upper-level and I don’t know if jumping into two upper level + 370 is a good idea. So, I would suggest you take 370 and 485 together, and just choose other non-major classes that you need to graduate.
+hi! i can't tell you how to prepare, since i am also taking 281 this semester with you, but here's one thing that might calm you down, you are in the same boat as everyone else. i have not reviewed this past summer and im gonna guess most everyone else has not either. 
+
+from what I've talked to other people about is there's so much coding done in 281 that you pick up on it real fast. maybe watching lectures isn't what you need but rather review some actual coding might help (look at old projects, maybe go to leetcode and do some practice, etc.)
+
+at any rate, you are getting ahead, not falling behind. if you're putting effort before class even starts, im sure you'll put in enough effort to pass when class ends.
+the overlap between 280 and 281 is pretty small - what you'll use much more from 280 is the general sense of navigating your way around a program, and more importantly debugging it. so maybe you could go back to a 280 project you're familiar with and re-implement it from the ground up to practice, but as far as book material goes you're better off reviewing online if you discover a knowledge gap, or maybe if you recognize some overlap.
+If you're thinking of working back through any of the 280 projects, do the P5 driver again. It's similar in flavor to 281 projects. 
+
+If you want to review specific lectures from 280, I'd suggest containers parts 1 and 2 (the unsorted and sorted sets), linked lists, and structural recursion. Iterators and functors will be helpful to review, but it might honestly be better to do some online searching for guides yo using them with the STL (potentially including lambda expressions as well). 280 covers iterators and functors conceptually and from the ground up, but in 281 you moreso just use them pragmatically. 
+
+Also some topics from 203 will show up again: complexity, big O notation, and dynamic programming (do they still have that in 203?) are a few.
+Hello! Former IA and graduate here :)
+
+Don’t stress yourself out by reviewing old material or going through lecture notes. You won’t retain it and to be honest it’s not that useful! 281 is difficult, but here’s a few tips that will hopefully make your life easier.
+
+1. Start the project early. I know I know, everyone says this and it sounds annoying and this is super generic advice for literally every assignment. But seriously, start it early. Day 1. And I don’t mean you need to try to finish the whole thing. The key to getting projects done is by doing it one function at a time, so just take it slow. Start by reading the spec (Don’t skim it, duh), and then start one step at a time. 281 is different from 280 in that you start to have a lot more independence in what you can write, and there’s not as much pre-written for you. That’s ok! Just break it down into chunks and tackle one chunk at a time. You can do it!
+
+2. You can pass the class by acing the projects and “failing” the exams. Is this a bad life tip? I don’t know, but just focus on the projects. Furthermore, the more you understand the project, the better you’ll do on the exam. (482 is the best example of this in terms of ULCS)
+
+3. The people who are most successful in CS are the people that enjoy doing it. Someone else in the comments mentioned this, but really try to think back to why you’re taking a CS class in the first place. It’s kinda fun right? And you can do anything, it’s literally the same as painting. It’s the most creative STEM class that exists! So please, in your spare time, challenge yourself to think of a few small ideas for cool programs, and spend time after class building them. That is seriously the best way to learn and get confidence in CS, more than anything else. For example, after taking 183 I tried to make chess in c++, and then I even tried to make my own (small, ascii/terminal) game as well. Those were the best projects I did and really set me up for success in 280 (and beyond) because I had to research and learn a lot of concepts on my own to do what I wanted. It doesn’t have to be crazy, It just has to be fun!
+
+Last but not least, take care of yourself. You’ve made it this far, so really I have full confidence you can do anything. You don’t need A’s to get a great career, you just need to enjoy the work and share that love and passion with others. Recruiters / hiring managers like charisma and communication skills a lot more these days, and there’s no better way to have that than to love what you’re doing and have the want to talk about it. Don’t burn yourself out by trying to be the best, that will really come naturally if you focus more time on practicing the parts you love about it and gaining independent growth there.
+
+Feel free to dm me for any more advice! Good luck!
+
+Quick edit because I forgot:
+
+If it gets tough and you really start to sweat, just reach out to me or someone else. But please, for the love of god, do not try to use someone else’s code (or try to shape it into your own). You will get caught, and no matter how much someone tries to convince you, you won’t be able to pull it off. Same goes for showing someone else your code. Just forget about it. It’s so not worth the risk, and if you get caught your entire future in CS will be up in smoke, and you won’t get a second chance. I repeat, you will not get a second chance.
+Check out this post from when I had a similar  question: 
+
+https://www.reddit.com/r/uofm/comments/obhnot/preparing_for_eecs_281/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+
+guess we’re all in the same anxious boat for this class lol
+Very general tip: the best way to learn programming is by programming. Of course they say everyone learns differently, so maybe reading or watching past lectures will be more effective for you, allowing you to cover a wider range of material without getting bogged down in details like forgetting a #&$% semicolon.
+
+But even so, you'd probably find some value in sitting down and trying to write a few simple programs. Either past assignments, or dream up something like a simple phone directory or shopping list program...write it using an array, then write a second version that uses a linked list. Think of some simple features to add, like deleting entries, searching, or sorting. It'll help dust off some mental cobwebs, about the programming language, about the tools you use (editor, interpreter/compiler, debugger), and about data structures and methods that you'll undoubtedly use in future programs.
+
+Good luck!
+Hi, you're in pretty much the same boat as I was. Winter 2019 I took 281, got a B+, then I took 281 Fall 2020 and passed without much difficulty (granted, it being online helped a lot). Just go over your IDE, debugger, console commands, and you should be fine. Just put in the time and effort in the projects, pay attention, study for the exams, use office hours early, and you will pass.
+
+One tip that may save you some time worrying about outputs that I think they will cover is that .txt files have different endlines depending on if it is windows (dos) or unix. This affects the getline() function, so use dos2unix <filename> or unix2dos <filename> in the terminal at the right file location to convert between the two as needed (if you are using visual studio you will want .txt files in the built-in debugger to be dos format, while in ubuntu or wsl console you will want them to be unix). Hopefully that makes sense.
+
+Good luck!
+You’re fine. I don’t remember using much of the harder parts of 280. If you wanna prepare, review some of 280 projects to get used to the syntax again. The 281 labs and practice project will also help you get back into the flow of things.
+The EECS 281 youtube channel has all the lectures from the past 2-3 terms, so you can use those to get a bit of a head start. But to be honest, I wouldn't really worry about it. I'd rather use the last 2 weeks of break to just relax and have fun.
+Number 1 tip I can give you:
+If they open up in person office hours, read the spec in that location on the first or second day it comes out. It’s huge to start early and have a set plan when it comes to these projects. Utilizing office hours can help you get a solid plan so you don’t waste time on an idea that won’t be fast enough or takes up too much memory.
+
+Secondary tip: This might sound strange, but you may consider writing sudo code before you actually start any real code. It doesn’t have to be actual sudo code, but whatever makes you think about the details of the project. Most of the time, if you don’t make the storage or time requirement, you are doing something significantly wrong. It’s not just a simple fix. I made the mistake one time of just coding and not thinking first, and I spent so much time rewriting and trying to fix code, that I wish I should have just started over at that point.
+You don’t apply much from 280 into 281 you’ll learn how to write sustainable and efficient code and you won’t have to worry about the 5 pillars of OOP or pointers (yay!). Don’t look back at ur 280 experience as an indication of your level of expertise in 281-you guys all will be learning new material and will be in the same boat. Have fun with it! If it helps you feel any better I’ve gotten pass grades on most of my EECS courses and I’m doing a masters in CS with a job at a big fin tech company. You’ll be fine no matter what! Go blue and please take care of your mental health-breathe and relax. People don’t realize that these years are probably your most formative for your adult experience so please go out and have fun with friends and de stress as often as possible. It’ll be difficult but you’ll get through it.
+If you’re really worried about 281 I would go over different sorting algorithms and big O notation. This is a good portion of 281. If you look online you can find the sorts you will learn. This could give you a head start but the labs do a great job of helping you understand them. Feel free to reach out if you need any guidance, I’d be glad to help :)
+i was scrolling through my comments and saw your post again. how did 281 end for you??
+Eecs 281 YouTube channel
+Runestone was so good and I miss it from Engr101 and 280!! There are class notes for this class though made by one of the IAs 
+ajzhou.gitlab.io/eecs281/notes/
+Under the Schedule of Topics tab on Canvas, Prof. Darden has some really good async lecture videos.
+I’m not totally sure but, since EECS 281 is a big class for CS majors, they may open more spots for people on the waitlist to join. Also some people might end up dropping the class in the first couple of weeks which might allow you to get a spot. 
+
+Edit - same thing applies for EECS 280. They usually make spots for those on the waitlist
+I’m also interested in this question as I’m in the same boat but further along the waitlist
+I have bascially the same question but for EECS 280
+Not sure about 281, but I know for 370 they have a similar issues (wait-list on discussions) and they just hired some new IAs so that'll make room, p sure 281 is the same case.
+I used to work for eecs 281. Unless things have changed drastically (like a 50% increase in class enrollment all at once or something), you will be let in. Dr. Paoletti is proud of the fact that he's never had to turn away anyone who's wanted to take eecs 281.
+Email a professor and explain your situation. That has always worked for me.
+If a program prints something to the console (via cout), you can have it “redirect” and write to a file by using the > sign: 
+
+./myProgram > someOutput.txt
+
+Similarly, if a program tried to read from cin, instead of entering input through the keyboard, you can redirect a file as the input:
+
+./myProgram < someInput.txt
+
+Then you can have a program that reads cin input from one file, and writes to another with cout:
+
+./myProgram < someInput.txt > someOutput.txt
+
+I’m not familiar with the xcode setup, but I remember struggling with seemingly simple stuff too. You’re not alone and it gets better. If I can give my two cents, post these kinds of questions early on Piazza, because I guarantee other students are also trying to figure this out and it’ll help you throughout the semester.
+Haha I wouldn’t worry too much yet, sometimes setting up a programming environment is the hardest part. I have a little more experience with windows and linux than I do mac, but I’d be happy to help!
+I used VScode for 280 then switched to XCode for 281, so I perfectly feel ya. I struggled a lot for the first few days setting it up. I still don't have the settings memorized, so I wrote it down and I hope it also helps u!
+
+1. For adding arguments (command line arguments, input/output file name),   
+You should see 'Product' on ur nav bar for an XCode project.  
+Follow 'Product' -> 'Scheme' -> 'Edit Scheme', and you should be under 'Run'-'Arguments'. You can press the '+' to add arguments under 'Arguments passed on launch'. Check the one you will pass for the run, and uncheck/delete the ones you don't need. \*\* Remember only to put the arguments  
+ex) -s < spec.txt > ouput.txt
+2. Somehow for me XCode can't correctly target the directory, so if it also is the case for you u should do this.  
+Same tab from #1, but instead of 'Arguments', go to 'Options'. Check 'Use custom working directory', and choose the directory that contains both your code files and your 'project\_name.xcodeproj'
+3. I believe it is covered in one of the setup tutorials or files, but remember to include "xcode\_redirect.hpp”
+
+I think that's about it? If there's anything else I can help u with, feel free to PM me, and You got this! :)
+1) office hours are a huge help, especially early on in a project rather than the day before the deadline lol
+Setting up programming environments can be tough and to be honest working in software engineering is still basically as you described it, any big company will have essentially step by step guides to set up your environment one of your first days on the job.
+Engineering Center for Academic Success (ECAS) offers tutoring for EECS 281! They are mostly appointment based, but they offer walk-in tutoring as well, and the 281 tutor in specific is really solid. You can sign-up and request tutoring on this page: https://ecas.engin.umich.edu/elc/tutoring/
+Sorry you're not having the best experience in 370 ATM, let us know if we can do anything to help you :)
+getting a tutor might be a good idea, but also make sure to watch Dr. P's tutorial videos! For each project he has a video outlining the main ideas of the program and they will at least give you a starting point. Also plan out your code on paper before you write any code: determine what classes/structs you'll use, variables/functions to include, etc. and that way you'll go into the coding with some sense of direction
+Same

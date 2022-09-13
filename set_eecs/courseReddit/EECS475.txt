@@ -1,0 +1,133 @@
+FYI, Information Retrieval is only offered during the Winter semester, so you may need to look for another easy ULCS if you want to graduate next December.
+I’m currently taking it with 494, id say it’s doable. You’re going to have a lot of work, so just make sure you can manage your time well. There’s a bit of a learning curve with the homework, but if you find a good study group and go to office hours you’ll probably be okay
+484 is light. Do 481, 484, 497
+is information retrieval actually easy? I was planning to take 493 (user interface dev) as an "easy" ULCS but don't know if workload has changed recently
+In it right now, I’ll let you know in a month
+If Mahdi is teaching the class (it looks like he is), I would definitely recommend taking it. He's probably my favorite professor that I've had at U-M, and I really enjoyed taking EECS 475 with him.
+
+The class covers the math side of computer science, like EECS 203 or EECS 376, but in a more interesting and easier way. When I took it, there were weekly readings, a few homework assignments, a midterm exam, and a final project. None of them were too much work.
+remindme! 2 days
+You could honestly probably just email the professor for the syllabus. I've done that before for courses where I wasn't certain about whether or not I'd want to take them yet. 
+If you google the course the website for the Winter 2014 course is still up, might be a good place to start.
+Semi-relevant.
+
+These are the official lectures notes by Peikert for 575: https://github.com/cpeikert/TheoryOfCryptography.
+
+Going over those will definitely be helpful if you are able to follow along (they only really require some familiarity with probability).
+[let me guide you ](http://https://www.eecs.umich.edu/eecs/undergraduate/computer-science//?q=https://www.eecs.umich.edu/eecs/undergraduate/computer-science/)
+[let me guide you ](http://www.eecs.umich.edu/eecs/undergraduate/computer-science//?q=https://www.eecs.umich.edu/eecs/undergraduate/computer-science/)
+You should drop eecs388 so I can get off the waitlist. 
+Everything I know about 475 is hearsay (however I'm taking it next semester), but I did recently take 492. 
+
+AI (at least as taught by Durfee) was interesting and all, but it definitely had a survey-course kind of feel. AI encompasses a huge amount of ...stuff, and it can seem like you're jumping around and not really sinking into anything because once you get the hang of it you're off to something completely different. If it's anything like last semester, it's not heavy on the programming side of things at all, but the homework assignments can be sorta nefarious in the way of laboriously writing out the progress of algorithms, proofs, and etc. 
+
+475 is also supposed to be pretty light on the programming side of things, being a more math-centric course. Apparently it is pretty neat, and Compton is supposed to be cool. Dunno who's teaching 492 in the fall. 
+
+Long story short, just pick one, you'll be fine. You're not getting yourself into any kind of serious horrorshow with those classes. 
+You don't really learn much in 475, tbh. You get a bunch of tools for solving some specific problems with no analysis for why things are the way they are. You cover a ton of topics, the homeworks are pretty easy and there's only like 3 of them, the exams are really easy, and the programming project, though fun, took our team like 8 total hours to complete for the month it was assigned.
+
+The staff was amazing, though. The class itself was really chill and quite interesting, just not very intensive or useful if you care about that sort of thing.
+Email the prof for 475
+Are you sure that the final grade entered was a C-? I had a C- in 376 this semester and it got bumped to a C thankfully
+Just FYI 475 is a much more mathematically intensive course than 376 and the prof described it as “376++”. I don’t know why you got a C- in 376; if you think those reasons won’t apply for 475, then sure I would encourage you to explain those reasons to the prof/department to seek an exemption. Otherwise, well, prerequisites are there for a reason, it’s because the department thinks those courses are necessary to succeed in the next one.
+
+
+Since you’re probably a CS major you’ll need to retake 376 anyway by my understanding. IMO it’s Best to hold off on 475 until you do so.
+Wow, I thought classes like 475 and 477 are for people who A+ 376. I am interested in Cryptography as well. But looking at my grades for 376. Maybe classes with no exams or proofs is a good option for me LOL
+Email the professor for 475. They may allow you to take the course provided you retake 376 at the same time. Talk to your advisor as well.
+This is not manageable. 281 and 370 together is hard enough on its own. 376 is a much harder version of 203, and 475 is no cakewalk either. I would not suggest taking these classes all together unless you plan on having less than no life outside of class.
+
+Seriously. 281 and 370 are both project based classes, where you do not learn the information for the projects until a week or so before they are due. This often leads to only a short period of time to do both projects at the same time! I am speaking from experience (A in 281, B+ 370), that you do not want to take these two classes together unless you have a strong friend group to work together with. (However I think these classes may be slightly different since I took them Fall 2013). 
+
+EECS 376 is the worst grade I've received in the EECS major, and I doubt you'll even make it into 475 considering without 281 and 376 you haven't taken that many credits here (its a tough class to enroll in).
+
+Change your schedule. I would NEVER recommend a full EECS schedule. 
+
+Mix some other requirements in with your EECS classes, try to max out only at two a semester if you can.
+281 and 370 is perfectly doable if you schedule your time wisely. However, I'm not sure I would recommend all four of those courses. Ultimately, it's going to come down to your own work ethic. 
+
+EDIT:
+
+in response to some of the other posts:
+
+The projects in 281 are not due every two weeks. I'm taking it this semester and we were given 2 weeks for the first project, 5 weeks for the second project, 3 weeks for the third project, and 3 weeks for the fourth project. Also, the medians for the first three projects were ~98, ~89, and ~75, so you are certainly not expected to get 95 on all the projects. And lastly, they don't wait one week before the due data to give you the information on the project. I've done all four projects and I knew all the necessary information the day the projects were assigned.
+
+I would say that the projects take about 15-25 hours to program, depending on your ability, which isn't much. It's not that the projects take a long time to complete. It's that if you use an inefficient data structure or an inefficient algorithm, then you may have to completely redo a project several times, resulting in spending 40+ hours programming during some weeks (this happened to me for Project 3). However, if you plan ahead and decide the right data structures & algorithms early, then I would say the projects, on average, take about 25-75% more time than EECS 280 project 3.
+
+That being said, I do agree with the consensus here. Do not take all four of those classes. Take 281 and 370 if you have a good work ethic (if you start the projects early, then you'll be fine). Take 281, 370, & 376 if you have a good work ethic *and* are naturally clever (the 376 problem sets are more like IQ tests that take 8-12 hours to complete, rather than testing your knowledge of the material). I don't think I know someone smart enough to take all four of those classes.
+
+I'm currently taking EECS 281, EECS 376, linear algebra, and a humanities class. This semester hasn't exactly been terrible, but I have above-average work ethic. I'd say you could handle a similar schedule if you start projects the day they're due. 
+Yeah you don't wanna do that. It's like breaking a tooth on a giant piece of jerky when you could just gnaw on it for a while and make the most of it. Maybe do 281/376 to not have project overlap (since 376 is just homework and exams - even though it's mind-melting theory stuff).
+It'll be pretty damn hard.
+I'm in 381 this semester and took 388 last semester (as well as 370 several semesters back).
+
+370 is a moderate workload, the projects aren't all that time consuming and most of the concepts aren't too difficult.
+
+381 is THE MOST time consuming class you will take here at U of M. It is an insane amount of work.  Project turnaround times are every 2 weeks, on top of reading assignments (200+ pages some weeks), exams, etc. You will also be held to a somewhat arbitrary grading standard.  As I'm sure you've heard, some of the project scores are 70% hand grading, where your code is graded against specific style and structure guidelines. Personally, I have not gotten a lot out of the class, especially in time/learning ratio. Although, some of that is because I had already learned some of the material in other classes, such as Compilers (483). I know many students who say it was one of the best classes they took though.  If you haven't already, check out http://shoulditake381.com/.  
+
+388 is a very enjoyable class. You will gain a very broad understanding of many security concepts. Alex Halderman was one of my favorite lecturers and the projects were all very enjoyable and took a reasonable amount of time (7-12 hours). 388 used to be Intro to Crypto, it is now Intro to Computer Security. The first project is crypto, but after that you will learn application security, web security, and digital forensics.  475 will focusly solely on the cryptography aspects.
+
+I would not recommend taking these 3 classes together. In fact, I would *strongly* advise against it. All 3 are mostly project based, and, with a 381 project due every 2 weeks, those dates will often overlap heavily. 381 and either 370 or 388 with just one other class will be a challenging semester. I would recommend taking 388, 370, and 376. That would definitely be a reasonably do-able (though not easy) semester with your language class. Basically, I would not take more than 2 project-heavy EECS classes in a semester.
+
+Hope this helps, I've taken a lot of the other EECS classes here, and can probably answer any questions you might have.  
+
+Personal recommendations to consider outside of the ones you mentioned would be:
+
+467 - Autonomous Robotics. You get spend a semester learning and applying robotics algorithms, and have a very open-ended final project. One of the most unique EECS classes I've taken. I don't know if Olson teaches it anymore, but he is a great professor.
+
+482 - Operating Systems. You get to learn the core features of an OS: Thread management, process management, web sockets, etc. Also the only undergrad class that I'm aware of that teaches you multithreaded concepts, which is very useful in industry. I would highly recommend taking this class when Peter Chen teaches it as he is perhaps the best lecturer in the EECS program.  
+I'm pretty sure you need to take 370 before 381 or operating systems anyway. Neither 370 or 376 are as much work as 281, they just represent a different approach to things that maybe you aren't quite used to yet. Depending on how many semesters you've got planned ahead of you, it might not be a bad idea to take an upper level class + 370 or 376 for the next two semesters (like maybe 370 + 388 then 376 + 381?). That should probably space out some of the seriously grueling work. 
+Do *NOT* take 376 next semester. Don't do it. The professor teaching the class is notoriously awful and you will absolutely hate it. 
+
+I'd advise going 388+370 + your language class + something lightish. Maybe linear or stats if you still need either. If you do take 388 with 370, your tuesdays and thursdays will kinda suck though, and I think they both have friday discussions. Just things to keep in mind. I do concur about 381. I have friends who have taken it and all they do is work on the projects or read the readings. If you take it, you should probably take a 12 credit semester with no other eecs classes.
+
+Halderman is a boss, take 388. 
+381 is a HUGE workload.  From my understanding (haven't taken it myself, may or may not end up taking it), each of the projects is about as time-intensive as the 281 projects, but due every 2 weeks instead of every month.  In addition, the grade you receive on the autograder is 30% of your final grade - the other 70% is hand-graded coding style.  But, the people I know who've taken it say that it ends up being a really useful class and teaches you a lot about how to properly write code, rather than throwing something together for a 281 project.
+
+388 is more computer security than cryptography.  475 is completely cryptography, although you do discuss a lot about how cryptography is implemented and what some of its weaknesses are.  Basically, 388 is completely applied, while 475 is a mix between applied and theoretical.  The final project for 475 is to implement a cryptosystem and try to crack other people's cryptosystems, which is actually really fun.  Both are really useful and interesting - I'd recommend taking both if you're interested in security.  
+Read the syllabus for 381 and tell me if you still want to take it:
+
+http://www.umich.edu/~eecs381/admin/syllabus.pdf
+I would highly recommend taking 482. It has a relatively intense workload, so I wouldn't do it with 2 other EECS courses unless you really need to. Although, since you haven't taken 370 yet, you probably should take it before 482.
+
+I don't know your status on general reqs, so I can't comment on a Math/Phys/Chem/TC/Stats/HU/SS class, but you should probably take one.
+
+Since you're CS, you have to take 376 as well, so you may as well get it out of the way early. 
+
+
+That would mean for next semester: 370, 376, Lang, and a Math/Phys/Chem/TC/Stats/HU/SS. After that, 482.
+Took 388 with Halderman -- best EECS class I've taken.
+I don't think it would be possible to pass all those classes if taken together, unless you've got a history of taking 2 semester's worth of classes at once :-P
+
+482 is a beast of a class. Most people arrange their semester so that it can be their primary focus. I know a lot of people who took 482 with 376. That's a good combo because 376 doesn't have big projects. 
+
+388 is a really fun class! I'd recommend not taking it with 482 so that you've got time to enjoy it. Also, the nature the projects for both classes make it hard to impossible to catch on projects of you start late, largely because you'll never be able to get help. Whoever they have teaching it will be great I'm sure, but if you can hold out for Alex Halderman, he's worth it. (I'm graduated so I'm not familiar with the schedule and who's teaching what).
+
+I didn't take 475 so I can't comment on it. 376 is basically a math class unless it's way different then when I took it.
+
+Lecture attendance is crucial for both 482 and 388, as lectures are really the only way to access the material.
+I've taken 475 (with Compton) but not 388. 475 covers cryptographic theory, so there will be a significant amount of math involved. I remember spending at least 2 weeks on a crash course in abstract algebra (groups, rings, and fields) before covering how RSA and ECC are constructed based on various algebraic structures. You'll get a pretty good idea of the mathematical logic behind why cryptography works overall. In addition to the asymmetric cryptography, the class also covers symmetric cryptography, cryptographic hashing, and random number generation. There was a project where we implemented an elliptic curve cryptosystem.
+
+From what I've heard about 388, you'll probably spend 1 week maybe 2 on cryptographic theory, and then it's a lot of actual computer vulnerability and exploit analysis. Not focused so much on theory as applications. I don't think 475 and 388 actually overlap very much at all.
+
+On the whole, probably not a great idea to take all 4 of those classes together unless you literally have nothing else going on in your life. 482 has a very heavy workload, 376 and 475 are both math heavy, and if you're not great at algebra (the advanced, abstract variety), homeworks will take quite some time, and 388 has regular projects to work on as well.
+217 kicked my butt, but I had 0 proof experience and really didn’t try, so if you put some effort in you should be fine.
+For 465, no. For 475, yes. That said, 475 is way easier than 465.
+Take 217. You will learn the most from 217.
+I would highly recommend 217. I came in with no prior proof experience but I'm still doing fine and I really enjoy the class. The workload is a lot, but it's not unmanageable. I would also suggest registering for math 201 alongside 217.
+Neither of them require the linear algebra content from 214 or 217, but they do require experience in proofs, which you wouldn't have gotten from EECS 203.
+You missed a 75 point assignment, you consider office hours to be "sucking up" and you're bitching on Reddit about your grade.  Nice.
+[deleted]
+I had Soloway for my senior design course and loved him.  I don't understand why they have him teaching EECS 183 given his background, but he was the most generous grader I had for 'real' courses at Michigan, and the class was uniquely similar to software engineering positions.
+
+While you might have an argument to a slightly higher grade, your problems as described feels mostly self inflicted.  When you have five assignments total, you can't afford to miss one of them and expect a good grade - if anything, I'd think you would have been hit far worse with most other professors.
+
+Complain further up the chain if you really want to pursue it.
+You skipped a 496 assignment and didn't bother to sign up to do a presentation to cover for it? That's on you, not Soloway. And as for how he graded the assignments, I definitely know people got 70s or 100s on certain ones.
+
+For reference, I got an 85 on all the assignments (save for the "75/75" on the questionnaire, and didn't do the business plan), did a presentation, and got an A-. I'm content with it. 
+Hey man, it'll all be OK. I got something for you:
+
+http://imgur.com/PUFcekB
+why not try hard instead of whining about how unfair he is. 
+The one you have the strongest interest in 

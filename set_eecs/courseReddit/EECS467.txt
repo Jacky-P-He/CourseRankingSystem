@@ -1,0 +1,6 @@
+367 has a pretty light workload relative to the other EECS class I've taken. There's just not all that much programming that you have to do -- it's much more concept heavy (and there's a decent amount of math). It's also a flipped classroom model, so you can get a lot of instructor help on the projects. The projects are interesting, but they're all run in simulators in your browser (no physical robots), so if you don't know any JavaScript, there's a bit of a learning curve (but it's not too bad).
+Been a bit since I've graduated ('18) but 467 had a wild workload. The material wasn't necessarily incomprehensible, but there was a lot to learn in a short amount of time. Also, some of the projects required a ton of time to complete - there were ~20 people in my class and like 12 people pulled an all-nighter in the robot lab before project 2. Most of my group stayed all night in the lab for that project and our robot was still a bit fucked up when demonstration time rolled around.
+
+They may have made it easier in recent times, though.
+Long story short: rip
+The one you have the strongest interest in 

@@ -1,0 +1,105 @@
+I took EECS 200 in winter 2020, so the class has probably changed a bit because of COVID, but if you have the appropriate pre reqs, you should be fine.
+
+I took it my first semester here and had very little EE knowledge before that class. I will say if you haven’t taken, or aren’t currently taking EECS 215, then at least having physics 2 beforehand would be helpful. The class is mostly about the design process and it’s all lab focused. Everything was basically given to you when I took the class and you just had to figure out the best way to implement everything. There was quite a bit of programming involved, so definitely recommend having some experience with that. 
+
+Honestly without knowing your class background it’s hard to know if you’ll be okay or not. I would say it’s not a hard class and it’s a great way to start learning about embedded systems but not necessarily EE itself.
+Isn’t 215 an enforced prereq to 216?
+Ive never taken an eecs class but ima say fuck that
+Can't take 216 without 215
+i would say it’s a bad idea to do more than 2 eecs classes at once if there’s another option
+I think 215 is required for 216 which is good because this schedule will either kill you or your life
+I am doing EECS 215, 280, and 200, along with measily math. The hardest class I am taking is my math class. EECS 215 exam and hw policy is very generous and the class is well aimed at getting you to learn. EECS 280 will take a lot more time that expected, but is generally well suited to get you to the end goal with a pass. 200 is fun, but the instructors can be a bit funky
+I'd recommend adding 301 and tech-comm and splitting over 2 semesters, that's what I did last year and also took 203 (EE/CE double major). Assuming from 230 that you're EE I'd say take 200, 215, 280, and tech comm 300 one semester, then 216 301 and 230 the following semester. Those two schedules and something else small added to get to full-time enrollment would be challenging but doable, and allow you to start focusing on your upper level EE electives after.
+Yo ur missing EECS 203
+I don't think you can do that and even if you can, you definitely shouldn't 
+
+I'm debating whether or not 2 physics classes is too much... That many eecs classes would drive anyone off the deep end
+didn't take 200 or 230, but 215 and 280 along with one of those two is probably doable. I did 281 and 215 together with 7 credits of lighter classes (stats and econ) and it wasn't too bad of workload. Even if u could do 216 with those I wouldn't advise it, the hw in that class can be really time consuming
+Why?
+As someone currently taking EECS 201,203,215, and 270 it’s definitely an experience. I think you’re better off limiting it to two EECS classes per semester.
+Totally depends on how well you did in the other classes you’ve taken. If you’ve felt confident in EECS classes up until this point and found them straightforward then you can definitely take 3 or more EECS classes.
+
+I’m currently in 5 EECS classes and it’s a lot of work, but it’s definitely possible if that’s what you want to do.
+The new program still requires a solid state course, you just have about 4 or 5 courses to choose from to satisfy this requirement (320 being one of them). I know someone who took 200 last semester as a flex tech elective and he said he didn't find it that useful
+For me I feel like it's more useful to take another higher level elective, than design courses. I might be wrong, but I'm going with the older one.
+Can’t you just take EECS 320 as an upper level elective? I guess you should be asking yourself if you really want to take the design courses
+Just trying to revitalize this thread. I am in a similar situation as the OP. Any other people that have taken eecs 200 or 300 that want to give their opinion? Also, OP have you heard from anyone in person about eecs 200 and eecs 300? I am basically choosing between eecs 334 or eecs 270 (an upper level elective) and eecs 200/300, as I will also be taking eecs 320 with either the old or new program.
+I can't aid you from the EE perceptive, but I am currently balancing Math 216 with 2 other engineering courses and my 300 level humanities
+
+I've taking all of the calcs at Umich, and this is by far (in my opinion) the most poorly run of all the core math classes. Physics 140 and Math 215 were both easier than this class.
+
+You're not alone, and this class is, from what I've seen/experienced by far the worst
+I remember being on the 216 copium. You tell yourself you're gonna do better on the final but the final has a lower average than the midterm in most years.
+The math from MATH 216 showed up in EECS 216. Idk who’s teaching EECS 216 nowadays, but when I took it with Finelli, Winnick still wrote most of the hw and exams and it was hard. 
+
+If you go down the signals and systems route you’ll be doing math/eecs 216 stuff for the rest of your degree. The circuits and semiconductor classes are conceptually different, but not as math intensive.
+
+Correction: some diff eq concepts still showed up in my circuits classes, but more as a derivation or “fact” than how a math class would approach it.
+I know soooo many people who bombed math 216. Don’t worry about your future prospects based on this one class. If you fail it this semester go take it at a community college over the summer and you’ll be right on track
+You should be fine. Out of the required classes only EECS 216 really uses DE. EECS 215 uses DE for like 1 week about 8 weeks in, and it's not really notable / the math from Math 216 isn't really useful there. EECS 230, 280, 301 don't use the math of Math 216. I can't speak for 200/300 but from what I have seen, 200/300 don't either.
+
+In terms of comparison between classes, EECS 216 is the one worth noting as it is challenging & mathematical for EE. The rest of the classes in EE shouldn't be as bad - but it depends person to person. 
+
+I have met a few people that have had difficulty with Math 216 if that makes you feel any better. It is a tough class. Sorry to hear about your exam score, hope you persevere & reflect on improvement over break.
+I was a BME, not EE, so our experiences will be different, but will say there is a fundamental disparity between 100- and 200-level "weeder"' courses and upper-level engineering courses. 
+
+Your experience in math 216 is similar to mine in math 215 and physics 240. I did poorly in those classes and was terrified that when I actually started the "real" upper level engineering classes that i wouldn't be able to keep up. But it wasn't the case in the end.
+
+In my experience, the pre-req courses are difficult because you have a barrage of difficult problem sets and exams that seem like they could cover more material than you have space in your brain for. You're in large lecture halls being taught by professors that don't want to be bothered with these low-level courses and not enouhh GSIs to meaningfully help the amount of struggling students they have to serve. 
+
+
+But for me, the 300- and 400-levels were difficult because they covered more complex topics in the first place, and the coursework was comparatively simpler. That's not to say it's easy, but the focus is more on communicating high-level ideas and not on drowning students in dozens of hours of derivations and proofs that they'll never remember after the semester. There are smaller classes, so the student to instructor ratio is more favorable, and the professors generally care more about these topics and aren't just in a rush to get the lecture over with. They can still be brutally difficult but in a way that feels more fair and accessible than 200-level math courses ever did.
+
+I fared far better in the upper-level courses compared to the pre-req ones and ended up graduating with honors. My advice, get real comfortable with Kahn Academy and similar external instruction sources and really really make a point to go to office hours if something doesn't make sense to you. You aren't the first engineer to absolutely bomb a test and you won't be the last. Take a breather and re-focus and know that the nature of your classes will change before too long.
+Every math class I’ve taken here has been infinitely harder than every EECS class I’ve taken.
+I’m a junior in EE and also took math 216 second semester sophomore year. It gets better. The 200 level classes you have to take are the worst it gets. Keep going and take it one assignment at a time
+EE '20 alumn here.
+
+**Good news** \- I remember getting < 40% on the Math 216 final and below-average scores on the other midterms and still passing with a B. Believe me, they curve like crazy in that course.
+
+**Bad news** \- Math 216 was probably one of the easier courses compared to EE major courses. EECS 216, EECS 301, EECS 311, and EECS 413 (just to name a few) were all much, much, much more difficult. Their weekly PSETs sometimes took over 10 hours.
+
+**Okay news** \- You'll grow and learn in college, and you'll learn to be satisfied with lower grades (compared to high school). Also, there's absolutely no shame in graduating after an extra year or taking fewer credits per semester. After passing the rudimentary courses, you'll genuinely want to chug on and you will (most likely) graduate and look back with a smile :)
+
+EDIT: Forgot to mention, I graduated in 3.5 years (with another STEM minor) despite doing god-awful in most of the intro math and physics course exams.
+Looking at your current position you can probably do both.
+288 and 200 should be fine. i might opt for aero 201 and 200 though. 205 is heavy work commitment, but doable.
+I think you should just stick it out, personally. But at the end of the day, you decide what your interests are.
+215 in semesters past used to be a traditional lecture which I really liked because 215 covers lots of fundamental material that is useful for upper level courses. The labs were definitely stressful and long, but understanding the material covered in class will definitely help you get through it easier. If you are not interested in areas of EE outside of computers then you should switch out. Basically if you prefer debugging code instead of debugging breadboard/analog circuits then you should switch. Both CS and CE are great majors for getting into hardware. If you want to do digital circuit design then you should go for CE, for anything else, it’s your call. CS and CE are basically to same for hardware just pick your poison between 216 and 376. I got old 215 annotated lecture slides if you need them. You got this!
+I feel you with 215. It’s definitely my hardest class and I’m taking 376 and 281 at the same time.
+I have the same problem, Im a senior have poor study habits.    EE is the hardest degree. I don't recommend trowing to coast through it. Be serious about fixing those habits. There is nothing like spending 16 hours on a cad assignment once a week. Also learn Linux, best to learn before you need it for a class
+It is definitely not everyone but also not uncommon to take 200-300 levels as a freshman. The course numbers do not always correspond to their difficulty. I took an easy 300-level my first semester and it was, well, easy. 
+
+Math 217 does hit different tho. You should be prepared to dedicate significant amounts of time to it. Also FYI, Linalg has next to zero overlap with Calc BC contents.
+[deleted]
+you should just keep your current schedule, adding 217 will give you a pretty miserable workload
+I took 217 second semester freshman year. It is... a lot of work, but I thought it was a very fun class (math major tho so my opinion is biased, I guess). It is a trip, especially if it is your first exposure to abstract math.
+
+You will make friends in 217 if you make study groups (which you should do)! If you decide to take 217, I highly recommend taking the 1-credit course math 201 alongside it
+I took math 217 my first semester. It’s a hard class, but the instructors provide lots of help to make it doable (free weekly homework tutors, office hours, etc.). If you got a 5 on Calc BC and like math you should take it! If you’re nervous consider learning some of the content beforehand. 3blue1brown is a YouTube channel that has a good series on Linear Algebra, and you can always take a look at the textbook ahead of time.
+just so you know- phil 183 deals with statistics concepts. first half of course is decently easy but it definitely gets tougher in the second half.
+A class that is listed as ending at 12:00 really gets out at 11:50.  So you have 10 minute to walk from Beyster to EECS.  If you hustle the walk will take you about 2 min max.
+Depends on the class but most EECS classes allow you to go to whatever section of lecture/lab you want, so just pick whatever times work for you.
+
+Also what the other commenter said; classes that end at 12:00 end at 11:50, and BBB->EECS is a 2 minute indoor walk.
+To address your last few questions:
+
+If you're an experienced programmer, you can actually take a diagnostic to get into EECS 280 as a first term freshman. To do so, you need to email the EECS department. I'd double check with your advisor on this one, but I know people who did this. Also, if you have the math credits, you can also register for EECS 203, which, if you can also get into 280 at the for fall, sets you way far ahead of most CS freshmen. Lastly, EECS 285 is just an extra fun class that doesn't really count for anything besides learning an extra language (Java for F18). So it shouldn't be your main backup. If you really can't get into any CS related courses, I'd recommend taking some of the LSA reqs (like humanities, social sci, etc), and squeeze in 285 if you have too few credits.
+
+And no, LSA kids can't take ENGR 101. Plus, even if you could, I actually think 183 prepares you for 280 a lot better than 101. 
+From my experience, it wasn't too bad, I think only one of the 4 classes I wanted to take were full (the replacement one I took was still awesome) but they were really different kinds of classes and I was a transfer so it was probably later than yours will be.
+
+I hope it all works out, but I totally recommend having lots of backups!  
+Back in the day it was but I’ve been gone a while. 
+
+My first semester I had terrible schedule due to late orientation. It got better from there
+Depending on how close you are to fulfilling the distribution requirements of the two schools, your best option would probably be to transfer to LSA. 
+
+“Double major” = completing two majors within the same school/college. You only have to complete that schools distribution requirements. You only get one diploma I believe. 
+
+“Dual degree” = completing two separate majors in two diff schools (like LSA and CoE). Have to complete both schools distribution requiremts, and you get two diplomas. 
+It's prob gonna be pretty hard to add the major unless you have a lot of the LSA distributions already down. Since CogSci is in LSA, you need to satisfy both school's requirements, though there is some overlap you can do such as chem and physics counting towards LSA NS. You should also be able to get the FYWR exempt, but if you don't have foreign language thats at least another 16 credits right there.   
+
+You can also only have 3 classes or 12 credits overlap between the 2 majors core classes, which could be 281, 376, and 445 for you.  
+
+For some reason, I'm attempting this as well so feel free to ask additional questions, I came in with a decent amount of credits but I'm still looking at a 9th semester.
