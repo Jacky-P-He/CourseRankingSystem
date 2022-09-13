@@ -73,18 +73,30 @@ I started learning coding with a few high school friends around the same time. O
 
 Also something I wrote a while back for freshman re: imposter syndrome. 
 
->You probably will have to change your study habits; stick to doing your own thing  
-  
-1, If you sailed through HS, don't just think you will be free of struggle at UMich.  
-  
-If you managed well by yourself in HS, know that asking for help is a great idea.  
-  
-If you did alright on tests by studying a day or two ahead in HS, that probably shouldn't be the play anymore.  
-  
-\+many more seemingly cliche stuff along those lines  
-  
-These things don't happen because you are dumber somehow, it's because UMich is genuinely hard (some first-year classes especially so).  
-  
+>You probably will have to change your study habits; stick to doing your own thing
+  
+
+  
+1, If you sailed through HS, don't just think you will be free of struggle at UMich.
+  
+
+  
+If you managed well by yourself in HS, know that asking for help is a great idea.
+  
+
+  
+If you did alright on tests by studying a day or two ahead in HS, that probably shouldn't be the play anymore.
+  
+
+  
+\+many more seemingly cliche stuff along those lines
+  
+
+  
+These things don't happen because you are dumber somehow, it's because UMich is genuinely hard (some first-year classes especially so).
+  
+
+  
 My HS teachers said many things along the line of "Uni is where you learn to learn" and those are true words. Figuring out how you study well is 10x more useful than any single class.
 My first CS course was engineering 101. My next was 280, and now I am a junior majoring in CS. You will be fine. 183 will be great preparation for 280, and the fact that you are showing concern for the subject means you will do well in future classes. Just work hard and you will be fine. Good luck and enjoy it!
 Going out on a whim and saying if you’re having problems with conditionals and looping you probably didn’t study programming much in HS? If so, then you’re gonna be behind for just this class and maybe part of 280 before being caught right up. Most students have some kind of exposure to the intro material. Once you write your 1000th loop you’ll be fine, but the beginning is always weird. Even just going from Java to C++ can be weird for a while. You’ll be fine.
