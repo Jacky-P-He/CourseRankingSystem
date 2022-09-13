@@ -1,0 +1,12 @@
+If a class is cross listed it doesn’t matter what you register for it as, it will automatically count for both when they do your audit (you’ll be in front of an advisor while doing your major release and can tell them how you want things to count).  Biggest thing is you can only double-count one class between a major and minor so you should plan ahead on what you want to double-count.
+At the Stamps school (art school) you can double dip for major,minor and required credits. Not sure how it works for other parts of umich. 
+
+You can’t change a class once you’ve taken it, you would have to drop and re-enroll either before or during(friend in engineering had to do this for a class might be different in your major but I don’t think so)
+I was able to double count as many classes as I wanted in CoE.  As mentioned above, math minor counted for all flex techs in my CS major.
+So my data might be really outdated, but I think it's worth checking with your advisor. 
+
+I took math 425 (abroad in australia) and wanted to use it toward my EE major, CS major, and math minor. I ended up having to get a special override for EE, because I think they stopped accepting that crossover.
+
+I don't think I had any other restrictions limiting amount of crossover classes. There was a ton of double counting in the two majors, and the minor only needed a couple extra courses over the major requirements IIRC. 
+
+All that said, I graduated almost a decade ago, so it's worth checking with an advisor. (I'd probably go to your data science major advisor)
